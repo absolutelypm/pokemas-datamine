@@ -1,0 +1,183 @@
+
+Event: Pasio Festival of Masks
+Trainer: Juliana & Chimecho (Female♀️)
+Areas appearing this time
+Spot: Entrance - Always Appears
+Total Quest: 10
+1. Train with Giacomo (Very Hard) (10%)
+2. Train with Ortega (Very Hard) (10%)
+3. Fantina’s Lesson (Super Hard) (10%)
+4. Volkner’s Lesson (Super Hard) (10%)
+5. The Original Trio (Ultra Hard) (5%)
+6. A Reward from Professor Kukui (Hard) (Total 4 Quests) (20%)
+7. Practice with an Ace Trainer 1 (Hard) (10%)
+8. Practice with an Ace Trainer 2 (Hard) (10%)
+9. Practice with a Poké Kid (Hard) (10%)
+10. Challenge Florian: Part 1 (Hard) (5%)
+
+Courtyard - Always Appears
+Total Quest: 24
+1. Train with Elaine (Very Hard) (5.93% ▼)
+2. Train with Penny (Very Hard) (5.93% ▼)
+3. Erika’s Lesson (Super Hard) (5.93% ▼)
+4. Milo’s Lesson (Super Hard) (5.93% ▼)
+5. Chatelaine Campaign 1 (Hard) (❗ Connect Quest) (5.93% ▼)
+6. A Reward from Director Clavell (Hard) (Total 4 Quests) (11.87% ▼)
+7. Practice with a Youngster (Hard) (5.93% ▼)
+8. Practice with a Rising Star (Hard) (5.93% ▼)
+9. A Present from Ball Guy (1.78% ▼)
+10. Heads or Tails? (2.97% ▼)
+11. Brock’s Rock Smash Training (2.97% ▼)
+12. Whosawhat’s My Next Video? (2.97% ▼)
+13. Lance’s Training Ground (2.97% ▼)
+14. What’s Your Favorite Curry? (2.97% ▼)
+15. N’s Question (1.78% ▼)
+16. Professor Sycamore’s Question (1.78% ▼)
+17. Professor Oak’s Pokémon Lecture (2.08% ▲)
+18. Blue’s Special Training! (3.56% ▲)
+19. Break Time Interaction 1 (2.97% ▼)
+20. Break Time Interaction 2 (2.97% ▼)
+21. Break Time Interaction 3 (2.97% ▼)
+22. Break Time Interaction 4 (2.97% ▼)
+23. A Fine Fit for Festival Clothes (5.93% ▼)
+24. Challenge Florian: Part 2 (Very Hard) (2.97% ▼)
+Note:
+▲ These quests gain rate on every later attempt, by around 7.01% ~ 9.51% per attempt on average.
+As they gain, the other quests in this area lose around 0.31% ~ 2.08% per attempt on average.
+
+Large Lecture Hall - 12.5% | Cafeteria - 12.5% (Total: 25%)
+Total Quest: 10
+1. Train with Rei (Very Hard) (11.76%)
+2. Train with Bede (Very Hard) (11.76%)
+3. Norman’s Lesson (Super Hard) (11.76%)
+4. Elesa’s Lesson (Super Hard) (11.76%)
+5. Battle Nemona! 1 (Hard) (❗ Connect Quest) (11.76%)
+6. Geeta’s Special Lesson (Ultra Hard) (5.88%)
+7. Three Friends from Kalos (Super Hard) (11.76%)
+8. Practice with a Lass (Hard) (11.76%)
+9. An Educational Talk (5.88%)
+10. Challenge Florian: Part 3 (Super Hard) (5.88%)
+Total Quest: 11
+1. Train with Serena (Very Hard) (12.5%)
+2. Train with Arven (Very Hard) (12.5%)
+3. Nessa’s Lesson (Super Hard) (12.5%)
+4. Siebold’s Lesson (Super Hard) (12.5%)
+5. Cynthia’s Special Lesson (Ultra Hard) (6.25%)
+6. Triple Trouble! (Super Hard) (12.5%)
+7. Practice with a Beauty (Hard) (12.5%)
+8. A Lady’s Preference for Elegance (6.25%)
+9. Train with Arven (Normal)
+10. Challenge Carmine: Part 1 (Hard) (6.25%)
+11. Challenge Carmine: Part 4 (Ultra Hard) (6.25%)
+
+Rooftop - 12.5% | Hallway - 12.5% (Total: 25%)
+Total Quest: 11
+1. Train with Silver (Very Hard) (10.53%)
+2. Train with Atticus (Very Hard) (10.53%)
+3. Skyla’s Lesson (Super Hard) (10.53%)
+4. Winona’s Lesson (Super Hard) (10.53%)
+5. Team Rocket Infiltration! 1 (Hard) (❗ Connect Quest) (10.53%)
+6. Alder’s Special Lesson (Ultra Hard) (5.26%)
+7. Pasio Special Concert! (Super Hard) (10.53%)
+8. Practice with a Punk Girl (Hard) (10.53%)
+9. Stretched Too Far... (5.26%)
+10. Rooftop Reasons (10.53%)
+11. Challenge Florian: Part 4 (Ultra Hard) (5.26%)
+Total Quest: 8
+1. Practice with a Scientist (Hard) (12.5%)
+2. Practice with a Poké Kid (Hard) (12.5%)
+3. Train with Florian (Very Hard) (12.5%)
+4. Train with Juliana (Very Hard) (12.5%)
+5. Grusha’s Lesson (Super Hard) (12.5%)
+6. Candice’s Lesson (Super Hard) (12.5%)
+7. Rivals from Galar (Ultra Hard) (12.5%)
+8. Steven’s Special Lesson (Ultra Hard) (12.5%)
+
+Science Room - 12.5%
+Total Quest: 4
+1. Train with May (Very Hard) (25%)
+2. Oleana’s Lesson (Super Hard) (25%)
+3. Colress’s Training? (Ultra Hard) (25%)
+4. Samson’s Impromptu Check (Ultra Hard) (25%)
+
+Library - 12.5%
+Total Quest: 11
+1. Train with Kris (Very Hard) (10.53%)
+2. Train with Calem (Very Hard) (10.53%)
+3. Cheren’s Lesson (Super Hard) (10.53%)
+4. Blaine’s Lesson (Super Hard) (10.53%)
+5. Lost Leon 1 (Hard) (❗ Connect Quest) (10.53%)
+6. Iris’s Special Lesson (Ultra Hard) (5.26%)
+7. Professor Sycamore’s Elite Team (Super Hard) (10.53%)
+8. Practice with a Hex Maniac (Hard) (10.53%)
+9. Crack Open a Book! (5.26%)
+10. I Want to Learn More! (10.53%)
+11. Challenge Carmine: Part 3 (Super Hard) (5.26%)
+
+Schoolyard - 12.5% | Outside School - 12.5% (Total: 25%)
+Total Quest: 10
+1. Train with Nate (Very Hard) (11.11%)
+2. Train with Eri (Very Hard) (11.11%)
+3. Korrina’s Lesson (Super Hard) (11.11%)
+4. Kabu’s Lesson (Super Hard) (11.11%)
+5. Wally’s Training 1 (Hard) (❗ Connect Quest) (11.11%)
+6. Ingo and Emmet’s Two-Car Train (Super Hard) (11.11%)
+7. Practice with a Pokémon Ranger (Hard) (11.11%)
+8. Pre-class Preparations...? (5.56%)
+9. Wingbeat of Shining Moments (11.11%)
+10. Challenge Carmine: Part 2 (Very Hard) (5.56%)
+Total Quest: 9
+1. A Chance Encounter?! (Super Hard) (11.11%)
+2. Team Skull Boss and Bodyguard (Super Hard) (11.11%)
+3. Let’s Go to the Mountains! (Super Hard) (11.11%)
+4. Let’s Go to the Beach! (Super Hard) (11.11%)
+5. A Reward from Lear (Super Hard) (11.11%)
+6. Practice with a Sightseer (Hard) (11.11%)
+7. Practice with a Camper (Hard) (11.11%)
+8. Practice with a Black Belt (Hard) (11.11%)
+9. Practice with a Swimmer (Hard) (11.11%)
+
+Midterm Exam
+Total Quest: 3
+1. Koga’s Midterm Exam! Beginner (Hard)
+2. Koga’s Midterm Exam! Intermediate (Very Hard)
+3. Koga’s Midterm Exam! Advanced (Super Hard)
+
+Final Exam
+Total Quest: 5
+1. Marshal’s Final Exam! Beginner (Hard)
+2. Marshal’s Final Exam! Intermediate (Very Hard)
+3. Marshal’s Final Exam! Advanced (Super Hard)
+4. Marshal’s Final Exam! Super (Ultra Hard)
+5. Marshal’s Final Exam! Supreme (Ultra Hard)
+
+Epilogue
+Total Quest: 2
+1. Challenge Pasio’s Trainers: Part 1
+2. Jinbei-Clad Carmine’s Goal
+
+Other Quest
+Group Connect 1
+Chatelaine Campaign 2 (Very Hard) (63.83%), Remaining area: 36.17% | Spot: Large Lecture Hall
+Chatelaine Campaign 3 (Super Hard) (65.22%), Remaining area: 34.78% | Spot: Cafeteria
+Chatelaine Campaign 4 (Super Hard) (62.5%), Remaining area: 37.5% | Spot: Schoolyard
+-
+Group Connect 2
+Wally’s Training 2 (Very Hard) (65.22%), Remaining area: 34.78% | Spot: Schoolyard
+Wally’s Training 3 (Super Hard) (65.22%), Remaining area: 34.78% | Spot: Schoolyard
+-
+Group Connect 3
+Battle Nemona! 2 (Very Hard) (66.67%), Remaining area: 33.33% | Spot: Large Lecture Hall
+Battle Nemona! 3 (Super Hard) (66.67%), Remaining area: 33.33% | Spot: Large Lecture Hall
+-
+Group Connect 4
+Team Rocket Infiltration! 2 (Very Hard) (63.83%), Remaining area: 36.17% | Spot: Rooftop
+Team Rocket Infiltration! 3 (Super Hard) (63.83%), Remaining area: 36.17% | Spot: Rooftop
+-
+Group Connect 5
+Lost Leon 2 (Very Hard) (22.88% ▼), Remaining area: 77.12% | Spot: Courtyard
+Lost Leon 3 (Super Hard) (63.83%), Remaining area: 36.17% | Spot: Large Lecture Hall
+
+-----------------
+Note: each rate shown is for the first attempt. ▼ means the rate shrinks every attempt, ▲ means it grows every attempt, no mark means it never changes. The change is uneven: later attempts move less.
+These probabilities are for reference only, so some parts may be inaccurate. Until a better method is found, this is the current estimate.

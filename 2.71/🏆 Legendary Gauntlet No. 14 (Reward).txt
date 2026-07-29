@@ -1,0 +1,82 @@
+Legendary Gauntlet No. 14
+Win streak required per drop rate level:
+Win Streak 0 | Level 1
+Win Streak 1 | Level 2
+Win Streak 3 | Level 3
+Win Streak 6 | Level 4
+Win Streak 12+ | Level 5
+===========
+Rate Level
+
+🥠 3★ Deluxe Lucky Cookie x1
+Level 1 1%
+Level 2 3%
+Level 3 6%
+Level 4 10%
+Level 5 15%
+
+🥠 2★ Deluxe Lucky Cookie x1
+Level 1 10%
+Level 2 20%
+Level 3 30%
+Level 4 40%
+Level 5 50%
+
+🥠 1★ Deluxe Lucky Cookie x1
+Level 1 25%
+Level 2 50%
+Level 3 75%
+Level 4 100%
+Level 5 100%
+===========
+Win streak 1
+Item 1: 🥠 3★ Deluxe Lucky Cookie x1
+Item 2: 🎫 5★ Power-Up Ticket x20
+
+Win streak 2
+Item 1: 🥠 3★ Deluxe Lucky Cookie x2
+Item 2: 🪙🍬 Strike Move Candy Coin x1
+
+Featured Reward
+Win streak 3
+Item 1: 🥠 Guaranteed Lucky Cookie 3 x1
+Item 2: 🎫 5★ Power-Up Ticket x30
+Item 3:  Red Skill Feather x3
+
+Win streak 4
+Item 1: 🥠 3★ Deluxe Lucky Cookie x3
+Item 2: 🪙🍬 Tech Move Candy Coin x1
+
+Win streak 5
+Item 1: 🥠 3★ Deluxe Lucky Cookie x3
+Item 2: 🪙🍬 Support Move Candy Coin x1
+
+Featured Reward
+Win streak 6
+Item 1: 🥠 Guaranteed Lucky Cookie 3 x1
+Item 2: 🎫 5★ Power-Up Ticket x50
+Item 3:  Pink Skill Feather x3
+
+Win streak 7
+Item 1: 🥠 3★ Deluxe Lucky Cookie x4
+Item 2: 🪙🍬 Strike Move Candy Coin x1
+
+Win streak 8
+Item 1: 🥠 3★ Deluxe Lucky Cookie x4
+Item 2: 🪙🍬 Tech Move Candy Coin x1
+
+Win streak 9
+Item 1: 🥠 3★ Deluxe Lucky Cookie x4
+Item 2: 🪙🍬 Support Move Candy Coin x1
+
+Featured Reward
+Win streak 10
+Item 1: 🥠 Guaranteed Lucky Cookie 3 x1
+Item 2: 🪙🍬 Move Candy Coin x1
+Item 3:  Blue Skill Feather x3
+
+Win streak 11+
+Item 1: 🥠 3★ Deluxe Lucky Cookie x1
+Item 2: 🎫 5★ Power-Up Ticket x5
+Item 3:  Yellow Skill Feather x1
+

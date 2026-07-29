@@ -1,0 +1,3313 @@
+🔄 Circuits:
+  Circuit 1 | 10.000 pts | Regular Battle | 🔴 Poke Ball Tier
+  Circuit 2 | 35.000 pts | Regular Battle | 🔵 Great Ball Tier
+  Circuit 3 | 80.000 pts | Regular Battle | 🟡 Ultra Ball Tier
+  Extra Battle 1 | 100.000 pts | Extra Battles | 🟣 Master Ball Tier
+  Extra Battle 2 | 125.000 pts | Extra Battles | 🟣 Master Ball Tier
+  Extra Battle 3 | 150.000 pts | Extra Battles | 🟣 Master Ball Tier
+  Extra Battle 4 | 175.000 pts | Extra Battles | 🟣 Master Ball Tier
+  Extra Battle 5 | 200.000 pts | Extra Battles | 🟣 Master Ball Tier
+  Extra Battle 6 | 225.000 pts | Extra Battles | 🟣 Master Ball Tier
+  Extra Battle 7 | 260.000 pts | Extra Battles | 🟣 Master Ball Tier
+  Extra Battle 8 | 295.000 pts | Extra Battles | 🟣 Master Ball Tier
+  Extra Battle 9 | 330.000 pts | Extra Battles | 🟣 Master Ball Tier
+  Extra Battle 10 | 370.000 pts | Extra Battles | 🟣 Master Ball Tier
+  Extra Battle 11 | 410.000 pts | Extra Battles | 🟣 Master Ball Tier
+  Extra Battle 12 and onward | 450.000 pts | Extra Battles | 🟣 Master Ball Tier
+📢 Announce:
+   Start: 1/8/2026 06:00:00
+   End: 3/8/2026 06:00:00
+⚔️ Battle:
+   Start: 3/8/2026 06:00:00
+   End: 10/8/2026 06:00:00
+🏆 Ranking:
+   Start: 10/8/2026 06:00:00
+   End: 13/8/2026 06:00:00
+🎁 Reward:
+   Start: 13/8/2026 06:00:00
+   End: 20/8/2026 06:00:00
+
+🎫 Challenge Point Effect:
+  🎟️ Ticket x1 | ⏱️ 1:30 min | 🔄 Sync Buff +0
+  🎟️ Ticket x2 | ⏱️ 3:00 min | 🔄 Sync Buff +2
+  🎟️ Ticket x3 | ⏱️ 4:30 min | 🔄 Sync Buff +5
+
+👹 Gym Circuit:
+  📋 Circuit 1:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Ice | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+       [Left/Right] Weakness: Ice | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Electric | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+       [Left/Right] Weakness: Electric | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Fighting | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+       [Left/Right] Weakness: Fighting | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Dark | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+       [Left/Right] Weakness: Dark | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Fairy | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+       [Left/Right] Weakness: Fairy | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Fire | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+       [Left/Right] Weakness: Fire | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Steel | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+       [Left/Right] Weakness: Steel | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Dragon | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+       [Left/Right] Weakness: Dragon | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+
+  📋 Circuit 2:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Ice | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+       [Left/Right] Weakness: Ice | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Electric | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+       [Left/Right] Weakness: Electric | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Fighting | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+       [Left/Right] Weakness: Fighting | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Dark | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+       [Left/Right] Weakness: Dark | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Fairy | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+       [Left/Right] Weakness: Fairy | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Fire | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+       [Left/Right] Weakness: Fire | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Steel | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+       [Left/Right] Weakness: Steel | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Dragon | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+       [Left/Right] Weakness: Dragon | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+  📋 Circuit 3:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Ice | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+             Passive 3: Discombobulate 9
+       [Left/Right] Weakness: Ice | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Electric | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+             Passive 3: Defense Crush 9
+       [Left/Right] Weakness: Electric | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Defense Crush 9
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Fighting | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+       [Left/Right] Weakness: Fighting | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Dark | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+       [Left/Right] Weakness: Dark | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Fairy | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+             Passive 3: Fighting Zone: All Stats ↓ Immunity
+       [Left/Right] Weakness: Fairy | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Fighting Zone: All Stats ↓ Immunity
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Fire | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+             Passive 3: Defense ↑: Moves ↑ 3
+       [Left/Right] Weakness: Fire | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Defense ↑: Moves ↑ 3
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Steel | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+             Passive 3: Ice Zone: Attack Move DR 5
+       [Left/Right] Weakness: Steel | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Ice Zone: Attack Move DR 5
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: No rules
+       📊 [Center] Weakness: Dragon | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+             Passive 3: S-Move: Team Crit Next
+       [Left/Right] Weakness: Dragon | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+  📋 Extra Battle 1:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: Zero damage when unaffected
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       📊 [Center] Weakness: Ice | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+             Passive 3: Discombobulate 9
+       [Left/Right] Weakness: Ice | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: Zero physical damage
+          Rule: Opponents take zero damage from physical attacks.
+       📊 [Center] Weakness: Electric | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+             Passive 3: Defense Crush 9
+       [Left/Right] Weakness: Electric | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Defense Crush 9
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: Ally move gauge max -2
+          Rule: Reduces allies’ move gauge maximum by two.
+       📊 [Center] Weakness: Fighting | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+       [Left/Right] Weakness: Fighting | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: Zero damage when unaffected
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       📊 [Center] Weakness: Dark | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+       [Left/Right] Weakness: Dark | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: Zero physical damage
+          Rule: Opponents take zero damage from physical attacks.
+       📊 [Center] Weakness: Fairy | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+             Passive 3: Fighting Zone: All Stats ↓ Immunity
+       [Left/Right] Weakness: Fairy | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Fighting Zone: All Stats ↓ Immunity
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: Ally move gauge max -2
+          Rule: Reduces allies’ move gauge maximum by two.
+       📊 [Center] Weakness: Fire | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+             Passive 3: Defense ↑: Moves ↑ 3
+       [Left/Right] Weakness: Fire | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Defense ↑: Moves ↑ 3
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: Zero damage when unaffected
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       📊 [Center] Weakness: Steel | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+             Passive 3: Ice Zone: Attack Move DR 5
+       [Left/Right] Weakness: Steel | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Ice Zone: Attack Move DR 5
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: Zero physical damage
+          Rule: Opponents take zero damage from physical attacks.
+       📊 [Center] Weakness: Dragon | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+             Passive 3: S-Move: Team Crit Next
+       [Left/Right] Weakness: Dragon | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+  📋 Extra Battle 2:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: Zero physical damage
+          Rule: Opponents take zero damage from physical attacks.
+       📊 [Center] Weakness: Ice | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+             Passive 3: Discombobulate 9
+       [Left/Right] Weakness: Ice | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: Ally move gauge max -2
+          Rule: Reduces allies’ move gauge maximum by two.
+       📊 [Center] Weakness: Electric | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+             Passive 3: Defense Crush 9
+       [Left/Right] Weakness: Electric | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Defense Crush 9
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: Zero damage when unaffected
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       📊 [Center] Weakness: Fighting | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+       [Left/Right] Weakness: Fighting | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: Zero physical damage
+          Rule: Opponents take zero damage from physical attacks.
+       📊 [Center] Weakness: Dark | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+       [Left/Right] Weakness: Dark | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: Ally move gauge max -2
+          Rule: Reduces allies’ move gauge maximum by two.
+       📊 [Center] Weakness: Fairy | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+             Passive 3: Fighting Zone: All Stats ↓ Immunity
+       [Left/Right] Weakness: Fairy | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Fighting Zone: All Stats ↓ Immunity
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: Zero damage when unaffected
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       📊 [Center] Weakness: Fire | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+             Passive 3: Defense ↑: Moves ↑ 3
+       [Left/Right] Weakness: Fire | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Defense ↑: Moves ↑ 3
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: Zero physical damage
+          Rule: Opponents take zero damage from physical attacks.
+       📊 [Center] Weakness: Steel | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+             Passive 3: Ice Zone: Attack Move DR 5
+       [Left/Right] Weakness: Steel | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Ice Zone: Attack Move DR 5
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: Ally move gauge max -2
+          Rule: Reduces allies’ move gauge maximum by two.
+       📊 [Center] Weakness: Dragon | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+             Passive 3: S-Move: Team Crit Next
+       [Left/Right] Weakness: Dragon | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+  📋 Extra Battle 3:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: Ally move gauge max -2
+          Rule: Reduces allies’ move gauge maximum by two.
+       📊 [Center] Weakness: Ice | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+             Passive 3: Discombobulate 9
+       [Left/Right] Weakness: Ice | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: Zero damage when unaffected
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       📊 [Center] Weakness: Electric | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+             Passive 3: Defense Crush 9
+       [Left/Right] Weakness: Electric | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Defense Crush 9
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: Zero physical damage
+          Rule: Opponents take zero damage from physical attacks.
+       📊 [Center] Weakness: Fighting | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+       [Left/Right] Weakness: Fighting | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: Ally move gauge max -2
+          Rule: Reduces allies’ move gauge maximum by two.
+       📊 [Center] Weakness: Dark | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+       [Left/Right] Weakness: Dark | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: Zero damage when unaffected
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       📊 [Center] Weakness: Fairy | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+             Passive 3: Fighting Zone: All Stats ↓ Immunity
+       [Left/Right] Weakness: Fairy | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Fighting Zone: All Stats ↓ Immunity
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: Zero physical damage
+          Rule: Opponents take zero damage from physical attacks.
+       📊 [Center] Weakness: Fire | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+             Passive 3: Defense ↑: Moves ↑ 3
+       [Left/Right] Weakness: Fire | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Defense ↑: Moves ↑ 3
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: Ally move gauge max -2
+          Rule: Reduces allies’ move gauge maximum by two.
+       📊 [Center] Weakness: Steel | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+             Passive 3: Ice Zone: Attack Move DR 5
+       [Left/Right] Weakness: Steel | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Ice Zone: Attack Move DR 5
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: Zero damage when unaffected
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       📊 [Center] Weakness: Dragon | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+             Passive 3: S-Move: Team Crit Next
+       [Left/Right] Weakness: Dragon | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+  📋 Extra Battle 4:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Ice | HP: 17,962,560 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+             Passive 3: Discombobulate 9
+       [Left/Right] Weakness: Ice | HP: 8,981,280 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Electric | HP: 17,962,560 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+             Passive 3: Defense Crush 9
+       [Left/Right] Weakness: Electric | HP: 8,981,280 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Defense Crush 9
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fighting | HP: 17,962,560 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+       [Left/Right] Weakness: Fighting | HP: 8,981,280 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dark | HP: 17,962,560 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+       [Left/Right] Weakness: Dark | HP: 8,981,280 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fairy | HP: 17,962,560 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+             Passive 3: Fighting Zone: All Stats ↓ Immunity
+       [Left/Right] Weakness: Fairy | HP: 8,981,280 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Fighting Zone: All Stats ↓ Immunity
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fire | HP: 17,962,560 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+             Passive 3: Defense ↑: Moves ↑ 3
+       [Left/Right] Weakness: Fire | HP: 8,981,280 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Defense ↑: Moves ↑ 3
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Steel | HP: 17,962,560 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+             Passive 3: Ice Zone: Attack Move DR 5
+       [Left/Right] Weakness: Steel | HP: 8,981,280 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Ice Zone: Attack Move DR 5
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dragon | HP: 17,962,560 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+             Passive 3: S-Move: Team Crit Next
+       [Left/Right] Weakness: Dragon | HP: 8,981,280 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+  📋 Extra Battle 5:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Ice | HP: 22,176,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+             Passive 3: Discombobulate 9
+       [Left/Right] Weakness: Ice | HP: 11,088,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Electric | HP: 22,176,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+             Passive 3: Defense Crush 9
+       [Left/Right] Weakness: Electric | HP: 11,088,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Defense Crush 9
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fighting | HP: 22,176,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+       [Left/Right] Weakness: Fighting | HP: 11,088,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dark | HP: 22,176,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+       [Left/Right] Weakness: Dark | HP: 11,088,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fairy | HP: 22,176,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+             Passive 3: Fighting Zone: All Stats ↓ Immunity
+       [Left/Right] Weakness: Fairy | HP: 11,088,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Fighting Zone: All Stats ↓ Immunity
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fire | HP: 22,176,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+             Passive 3: Defense ↑: Moves ↑ 3
+       [Left/Right] Weakness: Fire | HP: 11,088,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Defense ↑: Moves ↑ 3
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Steel | HP: 22,176,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+             Passive 3: Ice Zone: Attack Move DR 5
+       [Left/Right] Weakness: Steel | HP: 11,088,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Ice Zone: Attack Move DR 5
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dragon | HP: 22,176,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+             Passive 3: S-Move: Team Crit Next
+       [Left/Right] Weakness: Dragon | HP: 11,088,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+  📋 Extra Battle 6:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Ice | HP: 26,832,960 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+             Passive 3: Discombobulate 9
+       [Left/Right] Weakness: Ice | HP: 13,416,480 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Electric | HP: 26,832,960 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+             Passive 3: Defense Crush 9
+       [Left/Right] Weakness: Electric | HP: 13,416,480 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Defense Crush 9
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fighting | HP: 26,832,960 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+       [Left/Right] Weakness: Fighting | HP: 13,416,480 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dark | HP: 26,832,960 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+       [Left/Right] Weakness: Dark | HP: 13,416,480 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fairy | HP: 26,832,960 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+             Passive 3: Fighting Zone: All Stats ↓ Immunity
+       [Left/Right] Weakness: Fairy | HP: 13,416,480 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Fighting Zone: All Stats ↓ Immunity
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fire | HP: 26,832,960 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+             Passive 3: Defense ↑: Moves ↑ 3
+       [Left/Right] Weakness: Fire | HP: 13,416,480 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Defense ↑: Moves ↑ 3
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Steel | HP: 26,832,960 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+             Passive 3: Ice Zone: Attack Move DR 5
+       [Left/Right] Weakness: Steel | HP: 13,416,480 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Ice Zone: Attack Move DR 5
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dragon | HP: 26,832,960 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+             Passive 3: S-Move: Team Crit Next
+       [Left/Right] Weakness: Dragon | HP: 13,416,480 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+  📋 Extra Battle 7:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Ice | HP: 31,933,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+             Passive 3: Discombobulate 9
+       [Left/Right] Weakness: Ice | HP: 15,966,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Electric | HP: 31,933,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+             Passive 3: Defense Crush 9
+       [Left/Right] Weakness: Electric | HP: 15,966,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Defense Crush 9
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fighting | HP: 31,933,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+       [Left/Right] Weakness: Fighting | HP: 15,966,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dark | HP: 31,933,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+       [Left/Right] Weakness: Dark | HP: 15,966,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fairy | HP: 31,933,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+             Passive 3: Fighting Zone: All Stats ↓ Immunity
+       [Left/Right] Weakness: Fairy | HP: 15,966,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Fighting Zone: All Stats ↓ Immunity
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fire | HP: 31,933,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+             Passive 3: Defense ↑: Moves ↑ 3
+       [Left/Right] Weakness: Fire | HP: 15,966,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Defense ↑: Moves ↑ 3
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Steel | HP: 31,933,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+             Passive 3: Ice Zone: Attack Move DR 5
+       [Left/Right] Weakness: Steel | HP: 15,966,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Ice Zone: Attack Move DR 5
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dragon | HP: 31,933,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+             Passive 3: S-Move: Team Crit Next
+       [Left/Right] Weakness: Dragon | HP: 15,966,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+  📋 Extra Battle 8:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Ice | HP: 37,477,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+             Passive 3: Discombobulate 9
+       [Left/Right] Weakness: Ice | HP: 18,738,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Electric | HP: 37,477,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+             Passive 3: Defense Crush 9
+       [Left/Right] Weakness: Electric | HP: 18,738,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Defense Crush 9
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fighting | HP: 37,477,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+       [Left/Right] Weakness: Fighting | HP: 18,738,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dark | HP: 37,477,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+       [Left/Right] Weakness: Dark | HP: 18,738,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fairy | HP: 37,477,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+             Passive 3: Fighting Zone: All Stats ↓ Immunity
+       [Left/Right] Weakness: Fairy | HP: 18,738,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Fighting Zone: All Stats ↓ Immunity
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fire | HP: 37,477,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+             Passive 3: Defense ↑: Moves ↑ 3
+       [Left/Right] Weakness: Fire | HP: 18,738,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Defense ↑: Moves ↑ 3
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Steel | HP: 37,477,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+             Passive 3: Ice Zone: Attack Move DR 5
+       [Left/Right] Weakness: Steel | HP: 18,738,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Ice Zone: Attack Move DR 5
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dragon | HP: 37,477,440 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+             Passive 3: S-Move: Team Crit Next
+       [Left/Right] Weakness: Dragon | HP: 18,738,720 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+  📋 Extra Battle 9:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Ice | HP: 43,464,960 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+             Passive 3: Discombobulate 9
+       [Left/Right] Weakness: Ice | HP: 21,732,480 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Electric | HP: 43,464,960 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+             Passive 3: Defense Crush 9
+       [Left/Right] Weakness: Electric | HP: 21,732,480 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Defense Crush 9
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fighting | HP: 43,464,960 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+       [Left/Right] Weakness: Fighting | HP: 21,732,480 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dark | HP: 43,464,960 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+       [Left/Right] Weakness: Dark | HP: 21,732,480 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fairy | HP: 43,464,960 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+             Passive 3: Fighting Zone: All Stats ↓ Immunity
+       [Left/Right] Weakness: Fairy | HP: 21,732,480 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Fighting Zone: All Stats ↓ Immunity
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fire | HP: 43,464,960 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+             Passive 3: Defense ↑: Moves ↑ 3
+       [Left/Right] Weakness: Fire | HP: 21,732,480 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Defense ↑: Moves ↑ 3
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Steel | HP: 43,464,960 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+             Passive 3: Ice Zone: Attack Move DR 5
+       [Left/Right] Weakness: Steel | HP: 21,732,480 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Ice Zone: Attack Move DR 5
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dragon | HP: 43,464,960 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+             Passive 3: S-Move: Team Crit Next
+       [Left/Right] Weakness: Dragon | HP: 21,732,480 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+  📋 Extra Battle 10:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Ice | HP: 49,896,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+             Passive 3: Discombobulate 9
+       [Left/Right] Weakness: Ice | HP: 24,948,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Electric | HP: 49,896,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+             Passive 3: Defense Crush 9
+       [Left/Right] Weakness: Electric | HP: 24,948,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Defense Crush 9
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fighting | HP: 49,896,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+       [Left/Right] Weakness: Fighting | HP: 24,948,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dark | HP: 49,896,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+       [Left/Right] Weakness: Dark | HP: 24,948,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fairy | HP: 49,896,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+             Passive 3: Fighting Zone: All Stats ↓ Immunity
+       [Left/Right] Weakness: Fairy | HP: 24,948,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Fighting Zone: All Stats ↓ Immunity
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fire | HP: 49,896,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+             Passive 3: Defense ↑: Moves ↑ 3
+       [Left/Right] Weakness: Fire | HP: 24,948,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Defense ↑: Moves ↑ 3
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Steel | HP: 49,896,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+             Passive 3: Ice Zone: Attack Move DR 5
+       [Left/Right] Weakness: Steel | HP: 24,948,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Ice Zone: Attack Move DR 5
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dragon | HP: 49,896,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+             Passive 3: S-Move: Team Crit Next
+       [Left/Right] Weakness: Dragon | HP: 24,948,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+  📋 Extra Battle 11:
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Ice | HP: 56,770,560 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+             Passive 3: Discombobulate 9
+       [Left/Right] Weakness: Ice | HP: 28,385,280 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Electric | HP: 56,770,560 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+             Passive 3: Defense Crush 9
+       [Left/Right] Weakness: Electric | HP: 28,385,280 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Defense Crush 9
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fighting | HP: 56,770,560 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+       [Left/Right] Weakness: Fighting | HP: 28,385,280 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dark | HP: 56,770,560 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+       [Left/Right] Weakness: Dark | HP: 28,385,280 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fairy | HP: 56,770,560 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+             Passive 3: Fighting Zone: All Stats ↓ Immunity
+       [Left/Right] Weakness: Fairy | HP: 28,385,280 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Fighting Zone: All Stats ↓ Immunity
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Theme: Zero damage when unaffected; zero damage when not super effective
+          Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fire | HP: 56,770,560 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+             Passive 3: Defense ↑: Moves ↑ 3
+       [Left/Right] Weakness: Fire | HP: 28,385,280 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Defense ↑: Moves ↑ 3
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Theme: Zero physical damage; zero damage when not super effective
+          Rule: Opponents take zero damage from physical attacks.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Steel | HP: 56,770,560 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+             Passive 3: Ice Zone: Attack Move DR 5
+       [Left/Right] Weakness: Steel | HP: 28,385,280 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Ice Zone: Attack Move DR 5
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Theme: Ally move gauge max -2; zero damage when not super effective
+          Rule: Reduces allies’ move gauge maximum by two.
+          Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dragon | HP: 56,770,560 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+             Passive 3: S-Move: Team Crit Next
+       [Left/Right] Weakness: Dragon | HP: 28,385,280 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+  📋 Extra Battle 12 and onward:
+  🔄 Rules rotate per circuit: Extra Battle 12=Rules 1, Extra Battle 13=Rules 2, Extra Battle 14=Rules 3, Extra Battle 15=Rules 1, Extra Battle 16=Rules 2, Extra Battle 17=Rules 3, ...
+    🆔 Falkner | 🏷️ Flying | Challenge Falkner (Ultra Hard)
+       Rules 1: Ally move gauge max -2; zero damage when not super effective
+            Rule: Reduces allies’ move gauge maximum by two.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 2: Zero damage when unaffected; zero damage when not super effective
+            Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 3: Zero physical damage; zero damage when not super effective
+            Rule: Opponents take zero damage from physical attacks.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Ice | HP: 64,088,640 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+             Passive 2: Bedazzle 1
+             Passive 3: Discombobulate 9
+       [Left/Right] Weakness: Ice | HP: 32,044,320 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Accuracy Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Mind’s Eye (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Acuity
+    🆔 Bugsy | 🏷️ Bug | Challenge Bugsy (Ultra Hard)
+       Rules 1: Zero damage when unaffected; zero damage when not super effective
+            Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 2: Zero physical damage; zero damage when not super effective
+            Rule: Opponents take zero damage from physical attacks.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 3: Ally move gauge max -2; zero damage when not super effective
+            Rule: Reduces allies’ move gauge maximum by two.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Electric | HP: 64,088,640 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Enfeeble 1
+             Passive 3: Defense Crush 9
+       [Left/Right] Weakness: Electric | HP: 32,044,320 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Stout Heart (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Headstrong
+             Passive 2: Defense Crush 9
+    🆔 Whitney | 🏷️ Normal | Challenge Whitney: Part 1 (Ultra Hard)
+       Rules 1: Zero physical damage; zero damage when not super effective
+            Rule: Opponents take zero damage from physical attacks.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 2: Ally move gauge max -2; zero damage when not super effective
+            Rule: Reduces allies’ move gauge maximum by two.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 3: Zero damage when unaffected; zero damage when not super effective
+            Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fighting | HP: 64,088,640 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+       [Left/Right] Weakness: Fighting | HP: 32,044,320 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Flinching, Speed Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Flinch (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Unflappable
+             Passive 2: Aggravation 1
+             Passive 3: Trip Up 9
+    🆔 Morty | 🏷️ Ghost | Challenge Morty (Ultra Hard)
+       Rules 1: Ally move gauge max -2; zero damage when not super effective
+            Rule: Reduces allies’ move gauge maximum by two.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 2: Zero damage when unaffected; zero damage when not super effective
+            Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 3: Zero physical damage; zero damage when not super effective
+            Rule: Opponents take zero damage from physical attacks.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dark | HP: 64,088,640 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+       [Left/Right] Weakness: Dark | HP: 32,044,320 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Special Moves, Sleep, Sp. Def Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Sleep (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Wide Awake
+             Passive 2: Piercing Gaze
+             Passive 3: Mind Games 9
+    🆔 Chuck | 🏷️ Fighting | Challenge Chuck: Part 1 (Ultra Hard)
+       Rules 1: Zero damage when unaffected; zero damage when not super effective
+            Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 2: Zero physical damage; zero damage when not super effective
+            Rule: Opponents take zero damage from physical attacks.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 3: Ally move gauge max -2; zero damage when not super effective
+            Rule: Reduces allies’ move gauge maximum by two.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fairy | HP: 64,088,640 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Debut: Continuous Fighting Zone
+             Passive 3: Fighting Zone: All Stats ↓ Immunity
+       [Left/Right] Weakness: Fairy | HP: 32,044,320 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Fighting Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Burn (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Flameproof
+             Passive 2: Fighting Zone: All Stats ↓ Immunity
+    🆔 Jasmine | 🏷️ Steel | Challenge Jasmine (Ultra Hard)
+       Rules 1: Zero physical damage; zero damage when not super effective
+            Rule: Opponents take zero damage from physical attacks.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 2: Ally move gauge max -2; zero damage when not super effective
+            Rule: Reduces allies’ move gauge maximum by two.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 3: Zero damage when unaffected; zero damage when not super effective
+            Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Fire | HP: 64,088,640 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Debut: Endure
+             Passive 2: Team Sentry Entry 2
+             Passive 3: Defense ↑: Moves ↑ 3
+       [Left/Right] Weakness: Fire | HP: 32,044,320 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Enduring, Defense Up, Defense Down
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Trained Body 5
+          🔹 Prioritize Passive Skill
+             Passive 1: Defense ↑: Moves ↑ 3
+    🆔 Pryce | 🏷️ Ice | Challenge Pryce (Ultra Hard)
+       Rules 1: Ally move gauge max -2; zero damage when not super effective
+            Rule: Reduces allies’ move gauge maximum by two.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 2: Zero damage when unaffected; zero damage when not super effective
+            Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 3: Zero physical damage; zero damage when not super effective
+            Rule: Opponents take zero damage from physical attacks.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Steel | HP: 64,088,640 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Debut: Continuous Ice Zone
+             Passive 3: Ice Zone: Attack Move DR 5
+       [Left/Right] Weakness: Steel | HP: 32,044,320 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Ice Zone
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Lessen Freeze (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Antifreeze
+             Passive 2: Ice Zone: Attack Move DR 5
+    🆔 Clair | 🏷️ Dragon | Challenge Clair: Part 1 (Ultra Hard)
+       Rules 1: Zero damage when unaffected; zero damage when not super effective
+            Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 2: Zero physical damage; zero damage when not super effective
+            Rule: Opponents take zero damage from physical attacks.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       Rules 3: Ally move gauge max -2; zero damage when not super effective
+            Rule: Reduces allies’ move gauge maximum by two.
+            Rule: Opponents take zero damage from attacks that are not supereffective.
+       📊 [Center] Weakness: Dragon | HP: 64,088,640 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+             Passive 3: S-Move: Team Crit Next
+       [Left/Right] Weakness: Dragon | HP: 32,044,320 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
+          🔸 Focus: Physical Moves, Special Moves, Critical Hit Next
+          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4
+            ♦️ Upgrade/Downgrade Passive Damage Reduction
+              ● Lessen Poison (Remove)
+              ● Lessen Burn (Remove)
+              ● Lessen Trap (Remove)
+              ● Steady Aim (Remove)
+          🔹 Prioritize Passive Skill
+             Passive 1: Steady Aim
+             Passive 2: Ferocious Entry 1
+
+
+🏅 Combined Ranking Rewards:
+Top 1
+  🎖️ Pasio Gym Battle No. 3 (Event)
+  🤝 Gym Battle Voucher x50
+  🥚🤝 Superawakening Candy x2
+  💎 Gems x3000
+Top 2
+  🎖️ Pasio Gym Battle No. 3 (Event)
+  🤝 Gym Battle Voucher x50
+  🥚🤝 Superawakening Candy x2
+  💎 Gems x3000
+Top 3
+  🎖️ Pasio Gym Battle No. 3 (Event)
+  🤝 Gym Battle Voucher x50
+  🥚🤝 Superawakening Candy x2
+  💎 Gems x3000
+Top 4
+  🎖️ Pasio Gym Battle No. 3 (Event)
+  🤝 Gym Battle Voucher x50
+  🥚🤝 Superawakening Candy x2
+  💎 Gems x3000
+Top 5
+  🎖️ Pasio Gym Battle No. 3 (Event)
+  🤝 Gym Battle Voucher x50
+  🥚🤝 Superawakening Candy x2
+  💎 Gems x3000
+Top 6
+  🎖️ Pasio Gym Battle No. 3 (Event)
+  🤝 Gym Battle Voucher x50
+  🥚🤝 Superawakening Candy x2
+  💎 Gems x3000
+Top 7
+  🎖️ Pasio Gym Battle No. 3 (Event)
+  🤝 Gym Battle Voucher x50
+  🥚🤝 Superawakening Candy x2
+  💎 Gems x3000
+Top 8
+  🎖️ Pasio Gym Battle No. 3 (Event)
+  🤝 Gym Battle Voucher x50
+  🥚🤝 Superawakening Candy x2
+  💎 Gems x3000
+Top 9 to 100
+  🎖️ Pasio Gym Battle No. 3 (Event)
+  🤝 Gym Battle Voucher x30
+  🥚🤝 Superawakening Candy x2
+  💎 Gems x2500
+Top 101 to 500
+  🎖️ Pasio Gym Battle No. 3 (Event)
+  🤝 Gym Battle Voucher x20
+  🥚🤝 Superawakening Candy x1
+  💎 Gems x2000
+Top 501 to 1000
+  🤝 Gym Battle Voucher x20
+  💎 Gems x2000
+Top 1001 to 2000
+  🤝 Gym Battle Voucher x15
+  💎 Gems x1500
+Top 2001+
+  🤝 Gym Battle Voucher x10
+  💎 Gems x1000
+
+🎯 Combined Score Rewards:
+1. 10.000 pts
+  🤝 Gym Battle Voucher x5
+2. 20.000 pts
+  🤝 Gym Battle Voucher x5
+3. 30.000 pts
+  🤝 Gym Battle Voucher x5
+4. 40.000 pts
+  🤝 Gym Battle Voucher x5
+5. 50.000 pts (Featured Reward)
+  🥠🏋️ Falkner & Swellow (Male♂️) Gym Battle Lucky Cookie 1 x1
+6. 60.000 pts
+  🤝 Gym Battle Voucher x5
+7. 70.000 pts
+  🤝 Gym Battle Voucher x5
+8. 80.000 pts (Featured Reward)
+  🎫🤝 5★ Gym Scout Ticket x1
+9. 115.000 pts
+  🤝 Gym Battle Voucher x6
+10. 150.000 pts (Featured Reward)
+  🥠🏋️ Silver & Ho-Oh (Genderless) Gym Battle Lucky Cookie 1 x1
+11. 185.000 pts
+  🤝 Gym Battle Voucher x6
+12. 220.000 pts
+  🤝 Gym Battle Voucher x6
+13. 255.000 pts (Featured Reward)
+  🥠🏋️ Sygna Suit Morty & Ho-Oh (Genderless) Gym Battle Lucky Cookie 1 x1
+14. 290.000 pts
+  🤝 Gym Battle Voucher x6
+15. 325.000 pts
+  🤝 Gym Battle Voucher x6
+16. 360.000 pts (Featured Reward)
+  🎫🤝 Fair-Guaranteed Scout Ticket x1
+17. 440.000 pts
+  🤝 Gym Battle Voucher x8
+18. 520.000 pts (Featured Reward)
+  🥠🏋️ Sygna Suit Kris & Suicune (Genderless) Gym Battle Lucky Cookie 1 x1
+19. 600.000 pts
+  🤝 Gym Battle Voucher x8
+20. 680.000 pts
+  🤝 Gym Battle Voucher x8
+21. 760.000 pts (Featured Reward)
+  🥠🏋️ Arc Suit Ethan & Lugia (Genderless) Gym Battle Lucky Cookie 1 x1
+22. 840.000 pts
+  🤝 Gym Battle Voucher x8
+23. 920.000 pts
+  🤝 Gym Battle Voucher x8
+24. 1.000.000 pts (Featured Reward)
+  🎫🤝 Fair-Guaranteed Scout Ticket x1
+25. 300.000 pts (Repeatable)
+  🍹 Certificate of Excellence x1
+

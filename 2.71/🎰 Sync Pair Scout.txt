@@ -1,0 +1,1282 @@
+07/2026
+--------------------
+
+[event_8070_0W_select_master_pack_01]
+
+Strike Master Fair Select Ticket Scout
+Type Scout: 5★-Select Ticket Scout (One-Time-Only)
+Scout Points to Pick-up: x30
+Require
+	Select Master Fair | 🎫 Strike Master Fair Select Ticket x1 | Limit Scout: 1
+		Scout Points get: 30
+🗓️ Start: 31/07/2026 06:00
+🗓️ End: No end date
+
+[event_8070_0W_select_master_pack_02]
+
+Tech Master Fair Select Ticket Scout
+Type Scout: 5★-Select Ticket Scout (One-Time-Only)
+Scout Points to Pick-up: x30
+Require
+	Select Master Fair | 🎫 Tech Master Fair Select Ticket x1 | Limit Scout: 1
+		Scout Points get: 30
+🗓️ Start: 31/07/2026 06:00
+🗓️ End: No end date
+
+[event_8070_0W_select_master_pack_03]
+
+Support Master Fair Select Ticket Scout
+Type Scout: 5★-Select Ticket Scout (One-Time-Only)
+Scout Points to Pick-up: x30
+Require
+	Select Master Fair | 🎫 Support Master Fair Select Ticket x1 | Limit Scout: 1
+		Scout Points get: 30
+🗓️ Start: 31/07/2026 06:00
+🗓️ End: No end date
+
+[event_8070_1W_ExPokeFes_01]
+Carmine, an EX Fair–exclusive sync pair, debuts! Two other fair-exclusive sync pairs are featured as well!
+Carmine EX Fair
+Type Scout: EX Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Sygna Suit Cyrus & Darkrai (Genderless)
+2. Giacomo & Kingambit (Male♂️)
+3. Carmine (Alt.) & Mightyena (Female♀️)
+Presents when the Sync Pair is scouted:
+	1-1 🍰🟡 Field Roll Cake Coin x4
+	1-1 ⚡ 5★ Power-Up x4
+	1-2 🍰🟡 Field Roll Cake Coin x4
+	1-2 ⚡ 5★ Power-Up x4
+	1-3 🍰🟡 Field Roll Cake Coin x4
+	1-3 ⚡ 5★ Power-Up x4
+	1-4 🍰🟡 Field Roll Cake Coin x4
+	1-4 ⚡ 5★ Power-Up x4
+	1-5 🍰🟡 Field Roll Cake Coin x4
+	1-5 ⚡ 5★ Power-Up x4
+
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Support Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 🪙🍬 Support Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🪙🍬 Support Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.4 🪙🍬 Support Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.5 🥚🤝 Superawakening Candy x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.6 🪙🍬 Support Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.7 🪙🍬 Support Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.8 🪙🍬 Support Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.9 🪙🍬 Support Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.10 🥚🤝 Superawakening Candy x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.11 🪙🍬 Support Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.12 🪙🍬 Support Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 31/07/2026 06:00
+🗓️ End: 18/08/2026 06:00
+
+[event_8070_1W_ExPokeFes_02]
+Florian, an EX Fair–exclusive sync pair, debuts! Two other fair-exclusive sync pairs are featured as well!
+Florian EX Fair
+Type Scout: EX Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Sygna Suit Hilbert & Genesect (Genderless)
+2. Alder & Volcarona (Male♂️)
+3. Florian (Alt.) & Yanmega (Male♂️)
+Presents when the Sync Pair is scouted:
+	1-1 🍰🟡 Sprint Roll Cake Coin x4
+	1-1 ⚡ 5★ Power-Up x4
+	1-2 🍰🟡 Sprint Roll Cake Coin x4
+	1-2 ⚡ 5★ Power-Up x4
+	1-3 🍰🟡 Sprint Roll Cake Coin x4
+	1-3 ⚡ 5★ Power-Up x4
+	1-4 🍰🟡 Sprint Roll Cake Coin x4
+	1-4 ⚡ 5★ Power-Up x4
+	1-5 🍰🟡 Sprint Roll Cake Coin x4
+	1-5 ⚡ 5★ Power-Up x4
+
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Strike Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 🪙🍬 Strike Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🪙🍬 Strike Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.4 🪙🍬 Strike Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.5 🥚🤝 Superawakening Candy x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.6 🪙🍬 Strike Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.7 🪙🍬 Strike Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.8 🪙🍬 Strike Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.9 🪙🍬 Strike Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.10 🥚🤝 Superawakening Candy x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.11 🪙🍬 Strike Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.12 🪙🍬 Strike Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 31/07/2026 06:00
+🗓️ End: 18/08/2026 06:00
+
+08/2026
+--------------------
+
+[event_8070_0W_Mix_02]
+
+Limited times daily!
+Selene Mix Scout
+Type Scout: Spotlight (Present - Power-Up)
+Scout Points to Pick-up: x300
+Rate-up Trainer: 1. Selene & Primarina (Female♀️)
+Require
+	Sync Pair Scout ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×3
+		x300 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 3
+	Sync Pair Scout ×5
+		x500 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 5
+🗓️ Start: 01/08/2026 06:00
+🗓️ End: 01/11/2026 06:00
+
+[event_8070_0W_Monthly_01]
+
+Vol. 48
+Monthly Poké Fair
+Type Scout: Monthly Poké Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Carmine & Sinistcha (Genderless)
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🔑✋ 3★ Friend Key x3
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 🔑✋ 3★ Friend Key x3
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🔑✋ 3★ Friend Key x3
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.4 🔑✋ 3★ Friend Key x3
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.5 🔑✋ 3★ Friend Key x3
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 01/08/2026 06:00
+🗓️ End: 01/09/2026 06:00
+
+[event_8070_1W_MasterTicket_03]
+
+Fair-Exclusive Guaranteed Ticket Scout
+Type Scout: Featured Ticket Scout (Another)
+Rate-up Trainer: 1. Sygna Suit Iono & Raging Bolt (Genderless)
+2. Poppy & Tinkaton (Female♀️)
+3. Lacey & Granbull (Female♀️)
+Require
+	Ticket Scout: Fair-Exclusive Guaranteed Ticket x1 | Limit Scout: 1
+🗓️ Start: 03/08/2026 06:00
+🗓️ End: 17/08/2026 06:00
+
+[event_8070_1W_PokeFesStepUp_03]
+
+Gym Battle Celebration
+Three Fair-Exclusives Guaranteed Tiered Scout
+Type Scout: Tiered Scout
+Scout Points to Pick-up: x30
+Rate-up Trainer: 1. Sygna Suit Iono & Raging Bolt (Genderless)
+2. Poppy & Tinkaton (Female♀️)
+3. Lacey & Granbull (Female♀️)
+Require
+	Tier 1
+	Sync Pair Scout ×10
+		x1500 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1  Fair-Exclusive Guaranteed Ticket x1
+	Tier 2
+	Sync Pair Scout ×10
+		x2000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.2 🥚🤝 Superawakening Candy x1
+	Tier 3
+	Sync Pair Scout ×10
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 30
+	Tier 4
+	Sync Pair Scout ×10
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.3 🥚🤝 Superawakening Candy x1
+	Tier 5
+	Sync Pair Scout ×10
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 30
+🗓️ Start: 03/08/2026 06:00
+🗓️ End: 10/08/2026 06:00
+
+[event_8070_2W_PokeFesSelection_01]
+
+Legendary Gauntlet Celebration
+5★-Select Fair-Exclusive Scout ×11
+Type Scout: Select Poke Fair Scout x11 (Paid)
+Scout Points to Pick-up: x30
+Require
+	Special Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 33
+🗓️ Start: 10/08/2026 06:00
+🗓️ End: 22/08/2026 06:00
+
+[event_8070_3W_ExPokeFes_03]
+Harmony, an EX Fair–exclusive sync pair, debuts! Two other fair-exclusive sync pairs are featured as well!
+Harmony EX Fair
+Type Scout: EX Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Gloria (Dojo Uniform) & Urshifu (Male♂️)
+2. Clavell & Quaquaval (Male♂️)
+3. Harmony & Feraligatr (Female♀️)
+Presents when the Sync Pair is scouted:
+	1-1 🍰🟡 Strike Roll Cake Coin x4
+	1-1 ⚡ 5★ Power-Up x4
+	1-2 🍰🟡 Strike Roll Cake Coin x4
+	1-2 ⚡ 5★ Power-Up x4
+	1-3 🍰🟡 Strike Roll Cake Coin x4
+	1-3 ⚡ 5★ Power-Up x4
+	1-4 🍰🟡 Strike Roll Cake Coin x4
+	1-4 ⚡ 5★ Power-Up x4
+	1-5 🍰🟡 Strike Roll Cake Coin x4
+	1-5 ⚡ 5★ Power-Up x4
+
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Sprint Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 🪙🍬 Sprint Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🪙🍬 Sprint Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.4 🪙🍬 Sprint Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.5 🥚🤝 Superawakening Candy x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.6 🪙🍬 Sprint Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.7 🪙🍬 Sprint Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.8 🪙🍬 Sprint Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.9 🪙🍬 Sprint Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.10 🥚🤝 Superawakening Candy x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.11 🪙🍬 Sprint Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.12 🪙🍬 Sprint Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 14/08/2026 06:00
+🗓️ End: 07/09/2026 06:00
+
+[event_8070_3W_ExPokeFes_04]
+
+48 Hours!
+Harmony Paid-Gem Scout ×25 EX Fair
+Type Scout: EX Fair Scout
+Rate-up Trainer: 1. Gloria (Dojo Uniform) & Urshifu (Male♂️)
+2. Clavell & Quaquaval (Male♂️)
+3. Harmony & Feraligatr (Female♀️)
+Require
+	Scout ×25
+		x5000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1 🥚🤝 Superawakening Candy x1
+🗓️ Start: 14/08/2026 06:00
+🗓️ End: 16/08/2026 06:00
+
+[event_8070_3W_forTicket_01]
+
+10-Pair Scout (Fair-exclusive pairs included!)
+Type Scout: 10-Pair Scout (Ticket)
+Require
+	10-Pair Scout x10 | 🎫 10-Pair Scout Ticket x1 | Limit Scout: 13
+🗓️ Start: 14/08/2026 06:00
+🗓️ End: 07/10/2026 06:00
+
+[event_8070_3W_forTicket_02]
+
+10-Pair Scout (Fair-exclusive pair guaranteed!)
+Type Scout: 10-Pair Scout (Ticket)
+Require
+	10-Pair Scout x10 | 🎫 Fair-Exclusive Gtd. 10-Pair Ticket x1 | Limit Scout: 4
+🗓️ Start: 14/08/2026 06:00
+🗓️ End: 07/10/2026 06:00
+List Trainer guaranteed in this Banner:
+	1. Lance & Dragonite (Male♂️)
+	2. Cynthia & Garchomp (Female♀️)
+	3. Steven & Metagross (Genderless)
+	4. Sygna Suit Red & Charizard (Male♂️)
+	5. Sygna Suit Cynthia & Kommo-o (Male♂️)
+	6. Sygna Suit Blue & Blastoise (Male♂️)
+	7. Sygna Suit Leaf & Venusaur (Female♀️)
+	8. Gloria & Zacian (Genderless)
+	9. N & Zekrom (Genderless)
+	10. Lysandre & Yveltal (Genderless)
+	11. Alder & Volcarona (Male♂️)
+	12. Marnie & Morpeko (Female♀️)
+	13. Iris (Alt.) & Hydreigon (Female♀️)
+	14. Diantha & Gardevoir (Female♀️)
+	15. Raihan & Duraludon (Male♂️)
+	16. Ingo & Excadrill (Male♂️)
+	17. Emmet & Archeops (Male♂️)
+	18. Lear & Hoopa (Genderless)
+	19. Sygna Suit Leon & Eternatus (Genderless)
+	20. Red & Snorlax (Male♂️)
+	21. Blue (Classic) & Aerodactyl (Male♂️)
+	22. Elesa (Classic) & Emolga (Female♀️)
+	23. Lucas & Dialga (Genderless)
+	24. Sygna Suit Cyrus & Darkrai (Genderless)
+	25. Sygna Suit Dawn & Cresselia (Female♀️)
+	26. Skyla (Anniversary 2022) & Tornadus (Male♂️)
+	27. May (Anniversary 2022) & Latias (Female♀️)
+	28. Raihan (Anniversary 2022) & Flygon (Male♂️)
+	29. Sygna Suit Morty & Ho-Oh (Genderless)
+	30. Sygna Suit Giovanni & Nidoking (Male♂️)
+	31. Bede & Hatterene (Female♀️)
+	32. Sygna Suit Korrina & Marshadow (Genderless)
+	33. Gloria (Dojo Uniform) & Urshifu (Male♂️)
+	34. Sygna Suit May & Blaziken (Male♂️)
+	35. Sygna Suit Brendan & Latios (Male♂️)
+	36. Sygna Suit Steven & Deoxys (Genderless)
+	37. Sygna Suit Wally & Gardevoir (Male♂️)
+	38. Victor & Rillaboom (Male♂️)
+	39. Sygna Suit Hilbert & Genesect (Genderless)
+	40. Sygna Suit Hilda & Victini (Genderless)
+	41. Sygna Suit N & Kyurem (Genderless)
+	42. Sygna Suit Diantha & Diancie (Genderless)
+	43. Sygna Suit Lysandre & Volcanion (Genderless)
+	44. Anabel & Snorlax (Male♂️)
+	45. Emma & Crobat (Male♂️)
+	46. Sygna Suit Hau & Tapu Koko (Genderless)
+	47. Sygna Suit Mina & Tapu Fini (Genderless)
+	48. Sygna Suit Acerola & Tapu Bulu (Genderless)
+	49. Sygna Suit Lana & Tapu Lele (Genderless)
+	50. Eusine & Suicune (Genderless)
+	51. Sygna Suit Silver & Sneasel (Male♂️)
+	52. Rose & Copperajah (Female♀️)
+	53. Oleana & Garbodor (Female♀️)
+	54. Leon (Alt.) & Dragapult (Male♂️)
+	55. Gloria (Alt. 2) & Cinderace (Male♂️)
+	56. Nemona & Pawmot (Male♂️)
+	57. Paulo & Lycanroc (Male♂️)
+	58. Palmer & Regigigas (Genderless)
+	59. Argenta & Skarmory (Female♀️)
+	60. Akari & Samurott (Male♂️)
+	61. Rei & Decidueye (Male♂️)
+	62. Sygna Suit Roxie & Toxtricity (Female♀️)
+	63. Sygna Suit Piers & Toxtricity (Male♂️)
+	64. Penny & Sylveon (Female♀️)
+	65. Elaine & Eevee (Female♀️)
+	66. Grusha & Cetitan (Male♂️)
+	67. Iono & Bellibolt (Male♂️)
+	68. Chase & Pikachu (Male♂️)
+	69. Dahlia & Ludicolo (Female♀️)
+	70. Volo & Togepi (Female♀️)
+	71. Jacq & Farigiraf (Female♀️)
+	72. Rika & Clodsire (Male♂️)
+	73. Poppy & Tinkaton (Female♀️)
+	74. Larry & Dudunsparce (Male♂️)
+	75. Kabu & Centiskorch (Male♂️)
+	76. Klara & Slowbro (Female♀️)
+	77. Avery & Slowking (Male♂️)
+	78. Greta & Breloom (Female♀️)
+	79. Selene (Alt.) & Nihilego (Genderless)
+	80. Elio (Alt.) & Stakataka (Genderless)
+	81. Arven & Mabosstiff (Male♂️)
+	82. Giacomo & Kingambit (Male♂️)
+	83. Clavell & Quaquaval (Male♂️)
+	84. Sygna Suit Ingo & Chandelure (Male♂️)
+	85. Sygna Suit Emmet & Eelektross (Male♂️)
+	86. Eri & Annihilape (Male♂️)
+	87. Sina & Glaceon (Female♀️)
+	88. Dexio & Espeon (Male♂️)
+	89. Milo & Eldegoss (Male♂️)
+	90. Mela & Armarouge (Male♂️)
+	91. Atticus & Revavroom (Male♂️)
+	92. Ortega & Dachsbun (Male♂️)
+	93. Lacey & Granbull (Female♀️)
+	94. Benga & Volcarona (Male♂️)
+	95. Sygna Suit Iono & Raging Bolt (Genderless)
+	96. Sygna Suit Elesa (Alt.) & Thundurus (Male♂️)
+	97. Sygna Suit Bede & Iron Valiant (Genderless)
+	98. Carmine & Sinistcha (Genderless)
+
+[event_8070_3W_ExPokeFes_05]
+Urbain, an EX Fair–exclusive sync pair, debuts! Two other fair-exclusive sync pairs are featured as well!
+Urbain EX Fair
+Type Scout: EX Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Sygna Suit Acerola & Tapu Bulu (Genderless)
+2. Greta & Breloom (Female♀️)
+3. Urbain & Meganium (Male♂️)
+Presents when the Sync Pair is scouted:
+	1-1 🍰🟡 Tech Roll Cake Coin x4
+	1-1 ⚡ 5★ Power-Up x4
+	1-2 🍰🟡 Tech Roll Cake Coin x4
+	1-2 ⚡ 5★ Power-Up x4
+	1-3 🍰🟡 Tech Roll Cake Coin x4
+	1-3 ⚡ 5★ Power-Up x4
+	1-4 🍰🟡 Tech Roll Cake Coin x4
+	1-4 ⚡ 5★ Power-Up x4
+	1-5 🍰🟡 Tech Roll Cake Coin x4
+	1-5 ⚡ 5★ Power-Up x4
+
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Strike Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 🪙🍬 Strike Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🪙🍬 Strike Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.4 🪙🍬 Strike Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.5 🥚🤝 Superawakening Candy x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.6 🪙🍬 Strike Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.7 🪙🍬 Strike Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.8 🪙🍬 Strike Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.9 🪙🍬 Strike Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.10 🥚🤝 Superawakening Candy x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.11 🪙🍬 Strike Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.12 🪙🍬 Strike Move Candy Coin x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 16/08/2026 06:00
+🗓️ End: 07/09/2026 06:00
+
+[event_8070_3W_ExPokeFes_06]
+
+48 Hours!
+Urbain Paid-Gem Scout ×25 EX Fair
+Type Scout: EX Fair Scout
+Rate-up Trainer: 1. Sygna Suit Acerola & Tapu Bulu (Genderless)
+2. Greta & Breloom (Female♀️)
+3. Urbain & Meganium (Male♂️)
+Require
+	Scout ×25
+		x5000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1 🥚🤝 Superawakening Candy x1
+🗓️ Start: 16/08/2026 06:00
+🗓️ End: 18/08/2026 06:00
+
+[event_8070_3W_PokeFes_07]
+
+Marvelous Mega Run-Up to 7
+Fair-Exclusives Only Scout ×7 Poké Fair
+Type Scout: Spotlight (Present - Power-Up)
+Require
+	Sync Pair Scout ×7
+		x7000 💎 Gems (Non-Paid) | Limit Scout: 1
+🗓️ Start: 19/08/2026 06:00
+🗓️ End: 28/08/2026 06:00
+
+[event_8070_3W_ExPokeFes_08]
+
+Marvelous Mega Run-Up to 7
+5★-Select EX Fair-Exclusive Scout ×25
+Type Scout: EX Fair Scout
+Scout Points to Pick-up: x30
+Require
+	Scout ×25
+		x5000 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 30
+🗓️ Start: 21/08/2026 06:00
+🗓️ End: 28/08/2026 06:00
+
+[event_8070_4W_PokeMas_01]
+One time only on Pokémon Masters Day! Scout ×11 for only 25 gems!
+Pokémon Masters Day One-Time-Only Happy Scout
+Type Scout: Happy Scout (Master Day)
+Require
+	Sync Pair Scout ×11
+		x25 💎 Gems (Non-Paid) | Limit Scout: 1
+🗓️ Start: 25/08/2026 06:00
+🗓️ End: 26/08/2026 06:00
+
+[event_8070_4W_PokeMas_02]
+One time only on Pokémon Masters Day! Scout ×11 for 250 paid gems + 5★ guaranteed!
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+Type Scout: Happy Scout (Master Day)
+Require
+	Sync Pair Scout ×11
+		x250 💎 Gems (Paid) | Limit Scout: 1
+🗓️ Start: 25/08/2026 06:00
+🗓️ End: 26/08/2026 06:00
+List Trainer guaranteed in this Banner:
+	1. Sygna Suit Red & Charizard (Male♂️)
+	2. Red & Snorlax (Male♂️)
+	3. Kukui & Lycanroc (Male♂️)
+	4. Lyra & Chikorita (Female♀️)
+	5. Lyra & Vaporeon (Female♀️)
+	6. Lyra (Summer 2020) & Jigglypuff (Female♀️)
+	7. Lyra (Special Costume) & Phanpy (Female♀️)
+	8. Calem & Sylveon (Male♂️)
+	9. Hilda & Tepig (Female♀️)
+	10. Hilda & Tornadus (Male♂️)
+	11. Hilda & Leafeon (Female♀️)
+	12. Sygna Suit Hilda & Victini (Genderless)
+	13. Hilda (Special Costume) & Diancie (Genderless)
+	14. Hilda (Summer 2022) & Grapploct (Female♀️)
+	15. Lorelei & Cloyster (Female♀️)
+	16. Sygna Suit Acerola & Tapu Bulu (Genderless)
+	17. Acerola (Fall 2020) & Mimikyu (Male♂️)
+	18. Acerola (Summer 2024) & Jellicent (Male♂️)
+	19. Sygna Suit Erika & Leafeon (Female♀️)
+	20. Erika (Holiday 2020) & Comfey (Female♀️)
+	21. Erika (Palentine's 2025) & Lurantis (Female♀️)
+	22. Sygna Suit Roxie & Toxtricity (Female♀️)
+	23. Sygna Suit Korrina & Marshadow (Genderless)
+	24. Skyla (Holiday 2020) & Togekiss (Male♂️)
+	25. Skyla (Summer 2025) & Jumpluff (Female♀️)
+	26. Skyla (Anniversary 2022) & Tornadus (Male♂️)
+	27. Leaf & Eevee (Male♂️)
+	28. Sygna Suit Leaf & Venusaur (Female♀️)
+	29. Kris & Totodile (Female♀️)
+	30. Kris & Jolteon (Female♀️)
+	31. Brendan & Treecko (Male♂️)
+	32. Sygna Suit Brendan & Latios (Male♂️)
+	33. Hilbert & Oshawott (Male♂️)
+	34. Hilbert & Thundurus (Male♂️)
+	35. Hilbert & Glaceon (Male♂️)
+	36. Sygna Suit Hilbert & Genesect (Genderless)
+	37. Hilbert (Fall 2020) & Mightyena (Male♂️)
+	38. Blue & Pidgeot (Male♂️)
+	39. Sygna Suit Blue & Blastoise (Male♂️)
+	40. Blue (Classic) & Aerodactyl (Male♂️)
+	41. Shauntal (Fall 2024) & Froslass (Female♀️)
+	42. Candice (Palentine's 2024) & Darmanitan (Female♀️)
+	43. Whitney (Holiday 2022) & Sawsbuck (Female♀️)
+	44. Gardenia (Summer 2024) & Dhelmise (Genderless)
+	45. Clair (New Year's 2024) & Drampa (Female♀️)
+	46. Flannery (Special Costume) & Magcargo (Male♂️)
+	47. Liza (Summer 2023) & Celesteela (Genderless)
+	48. Tate (Summer 2023) & Jirachi (Genderless)
+	49. Sygna Suit Mina & Tapu Fini (Genderless)
+	50. Viola (Holiday 2023) & Vivillon (Female♀️)
+	51. Thorton & Magnezone (Genderless)
+	52. Roxanne (Fall 2023) & Runerigus (Female♀️)
+	53. Bugsy (Holiday 2024) & Kricketune (Male♂️)
+	54. Noland & Ninjask (Male♂️)
+	55. Grimsley & Liepard (Female♀️)
+	56. Sygna Suit Grimsley & Sharpedo (Male♂️)
+	57. Grimsley (Kimono) & Bisharp (Female♀️)
+	58. Grimsley (Kimono) & Absol (Female♀️)
+	59. Phoebe & Dusclops (Female♀️)
+	60. Phoebe (Fall 2023) & Cofagrigus (Female♀️)
+	61. Olivia & Lycanroc (Male♂️)
+	62. Bruno & Onix (Male♂️)
+	63. Agatha & Arbok (Female♀️)
+	64. Karen & Houndoom (Female♀️)
+	65. Paulo & Lycanroc (Male♂️)
+	66. Lear & Hoopa (Genderless)
+	67. Rachel & Gimmighoul (Genderless)
+	68. Sawyer & Gimmighoul (Genderless)
+	69. N & Zekrom (Genderless)
+	70. N & Landorus (Male♂️)
+	71. Sygna Suit N & Kyurem (Genderless)
+	72. N (Summer 2022) & Zoroark (Male♂️)
+	73. Steven & Metagross (Genderless)
+	74. Sygna Suit Steven & Deoxys (Genderless)
+	75. Steven (Summer 2020) & Sandslash (Male♂️)
+	76. Steven (Special Costume) & Stoutland (Male♂️)
+	77. Cynthia & Garchomp (Female♀️)
+	78. Cynthia & Spiritomb (Female♀️)
+	79. Sygna Suit Cynthia & Kommo-o (Male♂️)
+	80. Cynthia (Summer 2025) & Milotic (Female♀️)
+	81. Iris (Fall 2022) & Naganadel (Genderless)
+	82. Iris (Academy) & Lapras (Female♀️)
+	83. Iris (Alt.) & Hydreigon (Female♀️)
+	84. Caitlin & Reuniclus (Female♀️)
+	85. Caitlin (Fall 2021) & Sableye (Female♀️)
+	86. Siebold (Holiday 2019) & Octillery (Male♂️)
+	87. Marley (Palentine's 2025) & Shaymin (Genderless)
+	88. Sygna Suit Hau & Tapu Koko (Genderless)
+	89. Barry (Special Costume) & Heracross (Male♂️)
+	90. Nate & Braviary (Male♂️)
+	91. Rosa (Holiday 2019) & Delibird (Female♀️)
+	92. Rosa (Special Costume) & Shaymin (Genderless)
+	93. Bianca & Musharna (Female♀️)
+	94. Elesa & Zebstrika (Female♀️)
+	95. Sygna Suit Elesa & Rotom (Genderless)
+	96. Sygna Suit Elesa (Alt.) & Thundurus (Male♂️)
+	97. Elesa (Palentine's 2023) & Togetic (Female♀️)
+	98. Elesa (Classic) & Emolga (Female♀️)
+	99. Cilan & Simisage (Male♂️)
+	100. Ingo & Excadrill (Male♂️)
+	101. Sygna Suit Ingo & Chandelure (Male♂️)
+	102. Ingo (Special Costume) & Accelgor (Male♂️)
+	103. Emmet & Archeops (Male♂️)
+	104. Sygna Suit Emmet & Eelektross (Male♂️)
+	105. Emmet (Special Costume) & Escavalier (Male♂️)
+	106. Sygna Suit Misty & Vaporeon (Female♀️)
+	107. Lance & Dragonite (Male♂️)
+	108. Lance & Dragonair (Male♂️)
+	109. Lance & Charizard (Male♂️)
+	110. Lance (New Year's 2021) & Gyarados (Male♂️)
+	111. Ethan & Cyndaquil (Male♂️)
+	112. Ethan & Ho-Oh (Genderless)
+	113. Jasmine & Steelix (Female♀️)
+	114. Jasmine (Special Costume) & Celesteela (Genderless)
+	115. Jasmine (Holiday 2022) & Ampharos (Female♀️)
+	116. Jasmine (Academy) & Forretress (Female♀️)
+	117. Sabrina & Alakazam (Male♂️)
+	118. Sabrina (New Year's 2022) & Chingling (Female♀️)
+	119. Volkner & Luxray (Male♂️)
+	120. Volkner (New Year's 2022) & Electivire (Male♂️)
+	121. Dawn & Turtwig (Female♀️)
+	122. Sygna Suit Dawn & Cresselia (Female♀️)
+	123. Dawn (Palentine's 2021) & Alcremie (Female♀️)
+	124. Dawn (New Year's 2023) & Oricorio (Female♀️)
+	125. The Masked Royal & Incineroar (Male♂️)
+	126. Lillie & Clefairy (Female♀️)
+	127. Lillie (New Year's 2021) & Ribombee (Female♀️)
+	128. Lillie (Special Costume) & Polteageist (Genderless)
+	129. Lillie (Holiday 2024) & Primarina (Female♀️)
+	130. Gladion & Silvally (Genderless)
+	131. Gladion (Academy) & Porygon-Z (Genderless)
+	132. Lusamine & Pheromosa (Genderless)
+	133. Plumeria & Salazzle (Female♀️)
+	134. Plumeria & Gengar (Male♂️)
+	135. Elio & Popplio (Male♂️)
+	136. Elio & Espeon (Male♂️)
+	137. Elio (Alt.) & Stakataka (Genderless)
+	138. Selene & Rowlet (Male♂️)
+	139. Selene & Umbreon (Female♀️)
+	140. Selene (Special Costume) & Scizor (Female♀️)
+	141. Selene (Alt.) & Nihilego (Genderless)
+	142. Mallow & Tsareena (Female♀️)
+	143. Mallow & Shiinotic (Female♀️)
+	144. Mallow (Palentine's 2023) & Appletun (Female♀️)
+	145. Guzma & Golisopod (Male♂️)
+	146. Guzma & Ariados (Male♂️)
+	147. Guzma (Special Costume) & Buzzwole (Genderless)
+	148. May & Mudkip (Female♀️)
+	149. Sygna Suit May & Blaziken (Male♂️)
+	150. May (Spring 2021) & Lopunny (Female♀️)
+	151. May (Anniversary 2022) & Latias (Female♀️)
+	152. Wallace & Milotic (Female♀️)
+	153. Wallace (New Year's 2024) & Blacephalon (Genderless)
+	154. Wally & Gallade (Male♂️)
+	155. Sygna Suit Wally & Gardevoir (Male♂️)
+	156. Zinnia (Special Costume) & Thievul (Female♀️)
+	157. Serena & Fennekin (Male♂️)
+	158. Serena (Palentine's 2021) & Whimsicott (Female♀️)
+	159. Clemont & Heliolisk (Male♂️)
+	160. Alder & Volcarona (Male♂️)
+	161. Sygna Suit Silver & Sneasel (Male♂️)
+	162. Palmer & Regigigas (Genderless)
+	163. Sidney & Absol (Male♂️)
+	164. Sycamore (Holiday 2023) & Gogoat (Male♂️)
+	165. Samson Oak & Exeggutor (Male♂️)
+	166. Shauna & Chesnaught (Female♀️)
+	167. Shauna (Special Costume) & Klefki (Female♀️)
+	168. Giovanni & Rhydon (Male♂️)
+	169. Sygna Suit Giovanni & Nidoking (Male♂️)
+	170. Archer & Houndoom (Male♂️)
+	171. Ariana & Arbok (Female♀️)
+	172. Petrel & Weezing (Male♂️)
+	173. Proton & Golbat (Male♂️)
+	174. Chili & Simisear (Male♂️)
+	175. Cress & Simipour (Male♂️)
+	176. Hugh & Bouffalant (Male♂️)
+	177. Morty & Drifblim (Male♂️)
+	178. Sygna Suit Morty & Ho-Oh (Genderless)
+	179. Morty (Fall 2021) & Banette (Male♂️)
+	180. Morty (Academy) & Typhlosion (Male♂️)
+	181. Kiawe & Marowak (Male♂️)
+	182. Kiawe & Arcanine (Male♂️)
+	183. Falkner & Swellow (Male♂️)
+	184. Falkner & Noctowl (Male♂️)
+	185. Fantina & Mismagius (Female♀️)
+	186. Aaron & Vespiquen (Female♀️)
+	187. Glacia & Glalie (Male♂️)
+	188. Bertha & Hippowdon (Female♀️)
+	189. Drasna & Dragalge (Female♀️)
+	190. Diantha & Gardevoir (Female♀️)
+	191. Sygna Suit Diantha & Diancie (Genderless)
+	192. Diantha (Special Costume) & Keldeo (Genderless)
+	193. Darach & Staraptor (Male♂️)
+	194. Lana & Araquanid (Female♀️)
+	195. Sygna Suit Lana & Tapu Lele (Genderless)
+	196. Lana (New Year’s 2026) & Dondozo (Female♀️)
+	197. Hala & Crabominable (Male♂️)
+	198. Lucas & Dialga (Genderless)
+	199. Lucas & Flareon (Male♂️)
+	200. Lenora & Watchog (Female♀️)
+	201. Burgh & Leavanny (Male♂️)
+	202. Burgh (Spring 2021) & Togepi (Male♂️)
+	203. Chuck & Poliwrath (Male♂️)
+	204. Olympia & Sigilyph (Female♀️)
+	205. Lucian & Girafarig (Male♂️)
+	206. Malva & Talonflame (Female♀️)
+	207. Anabel & Snorlax (Male♂️)
+	208. Tierno & Crawdaunt (Male♂️)
+	209. Trevor & Florges (Female♀️)
+	210. Ilima & Gumshoos (Male♂️)
+	211. Sina & Glaceon (Female♀️)
+	212. Dexio & Espeon (Male♂️)
+	213. Ryuki & Turtonator (Male♂️)
+	214. Colress & Klinklang (Genderless)
+	215. Sygna Suit Cyrus & Darkrai (Genderless)
+	216. Lysandre & Yveltal (Genderless)
+	217. Sygna Suit Lysandre & Volcanion (Genderless)
+	218. Greta & Breloom (Female♀️)
+	219. Dahlia & Ludicolo (Female♀️)
+	220. Argenta & Skarmory (Female♀️)
+	221. Benga & Volcarona (Male♂️)
+	222. Lisia & Altaria (Male♂️)
+	223. Lisia (New Year's 2023) & Rapidash (Male♂️)
+	224. Eusine & Suicune (Genderless)
+	225. Looker & Croagunk (Male♂️)
+	226. Emma & Crobat (Male♂️)
+	227. Courtney & Camerupt (Female♀️)
+	228. Victor & Rillaboom (Male♂️)
+	229. Victor (Palentine's 2024) & Greedent (Male♂️)
+	230. Gloria & Zacian (Genderless)
+	231. Gloria (Summer 2021) & Inteleon (Male♂️)
+	232. Gloria (Dojo Uniform) & Urshifu (Male♂️)
+	233. Gloria (Alt. 2) & Cinderace (Male♂️)
+	234. Hop & Rillaboom (Male♂️)
+	235. Hop & Zacian (Genderless)
+	236. Marnie & Morpeko (Female♀️)
+	237. Marnie & Cinderace (Female♀️)
+	238. Marnie (Summer 2021) & Grimmsnarl (Male♂️)
+	239. Marnie (Palentine's 2022) & Mawile (Female♀️)
+	240. Marnie (Academy) & Cyclizar (Female♀️)
+	241. Bede & Hatterene (Female♀️)
+	242. Bede & Inteleon (Male♂️)
+	243. Sygna Suit Bede & Iron Valiant (Genderless)
+	244. Sygna Suit Leon & Eternatus (Genderless)
+	245. Leon (Holiday 2021) & Calyrex (Genderless)
+	246. Leon (Alt.) & Dragapult (Male♂️)
+	247. Milo & Eldegoss (Male♂️)
+	248. Nessa & Drednaw (Male♂️)
+	249. Nessa (Holiday 2021) & Eiscue (Male♂️)
+	250. Bea & Sirfetch’d (Male♂️)
+	251. Bea (Palentine's 2022) & Vanilluxe (Male♂️)
+	252. Allister & Gengar (Male♂️)
+	253. Allister (Fall 2022) & Gourgeist (Male♂️)
+	254. Kabu & Centiskorch (Male♂️)
+	255. Kabu (Academy) & Camerupt (Male♂️)
+	256. Gordie & Coalossal (Male♂️)
+	257. Gordie & Barbaracle (Male♂️)
+	258. Melony & Lapras (Female♀️)
+	259. Melony & Frosmoth (Female♀️)
+	260. Piers & Obstagoon (Male♂️)
+	261. Sygna Suit Piers & Toxtricity (Male♂️)
+	262. Raihan & Duraludon (Male♂️)
+	263. Raihan (Anniversary 2022) & Flygon (Male♂️)
+	264. Raihan (New Year's 2025) & Sandaconda (Male♂️)
+	265. Sonia & Yamper (Male♂️)
+	266. Sonia (Special Costume) & Tsareena (Female♀️)
+	267. Sonia (Academy) & Corviknight (Male♂️)
+	268. Rose & Copperajah (Female♀️)
+	269. Oleana & Garbodor (Female♀️)
+	270. Elaine & Eevee (Female♀️)
+	271. Klara & Slowbro (Female♀️)
+	272. Avery & Slowking (Male♂️)
+	273. Chase & Pikachu (Male♂️)
+	274. Chase & Eevee (Male♂️)
+	275. Ball Guy & Amoonguss (Male♂️)
+	276. Adaman (Special Costume) & Ursaluna (Male♂️)
+	277. Adaman (Palentine's 2026) & Sylveon (Male♂️)
+	278. Irida (Special Costume) & Zoroark (Female♀️)
+	279. Nemona & Pawmot (Male♂️)
+	280. Rei & Decidueye (Male♂️)
+	281. Rei (Academy) & Braviary (Male♂️)
+	282. Akari & Samurott (Male♂️)
+	283. Akari (Summer 2026) & Manaphy (Genderless)
+	284. Penny & Sylveon (Female♀️)
+	285. Grusha & Cetitan (Male♂️)
+	286. Iono & Bellibolt (Male♂️)
+	287. Sygna Suit Iono & Raging Bolt (Genderless)
+	288. Iono (Fall 2024) & Flutter Mane (Genderless)
+	289. Volo & Togepi (Female♀️)
+	290. Jacq & Farigiraf (Female♀️)
+	291. Bellelba & Swoobat (Female♀️)
+	292. Brycen-Man & Zoroark (Male♂️)
+	293. Rika & Clodsire (Male♂️)
+	294. Rika & Great Tusk (Genderless)
+	295. Rika (Palentine's 2026) & Quagsire (Female♀️)
+	296. Poppy & Tinkaton (Female♀️)
+	297. Poppy & Iron Treads (Genderless)
+	298. Poppy (New Year's 2025) & Steelix (Female♀️)
+	299. Larry & Dudunsparce (Male♂️)
+	300. Larry (Special Costume) & Flamigo (Male♂️)
+	301. Larry (Special Costume 2) & Komala (Female♀️)
+	302. Arezu (Summer 2026) & Basculegion (Male♂️)
+	303. Arven & Mabosstiff (Male♂️)
+	304. Arven (Holiday 2025) & Scovillain (Female♀️)
+	305. Clavell & Quaquaval (Male♂️)
+	306. Mela & Armarouge (Male♂️)
+	307. Giacomo & Kingambit (Male♂️)
+	308. Atticus & Revavroom (Male♂️)
+	309. Ortega & Dachsbun (Male♂️)
+	310. Eri & Annihilape (Male♂️)
+	311. Perrin (Academy) & Noctowl (Female♀️)
+	312. Lacey & Granbull (Female♀️)
+	313. Lacey (Fall 2025) & Whimsicott (Female♀️)
+	314. Carmine & Sinistcha (Genderless)
+	315. Clive & Amoonguss (Male♂️)
+
+[event_8070_4W_PokeMas_03]
+One time only on Pokémon Masters Day! Scout ×11 for 2,500 paid gems + exclusive sync pair guaranteed!
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+Type Scout: Happy Scout (Master Day)
+Require
+	Sync Pair Scout ×11
+		x2500 💎 Gems (Paid) | Limit Scout: 1
+🗓️ Start: 25/08/2026 06:00
+🗓️ End: 26/08/2026 06:00
+List Trainer guaranteed in this Banner:
+	1. Siebold (Holiday 2019) & Octillery (Male♂️)
+	2. Rosa (Holiday 2019) & Delibird (Female♀️)
+	3. Lance & Dragonite (Male♂️)
+	4. Cynthia & Garchomp (Female♀️)
+	5. Steven & Metagross (Genderless)
+	6. Sygna Suit Red & Charizard (Male♂️)
+	7. Steven (Summer 2020) & Sandslash (Male♂️)
+	8. Lyra (Summer 2020) & Jigglypuff (Female♀️)
+	9. Sygna Suit Cynthia & Kommo-o (Male♂️)
+	10. Sygna Suit Blue & Blastoise (Male♂️)
+	11. Sygna Suit Leaf & Venusaur (Female♀️)
+	12. Acerola (Fall 2020) & Mimikyu (Male♂️)
+	13. Hilbert (Fall 2020) & Mightyena (Male♂️)
+	14. Gloria & Zacian (Genderless)
+	15. Skyla (Holiday 2020) & Togekiss (Male♂️)
+	16. Erika (Holiday 2020) & Comfey (Female♀️)
+	17. N & Zekrom (Genderless)
+	18. Lillie (New Year's 2021) & Ribombee (Female♀️)
+	19. Lance (New Year's 2021) & Gyarados (Male♂️)
+	20. Serena (Palentine's 2021) & Whimsicott (Female♀️)
+	21. Dawn (Palentine's 2021) & Alcremie (Female♀️)
+	22. Lysandre & Yveltal (Genderless)
+	23. Alder & Volcarona (Male♂️)
+	24. Leon & Charizard (Male♂️)
+	25. Marnie & Morpeko (Female♀️)
+	26. Iris (Alt.) & Hydreigon (Female♀️)
+	27. Diantha & Gardevoir (Female♀️)
+	28. May (Spring 2021) & Lopunny (Female♀️)
+	29. Burgh (Spring 2021) & Togepi (Male♂️)
+	30. Raihan & Duraludon (Male♂️)
+	31. Maxie & Groudon (Genderless)
+	32. Archie & Kyogre (Genderless)
+	33. Ingo & Excadrill (Male♂️)
+	34. Emmet & Archeops (Male♂️)
+	35. Gloria (Summer 2021) & Inteleon (Male♂️)
+	36. Marnie (Summer 2021) & Grimmsnarl (Male♂️)
+	37. Lear & Hoopa (Genderless)
+	38. Sygna Suit Leon & Eternatus (Genderless)
+	39. N (Anniversary 2021) & Reshiram (Genderless)
+	40. Lillie (Anniversary 2021) & Lunala (Genderless)
+	41. Steven (Anniversary 2021) & Rayquaza (Genderless)
+	42. Red & Snorlax (Male♂️)
+	43. Blue (Classic) & Aerodactyl (Male♂️)
+	44. Morty (Fall 2021) & Banette (Male♂️)
+	45. Caitlin (Fall 2021) & Sableye (Female♀️)
+	46. Guzma (Special Costume) & Buzzwole (Genderless)
+	47. Diantha (Special Costume) & Keldeo (Genderless)
+	48. Jasmine (Special Costume) & Celesteela (Genderless)
+	49. Hilda (Special Costume) & Diancie (Genderless)
+	50. Sygna Suit Lusamine & Necrozma (Genderless)
+	51. Elesa (Classic) & Emolga (Female♀️)
+	52. Nessa (Holiday 2021) & Eiscue (Male♂️)
+	53. Leon (Holiday 2021) & Calyrex (Genderless)
+	54. Sygna Suit Cynthia (Renegade) & Giratina (Genderless)
+	55. Sabrina (New Year's 2022) & Chingling (Female♀️)
+	56. Volkner (New Year's 2022) & Electivire (Male♂️)
+	57. Lucas & Dialga (Genderless)
+	58. Marnie (Palentine's 2022) & Mawile (Female♀️)
+	59. Bea (Palentine's 2022) & Vanilluxe (Male♂️)
+	60. Sygna Suit Cyrus & Darkrai (Genderless)
+	61. Sygna Suit Dawn & Cresselia (Female♀️)
+	62. Skyla (Anniversary 2022) & Tornadus (Male♂️)
+	63. May (Anniversary 2022) & Latias (Female♀️)
+	64. Raihan (Anniversary 2022) & Flygon (Male♂️)
+	65. Sygna Suit Serena & Zygarde (Genderless)
+	66. Lillie (Special Costume) & Polteageist (Genderless)
+	67. Sonia (Special Costume) & Tsareena (Female♀️)
+	68. Ingo (Special Costume) & Accelgor (Male♂️)
+	69. Emmet (Special Costume) & Escavalier (Male♂️)
+	70. Sygna Suit Morty & Ho-Oh (Genderless)
+	71. Sygna Suit Giovanni & Nidoking (Male♂️)
+	72. Sygna Suit Ethan & Lugia (Genderless)
+	73. Sygna Suit Kris & Suicune (Genderless)
+	74. Sygna Suit Lyra & Celebi (Genderless)
+	75. Bede & Hatterene (Female♀️)
+	76. N (Summer 2022) & Zoroark (Male♂️)
+	77. Hilda (Summer 2022) & Grapploct (Female♀️)
+	78. Sygna Suit Korrina & Marshadow (Genderless)
+	79. Gloria (Dojo Uniform) & Urshifu (Male♂️)
+	80. Sygna Suit May & Blaziken (Male♂️)
+	81. Sygna Suit Brendan & Latios (Male♂️)
+	82. Sygna Suit Steven & Deoxys (Genderless)
+	83. Sygna Suit Red (Thunderbolt) & Pikachu (Male♂️)
+	84. Sygna Suit Cynthia (Aura) & Lucario (Male♂️)
+	85. Rosa (Special Costume) & Shaymin (Genderless)
+	86. Sygna Suit Wally & Gardevoir (Male♂️)
+	87. Victor & Rillaboom (Male♂️)
+	88. Iris (Fall 2022) & Naganadel (Genderless)
+	89. Allister (Fall 2022) & Gourgeist (Male♂️)
+	90. Sygna Suit Hilbert & Genesect (Genderless)
+	91. Sygna Suit Hilda & Victini (Genderless)
+	92. Sygna Suit N & Kyurem (Genderless)
+	93. Lucas & Flareon (Male♂️)
+	94. Kris & Jolteon (Female♀️)
+	95. Lyra & Vaporeon (Female♀️)
+	96. Serena (Champion) & Greninja (Male♂️)
+	97. Calem (Champion) & Greninja (Male♂️)
+	98. Jasmine (Holiday 2022) & Ampharos (Female♀️)
+	99. Whitney (Holiday 2022) & Sawsbuck (Female♀️)
+	100. Sygna Suit Diantha & Diancie (Genderless)
+	101. Lisia (New Year's 2023) & Rapidash (Male♂️)
+	102. Dawn (New Year's 2023) & Oricorio (Female♀️)
+	103. Mallow (Palentine's 2023) & Appletun (Female♀️)
+	104. Elesa (Palentine's 2023) & Togetic (Female♀️)
+	105. Sygna Suit Lysandre & Volcanion (Genderless)
+	106. Anabel & Snorlax (Male♂️)
+	107. Emma & Crobat (Male♂️)
+	108. Marnie (Champion) & Moltres (Genderless)
+	109. Hop (Champion) & Zapdos (Genderless)
+	110. Bede (Champion) & Articuno (Genderless)
+	111. Ball Guy & Amoonguss (Male♂️)
+	112. Steven (Special Costume) & Stoutland (Male♂️)
+	113. Shauna (Special Costume) & Klefki (Female♀️)
+	114. Zinnia (Special Costume) & Thievul (Female♀️)
+	115. Lyra (Special Costume) & Phanpy (Female♀️)
+	116. Lorelei & Cloyster (Female♀️)
+	117. Bruno & Onix (Male♂️)
+	118. Sygna Suit Hau & Tapu Koko (Genderless)
+	119. Sygna Suit Mina & Tapu Fini (Genderless)
+	120. Sygna Suit Acerola & Tapu Bulu (Genderless)
+	121. Sygna Suit Lana & Tapu Lele (Genderless)
+	122. Agatha & Arbok (Female♀️)
+	123. Lance & Dragonair (Male♂️)
+	124. Adaman & Leafeon (Male♂️)
+	125. Irida & Glaceon (Female♀️)
+	126. Eusine & Suicune (Genderless)
+	127. Sygna Suit Silver & Sneasel (Male♂️)
+	128. Tate (Summer 2023) & Jirachi (Genderless)
+	129. Liza (Summer 2023) & Celesteela (Genderless)
+	130. Rose & Copperajah (Female♀️)
+	131. Oleana & Garbodor (Female♀️)
+	132. Kiawe & Arcanine (Male♂️)
+	133. Mallow & Shiinotic (Female♀️)
+	134. Leon (Alt.) & Dragapult (Male♂️)
+	135. Gloria (Alt. 2) & Cinderace (Male♂️)
+	136. Nemona & Pawmot (Male♂️)
+	137. Red (Champion) & Articuno (Genderless)
+	138. Blue (Champion) & Zapdos (Genderless)
+	139. Leaf (Champion) & Moltres (Genderless)
+	140. Paulo & Lycanroc (Male♂️)
+	141. Giovanni & Rhydon (Male♂️)
+	142. Archer & Houndoom (Male♂️)
+	143. Ariana & Arbok (Female♀️)
+	144. Petrel & Weezing (Male♂️)
+	145. Proton & Golbat (Male♂️)
+	146. Palmer & Regigigas (Genderless)
+	147. Argenta & Skarmory (Female♀️)
+	148. Akari & Samurott (Male♂️)
+	149. Rei & Decidueye (Male♂️)
+	150. Thorton & Magnezone (Genderless)
+	151. Noland & Ninjask (Male♂️)
+	152. Phoebe (Fall 2023) & Cofagrigus (Female♀️)
+	153. Roxanne (Fall 2023) & Runerigus (Female♀️)
+	154. Sygna Suit Roxie & Toxtricity (Female♀️)
+	155. Sygna Suit Piers & Toxtricity (Male♂️)
+	156. Penny & Sylveon (Female♀️)
+	157. Elaine & Eevee (Female♀️)
+	158. Elio & Espeon (Male♂️)
+	159. Selene & Umbreon (Female♀️)
+	160. Nate (Champion) & Haxorus (Male♂️)
+	161. Viola (Holiday 2023) & Vivillon (Female♀️)
+	162. Sycamore (Holiday 2023) & Gogoat (Male♂️)
+	163. Rosa (Champion) & Meloetta (Genderless)
+	164. Clair (New Year's 2024) & Drampa (Female♀️)
+	165. Wallace (New Year's 2024) & Blacephalon (Genderless)
+	166. Grusha & Cetitan (Male♂️)
+	167. Iono & Bellibolt (Male♂️)
+	168. Sygna Suit Gladion & Magearna (Genderless)
+	169. Chase & Pikachu (Male♂️)
+	170. Victor (Palentine's 2024) & Greedent (Male♂️)
+	171. Candice (Palentine's 2024) & Darmanitan (Female♀️)
+	172. Falkner & Noctowl (Male♂️)
+	173. Geeta & Glimmora (Male♂️)
+	174. Silver (Champion) & Tyranitar (Male♂️)
+	175. Adaman (Special Costume) & Ursaluna (Male♂️)
+	176. Irida (Special Costume) & Zoroark (Female♀️)
+	177. Dahlia & Ludicolo (Female♀️)
+	178. Volo & Togepi (Female♀️)
+	179. Jacq & Farigiraf (Female♀️)
+	180. Barry (Special Costume) & Heracross (Male♂️)
+	181. Selene (Special Costume) & Scizor (Female♀️)
+	182. Rika & Clodsire (Male♂️)
+	183. Brycen-Man & Zoroark (Male♂️)
+	184. Bellelba & Swoobat (Female♀️)
+	185. Guzma & Ariados (Male♂️)
+	186. Plumeria & Gengar (Male♂️)
+	187. Poppy & Tinkaton (Female♀️)
+	188. Cheren (Champion) & Tornadus (Male♂️)
+	189. Bianca (Champion) & Virizion (Genderless)
+	190. Larry & Dudunsparce (Male♂️)
+	191. Kabu & Centiskorch (Male♂️)
+	192. Klara & Slowbro (Female♀️)
+	193. Avery & Slowking (Male♂️)
+	194. Greta & Breloom (Female♀️)
+	195. Gardenia (Summer 2024) & Dhelmise (Genderless)
+	196. Acerola (Summer 2024) & Jellicent (Male♂️)
+	197. Selene (Alt.) & Nihilego (Genderless)
+	198. Elio (Alt.) & Stakataka (Genderless)
+	199. Arven & Mabosstiff (Male♂️)
+	200. Sygna Suit Nemona & Scream Tail (Genderless)
+	201. Sygna Suit Lear & Gholdengo (Genderless)
+	202. Rachel & Gimmighoul (Genderless)
+	203. Sawyer & Gimmighoul (Genderless)
+	204. Giacomo & Kingambit (Male♂️)
+	205. Clavell & Quaquaval (Male♂️)
+	206. Iono (Fall 2024) & Flutter Mane (Genderless)
+	207. Shauntal (Fall 2024) & Froslass (Female♀️)
+	208. Sygna Suit Ingo & Chandelure (Male♂️)
+	209. Sygna Suit Emmet & Eelektross (Male♂️)
+	210. Eri & Annihilape (Male♂️)
+	211. Sina & Glaceon (Female♀️)
+	212. Dexio & Espeon (Male♂️)
+	213. Hilda & Leafeon (Female♀️)
+	214. Hilbert & Glaceon (Male♂️)
+	215. Calem & Sylveon (Male♂️)
+	216. Milo & Eldegoss (Male♂️)
+	217. Marnie & Cinderace (Female♀️)
+	218. Hop & Rillaboom (Male♂️)
+	219. Bede & Inteleon (Male♂️)
+	220. Lillie (Holiday 2024) & Primarina (Female♀️)
+	221. Bugsy (Holiday 2024) & Kricketune (Male♂️)
+	222. Sygna Suit Giovanni (Alt.) & Guzzlord (Genderless)
+	223. Raihan (New Year's 2025) & Sandaconda (Male♂️)
+	224. Poppy (New Year's 2025) & Steelix (Female♀️)
+	225. Mela & Armarouge (Male♂️)
+	226. Atticus & Revavroom (Male♂️)
+	227. Marley (Palentine's 2025) & Shaymin (Genderless)
+	228. Erika (Palentine's 2025) & Lurantis (Female♀️)
+	229. Juliana & Koraidon (Genderless)
+	230. Florian & Miraidon (Genderless)
+	231. Brendan (Champion) & Groudon (Genderless)
+	232. May (Champion) & Kyogre (Genderless)
+	233. Ortega & Dachsbun (Male♂️)
+	234. Hop & Zacian (Genderless)
+	235. Ethan & Ho-Oh (Genderless)
+	236. Lacey & Granbull (Female♀️)
+	237. Rei (Academy) & Braviary (Male♂️)
+	238. Cynthia & Spiritomb (Female♀️)
+	239. Marnie (Academy) & Cyclizar (Female♀️)
+	240. Morty (Academy) & Typhlosion (Male♂️)
+	241. Benga & Volcarona (Male♂️)
+	242. Sygna Suit Iono & Raging Bolt (Genderless)
+	243. Sygna Suit Elesa (Alt.) & Thundurus (Male♂️)
+	244. Sygna Suit Bede & Iron Valiant (Genderless)
+	245. Grimsley (Kimono) & Absol (Female♀️)
+	246. Elio (Champion) & Necrozma (Genderless)
+	247. Selene (Champion) & Necrozma (Genderless)
+	248. Larry (Special Costume) & Flamigo (Male♂️)
+	249. Clive & Amoonguss (Male♂️)
+	250. Samson Oak & Exeggutor (Male♂️)
+	251. Melony & Frosmoth (Female♀️)
+	252. Gordie & Barbaracle (Male♂️)
+	253. Cynthia (Summer 2025) & Milotic (Female♀️)
+	254. Skyla (Summer 2025) & Jumpluff (Female♀️)
+	255. Carmine & Sinistcha (Genderless)
+	256. Iris (Academy) & Lapras (Female♀️)
+	257. Gladion (Academy) & Porygon-Z (Genderless)
+	258. Kieran & Hydrapple (Male♂️)
+	259. Hilbert & Thundurus (Male♂️)
+	260. Hilda & Tornadus (Male♂️)
+	261. N & Landorus (Male♂️)
+	262. Lacey (Fall 2025) & Whimsicott (Female♀️)
+	263. Cilan & Simisage (Male♂️)
+	264. Chili & Simisear (Male♂️)
+	265. Cress & Simipour (Male♂️)
+	266. Jasmine (Academy) & Forretress (Female♀️)
+	267. Kabu (Academy) & Camerupt (Male♂️)
+	268. Chase & Eevee (Male♂️)
+	269. Lance & Charizard (Male♂️)
+	270. Arven (Holiday 2025) & Scovillain (Female♀️)
+	271. Lana (New Year’s 2026) & Dondozo (Female♀️)
+	272. Adaman (Palentine's 2026) & Sylveon (Male♂️)
+	273. Rika (Palentine's 2026) & Quagsire (Female♀️)
+	274. Perrin (Academy) & Noctowl (Female♀️)
+	275. Sonia (Academy) & Corviknight (Male♂️)
+	276. Larry (Special Costume 2) & Komala (Female♀️)
+	277. Flannery (Special Costume) & Magcargo (Male♂️)
+	278. Rika & Great Tusk (Genderless)
+	279. Poppy & Iron Treads (Genderless)
+	280. Akari (Summer 2026) & Manaphy (Genderless)
+	281. Arezu (Summer 2026) & Basculegion (Male♂️)
+
+
+==================================

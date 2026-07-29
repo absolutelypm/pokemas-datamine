@@ -1,0 +1,639 @@
+========================================= 
+1. No. 12 Whitney & Girafarig (Female♀️) 
+2. No. 121 Selene & Primarina (Female♀️) 
+3. No. 224 Juliana & Chimecho (Female♀️) 
+4. No. 225 Florian (Alt.) & Yanmega (Male♂️) - Tera Type Bug 
+5. No. 233 Carmine (Alt.) & Mightyena (Female♀️) 
+6. No. 248 Harmony & Feraligatr (Female♀️) 
+7. No. 249 Urbain & Meganium (Male♂️) 
+========================================= 
+ 
+No. 12 Whitney & Girafarig (Female♀️)
+
+Descriptions: A lively, talkative, trend-following Gym Leader who’s proud of her cute Pokémon, she cries in disappointment when she loses a battle.
+Role: Strike (Special)
+Type: Normal | Weakness: Bug
+Rarity: ⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑1 Soothing ↑1
+Method: 🏨 Exchange - Friendship Level-Up 100 in Lodge
+Item Exchange: 🗿 Lodge Stone (After Level 100)
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Normal Strike
+2. Johto Strike
+3. Gym Leader Strike
+4. Pigtails Strike
+5. Pokéathlete Strike
+
+Sync Pair Available: 1/8/2026 06:00:00
+EX Effect Available: 1/8/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Hyper Beam
+Type: Normal
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 223 (1)/267 (5↑ MAX) | Accuracy: 90 | Gauge: 4 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: X Sp. Atk
+Category: Status
+User: Pokemon
+Description: Raises the user’s Sp. Atk by two stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 2
+
+Move 3: Hyper Voice
+Type: Normal
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 63 (1)/75 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 4: I Really Want to Battle!
+Category: Status
+User: Trainer
+Description: Raises the user’s critical-hit rate by three stat ranks. Applies the Free Move Next effect to the user. Increases the user’s Special Moves ↑ Next effect by two ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Perfect for a Cutie Like Me Normal Beam
+Type: Normal
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 300 (1)/360 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Sync Thinker 9
+Increases the user’s Special Moves ↑ Next effect by one rank after using its sync move.
+
+Passive 2: Mind Games 9
+Lowers the target’s Sp. Def by one stat rank when the user’s attack move against it is successful.
+
+Passive 3: Unflappable
+Prevents the user from flinching.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 98 | Attack : 13 | Defense : 7 | Sp. Atk : 10 | Sp. Def : 7 | Speed : 9
+
+Lv. 140
+HP : 611 | Attack : 312 | Defense : 116 | Sp. Atk : 346 | Sp. Def : 116 | Speed : 291
+
+Lv. 150
+HP : 639 | Attack : 328 | Defense : 122 | Sp. Atk : 364 | Sp. Def : 122 | Speed : 307
+
+Lv. 200
+HP : 779 | Attack : 408 | Defense : 152 | Sp. Atk : 454 | Sp. Def : 152 | Speed : 387
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 121 Selene & Primarina (Female♀️)
+
+Dialog 5 Stars: The excitement has been nonstop! It reminds me of the island challenge!
+Descriptions: This highly curious and easygoing Trainer is friendly with everyone and quite easy to get along with. She doesn’t worry about the little things and tends to act on instinct.
+Role: Field | EX Role 🌈: Tech
+Type: Fairy | Weakness: Grass
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Soothing ↑2
+Method: 🔄 Mix Scout
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Fairy Field
+2. Alola Field
+3. Main Character Field
+4. Nature Lover Field
+5. Alola Adventurer Field
+
+Sync Pair Available: 1/8/2026 06:00:00
+EX Effect Available: 1/8/2026 06:00:00
+EX Role Available: 1/8/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Play Rough
+Type: Fairy
+Category: Physical
+User: Pokemon
+Description: Has a chance (10%) of lowering the target’s Attack by one stat rank.
+Power: 111 (1)/133 (5↑ MAX) | Accuracy: 90 | Gauge: 3 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Fairy Wish
+Category: Status
+User: Pokemon
+Description: Turns the field of play’s zone into a Fairy Zone. (A Fairy Zone powers up Fairy-type attacks.)
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 3: Elegant Play Rough
+Type: Fairy
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When the user uses any move once. Deactivation Condition: Cannot be deactivated. Lowers the target’s Attack and Sp. Atk by two stat ranks. The power of this move is not lowered even if there are multiple targets. If the remaining MP for the user’s Fairy Wish is one or more when attacking with this move, reduces those MP by one and grants all of the following effects: Turns the field of play’s zone into a Fairy Zone. (A Fairy Zone powers up Fairy-type attacks.) Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank.
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 4: In a Hurry!
+Category: Status
+User: Trainer
+Description: Reduces the sync move countdown of an ally by one. Applies the Supereffective ↑ Next effect to an ally. Increases the Sync Move ↑ Next effect of an ally by five ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: -- | Max uses: 1
+
+Sync Move: Moonlit Melody Fairy Impact
+Type: Fairy
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Entry: Attack ↑6 & Crit Rate ↑3
+Raises the user’s Attack by six stat ranks when it enters a battle. Raises the user’s critical-hit rate by three stat ranks when it enters a battle.
+
+Passive 2: 1st “Fairy Wish” MP 0: Team Physical Boost 3
+Increases the Physical Moves ↑ Next effect of all allied sync pairs by three ranks the first time the remaining MP for the user’s Fairy Wish is zero each battle.
+
+Passive 3: Fairy Zone Hit: Defense ↓2 9
+Lowers the target’s Defense by two stat ranks when the user’s attack move is successful while the zone is a Fairy Zone.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 102 | Attack : 13 | Defense : 8 | Sp. Atk : 13 | Sp. Def : 18 | Speed : 10
+
+Lv. 140
+HP : 656 | Attack : 336 | Defense : 172 | Sp. Atk : 336 | Sp. Def : 191 | Speed : 307
+
+Lv. 150
+HP : 686 | Attack : 354 | Defense : 180 | Sp. Atk : 354 | Sp. Def : 201 | Speed : 323
+
+Lv. 200
+HP : 836 | Attack : 444 | Defense : 220 | Sp. Atk : 444 | Sp. Def : 251 | Speed : 403
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 224 Juliana & Chimecho (Female♀️)
+
+Descriptions: This Naranja Academy student from Paldea has a lively and cheerful personality and can get along with anyone. She can be a little oblivious sometimes.
+Role: Tech | EX Role 🌈: Sprint
+Type: Psychic | Weakness: Ghost
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Soothing ↑2
+Method: 🎓🏫 Academy Event
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Psychic Tech
+2. Paldea Tech
+3. Main Character Tech
+4. Cook Tech
+5. Free Spirit Tech
+
+Sync Pair Available: 31/7/2026 06:00:00
+EX Effect Available: 31/7/2026 06:00:00
+EX Role Available: 31/7/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Psybeam
+Type: Psychic
+Category: Special
+User: Pokemon
+Description: Has a chance (10%) of leaving the target confused.
+Power: 48 (1)/57 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Sync Move: Beautiful Windy Echoes Psychic Beam
+Type: Psychic
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 27 | Attack : 18 | Defense : 13 | Sp. Atk : 18 | Sp. Def : 13 | Speed : 18
+
+Lv. 140
+HP : 200 | Attack : 140 | Defense : 40 | Sp. Atk : 140 | Sp. Def : 40 | Speed : 300
+
+Lv. 150
+HP : 210 | Attack : 146 | Defense : 42 | Sp. Atk : 146 | Sp. Def : 42 | Speed : 316
+
+Lv. 200
+HP : 260 | Attack : 176 | Defense : 52 | Sp. Atk : 176 | Sp. Def : 52 | Speed : 396
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 225 Florian (Alt.) & Yanmega (Male♂️)
+Form: Tera Type: Bug
+Dialog 5 Stars: It’d be so nice to go to a Kitakami festival together!
+Descriptions: Florian is in the same jinbei he wore to the Festival of Masks in the Land of Kitakami. His outfit holds memories of his friends and Pokémon.
+Role: Strike (Physical) | EX Role 🌈: Sprint
+Type: Bug | Weakness: Rock
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑2
+Method: 🎈🌟 EX Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Bug Strike
+2. Paldea Strike
+3. Main Character Strike
+4. Cook Strike
+5. Knowledgeable Strike
+
+Sync Pair Available: 31/7/2026 06:00:00
+EX Effect Available: 31/7/2026 06:00:00
+EX Role Available: 31/7/2026 06:00:00
+Superawakened Available: 31/7/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Hypnosis
+Type: Psychic
+Category: Status
+User: Pokemon
+Description: Puts the target to sleep.
+Power: -- | Accuracy: 75 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: EX Speed
+Category: Status
+User: Pokemon
+Description: Raises the user’s Speed by six stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Move 3: Zipping Lunge
+Type: Bug
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When your team’s sync pair uses a sync move once. Deactivation Condition: When this move is used. Lowers the target’s Attack by three stat ranks. The power of this move is not lowered even if there are multiple targets. Applies the Free Move Next effect to the user.
+Power: 240 (1)/288 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 4: Festival Starts Now!
+Category: Status
+User: Trainer
+Description: Reduces the user’s sync move countdown by three. Applies the Supereffective ↑ Next effect to the user. Applies the Free Move Next effect to the user.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Festival of Curiosity Tera Blast
+Type: Bug
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+(🌅🌟) Superawakened Passive: Memories of Kitakami Road
+Powers up the sync moves of all allied sync pairs when the zone is a Bug Zone. Extends the duration of the Bug Zone when the zone turns into a Bug Zone while the user is on the field. Except in certain circumstances, successful hits with the user’s following attacks become critical hits: Pokémon’s moves or sync move.
+
+Passive 1(🏅): Paldea Rush
+Reduces the user’s sync move countdown by one the first time it enters a battle each battle. When used in a co-op battle, reduces the user’s sync move countdown by one the first time your team enters a battle each battle instead. The more allied sync pairs with the Paldea theme you have on your team, the greater the reduction is. (Each additional sync pair increases the reduction by one, and the maximum reduction is three.) The effects do not stack if you have more than one sync pair on your team with passive skills of the same name.
+
+Passive 2: Debut: Bug S-Tera
+The user Sync Terastallizes into Bug type the first time it enters a battle each battle.
+
+Passive 3: 1st T-Move: Attack ↑6 & Crit Rate ↑3
+Raises the user’s Attack by six stat ranks the first time its Trainer uses a move each battle. Raises the user’s critical-hit rate by three stat ranks the first time its Trainer uses a move each battle.
+
+Passive 4: Piercing Gaze
+Moves never miss.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 111 | Attack : 17 | Defense : 13 | Sp. Atk : 17 | Sp. Def : 12 | Speed : 10
+
+Lv. 140
+HP : 665 | Attack : 424 | Defense : 161 | Sp. Atk : 424 | Sp. Def : 147 | Speed : 346
+
+Lv. 150
+HP : 695 | Attack : 446 | Defense : 169 | Sp. Atk : 446 | Sp. Def : 155 | Speed : 364
+
+Lv. 200
+HP : 845 | Attack : 556 | Defense : 209 | Sp. Atk : 556 | Sp. Def : 195 | Speed : 454
+
+
+📌 Tera Details 📌
+💎 Tera Moves Details ⚔️
+💎 Tera Move: Jadeite Tera Blast
+Type: Bug
+Category: Physical
+User: Pokemon
+Description: Lowers the target’s Defense by two stat ranks. Turns the field of play’s zone into a Bug Zone the first time this attack move is successful each battle. (A Bug Zone powers up Bug-type attacks.)
+Power: 300 (1)/360 (5↑ MAX) | Accuracy: 100 | Gauge: 4 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+🛡️ Passives Details 🌟
+Passive 2: Ancient Ogre Wingbeats
+Removes all of the user’s Speed increases, and increases its Physical Moves ↑ Next effect by the same amount after using its sync move.
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 233 Carmine (Alt.) & Mightyena (Female♀️)
+
+Dialog 5 Stars: Feel free to be dazzled by how great I look in my jinbei. I’ll win while you’re distracted!
+Descriptions: Carmine is in the same jinbei she wore to the Festival of Masks in the Land of Kitakami. She knows it suits her well, and she’s brimming with confidence.
+Role: Support | EX Role 🌈: Field
+Type: Dark | Weakness: Fairy
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Rare ↑2 Fiery ↓1 Soothing ↓1
+Method: 🎈🌟 EX Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Dark Support
+2. Paldea Support
+3. Rival Support
+4. Battle Partner Support
+5. Blueberry Academy Support
+
+Sync Pair Available: 31/7/2026 06:00:00
+EX Effect Available: 31/7/2026 06:00:00
+EX Role Available: 31/7/2026 06:00:00
+Superawakened Available: 31/7/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Bite
+Type: Dark
+Category: Physical
+User: Pokemon
+Description: Has a chance (30%) of making the target flinch.
+Power: 42 (1)/50 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Paldea Passion
+Category: Status
+User: Pokemon
+Description: Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank. Applies Paldea Circle (Physical) to the allied field of play. Paldea Circle (Physical) grants all of the following effects: Powers up the physical attack moves and physical sync moves of all allied sync pairs by 10%. Reduces physical attack move and physical sync move damage taken by all allied sync pairs by 5%. The more sync pairs with the Paldea theme that are on the allied field of play, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 10% and reduces damage by 3%. The maximum power-up is 40%, and the maximum damage reduction is 14%.)
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
+
+Move 3: Sharp Fangs Crunch
+Type: Dark
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When a circle is applied to the allied field of play. Deactivation Condition: When there are no longer any circles applied to the allied field of play. Never misses. Lowers the target’s Defense by three stat ranks. Applies the Physical Move Break effect to the target the first time this attack move is successful each battle. Turns the field of play’s zone into a Dark Zone the first time this attack move is successful each battle. (A Dark Zone powers up Dark-type attacks.) Increases the Physical Moves ↑ Next effect of all allied sync pairs by two ranks.
+Power: 150 (1)/180 (5↑ MAX) | Accuracy: -- | Gauge: 1 | Target: An opponent | Effect Tag: Sure Hit | Max uses: 2
+
+Move 4: First One Wins!
+Category: Status
+User: Trainer
+Description: Reduces the user’s sync move countdown by one. Raises the Attack of all allied sync pairs by three stat ranks. Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 2
+
+Sync Move: Ogre Balloon–Busting Champion Crunch
+Type: Dark
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+(🌅🌟) Superawakened Passive: Ogre Balloon–Busting Champion
+Reduces the user’s sync move countdown by one the first time its sync move is used each battle. Turns the field of play’s zone into a Dark Zone the first time the user’s Trainer uses a move each battle. (A Dark Zone powers up Dark-type attacks.) Extends the duration of the Dark Zone when the zone turns into a Dark Zone while the user is on the field.
+
+Passive 1(🏅): Paldea Rush
+Reduces the user’s sync move countdown by one the first time it enters a battle each battle. When used in a co-op battle, reduces the user’s sync move countdown by one the first time your team enters a battle each battle instead. The more allied sync pairs with the Paldea theme you have on your team, the greater the reduction is. (Each additional sync pair increases the reduction by one, and the maximum reduction is three.) The effects do not stack if you have more than one sync pair on your team with passive skills of the same name.
+
+Passive 2: Dazzling Jinbei Look
+Applies Paldea Circle (Physical) to the allied field of play the first time the user enters a battle each battle. Applies the Endure and Restore effect to the user the first time it enters a battle each battle.
+
+Passive 3: Talent for Oustin’ Ogres
+Reduces the user’s sync move countdown by one when it applies Paldea Circle (Physical) to the allied field of play. Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank when the user applies Paldea Circle (Physical) to the allied field of play.
+
+Passive 4: Vigilance
+Protects the user against critical hits.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 109 | Attack : 15 | Defense : 19 | Sp. Atk : 13 | Sp. Def : 20 | Speed : 9
+
+Lv. 140
+HP : 687 | Attack : 312 | Defense : 316 | Sp. Atk : 268 | Sp. Def : 319 | Speed : 328
+
+Lv. 150
+HP : 719 | Attack : 328 | Defense : 332 | Sp. Atk : 282 | Sp. Def : 335 | Speed : 346
+
+Lv. 200
+HP : 879 | Attack : 408 | Defense : 412 | Sp. Atk : 352 | Sp. Def : 415 | Speed : 436
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 248 Harmony & Feraligatr (Female♀️)
+
+Dialog 5 Stars: No matter the problem, I’ll help you handle it!
+Descriptions: This Trainer traveled to Lumiose City on vacation. With her incredible battling skills, she tackled many incidents across the city with her friends.
+Role: Sprint | EX Role 🌈: Strike (Physical)
+Type: Water | Weakness: Electric
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑2
+Method: 🎈🌟 EX Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Water Sprint
+2. Kalos Sprint
+3. Main Character Sprint
+4. Sweet Tooth Sprint
+
+Sync Pair Available: 14/8/2026 06:00:00
+EX Effect Available: 14/8/2026 06:00:00
+EX Role Available: 14/8/2026 06:00:00
+Superawakened Available: 14/8/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Massive Jaws Liquidation
+Type: Water
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When the user’s Attack is raised. Deactivation Condition: Cannot be deactivated. Lowers the target’s Defense by two stat ranks. The power of this move is not lowered even if there are multiple targets.
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: 100 | Gauge: 4 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 2: Kalos Passion
+Category: Status
+User: Pokemon
+Description: Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank. Applies Kalos Circle (Physical) to the allied field of play. Kalos Circle (Physical) grants all of the following effects: Powers up the physical attack moves and physical sync moves of all allied sync pairs by 10%. Reduces physical attack move and physical sync move damage taken by all allied sync pairs by 5%. The more sync pairs with the Kalos theme that are on the allied field of play, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 10% and reduces damage by 3%. The maximum power-up is 40%, and the maximum damage reduction is 14%.)
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
+
+Move 3: Rushing Rapids Aqua Jet
+Type: Water
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When the user uses any move once. Deactivation Condition: Cannot be deactivated. Reduces the user’s sync move countdown by two. Increases the user’s Sync Move ↑ Next effect by five ranks. If the user’s Feraligatr has Mega Evolved, also increases this attack’s power by 50%.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: 100 | Gauge: -- | Target: An opponent | Effect Tag: Quick Move | Max uses: 3
+
+Move 4: With Confidence!
+Category: Status
+User: Trainer
+Description: Raises the user’s Attack by six stat ranks. Raises the user’s critical-hit rate by three stat ranks. Applies Kalos Circle (Physical) to the allied field of play. Kalos Circle (Physical) grants all of the following effects: Powers up the physical attack moves and physical sync moves of all allied sync pairs by 10%. Reduces physical attack move and physical sync move damage taken by all allied sync pairs by 5%. The more sync pairs with the Kalos theme that are on the allied field of play, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 10% and reduces damage by 3%. The maximum power-up is 40%, and the maximum damage reduction is 14%.)
+Power: -- | Accuracy: -- | Gauge: -- | Target: Allied side | Effect Tag: -- | Max uses: 1
+
+Sync Move: Lumiose-Loving Traveler Liquidation
+Type: Water
+Category: Physical
+User: Pokemon
+Description: Become Mega Feraligatr until the end of battle. The more the user’s Attack is raised, the greater the power of this attack.
+Power: 160 (1)/192 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+(🌅🌟) Superawakened Passive: Gigantic Jaws’ Tenfold Power
+Powers up the sync moves of all allied sync pairs when a circle applies to the allied field of play. Restores the user’s HP by approximately 40% of its maximum HP the first time it is in a pinch each battle. Except in certain circumstances, successful hits with the user’s following attacks become critical hits: Pokémon’s moves or sync move.
+
+Passive 1(🏅): Kalos Rush
+Reduces the user’s sync move countdown by one the first time it enters a battle each battle. When used in a co-op battle, reduces the user’s sync move countdown by one the first time your team enters a battle each battle instead. The more allied sync pairs with the Kalos theme you have on your team, the greater the reduction is. (Each additional sync pair increases the reduction by one, and the maximum reduction is three.) The effects do not stack if you have more than one sync pair on your team with passive skills of the same name.
+
+Passive 2: Team MZ’s Secret Weapon
+Reduces the MP for the user’s Kalos Passion by one and grants all of the following effects after your team’s sync pair uses their sync move: Applies Kalos Circle (Physical) to the allied field of play. Increases the user’s Physical Moves ↑ Next effect by two ranks. Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank.
+
+Passive 3: A Winner’s True Strength
+Applies the Physical Move Break effect to all opposing sync pairs the first time the user’s sync move is used each battle. Increases the user’s Physical Moves ↑ Next effect by two ranks the first time its sync move is used each battle.
+
+Passive 4: Circle: S-Moves ↑ 9
+Powers up the user’s sync move when a circle applies to the allied field of play.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 91 | Attack : 20 | Defense : 17 | Sp. Atk : 13 | Sp. Def : 16 | Speed : 13
+
+Lv. 140
+HP : 669 | Attack : 356 | Defense : 165 | Sp. Atk : 336 | Sp. Def : 164 | Speed : 312
+
+Lv. 150
+HP : 701 | Attack : 374 | Defense : 173 | Sp. Atk : 354 | Sp. Def : 172 | Speed : 328
+
+Lv. 200
+HP : 861 | Attack : 464 | Defense : 213 | Sp. Atk : 444 | Sp. Def : 212 | Speed : 408
+
+
+📌 Mega Details 📌
+📊🔄 Mega Stats 📊🔄
+
+Lv. 1
+HP : 91 | Attack : 23 | Defense : 17 | Sp. Atk : 13 | Sp. Def : 16 | Speed : 15
+
+Lv. 140
+HP : 669 | Attack : 427 | Defense : 165 | Sp. Atk : 336 | Sp. Def : 164 | Speed : 374
+
+Lv. 150
+HP : 701 | Attack : 448 | Defense : 173 | Sp. Atk : 354 | Sp. Def : 172 | Speed : 393
+
+Lv. 200
+HP : 861 | Attack : 556 | Defense : 213 | Sp. Atk : 444 | Sp. Def : 212 | Speed : 489
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 249 Urbain & Meganium (Male♂️)
+
+Dialog 5 Stars: Fist bump! Put them knuckles out!
+Descriptions: This Trainer loves Lumiose City. He can be a bit pushy at times, but helping people and Pokémon in need is always top of mind.
+Role: Strike (Special) | EX Role 🌈: Tech
+Type: Grass | Weakness: Poison
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Rare ↑2 Soothing ↓2
+Method: 🎈🌟 EX Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Grass Strike
+2. Kalos Strike
+3. Rival Strike
+4. Passionate Spirit Strike
+
+Sync Pair Available: 16/8/2026 06:00:00
+EX Effect Available: 16/8/2026 06:00:00
+EX Role Available: 16/8/2026 06:00:00
+Superawakened Available: 16/8/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Luxuriant Leaf Storm
+Type: Grass
+Category: Special
+User: Pokemon
+Description: Activation Condition: When the user’s Sp. Atk is raised. Deactivation Condition: Cannot be deactivated. Lowers the target’s Sp. Def by two stat ranks. The power of this move is not lowered even if there are multiple targets. In addition, lowers the target’s Attack by one stat rank when the Physical Damage Reduction effect applies to the allied field of play. In addition, lowers the target’s Sp. Atk by one stat rank when the Special Damage Reduction effect applies to the allied field of play.
+Power: 150 (1)/180 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 2: Kalos Analysis
+Category: Status
+User: Pokemon
+Description: Increases the Special Moves ↑ Next effect of all allied sync pairs by one rank. Applies Kalos Circle (Special) to the allied field of play. Kalos Circle (Special) grants all of the following effects: Powers up the special attack moves and special sync moves of all allied sync pairs by 10%. Reduces special attack move and special sync move damage taken by all allied sync pairs by 5%. The more sync pairs with the Kalos theme that are on the allied field of play, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 10% and reduces damage by 3%. The maximum power-up is 40%, and the maximum damage reduction is 14%.)
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
+
+Move 3: Four-Fleur Solar Beam
+Type: Grass
+Category: Special
+User: Pokemon
+Description: Activation Condition: When a Kalos Circle is applied to the allied field of play. Deactivation Condition: When there are no longer any Kalos Circles applied to the allied field of play. The user gets ready to attack. Using this move again will cause the user to leave this posture, then attack. No other actions can be taken while ready to attack. The preparation period is skipped when the weather is sunny or if the user’s Meganium has Mega Evolved, and the user will attack right away. The power of this move is not lowered even if there are multiple targets. This attack’s power increases 50% when the Physical Damage Reduction effect applies to the allied field of play. This attack’s power increases 50% when the Special Damage Reduction effect applies to the allied field of play. (This attack’s power is doubled if both the Physical Damage Reduction effect and Special Damage Reduction effect apply to the allied field of play.)
+Power: 150 (1)/180 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: All opponents | Effect Tag: -- | Max uses: 3
+
+Move 4: Believe in Our Team!
+Category: Status
+User: Trainer
+Description: Raises the user’s Sp. Atk by six stat ranks. Raises the user’s critical-hit rate by three stat ranks. Applies Kalos Circle (Special) to the allied field of play. Kalos Circle (Special) grants all of the following effects: Powers up the special attack moves and special sync moves of all allied sync pairs by 10%. Reduces special attack move and special sync move damage taken by all allied sync pairs by 5%. The more sync pairs with the Kalos theme that are on the allied field of play, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 10% and reduces damage by 3%. The maximum power-up is 40%, and the maximum damage reduction is 14%.)
+Power: -- | Accuracy: -- | Gauge: -- | Target: Allied side | Effect Tag: -- | Max uses: 1
+
+Sync Move: Helping People and Pokémon Solar Beam
+Type: Grass
+Category: Special
+User: Pokemon
+Description: Become Mega Meganium until the end of battle.
+Power: 160 (1)/192 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+(🌅🌟) Superawakened Passive: Four-Flower Shine
+Turns the field of play’s terrain into Grassy Terrain the first time the user’s attack move is successful each battle. Turns the field of play’s terrain into Grassy Terrain the first time the user’s sync move is used each battle. Extends the duration of Grassy Terrain when the terrain turns into Grassy Terrain while the user is on the field.
+
+Passive 1(🏅): Kalos Rush
+Reduces the user’s sync move countdown by one the first time it enters a battle each battle. When used in a co-op battle, reduces the user’s sync move countdown by one the first time your team enters a battle each battle instead. The more allied sync pairs with the Kalos theme you have on your team, the greater the reduction is. (Each additional sync pair increases the reduction by one, and the maximum reduction is three.) The effects do not stack if you have more than one sync pair on your team with passive skills of the same name.
+
+Passive 2: A Heart for Lumiose
+Reduces the MP for the user’s Kalos Analysis by one and grants all of the following effects after your team’s sync pair uses their sync move: Applies Kalos Circle (Special) to the allied field of play. Increases the user’s Special Moves ↑ Next effect by two ranks. Increases the Special Moves ↑ Next effect of all allied sync pairs by one rank.
+
+Passive 3: Helping Heart
+Applies the Physical Damage Reduction effect and the Special Damage Reduction effect to the allied field of play when the user applies Kalos Circle (Special) to the allied field of play.
+
+Passive 4: Physical/Special DR on Field: MG → 5
+Quickly charges the move gauge when the Physical Damage Reduction effect or the Special Damage Reduction effect applies to the allied field of play.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 108 | Attack : 13 | Defense : 8 | Sp. Atk : 20 | Sp. Def : 8 | Speed : 8
+
+Lv. 140
+HP : 661 | Attack : 336 | Defense : 155 | Sp. Atk : 448 | Sp. Def : 155 | Speed : 327
+
+Lv. 150
+HP : 691 | Attack : 354 | Defense : 163 | Sp. Atk : 472 | Sp. Def : 163 | Speed : 345
+
+Lv. 200
+HP : 841 | Attack : 444 | Defense : 203 | Sp. Atk : 592 | Sp. Def : 203 | Speed : 435
+
+
+📌 Mega Details 📌
+📊🔄 Mega Stats 📊🔄
+
+Lv. 1
+HP : 108 | Attack : 13 | Defense : 8 | Sp. Atk : 23 | Sp. Def : 9 | Speed : 8
+
+Lv. 140
+HP : 661 | Attack : 336 | Defense : 155 | Sp. Atk : 537 | Sp. Def : 185 | Speed : 327
+
+Lv. 150
+HP : 691 | Attack : 354 | Defense : 163 | Sp. Atk : 566 | Sp. Def : 195 | Speed : 345
+
+Lv. 200
+HP : 841 | Attack : 444 | Defense : 203 | Sp. Atk : 710 | Sp. Def : 243 | Speed : 435
+
+-
+
+----
+-------------------------------END-------------------------------
+ 

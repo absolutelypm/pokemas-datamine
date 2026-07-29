@@ -1,0 +1,145 @@
+====𓆰 Special Skill Feather 135====
+🚩🚩🚩🚩Slot Chance Stat/Passive/Theme🚩🚩🚩🚩
+Slot Defaut 2
+Rate: 100.0
+
+
+📊📊📊📊Stats📈📈📈📈
+
+Bracelet
+💪 Stat buffs: Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bracelet
+💪 Stat buffs: Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Pin
+💪 Stat buffs: HP
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 70 - ⬆️ Max 70
+👣 Step: 5
+
+Pin
+💪 Stat buffs: Speed
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+🖼️🖼️🖼️🖼️Themes🖼️🖼️🖼️🖼️
+Water (33.33%)
+Slot Theme Default (100%): 1
+Kalos (33.33%)
+Slot Theme Default (100%): 2
+Main Character (33.33%)
+Slot Theme Default (100%): 3
+
+🚩🚩🚩🚩Passives🚩🚩🚩🚩
+Physical Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 1
+Details: Powers up the user’s physical attack moves by 2%.
+
+Water S-Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 2
+Details: Powers up the user’s Water-type sync move by 2%.
+
+Attack Move DR 2% (33.33%)
+Slot Theme Default (100%): 3
+Details: Reduces damage by 2% when the user is hit by an attack move.
+
+
+
+
+====𓆰 Special Skill Feather 136====
+🚩🚩🚩🚩Slot Chance Stat/Passive/Theme🚩🚩🚩🚩
+Slot Defaut 2
+Rate: 100.0
+
+
+📊📊📊📊Stats📈📈📈📈
+
+Bracelet
+💪 Stat buffs: Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bracelet
+💪 Stat buffs: Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Pin
+💪 Stat buffs: HP
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 70 - ⬆️ Max 70
+👣 Step: 5
+
+Pin
+💪 Stat buffs: Speed
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+🖼️🖼️🖼️🖼️Themes🖼️🖼️🖼️🖼️
+Grass (33.33%)
+Slot Theme Default (100%): 1
+Kalos (33.33%)
+Slot Theme Default (100%): 2
+Rival (33.33%)
+Slot Theme Default (100%): 3
+
+🚩🚩🚩🚩Passives🚩🚩🚩🚩
+Grass Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 1
+Details: Powers up the user’s Grass-type moves by 2%.
+
+Special S-Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 2
+Details: Powers up the user’s special sync move by 2%.
+
+Healthy Benefits 4% (33.33%)
+Slot Theme Default (100%): 3
+Details: Reduces damage by 4% when the user is hit by an attack move or sync move while its HP is full.
+
