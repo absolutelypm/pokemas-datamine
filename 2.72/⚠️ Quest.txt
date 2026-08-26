@@ -4630,6 +4630,47 @@ Speed Recovery Gauge (Enemy): 68.7%
 🚨 Watch out for these!
 	Focus 1: Defense Down
 	Focus 2: Sp. Def Down
+  NPC Center 1-1 Mega Venusaur
+ 	Weakness: Flying
+		300300 HP
+		1344 Attack
+		83 Defense
+		1344 Sp. Atk
+		83 Sp. Def
+		475 Speed
+  📢🎯 Focus on these!
+	Focus 1: Flinching
+  ⚔️ Base Move Sets
+	Move 1: Bullet Seed (Unlimited)
+	Move 2: Energy Ball (Uses 1)
+	Move 3: Razor Leaf (Unlimited)
+	Move 4: Sludge Bomb (Unlimited)
+	Move 5: Giga Drain (Unlimited)
+	Move 6: Sludge Wave (Unlimited)
+	Sync Move: Grass Impact
+  🛡️ Base Passive Sets
+	Passive 1: Antifreeze
+	Passive 2: Wide Awake
+	Passive 3: Lessen Flinch 7
+	Passive 4: Lessen Interference 1
+	Passive 5: Lessen Poison 10
+	Passive 6: One-Hit KO Nullification
+	Passive 7: S-Move: Attack & Sp. Atk ↑ 2
+	Passive 8: Poison-Type Hit: Defense & Sp. Def ↓ 9
+	Passive 9: Piercing Gaze
+	Passive 10: Entry: Team Defense & Sp. Def ↓ 1
+	Passive 11: Double Drop
+	Passive 12: Opp Defense ↓: Moves ↑ 3
+	Passive 13: Opp Defense ↓: S-Moves ↑ 5
+	Passive 14: Opp Sp. Def ↓: Moves ↑ 3
+	Passive 15: Opp Sp. Def ↓: S-Moves ↑ 5
+	Passive 16: No Quarter
+  🔼 Upgrade/Downgrade Passive Damage Reduction
+	● Lessen Freeze (Remove)
+	● Lessen Sleep (Remove)
+	● Lessen Flinch (Remove)
+	● Lessen Poison (Remove)
+
 
 ---
 Extreme Rogue Mega Venusaur: Part 2 (Ultra Hard)
@@ -4851,6 +4892,47 @@ Speed Recovery Gauge (Enemy): 68.7%
 🚨 Watch out for these!
 	Focus 1: Defense Down
 	Focus 2: Sp. Def Down
+  NPC Center 1-1 Mega Venusaur
+ 	Weakness: Flying
+		300300 HP
+		1344 Attack
+		83 Defense
+		1344 Sp. Atk
+		83 Sp. Def
+		475 Speed
+  📢🎯 Focus on these!
+	Focus 1: Flinching
+  ⚔️ Base Move Sets
+	Move 1: Bullet Seed (Unlimited)
+	Move 2: Energy Ball (Uses 1)
+	Move 3: Razor Leaf (Unlimited)
+	Move 4: Sludge Bomb (Unlimited)
+	Move 5: Giga Drain (Unlimited)
+	Move 6: Sludge Wave (Unlimited)
+	Sync Move: Grass Impact
+  🛡️ Base Passive Sets
+	Passive 1: Antifreeze
+	Passive 2: Wide Awake
+	Passive 3: Lessen Flinch 7
+	Passive 4: Lessen Interference 1
+	Passive 5: Lessen Poison 10
+	Passive 6: One-Hit KO Nullification
+	Passive 7: S-Move: Attack & Sp. Atk ↑ 2
+	Passive 8: Poison-Type Hit: Defense & Sp. Def ↓ 9
+	Passive 9: Piercing Gaze
+	Passive 10: Entry: Team Defense & Sp. Def ↓ 1
+	Passive 11: Double Drop
+	Passive 12: Opp Defense ↓: Moves ↑ 3
+	Passive 13: Opp Defense ↓: S-Moves ↑ 5
+	Passive 14: Opp Sp. Def ↓: Moves ↑ 3
+	Passive 15: Opp Sp. Def ↓: S-Moves ↑ 5
+	Passive 16: No Quarter
+  🔼 Upgrade/Downgrade Passive Damage Reduction
+	● Lessen Freeze (Remove)
+	● Lessen Sleep (Remove)
+	● Lessen Flinch (Remove)
+	● Lessen Poison (Remove)
+
 
 
 =======================END=======================
@@ -5077,6 +5159,44 @@ Speed Recovery Gauge (Enemy): 68.7%
 ⚠️ Boss Hints
 🚨 Watch out for these!
 	Focus 1: Confusion
+  NPC Center 1-1 Mega Slowbro
+ 	Weakness: Dark
+		300300 HP
+		1344 Attack
+		83 Defense
+		1344 Sp. Atk
+		83 Sp. Def
+		475 Speed
+  📢🎯 Focus on these!
+	Focus 1: Flinching
+  ⚔️ Base Move Sets
+	Move 1: Psybeam (Uses 1)
+	Move 2: Liquidation (Unlimited)
+	Move 3: Earthquake (Unlimited)
+	Move 4: Psychic (Unlimited)
+	Move 5: Psybeam (Unlimited)
+	Move 6: Water Pulse (Unlimited)
+	Sync Move: Psychic Beam
+  🛡️ Base Passive Sets
+	Passive 1: Antifreeze
+	Passive 2: Wide Awake
+	Passive 3: Lessen Flinch 7
+	Passive 4: Lessen Interference 1
+	Passive 5: Lessen Poison 10
+	Passive 6: One-Hit KO Nullification
+	Passive 7: Piercing Gaze
+	Passive 8: S-Move: Attack & Sp. Atk ↑ 2
+	Passive 9: Aggravation 9
+	Passive 10: Guarded Entry 2
+	Passive 11: Hit: Team Apply Status Change 9
+	Passive 12: Baffle Buff 5
+	Passive 13: Stop Hitting Yourself 9
+  🔼 Upgrade/Downgrade Passive Damage Reduction
+	● Lessen Freeze (Remove)
+	● Lessen Sleep (Remove)
+	● Lessen Flinch (Remove)
+	● Lessen Poison (Remove)
+
 
 ---
 Extreme Rogue Mega Slowbro: Part 2 (Ultra Hard)
@@ -5285,6 +5405,44 @@ Speed Recovery Gauge (Enemy): 68.7%
 ⚠️ Boss Hints
 🚨 Watch out for these!
 	Focus 1: Confusion
+  NPC Center 1-1 Mega Slowbro
+ 	Weakness: Dark
+		300300 HP
+		1344 Attack
+		83 Defense
+		1344 Sp. Atk
+		83 Sp. Def
+		475 Speed
+  📢🎯 Focus on these!
+	Focus 1: Flinching
+  ⚔️ Base Move Sets
+	Move 1: Psybeam (Uses 1)
+	Move 2: Liquidation (Unlimited)
+	Move 3: Earthquake (Unlimited)
+	Move 4: Psychic (Unlimited)
+	Move 5: Psybeam (Unlimited)
+	Move 6: Water Pulse (Unlimited)
+	Sync Move: Psychic Beam
+  🛡️ Base Passive Sets
+	Passive 1: Antifreeze
+	Passive 2: Wide Awake
+	Passive 3: Lessen Flinch 7
+	Passive 4: Lessen Interference 1
+	Passive 5: Lessen Poison 10
+	Passive 6: One-Hit KO Nullification
+	Passive 7: Piercing Gaze
+	Passive 8: S-Move: Attack & Sp. Atk ↑ 2
+	Passive 9: Aggravation 9
+	Passive 10: Guarded Entry 2
+	Passive 11: Hit: Team Apply Status Change 9
+	Passive 12: Baffle Buff 5
+	Passive 13: Stop Hitting Yourself 9
+  🔼 Upgrade/Downgrade Passive Damage Reduction
+	● Lessen Freeze (Remove)
+	● Lessen Sleep (Remove)
+	● Lessen Flinch (Remove)
+	● Lessen Poison (Remove)
+
 
 
 =======================END=======================
@@ -5510,6 +5668,43 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Focus 1: Critical Hit Next
 	Focus 2: Physical Moves
 	Focus 3: Special Moves
+  NPC Center 1-1 Mega Tyranitar
+ 	Weakness: Steel
+		300300 HP
+		1344 Attack
+		83 Defense
+		1344 Sp. Atk
+		83 Sp. Def
+		475 Speed
+  📢🎯 Focus on these!
+	Focus 1: Flinching
+  ⚔️ Base Move Sets
+	Move 1: Crunch (Unlimited)
+	Move 2: Brutal Swing (Unlimited)
+	Move 3: Power Gem (Unlimited)
+	Move 4: Dark Pulse (Unlimited)
+	Move 5: Stone Edge (Unlimited)
+	Move 6: Giga Impact (Unlimited)
+	Sync Move: Rock Impact
+  🛡️ Base Passive Sets
+	Passive 1: Antifreeze
+	Passive 2: Wide Awake
+	Passive 3: Lessen Flinch 7
+	Passive 4: Lessen Interference 1
+	Passive 5: Lessen Poison 10
+	Passive 6: One-Hit KO Nullification
+	Passive 7: Piercing Gaze
+	Passive 8: S-Move: Attack & Sp. Atk ↑ 2
+	Passive 9: Ferocious Entry 2
+	Passive 10: Build Up
+	Passive 11: Critical Crit 9
+	Passive 12: Catalytic Acceleration
+  🔼 Upgrade/Downgrade Passive Damage Reduction
+	● Lessen Freeze (Remove)
+	● Lessen Sleep (Remove)
+	● Lessen Flinch (Remove)
+	● Lessen Poison (Remove)
+
 
 ---
 Extreme Rogue Mega Tyranitar: Part 2 (Ultra Hard)
@@ -5721,11 +5916,47 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Focus 1: Critical Hit Next
 	Focus 2: Physical Moves
 	Focus 3: Special Moves
+  NPC Center 1-1 Mega Tyranitar
+ 	Weakness: Steel
+		300300 HP
+		1344 Attack
+		83 Defense
+		1344 Sp. Atk
+		83 Sp. Def
+		475 Speed
+  📢🎯 Focus on these!
+	Focus 1: Flinching
+  ⚔️ Base Move Sets
+	Move 1: Crunch (Unlimited)
+	Move 2: Brutal Swing (Unlimited)
+	Move 3: Power Gem (Unlimited)
+	Move 4: Dark Pulse (Unlimited)
+	Move 5: Stone Edge (Unlimited)
+	Move 6: Giga Impact (Unlimited)
+	Sync Move: Rock Impact
+  🛡️ Base Passive Sets
+	Passive 1: Antifreeze
+	Passive 2: Wide Awake
+	Passive 3: Lessen Flinch 7
+	Passive 4: Lessen Interference 1
+	Passive 5: Lessen Poison 10
+	Passive 6: One-Hit KO Nullification
+	Passive 7: Piercing Gaze
+	Passive 8: S-Move: Attack & Sp. Atk ↑ 2
+	Passive 9: Ferocious Entry 2
+	Passive 10: Build Up
+	Passive 11: Critical Crit 9
+	Passive 12: Catalytic Acceleration
+  🔼 Upgrade/Downgrade Passive Damage Reduction
+	● Lessen Freeze (Remove)
+	● Lessen Sleep (Remove)
+	● Lessen Flinch (Remove)
+	● Lessen Poison (Remove)
+
 
 
 =======================END=======================
 
- 
 Pokémon 30-Year Celebration: Pokémon Masters Memories Threads of Strength
 
 Total First-Time Reward
