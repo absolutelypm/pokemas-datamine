@@ -13,7 +13,16 @@
 12. Team Galactic Welcome Daily Challenge 100 gems 
 13. 🎉 Special Monthly Event Pokémon Masters Day 530 gems 
 14. 🏆 Neo Champions True Time and Space 950 gems 
-15. 🕮 Story Event Together in an Unknown Land 400 gems 
+15. 🏚️ Friendship Stories Urbain 0 gems 
+16. 🕮 Story Event Together in an Unknown Land 400 gems 
+17. 🤝 A day with Blue (Anniversary 2026) 10 gems 
+18. 🤝 A day with Brandon 10 gems 
+19. 🤝 A day with Dawn (Champion) 10 gems 
+20. 🤝 A day with Jupiter 10 gems 
+21. 🤝 A day with Lucas (Champion) 10 gems 
+22. 🤝 A day with Mars 10 gems 
+23. 🤝 A day with Saturn 10 gems 
+24. 🤝 A day with Serena (Anniversary 2026) 10 gems 
 ========================================= 
  
 Marvelous Mega 7 Years Anniversary Tower
@@ -1122,7 +1131,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Passive 5: Move Gauge Refresh 9
 	Passive 6: Pinpoint Entry 3
 
-  NPC Right 2-1: Juliana - Error: pm1007_11_00_koraidon
+  NPC Right 2-1: Juliana - Koraidon (Apex Build)
  	Weakness: Flying
 		13000 HP
 		690 Attack
@@ -1251,7 +1260,7 @@ Speed Recovery Gauge (Enemy): Default
 	Move 2: Iron Head (Unlimited)
   🛡️ Base Passive Sets
 	Passive 1: Debut: Rock S-Tera
-  🌀 Error: pm0815_71_13_aceburn
+  🌀 Cinderace (Rock S-Tera)
  	Weakness: Water
 		14200 HP
 		612 Attack
@@ -1276,7 +1285,7 @@ Speed Recovery Gauge (Enemy): Default
 	Move 2: Body Slam (Unlimited)
   🛡️ Base Passive Sets
 	Passive 1: Debut: Poison S-Tera
-  🌀 Error: pm0157_74_08_bakphoon
+  🌀 Typhlosion (Poison S-Tera)
  	Weakness: Ground
 		14200 HP
 		918 Attack
@@ -2735,7 +2744,7 @@ Speed Recovery Gauge (Enemy): Default
 	Move 2: Flash Cannon (Unlimited)
   🛡️ Base Passive Sets
 	Passive 1: Debut: Dragon S-Tera
-  🌀 Error: pm1018_71_15_briduras
+  🌀 Archaludon (Dragon S-Tera)
  	Weakness: Ice
 		2310 HP
 		768 Attack
@@ -6955,6 +6964,25 @@ Speed Recovery Gauge (Enemy): 68.7%
 =======================END=======================
 
  
+🏚️ Friendship Stories: Urbain 
+
+Detail Quest
+---
+A Special Day with Urbain: Part 1
+No Stamina Required
+Type Story: Events 
+Completion Rewards:
+
+---
+A Special Day with Urbain: Part 2
+No Stamina Required
+Type Story: Events 
+Completion Rewards:
+
+
+=======================END=======================
+
+ 
 Story Event Together in an Unknown Land
 
 Total First-Time Reward
@@ -7597,6 +7625,150 @@ Speed Recovery Gauge (Enemy): 68.7%
 	● Dark DF Resistance (Remove)
 	● Trained Body (Remove)
 
+
+
+=======================END=======================
+
+ 
+🤝 A day with Blue (Anniversary 2026)
+
+Total First-Time Reward
+
+💎 Gems x10 
+---------------------
+Detail Quest
+---
+A Day with Blue
+No Stamina Required
+Type Story: Sync Pair Stories 
+First-Time Rewards:
+	- Item 1: 💎 Gems (x10)
+
+
+=======================END=======================
+
+ 
+🤝 A day with Brandon
+
+Total First-Time Reward
+
+💎 Gems x10 
+---------------------
+Detail Quest
+---
+A Day with Brandon
+No Stamina Required
+Type Story: Sync Pair Stories 
+First-Time Rewards:
+	- Item 1: 💎 Gems (x10)
+
+
+=======================END=======================
+
+ 
+🤝 A day with Dawn (Champion)
+
+Total First-Time Reward
+
+💎 Gems x10 
+---------------------
+Detail Quest
+---
+A Day with Dawn
+No Stamina Required
+Type Story: Sync Pair Stories 
+First-Time Rewards:
+	- Item 1: 💎 Gems (x10)
+
+
+=======================END=======================
+
+ 
+🤝 A day with Jupiter
+
+Total First-Time Reward
+
+💎 Gems x10 
+---------------------
+Detail Quest
+---
+A Day with Jupiter
+No Stamina Required
+Type Story: Sync Pair Stories 
+First-Time Rewards:
+	- Item 1: 💎 Gems (x10)
+
+
+=======================END=======================
+
+ 
+🤝 A day with Lucas (Champion)
+
+Total First-Time Reward
+
+💎 Gems x10 
+---------------------
+Detail Quest
+---
+A Day with Lucas
+No Stamina Required
+Type Story: Sync Pair Stories 
+First-Time Rewards:
+	- Item 1: 💎 Gems (x10)
+
+
+=======================END=======================
+
+ 
+🤝 A day with Mars
+
+Total First-Time Reward
+
+💎 Gems x10 
+---------------------
+Detail Quest
+---
+A Day with Mars
+No Stamina Required
+Type Story: Sync Pair Stories 
+First-Time Rewards:
+	- Item 1: 💎 Gems (x10)
+
+
+=======================END=======================
+
+ 
+🤝 A day with Saturn
+
+Total First-Time Reward
+
+💎 Gems x10 
+---------------------
+Detail Quest
+---
+A Day with Saturn
+No Stamina Required
+Type Story: Sync Pair Stories 
+First-Time Rewards:
+	- Item 1: 💎 Gems (x10)
+
+
+=======================END=======================
+
+ 
+🤝 A day with Serena (Anniversary 2026)
+
+Total First-Time Reward
+
+💎 Gems x10 
+---------------------
+Detail Quest
+---
+A Day with Serena
+No Stamina Required
+Type Story: Sync Pair Stories 
+First-Time Rewards:
+	- Item 1: 💎 Gems (x10)
 
 
 =======================END=======================
