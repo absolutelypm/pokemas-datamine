@@ -1,0 +1,54 @@
+🥠 30-Year Celebration Cynthia (Summer 2025) Lucky Cookie
+
+Passive: Debut or 1st S-Move: Sync CD ↓ 1
+Description: Reduces the user’s sync move countdown by one the first time it enters a battle each battle. Reduces the sync move countdown by one the first time the user’s sync move is used each battle.
+
+📋 Trainer List (1):
+  - Cynthia (Summer 2025)
+--------
+
+🥠 Serena (Anniversary 2026) Lucky Cookie 1
+
+Passive: Move Gauge Refresh 9
+Description: Charges the user’s move gauge by one when its move is successful.
+
+📋 Trainer List (1):
+  - Serena (Anniversary 2026)
+--------
+
+🥠 Blue (Anniversary 2026) Lucky Cookie 1
+
+Passive: Entry Freebie
+Description: Applies the Free Move Next effect to the user when it enters a battle.
+
+📋 Trainer List (1):
+  - Blue (Anniversary 2026)
+--------
+
+🥠 Dawn (Champion) Lucky Cookie 1
+
+Passive: Double Down 4
+Description: Powers up the user’s sync moves that are super effective.
+
+📋 Trainer List (1):
+  - Dawn (Champion)
+--------
+
+🥠 Lucas (Champion) Lucky Cookie 1
+
+Passive: Impervious
+Description: The user’s stats cannot be lowered.
+
+📋 Trainer List (1):
+  - Lucas (Champion)
+--------
+
+🥠 Irida Lucky Cookie 1
+
+Passive: Ice Zone: HP Recovery 1
+Description: Restores the user’s HP whenever its Pokémon takes an action when the zone is an Ice Zone.
+
+📋 Trainer List (1):
+  - Irida & Glaceon (Female♀️)
+--------
+
