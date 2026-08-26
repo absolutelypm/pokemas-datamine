@@ -1,0 +1,107 @@
+Super Sparring no. 24
+Deal a lot of damage within 180 seconds!
+
+--
+Event Rewards
+1. 25000 pts
+Item: 🎟️ Training Ticket x20
+
+Featured Reward 1
+2. 50000 pts
+Item: 🪙🍬 Strike Move Candy Coin x2
+
+3. 75000 pts
+Item: 🎟️ Training Ticket x20
+
+Featured Reward 2
+4. 100000 pts
+Item: 🍰🟡 Strike Roll Cake Coin x2
+
+5. 125000 pts
+Item: 🎟️ Training Ticket x20
+
+Featured Reward 3
+6. 150000 pts
+Item: 🪙🍬 Tech Move Candy Coin x2
+
+7. 175000 pts
+Item: 🎟️ Training Ticket x20
+
+Featured Reward 4
+8. 200000 pts
+Item: 🍰🟡 Tech Roll Cake Coin x2
+
+9. 225000 pts
+Item: 🎟️ Training Ticket x20
+
+Featured Reward 5
+10. 250000 pts
+Item: 🪙🍬 Support Move Candy Coin x2
+
+11. 275000 pts
+Item: 🎟️ Training Ticket x20
+
+Featured Reward 6
+12. 300000 pts
+Item: 🍰🟡 Support Roll Cake Coin x2
+
+13. 325000 pts
+Item: 🎟️ Training Ticket x40
+
+Featured Reward 7
+14. 350000 pts
+Item: 🪙🍬 Field Move Candy Coin x2
+
+15. 375000 pts
+Item: 🎟️ Training Ticket x40
+
+Featured Reward 8
+16. 400000 pts
+Item: 🍰🟡 Field Roll Cake Coin x2
+
+17. 425000 pts
+Item: 🎟️ Training Ticket x40
+
+Featured Reward 9
+18. 450000 pts
+Item: 🪙🍬 Sprint Move Candy Coin x2
+
+19. 475000 pts
+Item: 🎟️ Training Ticket x40
+
+Featured Reward 10
+20. 500000 pts
+Item: 🍰🟡 Sprint Roll Cake Coin x2
+
+21. 550000 pts
+Item: 🔮 Co-op Sync Orb x10000
+
+22. 600000 pts
+Item: 🎟️ Training Ticket x40
+
+23. 650000 pts
+Item: 🔮 Co-op Sync Orb x10000
+
+24. 700000 pts
+Item: 🎟️ Training Ticket x40
+
+25. 750000 pts
+Item: 🔮 Co-op Sync Orb x10000
+
+26. 800000 pts
+Item: 🎟️ Training Ticket x40
+
+27. 850000 pts
+Item: 🔮 Co-op Sync Orb x20000
+
+28. 900000 pts
+Item: 🔮 Co-op Sync Orb x20000
+
+29. 950000 pts
+Item: 🔮 Co-op Sync Orb x20000
+
+30. 1000000 pts
+Item: 🔮 Co-op Sync Orb x30000
+
+31. Every 50000 pts
+Item: 🎟️ Training Ticket x1
