@@ -1,0 +1,9 @@
+Non-Sinnoh Dmg. Reduction 8 | Point: 3000
+Reduces damage the opponent receives by 80% when the opponent is hit by a move, sync move, or max move from a sync pair without the Sinnoh theme.
+Start: 12/9/2026 06:00:00
+End: 7/10/2026 06:00:00
+---
+Non-Sinnoh Take ×3 Damage | Point: 2000
+Allied sync pairs without the Sinnoh theme receive three times the damage when hit by an attack move.
+Start: 12/9/2026 06:00:00
+End: 7/10/2026 06:00:00
