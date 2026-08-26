@@ -1,0 +1,2350 @@
+08/2026
+--------------------
+
+[event_8080_1W_MasterExFes_01]
+
+7-Year Anniversary
+Paid-Gem Scout ×25 EX Master Fair
+Type Scout: EX Master Fair Scout
+Rate-up Trainer: 1. Blue (Anniversary 2026) & Dragonite (Male♂️)
+2. Serena (Anniversary 2026) & Greninja (Male♂️)
+Require
+	Scout ×25
+		x5000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1 🍬 5★ Move Candy x1
+🗓️ Start: 28/08/2026 06:00
+🗓️ End: 07/10/2026 06:00
+
+[event_8080_1W_MasterExFes_02]
+Featuring two fair-exclusive sync pairs! Other fair-exclusive sync pairs will also appear!
+Serena EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Serena (Anniversary 2026) & Greninja (Male♂️)
+2. Akari & Samurott (Male♂️)
+3. Arven & Mabosstiff (Male♂️)
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Strike Move Candy Coin x1
+			Present no.1 🪙🍬 Tech Move Candy Coin x1
+			Present no.1 🪙🍬 Support Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 ⚡ 5★ Power-Up x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🪙🍬 Sprint Move Candy Coin x1
+			Present no.3 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.4 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.6 🍰🟡 Strike Roll Cake Coin x1
+			Present no.6 🍰🟡 Tech Roll Cake Coin x1
+			Present no.6 🍰🟡 Support Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.7 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.8 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.8 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.9 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.11 ⚡ 5★ Power-Up x6
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.12 🪙🍬 Strike Move Candy Coin x1
+			Present no.12 🪙🍬 Tech Move Candy Coin x1
+			Present no.12 🪙🍬 Support Move Candy Coin x1
+			Present no.12 🪙🍬 Sprint Move Candy Coin x1
+			Present no.12 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 28/08/2026 06:00
+🗓️ End: 07/10/2026 06:00
+
+[event_8080_1W_MasterExFes_03]
+Featuring two fair-exclusive sync pairs! Other fair-exclusive sync pairs will also appear!
+Special Present!
+Serena EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Serena (Anniversary 2026) & Greninja (Male♂️)
+2. Akari & Samurott (Male♂️)
+3. Arven & Mabosstiff (Male♂️)
+Presents when the Sync Pair is scouted:
+	1-1 🧁✨ Field Roll Cake x1
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 3
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.2 🪙🍬 Strike Move Candy Coin x1
+			Present no.2 🪙🍬 Tech Move Candy Coin x1
+			Present no.2 🪙🍬 Support Move Candy Coin x1
+			Present no.2 🪙🍬 Sprint Move Candy Coin x1
+			Present no.2 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.3 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.4 🍰🟡 Strike Roll Cake Coin x1
+			Present no.4 🍰🟡 Tech Roll Cake Coin x1
+			Present no.4 🍰🟡 Support Roll Cake Coin x1
+			Present no.4 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.4 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.6 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.7 🪙🍬 Strike Move Candy Coin x1
+			Present no.7 🪙🍬 Tech Move Candy Coin x1
+			Present no.7 🪙🍬 Support Move Candy Coin x1
+			Present no.7 🪙🍬 Sprint Move Candy Coin x1
+			Present no.7 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.8 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.9 🍰🟡 Strike Roll Cake Coin x1
+			Present no.9 🍰🟡 Tech Roll Cake Coin x1
+			Present no.9 🍰🟡 Support Roll Cake Coin x1
+			Present no.9 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.9 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.11 🪙🍬 Strike Move Candy Coin x1
+			Present no.11 🪙🍬 Tech Move Candy Coin x1
+			Present no.11 🪙🍬 Support Move Candy Coin x1
+			Present no.11 🪙🍬 Sprint Move Candy Coin x1
+			Present no.11 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.12 🍰🟡 Strike Roll Cake Coin x1
+			Present no.12 🍰🟡 Tech Roll Cake Coin x1
+			Present no.12 🍰🟡 Support Roll Cake Coin x1
+			Present no.12 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.12 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 28/08/2026 06:00
+🗓️ End: 07/10/2026 06:00
+
+[event_8080_1W_MasterFes_ticket_01]
+
+7-Year Anniversary
+Master Fair Select Ticket Scout
+Type Scout: 5★-Select Ticket Scout (One-Time-Only)
+Scout Points to Pick-up: x30
+Require
+	Select Master Fair | 🎫 7-Year Anniv. Master Fair Select Ticket x1 | Limit Scout: 1
+		Scout Points get: 30
+🗓️ Start: 28/08/2026 06:00
+🗓️ End: 07/10/2026 06:00
+
+[event_8080_1W_UltimateFesStepUp_01]
+
+Arc Suit Select Tiered Scout
+Type Scout: Tiered Scout
+Scout Points to Pick-up: x30
+Rate-up Trainer: 1. Arc Suit Blue & Pidgeot (Male♂️)
+2. Arc Suit N & Zoroark (Male♂️)
+3. Arc Suit Steven & Metagross (Genderless)
+4. Arc Suit Cynthia & Garchomp (Female♀️)
+5. Arc Suit Lance & Dragonite (Male♂️)
+6. Arc Suit Ethan & Lugia (Genderless)
+7. Arc Suit Alder & Volcarona (Male♂️)
+8. Arc Suit Silver & Ho-Oh (Genderless)
+9. Arc Suit Leon & Charizard (Male♂️)
+Require
+	Tier 1
+	Sync Pair Scout ×10
+		x1000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1 🎫🤝 Fair-Guaranteed Scout Ticket x1
+	Tier 2
+	Sync Pair Scout ×10
+		x2000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.2 🥚🤝 Superawakening Candy x2
+	Tier 3
+	Sync Pair Scout ×10
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.3 🎫 Roll Cake Coin Voucher x20
+	Tier 4
+	Sync Pair Scout ×10
+		x4000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.4 🍬 5★ Move Candy x1
+	Tier 5
+	Sync Pair Scout ×10
+		x5000 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 30
+🗓️ Start: 28/08/2026 06:00
+🗓️ End: 13/09/2026 06:00
+
+[event_8080_1W_anniversary_ticket_01]
+
+7-Year Anniversary Ticket Scout
+Type Scout: Poke Fair Ticket Scout
+Require
+	Sync Pair Scout x1 | 🎫 7-Year Anniv. Scout Ticket x1 | No Limit Scout
+	Sync Pair Scout ×5 | 🎫 7-Year Anniv. Scout Ticket x5 | No Limit Scout
+	Sync Pair Scout ×10 | 🎫 7-Year Anniv. Scout Ticket x10 | No Limit Scout
+🗓️ Start: 28/08/2026 06:00
+🗓️ End: 07/10/2026 06:00
+
+[event_8080_1W_limited_forTicket_01]
+
+Mega Evolution Sync Pair Guaranteed Ticket Scout
+Type Scout: 5★-Guaranteed (Ticket Scout)
+Require
+	Ticket Scout x1 | 🎫 Mega Evolution Gtd. Ticket x1 | Limit Scout: 4
+🗓️ Start: 28/08/2026 06:00
+🗓️ End: 07/10/2026 06:00
+
+[event_8080_1W_limited_forTicket_02]
+
+Mega Evolution Sync Pair Select Ticket Scout
+Type Scout: 5★-Select Ticket Scout (One-Time-Only)
+Scout Points to Pick-up: x30
+Require
+	Ticket Scout x10 | 🎫 Mega Evolution Select Ticket x1 | Limit Scout: 4
+		Scout Points get: 30
+🗓️ Start: 28/08/2026 06:00
+🗓️ End: 07/10/2026 06:00
+
+[event_8080_1W_MasterExFes_04]
+Featuring two fair-exclusive sync pairs! Other fair-exclusive sync pairs will also appear!
+Blue EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Skyla (Anniversary 2022) & Tornadus (Male♂️)
+2. Blue (Anniversary 2026) & Dragonite (Male♂️)
+3. Lysandre & Yveltal (Genderless)
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Strike Move Candy Coin x1
+			Present no.1 🪙🍬 Tech Move Candy Coin x1
+			Present no.1 🪙🍬 Support Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 ⚡ 5★ Power-Up x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🪙🍬 Sprint Move Candy Coin x1
+			Present no.3 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.4 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.6 🍰🟡 Strike Roll Cake Coin x1
+			Present no.6 🍰🟡 Tech Roll Cake Coin x1
+			Present no.6 🍰🟡 Support Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.7 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.8 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.8 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.9 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.11 ⚡ 5★ Power-Up x6
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.12 🪙🍬 Strike Move Candy Coin x1
+			Present no.12 🪙🍬 Tech Move Candy Coin x1
+			Present no.12 🪙🍬 Support Move Candy Coin x1
+			Present no.12 🪙🍬 Sprint Move Candy Coin x1
+			Present no.12 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 30/08/2026 06:00
+🗓️ End: 07/10/2026 06:00
+
+[event_8080_1W_MasterExFes_05]
+Featuring two fair-exclusive sync pairs! Other fair-exclusive sync pairs will also appear!
+Special Present!
+Blue EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Skyla (Anniversary 2022) & Tornadus (Male♂️)
+2. Blue (Anniversary 2026) & Dragonite (Male♂️)
+3. Lysandre & Yveltal (Genderless)
+Presents when the Sync Pair is scouted:
+	1-1 🧁✨ Field Roll Cake x1
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 3
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.2 🪙🍬 Strike Move Candy Coin x1
+			Present no.2 🪙🍬 Tech Move Candy Coin x1
+			Present no.2 🪙🍬 Support Move Candy Coin x1
+			Present no.2 🪙🍬 Sprint Move Candy Coin x1
+			Present no.2 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.3 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.4 🍰🟡 Strike Roll Cake Coin x1
+			Present no.4 🍰🟡 Tech Roll Cake Coin x1
+			Present no.4 🍰🟡 Support Roll Cake Coin x1
+			Present no.4 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.4 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.6 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.7 🪙🍬 Strike Move Candy Coin x1
+			Present no.7 🪙🍬 Tech Move Candy Coin x1
+			Present no.7 🪙🍬 Support Move Candy Coin x1
+			Present no.7 🪙🍬 Sprint Move Candy Coin x1
+			Present no.7 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.8 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.9 🍰🟡 Strike Roll Cake Coin x1
+			Present no.9 🍰🟡 Tech Roll Cake Coin x1
+			Present no.9 🍰🟡 Support Roll Cake Coin x1
+			Present no.9 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.9 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.11 🪙🍬 Strike Move Candy Coin x1
+			Present no.11 🪙🍬 Tech Move Candy Coin x1
+			Present no.11 🪙🍬 Support Move Candy Coin x1
+			Present no.11 🪙🍬 Sprint Move Candy Coin x1
+			Present no.11 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.12 🍰🟡 Strike Roll Cake Coin x1
+			Present no.12 🍰🟡 Tech Roll Cake Coin x1
+			Present no.12 🍰🟡 Support Roll Cake Coin x1
+			Present no.12 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.12 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 30/08/2026 06:00
+🗓️ End: 07/10/2026 06:00
+
+[event_8080_1W_PokeFesSelection_01]
+
+High Score Celebration
+5★-Select Fair-Exclusive Scout ×11
+Type Scout: Select Poke Fair Scout x11 (Paid)
+Scout Points to Pick-up: x30
+Require
+	Special Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 33
+🗓️ Start: 30/08/2026 06:00
+🗓️ End: 07/09/2026 06:00
+
+09/2026
+--------------------
+
+[event_8080_1W_MasterTicket_02]
+
+Variety Guaranteed Ticket Scout
+Type Scout: Featured Ticket Scout (Another)
+Rate-up Trainer: 1. Leaf & Beedrill (Female♀️)
+2. Brendan & Salamence (Male♂️)
+3. Ethan & Gyarados (Male♂️)
+Require
+	Ticket Scout: Variety Guaranteed Scout Ticket x1 | Limit Scout: 1
+🗓️ Start: 01/09/2026 06:00
+🗓️ End: 22/09/2026 06:00
+
+[event_8080_1W_Monthly_01]
+
+Vol. 49
+Monthly Poké Fair
+Type Scout: Monthly Poké Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Gloria & Zacian (Genderless)
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🔑✋ 3★ Friend Key x3
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 🔑✋ 3★ Friend Key x3
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🔑✋ 3★ Friend Key x3
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.4 🔑✋ 3★ Friend Key x3
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.5 🔑✋ 3★ Friend Key x3
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 01/09/2026 06:00
+🗓️ End: 01/10/2026 06:00
+
+[event_8080_1W_VarietyPStepUp_01]
+
+Variety Tiered Scout
+Type Scout: Tiered Scout
+Rate-up Trainer: 1. Leaf & Beedrill (Female♀️)
+2. Brendan & Salamence (Male♂️)
+3. Ethan & Gyarados (Male♂️)
+Require
+	Tier 1
+	Sync Pair Scout ×11
+		x1000 💎 Gems (Paid) | Limit Scout: 1
+	Tier 2
+	Sync Pair Scout ×11
+		x1500 💎 Gems (Paid) | Limit Scout: 1
+	Tier 3
+	Sync Pair Scout ×11
+		x2000 💎 Gems (Paid) | Limit Scout: 1
+	Tier 4
+	Sync Pair Scout ×11
+		x2500 💎 Gems (Paid) | Limit Scout: 1
+	Tier 5
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1  None x1
+		Scout Points get: 30
+🗓️ Start: 01/09/2026 06:00
+🗓️ End: 15/09/2026 06:00
+
+[event_8080_1W_Variety_01]
+
+Triple Feature Variety Scout
+Type Scout: Spotlight (Present - Power-Up)
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Leaf & Beedrill (Female♀️)
+2. Brendan & Salamence (Male♂️)
+3. Ethan & Gyarados (Male♂️)
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount: Limit 1!
+		x100 💎 Gems (Paid) | Limit Scout: 3
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 01/09/2026 06:00
+🗓️ End: 15/09/2026 06:00
+
+[event_8080_1W_SeasonSelection_01]
+
+Presents! Limit 1!
+5★-Select Costume Scout ×11
+Type Scout: Spotlight (Present - Power-Up)
+Scout Points to Pick-up: x30
+Require
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Move Candy Coin x10
+		Scout Points get: 30
+🗓️ Start: 04/09/2026 06:00
+🗓️ End: 13/09/2026 06:00
+
+[event_8080_1W_VarietySelection_01]
+
+Presents! Limit 1!
+5★-Select Variety Scout ×11
+Type Scout: Spotlight (Present - Power-Up)
+Scout Points to Pick-up: x30
+Require
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Move Candy Coin x10
+		Scout Points get: 30
+🗓️ Start: 04/09/2026 06:00
+🗓️ End: 13/09/2026 06:00
+
+[event_8080_2W_limited_StepUp_01]
+
+Pasio Towers Expansion
+Exclusive Sync Pair Guaranteed Tiered Scout A
+Type Scout: Tiered Scout
+Scout Points to Pick-up: x30
+Rate-up Trainer: 1. Sygna Suit N & Kyurem (Genderless)
+2. Sygna Suit Steven & Deoxys (Genderless)
+3. Ethan & Ho-Oh (Genderless)
+4. Jasmine (Academy) & Forretress (Female♀️)
+5. Adaman (Palentine's 2026) & Sylveon (Male♂️)
+6. Giacomo & Kingambit (Male♂️)
+Require
+	Tier 1
+	Sync Pair Scout ×11
+		x1500 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1  None x1
+	Tier 2
+	Sync Pair Scout ×11
+		x2000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.2 🥚🤝 Superawakening Candy x1
+	Tier 3
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.3  None x1
+	Tier 4
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.4 🥚🤝 Superawakening Candy x1
+	Tier 5
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 30
+🗓️ Start: 07/09/2026 06:00
+🗓️ End: 13/09/2026 06:00
+
+[event_8080_2W_limited_StepUp_02]
+
+Pasio Towers Expansion
+Exclusive Sync Pair Guaranteed Tiered Scout B
+Type Scout: Tiered Scout
+Scout Points to Pick-up: x30
+Rate-up Trainer: 1. Cynthia & Spiritomb (Female♀️)
+2. Sygna Suit Emmet & Eelektross (Male♂️)
+3. Gladion (Academy) & Porygon-Z (Genderless)
+4. Samson Oak & Exeggutor (Male♂️)
+5. Dahlia & Ludicolo (Female♀️)
+6. Sonia (Academy) & Corviknight (Male♂️)
+Require
+	Tier 1
+	Sync Pair Scout ×11
+		x1500 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1  None x1
+	Tier 2
+	Sync Pair Scout ×11
+		x2000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.2 🥚🤝 Superawakening Candy x1
+	Tier 3
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.3  None x1
+	Tier 4
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.4 🥚🤝 Superawakening Candy x1
+	Tier 5
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 30
+🗓️ Start: 07/09/2026 06:00
+🗓️ End: 13/09/2026 06:00
+
+[event_8080_2W_limited_StepUp_03]
+
+Pasio Towers Expansion
+Exclusive Sync Pair Guaranteed Tiered Scout C
+Type Scout: Tiered Scout
+Scout Points to Pick-up: x30
+Rate-up Trainer: 1. Erika (Palentine's 2025) & Lurantis (Female♀️)
+2. N & Landorus (Male♂️)
+3. Selene (Alt.) & Nihilego (Genderless)
+4. Larry (Special Costume) & Flamigo (Male♂️)
+5. Atticus & Revavroom (Male♂️)
+6. Eri & Annihilape (Male♂️)
+Require
+	Tier 1
+	Sync Pair Scout ×11
+		x1500 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1  None x1
+	Tier 2
+	Sync Pair Scout ×11
+		x2000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.2 🥚🤝 Superawakening Candy x1
+	Tier 3
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.3  None x1
+	Tier 4
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.4 🥚🤝 Superawakening Candy x1
+	Tier 5
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 30
+🗓️ Start: 07/09/2026 06:00
+🗓️ End: 13/09/2026 06:00
+
+[event_8080_2W_limited_forTicket_01]
+
+Pasio Towers Expansion Ticket Scout A
+Type Scout: Featured Ticket Scout (Another)
+Rate-up Trainer: 1. Sygna Suit N & Kyurem (Genderless)
+2. Sygna Suit Steven & Deoxys (Genderless)
+3. Ethan & Ho-Oh (Genderless)
+4. Jasmine (Academy) & Forretress (Female♀️)
+5. Adaman (Palentine's 2026) & Sylveon (Male♂️)
+6. Giacomo & Kingambit (Male♂️)
+Require
+	Ticket Scout: Pasio Towers Expansion Scout Ticket A x1 | Limit Scout: 2
+🗓️ Start: 07/09/2026 06:00
+🗓️ End: 20/09/2026 06:00
+
+[event_8080_2W_limited_forTicket_02]
+
+Pasio Towers Expansion Ticket Scout B
+Type Scout: Featured Ticket Scout (Another)
+Rate-up Trainer: 1. Cynthia & Spiritomb (Female♀️)
+2. Sygna Suit Emmet & Eelektross (Male♂️)
+3. Gladion (Academy) & Porygon-Z (Genderless)
+4. Samson Oak & Exeggutor (Male♂️)
+5. Dahlia & Ludicolo (Female♀️)
+6. Sonia (Academy) & Corviknight (Male♂️)
+Require
+	Ticket Scout: Pasio Towers Expansion Scout Ticket B x1 | Limit Scout: 2
+🗓️ Start: 07/09/2026 06:00
+🗓️ End: 20/09/2026 06:00
+
+[event_8080_2W_limited_forTicket_03]
+
+Pasio Towers Expansion Ticket Scout C
+Type Scout: Featured Ticket Scout (Another)
+Rate-up Trainer: 1. Erika (Palentine's 2025) & Lurantis (Female♀️)
+2. N & Landorus (Male♂️)
+3. Selene (Alt.) & Nihilego (Genderless)
+4. Larry (Special Costume) & Flamigo (Male♂️)
+5. Atticus & Revavroom (Male♂️)
+6. Eri & Annihilape (Male♂️)
+Require
+	Ticket Scout: Pasio Towers Expansion Scout Ticket C x1 | Limit Scout: 2
+🗓️ Start: 07/09/2026 06:00
+🗓️ End: 20/09/2026 06:00
+
+[event_8080_3W_MasterExFes_01]
+Featuring two fair-exclusive sync pairs! Other fair-exclusive sync pairs will also appear!
+Dawn EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Sygna Suit Brendan & Latios (Male♂️)
+2. Dawn (Champion) & Palkia (Genderless)
+3. Raihan (Anniversary 2022) & Flygon (Male♂️)
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Strike Move Candy Coin x1
+			Present no.1 🪙🍬 Tech Move Candy Coin x1
+			Present no.1 🪙🍬 Support Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 ⚡ 5★ Power-Up x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🪙🍬 Sprint Move Candy Coin x1
+			Present no.3 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.4 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.6 🍰🟡 Strike Roll Cake Coin x1
+			Present no.6 🍰🟡 Tech Roll Cake Coin x1
+			Present no.6 🍰🟡 Support Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.7 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.8 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.8 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.9 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.11 ⚡ 5★ Power-Up x6
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.12 🪙🍬 Strike Move Candy Coin x1
+			Present no.12 🪙🍬 Tech Move Candy Coin x1
+			Present no.12 🪙🍬 Support Move Candy Coin x1
+			Present no.12 🪙🍬 Sprint Move Candy Coin x1
+			Present no.12 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 12/09/2026 06:00
+🗓️ End: 25/10/2026 06:00
+
+[event_8080_3W_MasterExFes_02]
+Featuring two fair-exclusive sync pairs! Other fair-exclusive sync pairs will also appear!
+Special Present!
+Dawn EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Sygna Suit Brendan & Latios (Male♂️)
+2. Dawn (Champion) & Palkia (Genderless)
+3. Raihan (Anniversary 2022) & Flygon (Male♂️)
+Presents when the Sync Pair is scouted:
+	1-1 🧁✨ Field Roll Cake x1
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 3
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.2 🪙🍬 Strike Move Candy Coin x1
+			Present no.2 🪙🍬 Tech Move Candy Coin x1
+			Present no.2 🪙🍬 Support Move Candy Coin x1
+			Present no.2 🪙🍬 Sprint Move Candy Coin x1
+			Present no.2 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.3 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.4 🍰🟡 Strike Roll Cake Coin x1
+			Present no.4 🍰🟡 Tech Roll Cake Coin x1
+			Present no.4 🍰🟡 Support Roll Cake Coin x1
+			Present no.4 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.4 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.6 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.7 🪙🍬 Strike Move Candy Coin x1
+			Present no.7 🪙🍬 Tech Move Candy Coin x1
+			Present no.7 🪙🍬 Support Move Candy Coin x1
+			Present no.7 🪙🍬 Sprint Move Candy Coin x1
+			Present no.7 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.8 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.9 🍰🟡 Strike Roll Cake Coin x1
+			Present no.9 🍰🟡 Tech Roll Cake Coin x1
+			Present no.9 🍰🟡 Support Roll Cake Coin x1
+			Present no.9 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.9 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.11 🪙🍬 Strike Move Candy Coin x1
+			Present no.11 🪙🍬 Tech Move Candy Coin x1
+			Present no.11 🪙🍬 Support Move Candy Coin x1
+			Present no.11 🪙🍬 Sprint Move Candy Coin x1
+			Present no.11 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.12 🍰🟡 Strike Roll Cake Coin x1
+			Present no.12 🍰🟡 Tech Roll Cake Coin x1
+			Present no.12 🍰🟡 Support Roll Cake Coin x1
+			Present no.12 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.12 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 12/09/2026 06:00
+🗓️ End: 25/10/2026 06:00
+
+[event_8080_3W_MasterExFes_03]
+Featuring two fair-exclusive sync pairs! Other fair-exclusive sync pairs will also appear!
+Lucas EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Lucas (Champion) & Dialga (Genderless)
+2. Sygna Suit Leon & Eternatus (Genderless)
+3. Leon (Alt.) & Dragapult (Male♂️)
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Strike Move Candy Coin x1
+			Present no.1 🪙🍬 Tech Move Candy Coin x1
+			Present no.1 🪙🍬 Support Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 ⚡ 5★ Power-Up x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🪙🍬 Sprint Move Candy Coin x1
+			Present no.3 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.4 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.6 🍰🟡 Strike Roll Cake Coin x1
+			Present no.6 🍰🟡 Tech Roll Cake Coin x1
+			Present no.6 🍰🟡 Support Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.7 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.8 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.8 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.9 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.11 ⚡ 5★ Power-Up x6
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.12 🪙🍬 Strike Move Candy Coin x1
+			Present no.12 🪙🍬 Tech Move Candy Coin x1
+			Present no.12 🪙🍬 Support Move Candy Coin x1
+			Present no.12 🪙🍬 Sprint Move Candy Coin x1
+			Present no.12 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 14/09/2026 06:00
+🗓️ End: 25/10/2026 06:00
+
+[event_8080_3W_MasterExFes_04]
+Featuring two fair-exclusive sync pairs! Other fair-exclusive sync pairs will also appear!
+Special Present!
+Lucas EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Lucas (Champion) & Dialga (Genderless)
+2. Sygna Suit Leon & Eternatus (Genderless)
+3. Leon (Alt.) & Dragapult (Male♂️)
+Presents when the Sync Pair is scouted:
+	1-1 🧁✨ Field Roll Cake x1
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 3
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.2 🪙🍬 Strike Move Candy Coin x1
+			Present no.2 🪙🍬 Tech Move Candy Coin x1
+			Present no.2 🪙🍬 Support Move Candy Coin x1
+			Present no.2 🪙🍬 Sprint Move Candy Coin x1
+			Present no.2 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.3 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.4 🍰🟡 Strike Roll Cake Coin x1
+			Present no.4 🍰🟡 Tech Roll Cake Coin x1
+			Present no.4 🍰🟡 Support Roll Cake Coin x1
+			Present no.4 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.4 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.6 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.7 🪙🍬 Strike Move Candy Coin x1
+			Present no.7 🪙🍬 Tech Move Candy Coin x1
+			Present no.7 🪙🍬 Support Move Candy Coin x1
+			Present no.7 🪙🍬 Sprint Move Candy Coin x1
+			Present no.7 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.8 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.9 🍰🟡 Strike Roll Cake Coin x1
+			Present no.9 🍰🟡 Tech Roll Cake Coin x1
+			Present no.9 🍰🟡 Support Roll Cake Coin x1
+			Present no.9 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.9 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.11 🪙🍬 Strike Move Candy Coin x1
+			Present no.11 🪙🍬 Tech Move Candy Coin x1
+			Present no.11 🪙🍬 Support Move Candy Coin x1
+			Present no.11 🪙🍬 Sprint Move Candy Coin x1
+			Present no.11 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.12 🍰🟡 Strike Roll Cake Coin x1
+			Present no.12 🍰🟡 Tech Roll Cake Coin x1
+			Present no.12 🍰🟡 Support Roll Cake Coin x1
+			Present no.12 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.12 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 14/09/2026 06:00
+🗓️ End: 25/10/2026 06:00
+
+[event_8080_3W_MasterTicket_01]
+
+5★-Guaranteed Team Galactic Ticket Scout
+Type Scout: Featured Ticket Scout (Another)
+Rate-up Trainer: 1. Cyrus & Weavile (Male♂️)
+2. Mars & Purugly (Female♀️)
+3. Jupiter & Skuntank (Female♀️)
+4. Saturn & Toxicroak (Female♀️)
+Require
+	Ticket Scout: 5★ Team Galactic Scout Ticket x1 | Limit Scout: 1
+🗓️ Start: 16/09/2026 06:00
+🗓️ End: 07/10/2026 06:00
+
+[event_8080_3W_MasterTicket_02]
+
+Team Galactic Commander Guaranteed Ticket Scout
+Type Scout: 5★-Guaranteed (Ticket Scout)
+Rate-up Trainer: 1. Mars & Purugly (Female♀️)
+2. Jupiter & Skuntank (Female♀️)
+3. Saturn & Toxicroak (Female♀️)
+Require
+	Ticket Scout x1 | 🎫 Team Galactic Commander Gtd. Ticket x1 | Limit Scout: 1
+🗓️ Start: 16/09/2026 06:00
+🗓️ End: 07/10/2026 06:00
+
+[event_8080_3W_VarietyPStepUp_01]
+
+Team Galactic Tiered Scout
+Type Scout: Tiered Scout
+Rate-up Trainer: 1. Cyrus & Weavile (Male♂️)
+2. Mars & Purugly (Female♀️)
+3. Jupiter & Skuntank (Female♀️)
+4. Saturn & Toxicroak (Female♀️)
+Require
+	Tier 1
+	Sync Pair Scout ×11
+		x1000 💎 Gems (Paid) | Limit Scout: 1
+	Tier 2
+	Sync Pair Scout ×11
+		x1500 💎 Gems (Paid) | Limit Scout: 1
+	Tier 3
+	Sync Pair Scout ×11
+		x2000 💎 Gems (Paid) | Limit Scout: 1
+	Tier 4
+	Sync Pair Scout ×11
+		x2500 💎 Gems (Paid) | Limit Scout: 1
+	Tier 5
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1  None x1
+		Scout Points get: 30
+🗓️ Start: 16/09/2026 06:00
+🗓️ End: 30/09/2026 06:00
+
+[event_8080_3W_VarietyTicket_02]
+
+Team Galactic Commander Ticket Scout
+Type Scout: 5★-Guaranteed (Ticket Scout)
+Rate-up Trainer: 1. Mars & Purugly (Female♀️)
+2. Jupiter & Skuntank (Female♀️)
+3. Saturn & Toxicroak (Female♀️)
+Require
+	Sync Pair Scout ×1 | 🎫 Team Galactic Commander Scout Ticket x1 | Limit Scout: 11
+	Sync Pair Scout ×5 | 🎫 Team Galactic Commander Scout Ticket x5 | Limit Scout: 2
+	Sync Pair Scout ×10 | 🎫 Team Galactic Commander Scout Ticket x10 | Limit Scout: 1
+🗓️ Start: 16/09/2026 06:00
+🗓️ End: 07/10/2026 06:00
+
+[event_8080_3W_Variety_01]
+
+Team Galactic Variety Scout
+Type Scout: Spotlight (Present - Power-Up)
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Cyrus & Weavile (Male♂️)
+2. Mars & Purugly (Female♀️)
+3. Jupiter & Skuntank (Female♀️)
+4. Saturn & Toxicroak (Female♀️)
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount: Limit 1!
+		x100 💎 Gems (Paid) | Limit Scout: 3
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 16/09/2026 06:00
+🗓️ End: 30/09/2026 06:00
+
+[event_8080_3W_MasterExFes_05]
+Featuring two fair-exclusive sync pairs! Other fair-exclusive sync pairs will also appear!
+Red EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Red (Anniversary 2025) & Charizard (Male♂️)
+2. Sygna Suit Brendan & Latios (Male♂️)
+3. Sygna Suit Leon & Eternatus (Genderless)
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Strike Move Candy Coin x1
+			Present no.1 🪙🍬 Tech Move Candy Coin x1
+			Present no.1 🪙🍬 Support Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 ⚡ 5★ Power-Up x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🪙🍬 Sprint Move Candy Coin x1
+			Present no.3 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.4 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.6 🍰🟡 Strike Roll Cake Coin x1
+			Present no.6 🍰🟡 Tech Roll Cake Coin x1
+			Present no.6 🍰🟡 Support Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.7 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.8 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.8 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.9 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.11 ⚡ 5★ Power-Up x6
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.12 🪙🍬 Strike Move Candy Coin x1
+			Present no.12 🪙🍬 Tech Move Candy Coin x1
+			Present no.12 🪙🍬 Support Move Candy Coin x1
+			Present no.12 🪙🍬 Sprint Move Candy Coin x1
+			Present no.12 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 19/09/2026 06:00
+🗓️ End: 03/10/2026 06:00
+
+[event_8080_3W_MasterExFes_06]
+Featuring two fair-exclusive sync pairs! Other fair-exclusive sync pairs will also appear!
+Special Present!
+Red EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Red (Anniversary 2025) & Charizard (Male♂️)
+2. Sygna Suit Brendan & Latios (Male♂️)
+3. Sygna Suit Leon & Eternatus (Genderless)
+Presents when the Sync Pair is scouted:
+	1-1 🧁✨ Tech Roll Cake x1
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 3
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.2 🪙🍬 Strike Move Candy Coin x1
+			Present no.2 🪙🍬 Tech Move Candy Coin x1
+			Present no.2 🪙🍬 Support Move Candy Coin x1
+			Present no.2 🪙🍬 Sprint Move Candy Coin x1
+			Present no.2 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.3 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.4 🍰🟡 Strike Roll Cake Coin x1
+			Present no.4 🍰🟡 Tech Roll Cake Coin x1
+			Present no.4 🍰🟡 Support Roll Cake Coin x1
+			Present no.4 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.4 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.6 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.7 🪙🍬 Strike Move Candy Coin x1
+			Present no.7 🪙🍬 Tech Move Candy Coin x1
+			Present no.7 🪙🍬 Support Move Candy Coin x1
+			Present no.7 🪙🍬 Sprint Move Candy Coin x1
+			Present no.7 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.8 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.9 🍰🟡 Strike Roll Cake Coin x1
+			Present no.9 🍰🟡 Tech Roll Cake Coin x1
+			Present no.9 🍰🟡 Support Roll Cake Coin x1
+			Present no.9 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.9 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.11 🪙🍬 Strike Move Candy Coin x1
+			Present no.11 🪙🍬 Tech Move Candy Coin x1
+			Present no.11 🪙🍬 Support Move Candy Coin x1
+			Present no.11 🪙🍬 Sprint Move Candy Coin x1
+			Present no.11 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.12 🍰🟡 Strike Roll Cake Coin x1
+			Present no.12 🍰🟡 Tech Roll Cake Coin x1
+			Present no.12 🍰🟡 Support Roll Cake Coin x1
+			Present no.12 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.12 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 19/09/2026 06:00
+🗓️ End: 03/10/2026 06:00
+
+[event_8080_3W_MasterExFes_07]
+Featuring two fair-exclusive sync pairs! Other fair-exclusive sync pairs will also appear!
+Irida EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Sygna Suit Roxie & Toxtricity (Female♀️)
+2. Irida (Anniversary 2025) & Typhlosion (Female♀️)
+3. Atticus & Revavroom (Male♂️)
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Strike Move Candy Coin x1
+			Present no.1 🪙🍬 Tech Move Candy Coin x1
+			Present no.1 🪙🍬 Support Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 ⚡ 5★ Power-Up x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🪙🍬 Sprint Move Candy Coin x1
+			Present no.3 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.4 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.6 🍰🟡 Strike Roll Cake Coin x1
+			Present no.6 🍰🟡 Tech Roll Cake Coin x1
+			Present no.6 🍰🟡 Support Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.7 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.8 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.8 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.9 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.11 ⚡ 5★ Power-Up x6
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.12 🪙🍬 Strike Move Candy Coin x1
+			Present no.12 🪙🍬 Tech Move Candy Coin x1
+			Present no.12 🪙🍬 Support Move Candy Coin x1
+			Present no.12 🪙🍬 Sprint Move Candy Coin x1
+			Present no.12 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 20/09/2026 06:00
+🗓️ End: 03/10/2026 06:00
+
+[event_8080_3W_MasterExFes_08]
+Featuring two fair-exclusive sync pairs! Other fair-exclusive sync pairs will also appear!
+Special Present!
+Irida EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Sygna Suit Roxie & Toxtricity (Female♀️)
+2. Irida (Anniversary 2025) & Typhlosion (Female♀️)
+3. Atticus & Revavroom (Male♂️)
+Presents when the Sync Pair is scouted:
+	1-1 🧁✨ Strike Roll Cake x1
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 3
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.2 🪙🍬 Strike Move Candy Coin x1
+			Present no.2 🪙🍬 Tech Move Candy Coin x1
+			Present no.2 🪙🍬 Support Move Candy Coin x1
+			Present no.2 🪙🍬 Sprint Move Candy Coin x1
+			Present no.2 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.3 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.4 🍰🟡 Strike Roll Cake Coin x1
+			Present no.4 🍰🟡 Tech Roll Cake Coin x1
+			Present no.4 🍰🟡 Support Roll Cake Coin x1
+			Present no.4 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.4 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.6 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.7 🪙🍬 Strike Move Candy Coin x1
+			Present no.7 🪙🍬 Tech Move Candy Coin x1
+			Present no.7 🪙🍬 Support Move Candy Coin x1
+			Present no.7 🪙🍬 Sprint Move Candy Coin x1
+			Present no.7 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.8 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.9 🍰🟡 Strike Roll Cake Coin x1
+			Present no.9 🍰🟡 Tech Roll Cake Coin x1
+			Present no.9 🍰🟡 Support Roll Cake Coin x1
+			Present no.9 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.9 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.11 🪙🍬 Strike Move Candy Coin x1
+			Present no.11 🪙🍬 Tech Move Candy Coin x1
+			Present no.11 🪙🍬 Support Move Candy Coin x1
+			Present no.11 🪙🍬 Sprint Move Candy Coin x1
+			Present no.11 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.12 🍰🟡 Strike Roll Cake Coin x1
+			Present no.12 🍰🟡 Tech Roll Cake Coin x1
+			Present no.12 🍰🟡 Support Roll Cake Coin x1
+			Present no.12 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.12 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 20/09/2026 06:00
+🗓️ End: 03/10/2026 06:00
+
+[event_8080_3W_MasterExFes_010]
+
+Special Present!
+Gloria EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Blue (Classic) & Aerodactyl (Male♂️)
+2. Selene (Alt.) & Nihilego (Genderless)
+3. Gloria (Anniversary 2025) & Cinderace (Male♂️)
+Presents when the Sync Pair is scouted:
+	1-1 🧁✨ Sprint Roll Cake x1
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 3
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.1 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.2 🪙🍬 Strike Move Candy Coin x1
+			Present no.2 🪙🍬 Tech Move Candy Coin x1
+			Present no.2 🪙🍬 Support Move Candy Coin x1
+			Present no.2 🪙🍬 Sprint Move Candy Coin x1
+			Present no.2 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.3 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.4 🍰🟡 Strike Roll Cake Coin x1
+			Present no.4 🍰🟡 Tech Roll Cake Coin x1
+			Present no.4 🍰🟡 Support Roll Cake Coin x1
+			Present no.4 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.4 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.6 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.7 🪙🍬 Strike Move Candy Coin x1
+			Present no.7 🪙🍬 Tech Move Candy Coin x1
+			Present no.7 🪙🍬 Support Move Candy Coin x1
+			Present no.7 🪙🍬 Sprint Move Candy Coin x1
+			Present no.7 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.8 ⚡ 5★ Power-Up x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.9 🍰🟡 Strike Roll Cake Coin x1
+			Present no.9 🍰🟡 Tech Roll Cake Coin x1
+			Present no.9 🍰🟡 Support Roll Cake Coin x1
+			Present no.9 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.9 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x5
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.11 🪙🍬 Strike Move Candy Coin x1
+			Present no.11 🪙🍬 Tech Move Candy Coin x1
+			Present no.11 🪙🍬 Support Move Candy Coin x1
+			Present no.11 🪙🍬 Sprint Move Candy Coin x1
+			Present no.11 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | Limit Scout: 1
+			Present no.12 🍰🟡 Strike Roll Cake Coin x1
+			Present no.12 🍰🟡 Tech Roll Cake Coin x1
+			Present no.12 🍰🟡 Support Roll Cake Coin x1
+			Present no.12 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.12 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Paid) | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 21/09/2026 06:00
+🗓️ End: 03/10/2026 06:00
+
+[event_8080_3W_MasterExFes_09]
+Featuring two fair-exclusive sync pairs! Other fair-exclusive sync pairs will also appear!
+Gloria EX Master Fair
+Type Scout: EX Master Fair Scout
+Scout Points to Pick-up: x400
+Rate-up Trainer: 1. Blue (Classic) & Aerodactyl (Male♂️)
+2. Selene (Alt.) & Nihilego (Genderless)
+3. Gloria (Anniversary 2025) & Cinderace (Male♂️)
+Require
+	Sync Pair Scout x1
+		x300 💎 Gems (Non-Paid) | No Limit Scout
+		Scout Points get: 3
+	Daily Discount ×1
+		x100 💎 Gems (Paid) | Limit Scout: 1
+		Scout Points get: 1
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.1 🪙🍬 Strike Move Candy Coin x1
+			Present no.1 🪙🍬 Tech Move Candy Coin x1
+			Present no.1 🪙🍬 Support Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.2 ⚡ 5★ Power-Up x2
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.3 🪙🍬 Sprint Move Candy Coin x1
+			Present no.3 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.4 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.5 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.6 🍰🟡 Strike Roll Cake Coin x1
+			Present no.6 🍰🟡 Tech Roll Cake Coin x1
+			Present no.6 🍰🟡 Support Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.7 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.8 🍰🟡 Sprint Roll Cake Coin x1
+			Present no.8 🍰🟡 Field Roll Cake Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.9 ⚡ 5★ Power-Up x4
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.10 🪙🍬 Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.11 ⚡ 5★ Power-Up x6
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
+			Present no.12 🪙🍬 Strike Move Candy Coin x1
+			Present no.12 🪙🍬 Tech Move Candy Coin x1
+			Present no.12 🪙🍬 Support Move Candy Coin x1
+			Present no.12 🪙🍬 Sprint Move Candy Coin x1
+			Present no.12 🪙🍬 Field Move Candy Coin x1
+		Scout Points get: 33
+	Sync Pair Scout ×11
+		x3000 💎 Gems (Non-Paid) [❌ Gift] | No Limit Scout
+		Scout Points get: 33
+🗓️ Start: 21/09/2026 06:00
+🗓️ End: 03/10/2026 06:00
+
+[event_8080_4W_PokeMas_01]
+One time only on Pokémon Masters Day! Scout ×11 for only 25 gems!
+Pokémon Masters Day One-Time-Only Happy Scout
+Type Scout: Happy Scout (Master Day)
+Require
+	Sync Pair Scout ×11
+		x25 💎 Gems (Non-Paid) | Limit Scout: 1
+🗓️ Start: 25/09/2026 06:00
+🗓️ End: 26/09/2026 06:00
+
+[event_8080_4W_PokeMas_02]
+One time only on Pokémon Masters Day! Scout ×11 for 250 paid gems + 5★ guaranteed!
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout A
+Type Scout: Happy Scout (Master Day)
+Require
+	Sync Pair Scout ×11
+		x250 💎 Gems (Paid) | Limit Scout: 1
+🗓️ Start: 25/09/2026 06:00
+🗓️ End: 26/09/2026 06:00
+List Trainer guaranteed in this Banner:
+	1. Sygna Suit Red & Charizard (Male♂️)
+	2. Red & Snorlax (Male♂️)
+	3. Kukui & Lycanroc (Male♂️)
+	4. Lyra & Chikorita (Female♀️)
+	5. Lyra & Vaporeon (Female♀️)
+	6. Lyra (Summer 2020) & Jigglypuff (Female♀️)
+	7. Lyra (Special Costume) & Phanpy (Female♀️)
+	8. Calem & Sylveon (Male♂️)
+	9. Hilda & Tepig (Female♀️)
+	10. Hilda & Tornadus (Male♂️)
+	11. Hilda & Leafeon (Female♀️)
+	12. Sygna Suit Hilda & Victini (Genderless)
+	13. Hilda (Special Costume) & Diancie (Genderless)
+	14. Hilda (Summer 2022) & Grapploct (Female♀️)
+	15. Lorelei & Cloyster (Female♀️)
+	16. Sygna Suit Acerola & Tapu Bulu (Genderless)
+	17. Acerola (Fall 2020) & Mimikyu (Male♂️)
+	18. Acerola (Summer 2024) & Jellicent (Male♂️)
+	19. Sygna Suit Erika & Leafeon (Female♀️)
+	20. Erika (Holiday 2020) & Comfey (Female♀️)
+	21. Erika (Palentine's 2025) & Lurantis (Female♀️)
+	22. Sygna Suit Roxie & Toxtricity (Female♀️)
+	23. Sygna Suit Korrina & Marshadow (Genderless)
+	24. Skyla (Holiday 2020) & Togekiss (Male♂️)
+	25. Skyla (Summer 2025) & Jumpluff (Female♀️)
+	26. Skyla (Anniversary 2022) & Tornadus (Male♂️)
+	27. Leaf & Eevee (Male♂️)
+	28. Leaf & Beedrill (Female♀️)
+	29. Sygna Suit Leaf & Venusaur (Female♀️)
+	30. Kris & Totodile (Female♀️)
+	31. Kris & Jolteon (Female♀️)
+	32. Brendan & Treecko (Male♂️)
+	33. Brendan & Salamence (Male♂️)
+	34. Sygna Suit Brendan & Latios (Male♂️)
+	35. Hilbert & Oshawott (Male♂️)
+	36. Hilbert & Thundurus (Male♂️)
+	37. Hilbert & Glaceon (Male♂️)
+	38. Sygna Suit Hilbert & Genesect (Genderless)
+	39. Hilbert (Fall 2020) & Mightyena (Male♂️)
+	40. Blue & Pidgeot (Male♂️)
+	41. Sygna Suit Blue & Blastoise (Male♂️)
+	42. Blue (Classic) & Aerodactyl (Male♂️)
+	43. Shauntal (Fall 2024) & Froslass (Female♀️)
+	44. Candice (Palentine's 2024) & Darmanitan (Female♀️)
+	45. Whitney (Holiday 2022) & Sawsbuck (Female♀️)
+	46. Gardenia (Summer 2024) & Dhelmise (Genderless)
+	47. Clair (New Year's 2024) & Drampa (Female♀️)
+	48. Flannery (Special Costume) & Magcargo (Male♂️)
+	49. Liza (Summer 2023) & Celesteela (Genderless)
+	50. Tate (Summer 2023) & Jirachi (Genderless)
+	51. Sygna Suit Mina & Tapu Fini (Genderless)
+	52. Viola (Holiday 2023) & Vivillon (Female♀️)
+	53. Thorton & Magnezone (Genderless)
+	54. Roxanne (Fall 2023) & Runerigus (Female♀️)
+	55. Bugsy (Holiday 2024) & Kricketune (Male♂️)
+	56. Noland & Ninjask (Male♂️)
+	57. Grimsley & Liepard (Female♀️)
+	58. Sygna Suit Grimsley & Sharpedo (Male♂️)
+	59. Grimsley (Kimono) & Bisharp (Female♀️)
+	60. Grimsley (Kimono) & Absol (Female♀️)
+	61. Phoebe & Dusclops (Female♀️)
+	62. Phoebe (Fall 2023) & Cofagrigus (Female♀️)
+	63. Olivia & Lycanroc (Male♂️)
+	64. Bruno & Onix (Male♂️)
+	65. Agatha & Arbok (Female♀️)
+	66. Karen & Houndoom (Female♀️)
+	67. Paulo & Lycanroc (Male♂️)
+	68. Lear & Hoopa (Genderless)
+	69. Rachel & Gimmighoul (Genderless)
+	70. Sawyer & Gimmighoul (Genderless)
+	71. N & Zekrom (Genderless)
+	72. N & Landorus (Male♂️)
+	73. Sygna Suit N & Kyurem (Genderless)
+	74. N (Summer 2022) & Zoroark (Male♂️)
+	75. Steven & Metagross (Genderless)
+	76. Sygna Suit Steven & Deoxys (Genderless)
+	77. Steven (Summer 2020) & Sandslash (Male♂️)
+	78. Steven (Special Costume) & Stoutland (Male♂️)
+	79. Cynthia & Garchomp (Female♀️)
+	80. Cynthia & Spiritomb (Female♀️)
+	81. Sygna Suit Cynthia & Kommo-o (Male♂️)
+	82. Cynthia (Summer 2025) & Milotic (Female♀️)
+	83. Iris (Fall 2022) & Naganadel (Genderless)
+	84. Iris (Academy) & Lapras (Female♀️)
+	85. Iris (Alt.) & Hydreigon (Female♀️)
+	86. Caitlin & Reuniclus (Female♀️)
+	87. Caitlin (Fall 2021) & Sableye (Female♀️)
+	88. Siebold (Holiday 2019) & Octillery (Male♂️)
+	89. Marley (Palentine's 2025) & Shaymin (Genderless)
+	90. Sygna Suit Hau & Tapu Koko (Genderless)
+	91. Barry (Special Costume) & Heracross (Male♂️)
+	92. Nate & Braviary (Male♂️)
+	93. Rosa (Holiday 2019) & Delibird (Female♀️)
+	94. Rosa (Special Costume) & Shaymin (Genderless)
+	95. Bianca & Musharna (Female♀️)
+	96. Elesa & Zebstrika (Female♀️)
+	97. Sygna Suit Elesa & Rotom (Genderless)
+	98. Sygna Suit Elesa (Alt.) & Thundurus (Male♂️)
+	99. Elesa (Palentine's 2023) & Togetic (Female♀️)
+	100. Elesa (Classic) & Emolga (Female♀️)
+	101. Cilan & Simisage (Male♂️)
+	102. Ingo & Excadrill (Male♂️)
+	103. Sygna Suit Ingo & Chandelure (Male♂️)
+	104. Ingo (Special Costume) & Accelgor (Male♂️)
+	105. Emmet & Archeops (Male♂️)
+	106. Sygna Suit Emmet & Eelektross (Male♂️)
+	107. Emmet (Special Costume) & Escavalier (Male♂️)
+	108. Sygna Suit Misty & Vaporeon (Female♀️)
+	109. Lance & Dragonite (Male♂️)
+	110. Lance & Dragonair (Male♂️)
+	111. Lance & Charizard (Male♂️)
+	112. Lance (New Year's 2021) & Gyarados (Male♂️)
+	113. Ethan & Cyndaquil (Male♂️)
+	114. Ethan & Ho-Oh (Genderless)
+	115. Ethan & Gyarados (Male♂️)
+	116. Jasmine & Steelix (Female♀️)
+	117. Jasmine (Special Costume) & Celesteela (Genderless)
+	118. Jasmine (Holiday 2022) & Ampharos (Female♀️)
+	119. Jasmine (Academy) & Forretress (Female♀️)
+	120. Sabrina & Alakazam (Male♂️)
+	121. Sabrina (New Year's 2022) & Chingling (Female♀️)
+	122. Volkner & Luxray (Male♂️)
+	123. Volkner (New Year's 2022) & Electivire (Male♂️)
+	124. Dawn & Turtwig (Female♀️)
+	125. Sygna Suit Dawn & Cresselia (Female♀️)
+	126. Dawn (Palentine's 2021) & Alcremie (Female♀️)
+	127. Dawn (New Year's 2023) & Oricorio (Female♀️)
+	128. The Masked Royal & Incineroar (Male♂️)
+	129. Lillie & Clefairy (Female♀️)
+	130. Lillie (New Year's 2021) & Ribombee (Female♀️)
+	131. Lillie (Special Costume) & Polteageist (Genderless)
+	132. Lillie (Holiday 2024) & Primarina (Female♀️)
+	133. Gladion & Silvally (Genderless)
+	134. Gladion (Academy) & Porygon-Z (Genderless)
+	135. Lusamine & Pheromosa (Genderless)
+	136. Plumeria & Salazzle (Female♀️)
+	137. Plumeria & Gengar (Male♂️)
+	138. Elio & Popplio (Male♂️)
+	139. Elio & Espeon (Male♂️)
+	140. Elio (Alt.) & Stakataka (Genderless)
+	141. Selene & Rowlet (Male♂️)
+	142. Selene & Umbreon (Female♀️)
+	143. Selene (Special Costume) & Scizor (Female♀️)
+	144. Selene (Alt.) & Nihilego (Genderless)
+	145. Mallow & Tsareena (Female♀️)
+	146. Mallow & Shiinotic (Female♀️)
+	147. Mallow (Palentine's 2023) & Appletun (Female♀️)
+	148. Guzma & Golisopod (Male♂️)
+	149. Guzma & Ariados (Male♂️)
+	150. Guzma (Special Costume) & Buzzwole (Genderless)
+	151. May & Mudkip (Female♀️)
+	152. Sygna Suit May & Blaziken (Male♂️)
+	153. May (Spring 2021) & Lopunny (Female♀️)
+	154. May (Anniversary 2022) & Latias (Female♀️)
+	155. Wallace & Milotic (Female♀️)
+	156. Wallace (New Year's 2024) & Blacephalon (Genderless)
+	157. Wally & Gallade (Male♂️)
+	158. Sygna Suit Wally & Gardevoir (Male♂️)
+	159. Zinnia (Special Costume) & Thievul (Female♀️)
+	160. Serena & Fennekin (Male♂️)
+	161. Serena (Palentine's 2021) & Whimsicott (Female♀️)
+	162. Clemont & Heliolisk (Male♂️)
+	163. Alder & Volcarona (Male♂️)
+	164. Sygna Suit Silver & Sneasel (Male♂️)
+	165. Palmer & Regigigas (Genderless)
+	166. Sidney & Absol (Male♂️)
+	167. Sycamore (Holiday 2023) & Gogoat (Male♂️)
+	168. Samson Oak & Exeggutor (Male♂️)
+	169. Shauna & Chesnaught (Female♀️)
+	170. Shauna (Special Costume) & Klefki (Female♀️)
+	171. Giovanni & Rhydon (Male♂️)
+	172. Sygna Suit Giovanni & Nidoking (Male♂️)
+	173. Archer & Houndoom (Male♂️)
+	174. Ariana & Arbok (Female♀️)
+	175. Petrel & Weezing (Male♂️)
+	176. Proton & Golbat (Male♂️)
+	177. Chili & Simisear (Male♂️)
+	178. Cress & Simipour (Male♂️)
+	179. Hugh & Bouffalant (Male♂️)
+	180. Morty & Drifblim (Male♂️)
+	181. Sygna Suit Morty & Ho-Oh (Genderless)
+	182. Morty (Fall 2021) & Banette (Male♂️)
+	183. Morty (Academy) & Typhlosion (Male♂️)
+	184. Kiawe & Marowak (Male♂️)
+	185. Kiawe & Arcanine (Male♂️)
+	186. Falkner & Swellow (Male♂️)
+	187. Falkner & Noctowl (Male♂️)
+	188. Fantina & Mismagius (Female♀️)
+	189. Aaron & Vespiquen (Female♀️)
+	190. Glacia & Glalie (Male♂️)
+	191. Bertha & Hippowdon (Female♀️)
+	192. Drasna & Dragalge (Female♀️)
+	193. Diantha & Gardevoir (Female♀️)
+	194. Sygna Suit Diantha & Diancie (Genderless)
+	195. Diantha (Special Costume) & Keldeo (Genderless)
+	196. Darach & Staraptor (Male♂️)
+	197. Lana & Araquanid (Female♀️)
+	198. Sygna Suit Lana & Tapu Lele (Genderless)
+	199. Lana (New Year’s 2026) & Dondozo (Female♀️)
+	200. Hala & Crabominable (Male♂️)
+	201. Lucas & Dialga (Genderless)
+	202. Lucas & Flareon (Male♂️)
+	203. Lenora & Watchog (Female♀️)
+	204. Burgh & Leavanny (Male♂️)
+	205. Burgh (Spring 2021) & Togepi (Male♂️)
+	206. Chuck & Poliwrath (Male♂️)
+	207. Olympia & Sigilyph (Female♀️)
+	208. Lucian & Girafarig (Male♂️)
+	209. Malva & Talonflame (Female♀️)
+	210. Anabel & Snorlax (Male♂️)
+	211. Tierno & Crawdaunt (Male♂️)
+	212. Trevor & Florges (Female♀️)
+	213. Ilima & Gumshoos (Male♂️)
+	214. Sina & Glaceon (Female♀️)
+	215. Dexio & Espeon (Male♂️)
+	216. Ryuki & Turtonator (Male♂️)
+	217. Colress & Klinklang (Genderless)
+	218. Sygna Suit Cyrus & Darkrai (Genderless)
+	219. Lysandre & Yveltal (Genderless)
+	220. Sygna Suit Lysandre & Volcanion (Genderless)
+	221. Greta & Breloom (Female♀️)
+	222. Dahlia & Ludicolo (Female♀️)
+	223. Argenta & Skarmory (Female♀️)
+	224. Benga & Volcarona (Male♂️)
+	225. Lisia & Altaria (Male♂️)
+	226. Lisia (New Year's 2023) & Rapidash (Male♂️)
+	227. Eusine & Suicune (Genderless)
+	228. Looker & Croagunk (Male♂️)
+	229. Emma & Crobat (Male♂️)
+	230. Courtney & Camerupt (Female♀️)
+	231. Victor & Rillaboom (Male♂️)
+	232. Victor (Palentine's 2024) & Greedent (Male♂️)
+	233. Gloria & Zacian (Genderless)
+	234. Gloria (Summer 2021) & Inteleon (Male♂️)
+	235. Gloria (Dojo Uniform) & Urshifu (Male♂️)
+	236. Gloria (Alt. 2) & Cinderace (Male♂️)
+	237. Hop & Rillaboom (Male♂️)
+	238. Hop & Zacian (Genderless)
+	239. Marnie & Morpeko (Female♀️)
+	240. Marnie & Cinderace (Female♀️)
+	241. Marnie (Summer 2021) & Grimmsnarl (Male♂️)
+	242. Marnie (Palentine's 2022) & Mawile (Female♀️)
+	243. Marnie (Academy) & Cyclizar (Female♀️)
+	244. Bede & Hatterene (Female♀️)
+	245. Bede & Inteleon (Male♂️)
+	246. Sygna Suit Bede & Iron Valiant (Genderless)
+	247. Sygna Suit Leon & Eternatus (Genderless)
+	248. Leon (Holiday 2021) & Calyrex (Genderless)
+	249. Leon (Alt.) & Dragapult (Male♂️)
+	250. Milo & Eldegoss (Male♂️)
+	251. Nessa & Drednaw (Male♂️)
+	252. Nessa (Holiday 2021) & Eiscue (Male♂️)
+	253. Bea & Sirfetch’d (Male♂️)
+	254. Bea (Palentine's 2022) & Vanilluxe (Male♂️)
+	255. Allister & Gengar (Male♂️)
+	256. Allister (Fall 2022) & Gourgeist (Male♂️)
+	257. Kabu & Centiskorch (Male♂️)
+	258. Kabu (Academy) & Camerupt (Male♂️)
+	259. Gordie & Coalossal (Male♂️)
+	260. Gordie & Barbaracle (Male♂️)
+	261. Melony & Lapras (Female♀️)
+	262. Melony & Frosmoth (Female♀️)
+	263. Piers & Obstagoon (Male♂️)
+	264. Sygna Suit Piers & Toxtricity (Male♂️)
+	265. Raihan & Duraludon (Male♂️)
+	266. Raihan (Anniversary 2022) & Flygon (Male♂️)
+	267. Raihan (New Year's 2025) & Sandaconda (Male♂️)
+	268. Sonia & Yamper (Male♂️)
+	269. Sonia (Special Costume) & Tsareena (Female♀️)
+	270. Sonia (Academy) & Corviknight (Male♂️)
+	271. Rose & Copperajah (Female♀️)
+	272. Oleana & Garbodor (Female♀️)
+	273. Elaine & Eevee (Female♀️)
+	274. Klara & Slowbro (Female♀️)
+	275. Avery & Slowking (Male♂️)
+	276. Chase & Pikachu (Male♂️)
+	277. Chase & Eevee (Male♂️)
+	278. Ball Guy & Amoonguss (Male♂️)
+	279. Adaman (Special Costume) & Ursaluna (Male♂️)
+	280. Adaman (Palentine's 2026) & Sylveon (Male♂️)
+	281. Irida (Special Costume) & Zoroark (Female♀️)
+	282. Nemona & Pawmot (Male♂️)
+	283. Rei & Decidueye (Male♂️)
+	284. Rei (Academy) & Braviary (Male♂️)
+	285. Akari & Samurott (Male♂️)
+	286. Akari (Summer 2026) & Manaphy (Genderless)
+	287. Penny & Sylveon (Female♀️)
+	288. Grusha & Cetitan (Male♂️)
+	289. Iono & Bellibolt (Male♂️)
+	290. Sygna Suit Iono & Raging Bolt (Genderless)
+	291. Iono (Fall 2024) & Flutter Mane (Genderless)
+	292. Volo & Togepi (Female♀️)
+	293. Jacq & Farigiraf (Female♀️)
+	294. Bellelba & Swoobat (Female♀️)
+	295. Brycen-Man & Zoroark (Male♂️)
+	296. Rika & Clodsire (Male♂️)
+	297. Rika & Great Tusk (Genderless)
+	298. Rika (Palentine's 2026) & Quagsire (Female♀️)
+	299. Poppy & Tinkaton (Female♀️)
+	300. Poppy & Iron Treads (Genderless)
+	301. Poppy (New Year's 2025) & Steelix (Female♀️)
+	302. Larry & Dudunsparce (Male♂️)
+	303. Larry (Special Costume) & Flamigo (Male♂️)
+	304. Larry (Special Costume 2) & Komala (Female♀️)
+	305. Arezu (Summer 2026) & Basculegion (Male♂️)
+	306. Arven & Mabosstiff (Male♂️)
+	307. Arven (Holiday 2025) & Scovillain (Female♀️)
+	308. Clavell & Quaquaval (Male♂️)
+	309. Mela & Armarouge (Male♂️)
+	310. Giacomo & Kingambit (Male♂️)
+	311. Atticus & Revavroom (Male♂️)
+	312. Ortega & Dachsbun (Male♂️)
+	313. Eri & Annihilape (Male♂️)
+	314. Perrin (Academy) & Noctowl (Female♀️)
+	315. Lacey & Granbull (Female♀️)
+	316. Lacey (Fall 2025) & Whimsicott (Female♀️)
+	317. Carmine & Sinistcha (Genderless)
+	318. Clive & Amoonguss (Male♂️)
+
+[event_8080_4W_PokeMas_03]
+One time only on Pokémon Masters Day! Scout ×11 for 2,500 paid gems + exclusive sync pair guaranteed!
+Pokémon Masters Day One-Time-Only 5★-Guaranteed Scout B
+Type Scout: Happy Scout (Master Day)
+Require
+	Sync Pair Scout ×11
+		x2500 💎 Gems (Paid) | Limit Scout: 1
+🗓️ Start: 25/09/2026 06:00
+🗓️ End: 26/09/2026 06:00
+List Trainer guaranteed in this Banner:
+	1. Siebold (Holiday 2019) & Octillery (Male♂️)
+	2. Rosa (Holiday 2019) & Delibird (Female♀️)
+	3. Lance & Dragonite (Male♂️)
+	4. Cynthia & Garchomp (Female♀️)
+	5. Steven & Metagross (Genderless)
+	6. Sygna Suit Red & Charizard (Male♂️)
+	7. Steven (Summer 2020) & Sandslash (Male♂️)
+	8. Lyra (Summer 2020) & Jigglypuff (Female♀️)
+	9. Sygna Suit Cynthia & Kommo-o (Male♂️)
+	10. Sygna Suit Blue & Blastoise (Male♂️)
+	11. Sygna Suit Leaf & Venusaur (Female♀️)
+	12. Acerola (Fall 2020) & Mimikyu (Male♂️)
+	13. Hilbert (Fall 2020) & Mightyena (Male♂️)
+	14. Gloria & Zacian (Genderless)
+	15. Skyla (Holiday 2020) & Togekiss (Male♂️)
+	16. Erika (Holiday 2020) & Comfey (Female♀️)
+	17. N & Zekrom (Genderless)
+	18. Lillie (New Year's 2021) & Ribombee (Female♀️)
+	19. Lance (New Year's 2021) & Gyarados (Male♂️)
+	20. Serena (Palentine's 2021) & Whimsicott (Female♀️)
+	21. Dawn (Palentine's 2021) & Alcremie (Female♀️)
+	22. Lysandre & Yveltal (Genderless)
+	23. Alder & Volcarona (Male♂️)
+	24. Leon & Charizard (Male♂️)
+	25. Marnie & Morpeko (Female♀️)
+	26. Iris (Alt.) & Hydreigon (Female♀️)
+	27. Diantha & Gardevoir (Female♀️)
+	28. May (Spring 2021) & Lopunny (Female♀️)
+	29. Burgh (Spring 2021) & Togepi (Male♂️)
+	30. Raihan & Duraludon (Male♂️)
+	31. Maxie & Groudon (Genderless)
+	32. Archie & Kyogre (Genderless)
+	33. Ingo & Excadrill (Male♂️)
+	34. Emmet & Archeops (Male♂️)
+	35. Gloria (Summer 2021) & Inteleon (Male♂️)
+	36. Marnie (Summer 2021) & Grimmsnarl (Male♂️)
+	37. Lear & Hoopa (Genderless)
+	38. Sygna Suit Leon & Eternatus (Genderless)
+	39. N (Anniversary 2021) & Reshiram (Genderless)
+	40. Lillie (Anniversary 2021) & Lunala (Genderless)
+	41. Steven (Anniversary 2021) & Rayquaza (Genderless)
+	42. Red & Snorlax (Male♂️)
+	43. Blue (Classic) & Aerodactyl (Male♂️)
+	44. Morty (Fall 2021) & Banette (Male♂️)
+	45. Caitlin (Fall 2021) & Sableye (Female♀️)
+	46. Guzma (Special Costume) & Buzzwole (Genderless)
+	47. Diantha (Special Costume) & Keldeo (Genderless)
+	48. Jasmine (Special Costume) & Celesteela (Genderless)
+	49. Hilda (Special Costume) & Diancie (Genderless)
+	50. Sygna Suit Lusamine & Necrozma (Genderless)
+	51. Elesa (Classic) & Emolga (Female♀️)
+	52. Nessa (Holiday 2021) & Eiscue (Male♂️)
+	53. Leon (Holiday 2021) & Calyrex (Genderless)
+	54. Sygna Suit Cynthia (Renegade) & Giratina (Genderless)
+	55. Sabrina (New Year's 2022) & Chingling (Female♀️)
+	56. Volkner (New Year's 2022) & Electivire (Male♂️)
+	57. Lucas & Dialga (Genderless)
+	58. Marnie (Palentine's 2022) & Mawile (Female♀️)
+	59. Bea (Palentine's 2022) & Vanilluxe (Male♂️)
+	60. Sygna Suit Cyrus & Darkrai (Genderless)
+	61. Sygna Suit Dawn & Cresselia (Female♀️)
+	62. Skyla (Anniversary 2022) & Tornadus (Male♂️)
+	63. May (Anniversary 2022) & Latias (Female♀️)
+	64. Raihan (Anniversary 2022) & Flygon (Male♂️)
+	65. Sygna Suit Serena & Zygarde (Genderless)
+	66. Lillie (Special Costume) & Polteageist (Genderless)
+	67. Sonia (Special Costume) & Tsareena (Female♀️)
+	68. Ingo (Special Costume) & Accelgor (Male♂️)
+	69. Emmet (Special Costume) & Escavalier (Male♂️)
+	70. Sygna Suit Morty & Ho-Oh (Genderless)
+	71. Sygna Suit Giovanni & Nidoking (Male♂️)
+	72. Sygna Suit Ethan & Lugia (Genderless)
+	73. Sygna Suit Kris & Suicune (Genderless)
+	74. Sygna Suit Lyra & Celebi (Genderless)
+	75. Bede & Hatterene (Female♀️)
+	76. N (Summer 2022) & Zoroark (Male♂️)
+	77. Hilda (Summer 2022) & Grapploct (Female♀️)
+	78. Sygna Suit Korrina & Marshadow (Genderless)
+	79. Gloria (Dojo Uniform) & Urshifu (Male♂️)
+	80. Sygna Suit May & Blaziken (Male♂️)
+	81. Sygna Suit Brendan & Latios (Male♂️)
+	82. Sygna Suit Steven & Deoxys (Genderless)
+	83. Sygna Suit Red (Thunderbolt) & Pikachu (Male♂️)
+	84. Sygna Suit Cynthia (Aura) & Lucario (Male♂️)
+	85. Rosa (Special Costume) & Shaymin (Genderless)
+	86. Sygna Suit Wally & Gardevoir (Male♂️)
+	87. Victor & Rillaboom (Male♂️)
+	88. Iris (Fall 2022) & Naganadel (Genderless)
+	89. Allister (Fall 2022) & Gourgeist (Male♂️)
+	90. Sygna Suit Hilbert & Genesect (Genderless)
+	91. Sygna Suit Hilda & Victini (Genderless)
+	92. Sygna Suit N & Kyurem (Genderless)
+	93. Lucas & Flareon (Male♂️)
+	94. Kris & Jolteon (Female♀️)
+	95. Lyra & Vaporeon (Female♀️)
+	96. Serena (Champion) & Greninja (Male♂️)
+	97. Calem (Champion) & Greninja (Male♂️)
+	98. Jasmine (Holiday 2022) & Ampharos (Female♀️)
+	99. Whitney (Holiday 2022) & Sawsbuck (Female♀️)
+	100. Sygna Suit Diantha & Diancie (Genderless)
+	101. Lisia (New Year's 2023) & Rapidash (Male♂️)
+	102. Dawn (New Year's 2023) & Oricorio (Female♀️)
+	103. Mallow (Palentine's 2023) & Appletun (Female♀️)
+	104. Elesa (Palentine's 2023) & Togetic (Female♀️)
+	105. Sygna Suit Lysandre & Volcanion (Genderless)
+	106. Anabel & Snorlax (Male♂️)
+	107. Emma & Crobat (Male♂️)
+	108. Marnie (Champion) & Moltres (Genderless)
+	109. Hop (Champion) & Zapdos (Genderless)
+	110. Bede (Champion) & Articuno (Genderless)
+	111. Ball Guy & Amoonguss (Male♂️)
+	112. Steven (Special Costume) & Stoutland (Male♂️)
+	113. Shauna (Special Costume) & Klefki (Female♀️)
+	114. Zinnia (Special Costume) & Thievul (Female♀️)
+	115. Lyra (Special Costume) & Phanpy (Female♀️)
+	116. Lorelei & Cloyster (Female♀️)
+	117. Bruno & Onix (Male♂️)
+	118. Sygna Suit Hau & Tapu Koko (Genderless)
+	119. Sygna Suit Mina & Tapu Fini (Genderless)
+	120. Sygna Suit Acerola & Tapu Bulu (Genderless)
+	121. Sygna Suit Lana & Tapu Lele (Genderless)
+	122. Agatha & Arbok (Female♀️)
+	123. Lance & Dragonair (Male♂️)
+	124. Adaman & Leafeon (Male♂️)
+	125. Irida & Glaceon (Female♀️)
+	126. Eusine & Suicune (Genderless)
+	127. Sygna Suit Silver & Sneasel (Male♂️)
+	128. Tate (Summer 2023) & Jirachi (Genderless)
+	129. Liza (Summer 2023) & Celesteela (Genderless)
+	130. Rose & Copperajah (Female♀️)
+	131. Oleana & Garbodor (Female♀️)
+	132. Kiawe & Arcanine (Male♂️)
+	133. Mallow & Shiinotic (Female♀️)
+	134. Leon (Alt.) & Dragapult (Male♂️)
+	135. Gloria (Alt. 2) & Cinderace (Male♂️)
+	136. Nemona & Pawmot (Male♂️)
+	137. Red (Champion) & Articuno (Genderless)
+	138. Blue (Champion) & Zapdos (Genderless)
+	139. Leaf (Champion) & Moltres (Genderless)
+	140. Paulo & Lycanroc (Male♂️)
+	141. Giovanni & Rhydon (Male♂️)
+	142. Archer & Houndoom (Male♂️)
+	143. Ariana & Arbok (Female♀️)
+	144. Petrel & Weezing (Male♂️)
+	145. Proton & Golbat (Male♂️)
+	146. Palmer & Regigigas (Genderless)
+	147. Argenta & Skarmory (Female♀️)
+	148. Akari & Samurott (Male♂️)
+	149. Rei & Decidueye (Male♂️)
+	150. Thorton & Magnezone (Genderless)
+	151. Noland & Ninjask (Male♂️)
+	152. Phoebe (Fall 2023) & Cofagrigus (Female♀️)
+	153. Roxanne (Fall 2023) & Runerigus (Female♀️)
+	154. Sygna Suit Roxie & Toxtricity (Female♀️)
+	155. Sygna Suit Piers & Toxtricity (Male♂️)
+	156. Penny & Sylveon (Female♀️)
+	157. Elaine & Eevee (Female♀️)
+	158. Elio & Espeon (Male♂️)
+	159. Selene & Umbreon (Female♀️)
+	160. Nate (Champion) & Haxorus (Male♂️)
+	161. Viola (Holiday 2023) & Vivillon (Female♀️)
+	162. Sycamore (Holiday 2023) & Gogoat (Male♂️)
+	163. Rosa (Champion) & Meloetta (Genderless)
+	164. Clair (New Year's 2024) & Drampa (Female♀️)
+	165. Wallace (New Year's 2024) & Blacephalon (Genderless)
+	166. Grusha & Cetitan (Male♂️)
+	167. Iono & Bellibolt (Male♂️)
+	168. Sygna Suit Gladion & Magearna (Genderless)
+	169. Chase & Pikachu (Male♂️)
+	170. Victor (Palentine's 2024) & Greedent (Male♂️)
+	171. Candice (Palentine's 2024) & Darmanitan (Female♀️)
+	172. Falkner & Noctowl (Male♂️)
+	173. Geeta & Glimmora (Male♂️)
+	174. Silver (Champion) & Tyranitar (Male♂️)
+	175. Adaman (Special Costume) & Ursaluna (Male♂️)
+	176. Irida (Special Costume) & Zoroark (Female♀️)
+	177. Dahlia & Ludicolo (Female♀️)
+	178. Volo & Togepi (Female♀️)
+	179. Jacq & Farigiraf (Female♀️)
+	180. Barry (Special Costume) & Heracross (Male♂️)
+	181. Selene (Special Costume) & Scizor (Female♀️)
+	182. Rika & Clodsire (Male♂️)
+	183. Brycen-Man & Zoroark (Male♂️)
+	184. Bellelba & Swoobat (Female♀️)
+	185. Guzma & Ariados (Male♂️)
+	186. Plumeria & Gengar (Male♂️)
+	187. Poppy & Tinkaton (Female♀️)
+	188. Cheren (Champion) & Tornadus (Male♂️)
+	189. Bianca (Champion) & Virizion (Genderless)
+	190. Larry & Dudunsparce (Male♂️)
+	191. Kabu & Centiskorch (Male♂️)
+	192. Klara & Slowbro (Female♀️)
+	193. Avery & Slowking (Male♂️)
+	194. Greta & Breloom (Female♀️)
+	195. Gardenia (Summer 2024) & Dhelmise (Genderless)
+	196. Acerola (Summer 2024) & Jellicent (Male♂️)
+	197. Selene (Alt.) & Nihilego (Genderless)
+	198. Elio (Alt.) & Stakataka (Genderless)
+	199. Arven & Mabosstiff (Male♂️)
+	200. Sygna Suit Nemona & Scream Tail (Genderless)
+	201. Sygna Suit Lear & Gholdengo (Genderless)
+	202. Rachel & Gimmighoul (Genderless)
+	203. Sawyer & Gimmighoul (Genderless)
+	204. Giacomo & Kingambit (Male♂️)
+	205. Clavell & Quaquaval (Male♂️)
+	206. Iono (Fall 2024) & Flutter Mane (Genderless)
+	207. Shauntal (Fall 2024) & Froslass (Female♀️)
+	208. Sygna Suit Ingo & Chandelure (Male♂️)
+	209. Sygna Suit Emmet & Eelektross (Male♂️)
+	210. Eri & Annihilape (Male♂️)
+	211. Sina & Glaceon (Female♀️)
+	212. Dexio & Espeon (Male♂️)
+	213. Hilda & Leafeon (Female♀️)
+	214. Hilbert & Glaceon (Male♂️)
+	215. Calem & Sylveon (Male♂️)
+	216. Milo & Eldegoss (Male♂️)
+	217. Marnie & Cinderace (Female♀️)
+	218. Hop & Rillaboom (Male♂️)
+	219. Bede & Inteleon (Male♂️)
+	220. Lillie (Holiday 2024) & Primarina (Female♀️)
+	221. Bugsy (Holiday 2024) & Kricketune (Male♂️)
+	222. Sygna Suit Giovanni (Alt.) & Guzzlord (Genderless)
+	223. Raihan (New Year's 2025) & Sandaconda (Male♂️)
+	224. Poppy (New Year's 2025) & Steelix (Female♀️)
+	225. Mela & Armarouge (Male♂️)
+	226. Atticus & Revavroom (Male♂️)
+	227. Marley (Palentine's 2025) & Shaymin (Genderless)
+	228. Erika (Palentine's 2025) & Lurantis (Female♀️)
+	229. Juliana & Koraidon (Genderless)
+	230. Florian & Miraidon (Genderless)
+	231. Brendan (Champion) & Groudon (Genderless)
+	232. May (Champion) & Kyogre (Genderless)
+	233. Ortega & Dachsbun (Male♂️)
+	234. Hop & Zacian (Genderless)
+	235. Ethan & Ho-Oh (Genderless)
+	236. Lacey & Granbull (Female♀️)
+	237. Rei (Academy) & Braviary (Male♂️)
+	238. Cynthia & Spiritomb (Female♀️)
+	239. Marnie (Academy) & Cyclizar (Female♀️)
+	240. Morty (Academy) & Typhlosion (Male♂️)
+	241. Benga & Volcarona (Male♂️)
+	242. Sygna Suit Iono & Raging Bolt (Genderless)
+	243. Sygna Suit Elesa (Alt.) & Thundurus (Male♂️)
+	244. Sygna Suit Bede & Iron Valiant (Genderless)
+	245. Grimsley (Kimono) & Absol (Female♀️)
+	246. Elio (Champion) & Necrozma (Genderless)
+	247. Selene (Champion) & Necrozma (Genderless)
+	248. Larry (Special Costume) & Flamigo (Male♂️)
+	249. Clive & Amoonguss (Male♂️)
+	250. Samson Oak & Exeggutor (Male♂️)
+	251. Melony & Frosmoth (Female♀️)
+	252. Gordie & Barbaracle (Male♂️)
+	253. Cynthia (Summer 2025) & Milotic (Female♀️)
+	254. Skyla (Summer 2025) & Jumpluff (Female♀️)
+	255. Carmine & Sinistcha (Genderless)
+	256. Iris (Academy) & Lapras (Female♀️)
+	257. Gladion (Academy) & Porygon-Z (Genderless)
+	258. Kieran & Hydrapple (Male♂️)
+	259. Hilbert & Thundurus (Male♂️)
+	260. Hilda & Tornadus (Male♂️)
+	261. N & Landorus (Male♂️)
+	262. Lacey (Fall 2025) & Whimsicott (Female♀️)
+	263. Cilan & Simisage (Male♂️)
+	264. Chili & Simisear (Male♂️)
+	265. Cress & Simipour (Male♂️)
+	266. Jasmine (Academy) & Forretress (Female♀️)
+	267. Kabu (Academy) & Camerupt (Male♂️)
+	268. Chase & Eevee (Male♂️)
+	269. Lance & Charizard (Male♂️)
+	270. Arven (Holiday 2025) & Scovillain (Female♀️)
+	271. Lana (New Year’s 2026) & Dondozo (Female♀️)
+	272. Adaman (Palentine's 2026) & Sylveon (Male♂️)
+	273. Rika (Palentine's 2026) & Quagsire (Female♀️)
+	274. Perrin (Academy) & Noctowl (Female♀️)
+	275. Sonia (Academy) & Corviknight (Male♂️)
+	276. Larry (Special Costume 2) & Komala (Female♀️)
+	277. Flannery (Special Costume) & Magcargo (Male♂️)
+	278. Rika & Great Tusk (Genderless)
+	279. Poppy & Iron Treads (Genderless)
+	280. Akari (Summer 2026) & Manaphy (Genderless)
+	281. Arezu (Summer 2026) & Basculegion (Male♂️)
+	282. Leaf & Beedrill (Female♀️)
+	283. Ethan & Gyarados (Male♂️)
+	284. Brendan & Salamence (Male♂️)
+
+
+==================================
