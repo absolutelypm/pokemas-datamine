@@ -1,0 +1,1708 @@
+========================================= 
+1. No. 1 Player & Poipole (Genderless) 
+2. No. 100 Cyrus & Weavile (Male♂️) 
+3. No. 125 Nessa & Barraskewda (Female♀️) 
+4. No. 145 Lucas (Champion) & Dialga (Genderless) - Origin Forme 
+5. No. 146 Aaron & Dustox (Male♂️) 
+6. No. 18 Brendan & Salamence (Male♂️) 
+7. No. 200 Jacq & Mudsdale (Female♀️) 
+8. No. 249 Urbain & Avalugg (Male♂️) 
+9. No. 250 Brandon & Articuno (Genderless) 
+10. No. 251 Mars & Purugly (Female♀️) 
+11. No. 252 Jupiter & Skuntank (Female♀️) 
+12. No. 253 Saturn & Toxicroak (Female♀️) 
+13. No. 59 Kahili & Mandibuzz (Female♀️) 
+14. No. 65 Blue (Anniversary 2026) & Dragonite (Male♂️) 
+15. No. 75 Ethan & Gyarados ✨(Male♂️) 
+16. No. 76 Leaf & Beedrill (Female♀️) 
+17. No. 78 Cynthia & Glaceon (Female♀️) 
+18. No. 94 Dawn (Champion) & Palkia (Genderless) - Origin Forme 
+19. No. 96 Serena (Anniversary 2026) & Greninja (Male♂️) 
+========================================= 
+ 
+No. 1 Player & Poipole (Genderless)
+
+Role: Support
+Type: Poison | Weakness: Ground
+Rarity: ⭐⭐⭐⭐⭐
+Method: Exchange
+Item Exchange: 🎟️🌟 BP Sync Pair Super Voucher
+Collect items in 🎯 Battle Point Tier Rewards
+👥 Team Skill
+1. Poison Support
+2. Pasio Support
+3. Main Character Support
+
+Sync Pair Available: 28/8/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Acid
+Type: Poison
+Category: Special
+User: Pokemon
+Description: Has a chance (10%) of lowering the target’s Sp. Def by one stat rank.
+Power: 19 (1)/22 (5↑ MAX) | Accuracy: 100 | Gauge: 1 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 2: X Defense All
+Category: Status
+User: Pokemon
+Description: Raises the Defense of all allied sync pairs by two stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 2
+
+Move 3: Toxic
+Type: Poison
+Category: Status
+User: Pokemon
+Description: Leaves the target badly poisoned.
+Power: -- | Accuracy: 90 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 4: On Your Mark, Everyone!
+Category: Status
+User: Trainer
+Description: Raises the Sp. Atk and Sp. Def of all allied sync pairs by two stat ranks. Increases the Sync Move ↑ Next effect of all allied sync pairs by three ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 2
+
+Sync Move: Otherworldly Journey Poison Beam
+Type: Poison
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1(🏅): Poison Teamwork
+Powers up the moves of all allied sync pairs by 10%. Reduces attack move damage taken by all allied sync pairs by 10%. The more allied sync pairs with the Poison theme you have on your team, the higher these percentages are. (Each additional sync pair powers up moves by 5% and reduces damage by 2%. The maximum power-up is 20%, and the maximum damage reduction is 14%.)
+
+Passive 2: On a Roll 9
+Raises the chance of lowering stat values with the additional effects of the user’s moves.
+
+Passive 3: Team Fist Bump 9
+Restores the HP of all allied sync pairs when the user’s attack move is successful.
+
+Passive 4: Vigilance
+Protects the user against critical hits.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 100 | Attack : 10 | Defense : 17 | Sp. Atk : 10 | Sp. Def : 17 | Speed : 12
+
+Lv. 140
+HP : 654 | Attack : 200 | Defense : 249 | Sp. Atk : 200 | Sp. Def : 249 | Speed : 269
+
+Lv. 150
+HP : 684 | Attack : 210 | Defense : 261 | Sp. Atk : 210 | Sp. Def : 261 | Speed : 283
+
+Lv. 200
+HP : 834 | Attack : 260 | Defense : 321 | Sp. Atk : 260 | Sp. Def : 321 | Speed : 353
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 100 Cyrus & Weavile (Male♂️)
+
+Dialog 5 Stars: I will not let anyone interfere with my justice...
+Descriptions: The leader of the evil Team Galactic. Believing the human spirit to be incomplete, he’s trying to create a new world. Calm and logical, he’s highly trusted by his subordinates.
+Role: Field | EX Role 🌈: Support
+Type: Ice | Weakness: Fighting
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Soothing ↑1 Wistful ↑1
+Method: 🌱 Variety Scout
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Ice Field
+2. Sinnoh Field
+3. Villain Field
+4. Gadgeteer Field
+
+Sync Pair Available: 16/9/2026 06:00:00
+EX Effect Available: 16/9/2026 06:00:00
+EX Role Available: 16/9/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Icicle Crash
+Type: Ice
+Category: Physical
+User: Pokemon
+Description: Has a chance (30%) of making the target flinch.
+Power: 105 (1)/126 (5↑ MAX) | Accuracy: 90 | Gauge: 3 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Ice Wish
+Category: Status
+User: Pokemon
+Description: Turns the field of play’s zone into an Ice Zone. (An Ice Zone powers up Ice-type attacks.)
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 3: Frigid Storm Ice Punch
+Type: Ice
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When the user’s Attack is raised. Deactivation Condition: When the user’s Attack is not raised. Leaves the target frozen. The power of this move is not lowered even if there are multiple targets. Turns the field of play’s zone into an Ice Zone the first time this attack move is successful each battle. (An Ice Zone powers up Ice-type attacks.)
+Power: 400 (1)/480 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: All opponents | Effect Tag: -- | Max uses: 1
+
+Move 4: We’re All Incomplete
+Category: Status
+User: Trainer
+Description: Reduces an ally’s sync move countdown by one. Raises an ally’s Attack by four stat ranks. Raises an ally’s critical-hit rate by three stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: -- | Max uses: 1
+
+Sync Move: Rid of Incomplete Spirit Ice Impact
+Type: Ice
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Cool and Clever Judgment
+The user’s moves never miss. Applies the Free Move Next effect to the user when its attack move is successful while the zone is an Ice Zone. Increases the user’s Physical Moves ↑ Next effect by two ranks when its attack move is successful while the zone is an Ice Zone.
+
+Passive 2: Ally Sets WTZ: Team Physical Boost ↑1 9
+Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank when an ally activates a weather, terrain, or zone effect.
+
+Passive 3: User Sets Ice Zone: Sinnoh C (Phys) on Field
+Applies Sinnoh Circle (Physical) to the allied field of play when the user turns the field of play’s zone into an Ice Zone.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 98 | Attack : 20 | Defense : 16 | Sp. Atk : 15 | Sp. Def : 14 | Speed : 17
+
+Lv. 140
+HP : 652 | Attack : 448 | Defense : 193 | Sp. Atk : 380 | Sp. Def : 191 | Speed : 353
+
+Lv. 150
+HP : 682 | Attack : 472 | Defense : 203 | Sp. Atk : 400 | Sp. Def : 201 | Speed : 371
+
+Lv. 200
+HP : 832 | Attack : 592 | Defense : 253 | Sp. Atk : 500 | Sp. Def : 251 | Speed : 461
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 125 Nessa & Barraskewda (Female♀️)
+
+Descriptions: This Gym Leader from Galar is also a popular model. She grew up playing with Water-type Pokémon thanks to her parents’ influence and is good friends with Sonia.
+Role: Field
+Type: Water | Weakness: Grass
+Rarity: ⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑1 Soothing ↑1
+Method: Exchange
+Item Exchange: 🎟️ BP Sync Pair Voucher
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Water Field
+2. Galar Field
+3. Gym Leader Field
+4. Artistic Field
+
+Sync Pair Available: 28/8/2026 06:00:00
+EX Effect Available: 28/8/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Waterfall
+Type: Water
+Category: Physical
+User: Pokemon
+Description: Has a chance (20%) of making the target flinch.
+Power: 45 (1)/54 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Rain Dance
+Type: Water
+Category: Status
+User: Pokemon
+Description: Makes the weather rainy.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 3: Aqua Jet
+Type: Water
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 75 (1)/90 (5↑ MAX) | Accuracy: 100 | Gauge: -- | Target: An opponent | Effect Tag: Quick Move | Max uses: 3
+
+Move 4: Graceful Moves!
+Category: Status
+User: Trainer
+Description: Raises an ally’s Attack by four stat ranks. Raises an ally’s critical-hit rate by two stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: -- | Max uses: 1
+
+Sync Move: Gracefully Fired Off Water Impact
+Type: Water
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: 1st Use Status P-Move: Team Free Move Next
+Applies the Free Move Next effect to all allied sync pairs the first time the user’s Pokémon uses a status move each battle.
+
+Passive 2: Defense Destroyer 9
+Lowers the target’s Defense by two stat ranks when the user’s attack move against it is successful.
+
+Passive 3: Rainy Immunity
+Status conditions cannot be inflicted on the user when the weather is rainy.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 82 | Attack : 15 | Defense : 9 | Sp. Atk : 11 | Sp. Def : 9 | Speed : 22
+
+Lv. 140
+HP : 593 | Attack : 380 | Defense : 144 | Sp. Atk : 200 | Sp. Def : 135 | Speed : 294
+
+Lv. 150
+HP : 621 | Attack : 400 | Defense : 152 | Sp. Atk : 210 | Sp. Def : 141 | Speed : 308
+
+Lv. 200
+HP : 761 | Attack : 500 | Defense : 192 | Sp. Atk : 260 | Sp. Def : 171 | Speed : 378
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 145 Lucas (Champion) & Dialga (Genderless)
+Form: Origin Forme
+Dialog 5 Stars: I want to become a sparkle in the heart of Pasio, too!
+Descriptions: Lucas is dressed in an outfit honoring his earned title: Neo Champion of Pasio. He shines in his new look, together with Dialga in its true form.
+Role: Support | EX Role 🌈: Field
+Type: Dragon | Weakness: Ground
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Wistful ↑2
+Method: 🎈✨🌟 EX Master Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Dragon Support
+2. Sinnoh Support
+3. Main Character Support
+4. Champion Support
+5. Knowledgeable Support
+
+Sync Pair Available: 14/9/2026 06:00:00
+EX Effect Available: 14/9/2026 06:00:00
+EX Role Available: 14/9/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Shatterproof Dragon Breath
+Type: Dragon
+Category: Special
+User: Pokemon
+Description: Activation Condition: When the user’s Defense is raised. Deactivation Condition: Cannot be deactivated. Lowers the target’s Attack and Sp. Atk by two stat ranks. Leaves the target either flinching, confused, or trapped. Leaves the target paralyzed. The power of this move is not lowered even if there are multiple targets.
+Power: 120 (1)/144 (5↑ MAX) | Accuracy: 100 | Gauge: 1 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 2: Sinnoh Solidarity
+Category: Status
+User: Pokemon
+Description: Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by one rank. Applies Sinnoh Circle (Defensive) to the allied field of play. Sinnoh Circle (Defensive) grants all of the following effects: Powers up the moves and sync moves of all allied sync pairs by 5%. Reduces attack move and sync move damage taken by all allied sync pairs by 10%. The more sync pairs with the Sinnoh theme that are on the allied field of play, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 5% and reduces damage by 5%. The maximum power-up is 20%, and the maximum damage reduction is 25%.)
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
+
+Move 3: Brilliant Diamond Roar of Time
+Type: Dragon
+Category: Special
+User: Pokemon
+Description: Activation Condition: When the user uses a sync move once. Deactivation Condition: When this move is used. Never misses. Reduces the user’s sync move countdown by nine the first time this attack move is successful each battle. Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by four ranks.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: Quick Move, Sure Hit | Max uses: 1
+
+Move 4: Glorious Control of Time!
+Category: Status
+User: Trainer
+Description: Restores the HP of all allied sync pairs by approximately 40% of their maximum HP. Removes all status conditions and the flinching, confused, and trapped conditions from all allied sync pairs.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: Heals | Max uses: 2
+
+Sync Move: True Temporal Creation Roar of Time
+Type: Dragon
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1(🏅): Sinnoh’s Unbreakable Brilliance
+Powers up the moves and sync moves of all allied sync pairs by 20%. Reduces attack move and sync move damage taken by all allied sync pairs by 25%. The more allied sync pairs with the Sinnoh theme you have on your team, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 15% and reduces damage by 3%. The maximum power-up is 50%, and the maximum damage reduction is 31%.) Extends the duration of Sinnoh Circle (Defensive) when Sinnoh Circle (Defensive) is applied to the allied field of play.
+
+Passive 2: Total Control of Time
+Grants all of the following effects the first time the user enters a battle each battle: Turns the field of play’s zone into an EX Dragon Zone. (An EX Dragon Zone powers up Dragon-type attacks.) Applies Sinnoh Circle (Defensive) to the allied field of play. Raises the Defense and Sp. Def of all allied sync pairs by four stat ranks.
+
+Passive 3: Ally Sets Circle: Team Phys & Spec Boost ↑1 9
+Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by one rank when an ally applies a circle to the allied field of play.
+
+Passive 4: Ally Sets WTZ: Team Phys & Spec Boost ↑1 9
+Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by one rank when an ally activates a weather, terrain, or zone effect.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 105 | Attack : 14 | Defense : 16 | Sp. Atk : 21 | Sp. Def : 16 | Speed : 13
+
+Lv. 140
+HP : 683 | Attack : 244 | Defense : 335 | Sp. Atk : 278 | Sp. Def : 335 | Speed : 313
+
+Lv. 150
+HP : 715 | Attack : 256 | Defense : 353 | Sp. Atk : 292 | Sp. Def : 353 | Speed : 329
+
+Lv. 200
+HP : 875 | Attack : 316 | Defense : 443 | Sp. Atk : 362 | Sp. Def : 443 | Speed : 409
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 146 Aaron & Dustox (Male♂️)
+
+Descriptions: Aaron, a member of the Sinnoh Elite Four, aims to become a perfect Trainer who is as strong and beautiful as his beloved Bug-type Pokémon.
+Role: Tech
+Type: Bug | Weakness: Flying
+Rarity: ⭐⭐⭐⭐
+Expedition 🤝: Fiery ↓1 Soothing ↑3
+Method: Exchange
+Item Exchange: 🎟️ BP Sync Pair Voucher
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Bug Tech
+2. Sinnoh Tech
+3. Elite Four Tech
+4. Nature Lover Tech
+
+Sync Pair Available: 28/8/2026 06:00:00
+EX Effect Available: 28/8/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Infestation
+Type: Bug
+Category: Special
+User: Pokemon
+Description: Leaves the target trapped.
+Power: 20 (1)/24 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Toxic
+Type: Poison
+Category: Status
+User: Pokemon
+Description: Leaves the target badly poisoned.
+Power: -- | Accuracy: 90 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 3: Bug Buzz
+Type: Bug
+Category: Special
+User: Pokemon
+Description: Has a chance (10%) of lowering the target’s Sp. Def by one stat rank.
+Power: 99 (1)/118 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 4: Let’s Hear It!
+Category: Status
+User: Trainer
+Description: Raises the user’s Sp. Atk by four stat ranks. Raises the user’s accuracy by one stat rank. Applies the Gradual Healing effect to the user.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Nasty-Mean yet Beautiful Bug Beam
+Type: Bug
+Category: Special
+User: Pokemon
+Description: The more the user’s Sp. Atk is raised, the greater the power of this attack.
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: 1st Use Status P-Move: Crit Rate ↑ 3
+Raises the user’s critical-hit rate by three stat ranks the first time its Pokémon uses a status move each battle.
+
+Passive 2: Trap and Sync 5
+Powers up the user’s sync move against targets that are trapped.
+
+Passive 3: Virulent Toxin 5
+Powers up the user’s sync move when the target is poisoned or badly poisoned.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 91 | Attack : 13 | Defense : 7 | Sp. Atk : 15 | Sp. Def : 7 | Speed : 10
+
+Lv. 140
+HP : 560 | Attack : 380 | Defense : 143 | Sp. Atk : 380 | Sp. Def : 154 | Speed : 267
+
+Lv. 150
+HP : 586 | Attack : 400 | Defense : 151 | Sp. Atk : 400 | Sp. Def : 162 | Speed : 281
+
+Lv. 200
+HP : 716 | Attack : 500 | Defense : 191 | Sp. Atk : 500 | Sp. Def : 202 | Speed : 351
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 18 Brendan & Salamence (Male♂️)
+
+Dialog 5 Stars: Sometimes not forcing it leads to better results!
+Descriptions: His goal is to be like his dad, Norman—a Gym Leader he really looks up to. He is a bit mischievous, but he is serious about Pokémon battles.
+Role: Field | EX Role 🌈: Support
+Type: Flying | Weakness: Ice
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Soothing ↑2
+Method: 🌱 Variety Scout
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Flying Field
+2. Hoenn Field
+3. Main Character Field
+4. Space Cadet Field
+
+Sync Pair Available: 1/9/2026 06:00:00
+EX Effect Available: 1/9/2026 06:00:00
+EX Role Available: 1/9/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Giga Impact
+Type: Normal
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 223 (1)/267 (5↑ MAX) | Accuracy: 90 | Gauge: 4 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Flying Wish
+Category: Status
+User: Pokemon
+Description: Turns the field of play’s zone into a Flying Zone. (A Flying Zone powers up Flying-type attacks.)
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 3: Crescent Blade Giga Impact
+Type: Normal
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When the user uses any move once. Deactivation Condition: When this move is used. Lowers the target’s Flying Type Rebuff by one rank the first time this attack move is successful each battle. Turns the field of play’s zone into a Flying Zone the first time this attack move is successful each battle. (A Flying Zone powers up Flying-type attacks.) Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank.
+Power: 480 (1)/576 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 4: Swooping Descent!
+Category: Status
+User: Trainer
+Description: Reduces an ally’s sync move countdown by one. Raises an ally’s Attack by four stat ranks. Raises an ally’s critical-hit rate by three stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: -- | Max uses: 1
+
+Sync Move: Winged Wishes Flying Impact
+Type: Flying
+Category: Physical
+User: Pokemon
+Description: Become Mega Salamence until the end of battle.
+Power: 160 (1)/192 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Soaring Crescent Moon
+Normal-type moves become Flying-type moves. Applies Hoenn Circle (Physical) to the allied field of play when the user turns the field of play’s zone into a Flying Zone. Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank when the user turns the field of play’s zone into a Flying Zone.
+
+Passive 2: Entry: Team Attack & Sp. Atk ↓ 2
+Lowers the Attack and Sp. Atk of all opposing sync pairs by two stat ranks when the user enters a battle.
+
+Passive 3: Piercing Gaze
+Moves never miss.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 98 | Attack : 27 | Defense : 14 | Sp. Atk : 10 | Sp. Def : 10 | Speed : 18
+
+Lv. 140
+HP : 661 | Attack : 434 | Defense : 166 | Sp. Atk : 346 | Sp. Def : 174 | Speed : 337
+
+Lv. 150
+HP : 693 | Attack : 456 | Defense : 174 | Sp. Atk : 364 | Sp. Def : 182 | Speed : 355
+
+Lv. 200
+HP : 853 | Attack : 566 | Defense : 214 | Sp. Atk : 454 | Sp. Def : 222 | Speed : 445
+
+
+📌 Mega Details 📌
+📊🔄 Mega Stats 📊🔄
+
+Lv. 1
+HP : 98 | Attack : 32 | Defense : 16 | Sp. Atk : 10 | Sp. Def : 10 | Speed : 18
+
+Lv. 140
+HP : 661 | Attack : 520 | Defense : 199 | Sp. Atk : 346 | Sp. Def : 174 | Speed : 337
+
+Lv. 150
+HP : 693 | Attack : 547 | Defense : 208 | Sp. Atk : 364 | Sp. Def : 182 | Speed : 355
+
+Lv. 200
+HP : 853 | Attack : 679 | Defense : 256 | Sp. Atk : 454 | Sp. Def : 222 | Speed : 445
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 200 Jacq & Mudsdale (Female♀️)
+
+Descriptions: This teacher from the Paldea region teaches biology at an academy and does things at his own pace. He developed a Pokédex app for Rotom Phones.
+Role: Support
+Type: Ground | Weakness: Water
+Rarity: ⭐⭐⭐⭐
+Expedition 🤝: Wistful ↑2
+Method: Exchange
+Item Exchange: 🎟️ BP Sync Pair Voucher
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Ground Support
+2. Paldea Support
+3. Knowledgeable Support
+4. Gadgeteer Support
+5. Free Spirit Support
+
+Sync Pair Available: 28/8/2026 06:00:00
+EX Effect Available: 28/8/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Mud-Slap
+Type: Ground
+Category: Special
+User: Pokemon
+Description: Lowers the target’s accuracy by one stat rank.
+Power: 13 (1)/15 (5↑ MAX) | Accuracy: 90 | Gauge: 1 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Dire Hit All +
+Category: Status
+User: Pokemon
+Description: Raises the critical-hit rate of all allied sync pairs by two stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 2
+
+Move 3: Rock Tomb
+Type: Rock
+Category: Physical
+User: Pokemon
+Description: Lowers the target’s Speed by one stat rank.
+Power: 39 (1)/46 (5↑ MAX) | Accuracy: 95 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 4: Hello, Hello!
+Category: Status
+User: Trainer
+Description: Raises the Attack and Sp. Atk of all allied sync pairs by two stat ranks. Raises the Speed of all allied sync pairs by three stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 2
+
+Sync Move: Super-Duper Splendid Research Ground Impact
+Type: Ground
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Toughen Up 9
+Raises the user’s Defense by one stat rank when it is hit by an attack move.
+
+Passive 2: Triage Tank 9
+Restores the user’s HP when it is hit by an attack move.
+
+Passive 3: Healthy Healing
+Applies the Gradual Healing effect to the user if its HP is full when it enters a battle.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 102 | Attack : 12 | Defense : 18 | Sp. Atk : 9 | Sp. Def : 15 | Speed : 9
+
+Lv. 140
+HP : 588 | Attack : 176 | Defense : 232 | Sp. Atk : 132 | Sp. Def : 229 | Speed : 264
+
+Lv. 150
+HP : 614 | Attack : 184 | Defense : 244 | Sp. Atk : 138 | Sp. Def : 241 | Speed : 278
+
+Lv. 200
+HP : 744 | Attack : 224 | Defense : 304 | Sp. Atk : 168 | Sp. Def : 301 | Speed : 348
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 249 Urbain & Avalugg (Male♂️)
+
+Descriptions: This Trainer loves Lumiose City. He can be a bit pushy at times, but helping people and Pokémon in need is always top of mind.
+Role: Support
+Type: Ice | Weakness: Fire
+Rarity: ⭐⭐⭐⭐
+Expedition 🤝: Fiery ↓1 Wistful ↑3
+Method: 🏨 Exchange - Friendship Level-Up 100 in Lodge
+Item Exchange: 🗿 Lodge Stone (After Level 100)
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Ice Support
+2. Kalos Support
+3. Rival Support
+4. Passionate Spirit Support
+
+Sync Pair Available: 1/9/2026 06:00:00
+EX Effect Available: 1/9/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Ice Fang
+Type: Ice
+Category: Physical
+User: Pokemon
+Description: Has a chance (10%) of making the target flinch. Has a chance (10%) of leaving the target frozen.
+Power: 46 (1)/55 (5↑ MAX) | Accuracy: 95 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Mini Potion All
+Category: Status
+User: Pokemon
+Description: Restores the HP of all allied sync pairs by approximately 20% of their maximum HP.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: Heals | Max uses: 2
+
+Move 3: Protect
+Type: Normal
+Category: Status
+User: Pokemon
+Description: Applies the Damage Guard Next effect to the user.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Self | Effect Tag: -- | Max uses: 1
+
+Move 4: Tackling My Duties!
+Category: Status
+User: Trainer
+Description: Raises the Defense of all allied sync pairs by four stat ranks. Raises the Speed of all allied sync pairs by two stat ranks. Applies the Gradual Healing effect to all allied sync pairs.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 1
+
+Sync Move: Weight of Responsibility Ice Impact
+Type: Ice
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: First Aid 4
+Restores the user’s HP by approximately 40% of its maximum HP the first time it is in a pinch each battle.
+
+Passive 2: Super Interference 2
+Raises the chance of inflicting status conditions—as well as inflicting the flinching, confused, or trapped condition—with the additional effects of the user’s moves.
+
+Passive 3: Unbending
+Defense cannot be lowered.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 101 | Attack : 12 | Defense : 17 | Sp. Atk : 7 | Sp. Def : 15 | Speed : 7
+
+Lv. 140
+HP : 612 | Attack : 176 | Defense : 231 | Sp. Atk : 112 | Sp. Def : 209 | Speed : 222
+
+Lv. 150
+HP : 640 | Attack : 184 | Defense : 243 | Sp. Atk : 118 | Sp. Def : 219 | Speed : 234
+
+Lv. 200
+HP : 780 | Attack : 224 | Defense : 303 | Sp. Atk : 148 | Sp. Def : 269 | Speed : 294
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 250 Brandon & Articuno (Genderless)
+
+Descriptions: This Frontier Brain is the Pyramid King of Hoenn’s Battle Pyramid, and he loves adventures. The people around him call him the chief.
+Role: Support
+Type: Flying | Weakness: Rock
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Rare ↑2 Soothing ↓2
+Method: Exchange
+Item Exchange: 🎟️🌟 BP Sync Pair Super Voucher
+Collect items in 🎯 Battle Point Tier Rewards
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Flying Support
+2. Hoenn Support
+3. Battle Facility Foe Support
+4. Passionate Spirit Support
+5. Knowledgeable Support
+
+Sync Pair Available: 28/8/2026 06:00:00
+EX Effect Available: 28/8/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Air Slash
+Type: Flying
+Category: Special
+User: Pokemon
+Description: Has a chance (30%) of making the target flinch.
+Power: 45 (1)/54 (5↑ MAX) | Accuracy: 95 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Mini Potion All
+Category: Status
+User: Pokemon
+Description: Restores the HP of all allied sync pairs by approximately 20% of their maximum HP.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: Heals | Max uses: 2
+
+Move 3: Mist
+Type: Ice
+Category: Status
+User: Pokemon
+Description: Applies the Stat Reduction Defense effect to the allied field of play.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
+
+Move 4: Courage Sensor!
+Category: Status
+User: Trainer
+Description: Raises the Attack, Sp. Atk, and critical-hit rate of all allied sync pairs by three stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 1
+
+Sync Move: Courageous Pyramid King Flying Beam
+Type: Flying
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1(🏅): Flying Teamwork
+Powers up the moves of all allied sync pairs by 10%. Reduces attack move damage taken by all allied sync pairs by 10%. The more allied sync pairs with the Flying theme you have on your team, the higher these percentages are. (Each additional sync pair powers up moves by 5% and reduces damage by 2%. The maximum power-up is 20%, and the maximum damage reduction is 14%.)
+
+Passive 2: Aggravation 1
+Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+
+Passive 3: T-Move: Team Phys & Spec Boost ↑1 9
+Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by one rank when the user’s Trainer uses a move.
+
+Passive 4: First Aid 4
+Restores the user’s HP by approximately 40% of its maximum HP the first time it is in a pinch each battle.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 101 | Attack : 10 | Defense : 17 | Sp. Atk : 15 | Sp. Def : 20 | Speed : 14
+
+Lv. 140
+HP : 680 | Attack : 224 | Defense : 247 | Sp. Atk : 234 | Sp. Def : 260 | Speed : 286
+
+Lv. 150
+HP : 712 | Attack : 236 | Defense : 259 | Sp. Atk : 246 | Sp. Def : 274 | Speed : 300
+
+Lv. 200
+HP : 872 | Attack : 296 | Defense : 319 | Sp. Atk : 306 | Sp. Def : 344 | Speed : 370
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 251 Mars & Purugly (Female♀️)
+
+Dialog 5 Stars: The boss is the only person who’s allowed to order me around!
+Descriptions: A commander of Team Galactic, a villainous organization. She has sworn her loyalty to Cyrus and hates to lose. When it comes to her own Pokémon, she’s loving and passionate.
+Role: Sprint | EX Role 🌈: Tech
+Type: Normal | Weakness: Fighting
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑3 Soothing ↓1
+Method: 🌱 Variety Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Normal Sprint
+2. Sinnoh Sprint
+3. Villain Sprint
+4. Battle Partner Sprint
+
+Sync Pair Available: 16/9/2026 06:00:00
+EX Effect Available: 16/9/2026 06:00:00
+EX Role Available: 16/9/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Swift
+Type: Normal
+Category: Special
+User: Pokemon
+Description: Never misses.
+Power: 57 (1)/68 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: All opponents | Effect Tag: Sure Hit | Max uses: --
+
+Move 2: EX Speed
+Category: Status
+User: Pokemon
+Description: Raises the user’s Speed by six stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Move 3: Toxic
+Type: Poison
+Category: Status
+User: Pokemon
+Description: Leaves the target badly poisoned.
+Power: -- | Accuracy: 90 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 4: Not a Chance!
+Category: Status
+User: Trainer
+Description: Applies the Move Gauge Acceleration effect to the allied field of play. Raises the user’s Sp. Atk by four stat ranks. Raises the user’s critical-hit rate by three stat ranks. Applies the Gradual Healing effect to the user.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Strong Beautiful Commander Normal Beam
+Type: Normal
+Category: Special
+User: Pokemon
+Description: The more the user’s Speed is raised, the greater the power of this attack.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Impudent Beauty
+Reduces the user’s sync move countdown by two the first time its Pokémon uses a status move each battle. When the user’s status move is used and inflicted a status condition on an opponent, inflicts the same status condition on all opposing sync pairs.
+
+Passive 2: Ruthless Toxin 9
+Lowers one of the target’s following stats by two stat ranks at random when the user’s attack move is successful against a poisoned or badly poisoned opponent: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
+
+Passive 3: Opp Poisoned: Team S-Moves ↑ 3
+Powers up the sync moves of all allied sync pairs when attacking a target that is poisoned or badly poisoned.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 93 | Attack : 15 | Defense : 10 | Sp. Atk : 27 | Sp. Def : 10 | Speed : 20
+
+Lv. 140
+HP : 630 | Attack : 380 | Defense : 174 | Sp. Atk : 434 | Sp. Def : 174 | Speed : 369
+
+Lv. 150
+HP : 660 | Attack : 400 | Defense : 182 | Sp. Atk : 456 | Sp. Def : 182 | Speed : 389
+
+Lv. 200
+HP : 810 | Attack : 500 | Defense : 222 | Sp. Atk : 566 | Sp. Def : 222 | Speed : 489
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 252 Jupiter & Skuntank (Female♀️)
+
+Dialog 5 Stars: Eh? Did you want something? How silly of me to even ask.
+Descriptions: A commander of Team Galactic, a villainous organization. She has a mysterious air about her and doesn’t pull her punches. When it comes to achieving her goals, she’ll do whatever it takes.
+Role: Support | EX Role 🌈: Field
+Type: Poison | Weakness: Ground
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Wistful ↑2
+Method: 🌱 Variety Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Poison Support
+2. Sinnoh Support
+3. Villain Support
+4. Battle Partner Support
+
+Sync Pair Available: 16/9/2026 06:00:00
+EX Effect Available: 16/9/2026 06:00:00
+EX Role Available: 16/9/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Venoshock
+Type: Poison
+Category: Special
+User: Pokemon
+Description: This attack’s power is doubled when the target is poisoned or badly poisoned.
+Power: 42 (1)/50 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: X Sp. Atk All
+Category: Status
+User: Pokemon
+Description: Raises the Sp. Atk of all allied sync pairs by two stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 2
+
+Move 3: Toxic
+Type: Poison
+Category: Status
+User: Pokemon
+Description: Leaves the target badly poisoned.
+Power: -- | Accuracy: 90 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 4: Aren’t You Tough...
+Category: Status
+User: Trainer
+Description: Raises the Defense and Sp. Def of all allied sync pairs by four stat ranks. Applies the Gradual Healing effect to the user.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 1
+
+Sync Move: Stoic Passionate Commander Poison Beam
+Type: Poison
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Wafting Poison Stench
+Turns the field of play’s zone into a Poison Zone the first time the user’s Pokémon uses a status move each battle. (A Poison Zone powers up Poison-type attacks.) When the user’s status move is used and inflicted a status condition on an opponent, inflicts the same status condition on all opposing sync pairs.
+
+Passive 2: Hit Poisoned Opp: Team HP Recovery 9
+Restores the HP of all allied sync pairs when the user’s attack move is successful against a poisoned or badly poisoned opponent.
+
+Passive 3: Opp Poisoned: Team S-Moves ↑ 3
+Powers up the sync moves of all allied sync pairs when attacking a target that is poisoned or badly poisoned.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 98 | Attack : 13 | Defense : 15 | Sp. Atk : 13 | Sp. Def : 15 | Speed : 12
+
+Lv. 140
+HP : 676 | Attack : 166 | Defense : 297 | Sp. Atk : 190 | Sp. Def : 297 | Speed : 284
+
+Lv. 150
+HP : 708 | Attack : 174 | Defense : 313 | Sp. Atk : 200 | Sp. Def : 313 | Speed : 298
+
+Lv. 200
+HP : 868 | Attack : 214 | Defense : 393 | Sp. Atk : 250 | Sp. Def : 393 | Speed : 368
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 253 Saturn & Toxicroak (Female♀️)
+
+Dialog 5 Stars: You’ve taken the trouble to come. Let me welcome you!
+Descriptions: A commander of Team Galactic, a villainous organization. He loyally carries out his boss’s orders with level-headed composure, and he even keeps the team together when Cyrus is absent.
+Role: Tech | EX Role 🌈: Support
+Type: Fighting | Weakness: Psychic
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Soothing ↑2
+Method: 🌱 Variety Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Fighting Tech
+2. Sinnoh Tech
+3. Villain Tech
+4. Knowledgeable Tech
+
+Sync Pair Available: 16/9/2026 06:00:00
+EX Effect Available: 16/9/2026 06:00:00
+EX Role Available: 16/9/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Vacuum Wave
+Type: Fighting
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 20 (1)/24 (5↑ MAX) | Accuracy: 100 | Gauge: 1 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: X Sp. Def All
+Category: Status
+User: Pokemon
+Description: Raises the Sp. Def of all allied sync pairs by two stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 2
+
+Move 3: Toxic
+Type: Poison
+Category: Status
+User: Pokemon
+Description: Leaves the target badly poisoned.
+Power: -- | Accuracy: 90 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 4: You’re Tough, My Friend!
+Category: Status
+User: Trainer
+Description: Reduces the user’s sync move countdown by one. Raises the user’s Sp. Atk by four stat ranks. Raises the user’s critical-hit rate by three stat ranks. Increases the user’s Sync Move ↑ Next effect by five ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Boss-Assessing Commander Fighting Beam
+Type: Fighting
+Category: Special
+User: Pokemon
+Description: The more the target’s Sp. Def is lowered, the greater the power of this attack.
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Virulent Toxic Claws
+When the user’s status move is used and inflicted a status condition on an opponent, inflicts the same status condition on all opposing sync pairs. Lowers the Sp. Def of all opposing sync pairs by three stat ranks when the user’s Pokémon uses a status move.
+
+Passive 2: Hit Poisoned Opp: S-Move Boost ↑3 9
+Increases the user’s Sync Move ↑ Next effect by three ranks when its attack move is successful against a poisoned or badly poisoned opponent.
+
+Passive 3: Opp Poisoned: Team S-Moves ↑ 3
+Powers up the sync moves of all allied sync pairs when attacking a target that is poisoned or badly poisoned.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 95 | Attack : 12 | Defense : 12 | Sp. Atk : 27 | Sp. Def : 12 | Speed : 12
+
+Lv. 140
+HP : 648 | Attack : 390 | Defense : 185 | Sp. Atk : 434 | Sp. Def : 185 | Speed : 284
+
+Lv. 150
+HP : 678 | Attack : 410 | Defense : 195 | Sp. Atk : 456 | Sp. Def : 195 | Speed : 298
+
+Lv. 200
+HP : 828 | Attack : 510 | Defense : 245 | Sp. Atk : 566 | Sp. Def : 245 | Speed : 368
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 59 Kahili & Mandibuzz (Female♀️)
+
+Descriptions: A genius pro golfer with a stoic personality who competes all over the world, she is also a diligent member of the Elite Four who never neglects Pokémon battles.
+Role: Tech
+Type: Flying | Weakness: Electric
+Rarity: ⭐⭐⭐⭐
+Expedition 🤝: Soothing ↑3 Wistful ↓1
+Method: Exchange
+Item Exchange: 🎟️ BP Sync Pair Voucher
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Flying Tech
+2. Alola Tech
+3. Elite Four Tech
+4. Fancy Lady Tech
+5. Grown Woman Tech
+
+Sync Pair Available: 28/8/2026 06:00:00
+EX Effect Available: 28/8/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Aerial Ace
+Type: Flying
+Category: Physical
+User: Pokemon
+Description: Never misses.
+Power: 45 (1)/54 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: An opponent | Effect Tag: Sure Hit | Max uses: --
+
+Move 2: Guard Spec.
+Category: Status
+User: Pokemon
+Description: Applies the Stat Reduction Defense effect to the allied field of play.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Allied side | Effect Tag: -- | Max uses: 2
+
+Move 3: Snatch
+Type: Dark
+Category: Status
+User: Pokemon
+Description: Returns the target’s raised stats to normal, then raises the user’s same stats by the same amount.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: 2
+
+Move 4: Transcendent Battle!
+Category: Status
+User: Trainer
+Description: Applies the Move Gauge Acceleration effect to the allied field of play. Raises the user’s Attack by four stat ranks. Raises the user’s critical-hit rate by two stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Allied side | Effect Tag: -- | Max uses: 1
+
+Sync Move: Alola Return Flight Flying Impact
+Type: Flying
+Category: Physical
+User: Pokemon
+Description: The more the user’s stats are raised, the greater the power of this attack.
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Gobsmack 9
+Leaves the target confused when the user’s attack move against it is successful.
+
+Passive 2: Interference Sync 5
+Powers up the user’s sync move against targets that are flinching, confused, or trapped.
+
+Passive 3: Posthaste 9
+Raises the user’s Speed by two stat ranks when it is hit by an attack move.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 105 | Attack : 12 | Defense : 7 | Sp. Atk : 12 | Sp. Def : 7 | Speed : 13
+
+Lv. 140
+HP : 591 | Attack : 390 | Defense : 154 | Sp. Atk : 390 | Sp. Def : 143 | Speed : 270
+
+Lv. 150
+HP : 617 | Attack : 410 | Defense : 162 | Sp. Atk : 410 | Sp. Def : 151 | Speed : 284
+
+Lv. 200
+HP : 747 | Attack : 510 | Defense : 202 | Sp. Atk : 510 | Sp. Def : 191 | Speed : 354
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 65 Blue (Anniversary 2026) & Dragonite (Male♂️)
+
+Dialog 5 Stars: Grown-ups don’t rush into things. They act with class.
+Descriptions: Blue’s wearing a fancy outfit. He secretly raised his Dragonite and deepened their bond so much that they can now use Mega Evolution.
+Role: Strike (Physical) | EX Role 🌈: Field
+Type: Flying | Weakness: Ice
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Rare ↑2 Soothing ↓2
+Method: 🎈✨🌟 EX Master Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Flying Strike
+2. Kanto Strike
+3. Rival Strike
+4. Seasonal Outfit Strike
+5. Cape Strike
+
+Sync Pair Available: 28/8/2026 06:00:00
+EX Effect Available: 28/8/2026 06:00:00
+EX Role Available: 28/8/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: White Wings Aerial Ace
+Type: Flying
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When the user’s Attack is raised. Deactivation Condition: Cannot be deactivated. Never misses. Has a chance (30%) of making the target flinch. The power and chance of applying additional effects of this move are not lowered even if there are multiple targets.
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: 3 | Target: All opponents | Effect Tag: Sure Hit | Max uses: --
+
+Move 2: Unrivaled Giga Impact
+Type: Normal
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When the user’s Dragonite Mega Evolves. Deactivation Condition: Cannot be deactivated. Never misses. The more the user’s sync buff is raised, the greater the power of this attack. (The maximum increase is 10 ranks.) The power of this move is not lowered even if there are multiple targets. The more the user’s sync buff is raised, the more its sync move countdown is reduced the first time this attack move is successful each battle. (The maximum reduction is nine.)
+Power: 350 (1)/420 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: All opponents | Effect Tag: Quick Move, Sure Hit | Max uses: 1
+
+Move 3: Split-Second Extreme Speed
+Type: Normal
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When the user’s Dragonite has not Mega Evolved. Deactivation Condition: When the user’s Dragonite Mega Evolves. Never misses. Lowers the target’s Defense by six stat ranks. The power of this move is not lowered even if there are multiple targets. Reduces the user’s sync move countdown by three the first time this attack move is successful each battle.
+Power: 300 (1)/360 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: All opponents | Effect Tag: Quick Move, Sure Hit | Max uses: 1
+
+Move 4: C’mon!
+Category: Status
+User: Trainer
+Description: Removes all status conditions and the flinching, confused, and trapped conditions from the user. Applies the Damage Guard Next effect to the user. If the user’s Dragonite has Mega Evolved, also increases the user’s Sync Move ↑ Next effect by 10 ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Power of Love Fly
+Type: Flying
+Category: Physical
+User: Pokemon
+Description: Become Mega Dragonite until the end of battle.
+Power: 160 (1)/192 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1(🏅): Kanto’s Wings of Mercy
+Powers up the moves and sync moves of all allied sync pairs by 20%. Reduces attack move and sync move damage taken by all allied sync pairs by 25%. The more allied sync pairs with the Kanto theme you have on your team, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 15% and reduces damage by 3%. The maximum power-up is 50%, and the maximum damage reduction is 31%.) Extends the duration of the Flying Zone when the zone turns into a Flying Zone while the user is on the field.
+
+Passive 2: Caped Dragon Master’s Teachings
+Normal-type moves become Flying-type moves. Turns the field of play’s zone into an EX Flying Zone the first time the user enters a battle each battle. (An EX Flying Zone powers up Flying-type attacks.) Raises the user’s Attack by six stat ranks the first time it enters a battle each battle.
+
+Passive 3: Debut: Endure and Restore
+Applies the Endure and Restore effect to the user the first time it enters a battle each battle.
+
+Passive 4: Let the Party Begin!
+Except in certain circumstances, successful hits with the user’s following attacks become critical hits: Pokémon’s moves or sync move. Raises the sync buff of the user’s team by one rank the first time its sync move is used each battle.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 102 | Attack : 24 | Defense : 13 | Sp. Atk : 17 | Sp. Def : 14 | Speed : 12
+
+Lv. 140
+HP : 680 | Attack : 414 | Defense : 148 | Sp. Atk : 336 | Sp. Def : 161 | Speed : 331
+
+Lv. 150
+HP : 712 | Attack : 436 | Defense : 156 | Sp. Atk : 354 | Sp. Def : 169 | Speed : 349
+
+Lv. 200
+HP : 872 | Attack : 546 | Defense : 196 | Sp. Atk : 444 | Sp. Def : 209 | Speed : 439
+
+
+📌 Mega Details 📌
+📊🔄 Mega Stats 📊🔄
+
+Lv. 1
+HP : 102 | Attack : 28 | Defense : 13 | Sp. Atk : 17 | Sp. Def : 16 | Speed : 12
+
+Lv. 140
+HP : 680 | Attack : 496 | Defense : 148 | Sp. Atk : 336 | Sp. Def : 193 | Speed : 331
+
+Lv. 150
+HP : 712 | Attack : 523 | Defense : 156 | Sp. Atk : 354 | Sp. Def : 202 | Speed : 349
+
+Lv. 200
+HP : 872 | Attack : 655 | Defense : 196 | Sp. Atk : 444 | Sp. Def : 250 | Speed : 439
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 75 Ethan & Gyarados ✨(Male♂️)
+
+Dialog 5 Stars: My Pokémon’s really powerful, so I’ve got to stay on my game so he doesn’t rage again!
+Descriptions: A reliable veteran Pokémon Trainer from Johto, this energetic nature lover can often be found roaming the mountains.
+Role: Field | EX Role 🌈: Sprint
+Type: Water | Weakness: Electric
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Soothing ↑2
+Method: 🌱 Variety Scout
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Water Field
+2. Johto Field
+3. Main Character Field
+4. Pokéathlete Field
+
+Sync Pair Available: 1/9/2026 06:00:00
+EX Effect Available: 1/9/2026 06:00:00
+EX Role Available: 1/9/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Waterfall
+Type: Water
+Category: Physical
+User: Pokemon
+Description: Has a chance (20%) of making the target flinch.
+Power: 45 (1)/54 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Leer
+Type: Normal
+Category: Status
+User: Pokemon
+Description: Lowers the target’s Defense by one stat rank.
+Power: -- | Accuracy: 100 | Gauge: 1 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 3: Weeping Dragon Rain Dance
+Type: Water
+Category: Status
+User: Pokemon
+Description: Activation Condition: When the user uses any move once. Deactivation Condition: Cannot be deactivated. Makes the weather EX rainy. Reduces the user’s sync move countdown by two. Increases the Physical Moves ↑ Next effect of all allied sync pairs by three ranks.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: All allies | Effect Tag: -- | Max uses: 1
+
+Move 4: True Trust!
+Category: Status
+User: Trainer
+Description: Raises an ally’s Attack by four stat ranks. Raises an ally’s Speed by three stat ranks. Increases the Physical Moves ↑ Next effect of an ally by two ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: -- | Max uses: 1
+
+Sync Move: Red Rage Water Impact
+Type: Water
+Category: Physical
+User: Pokemon
+Description: Become Mega Gyarados until the end of battle.
+Power: 160 (1)/192 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Rampaging Storm
+Powers up the sync moves of all allied sync pairs when the weather is rainy. Extends the duration of rainy weather when the weather turns rainy while the user is on the field. Quickly charges the move gauge when the weather is rainy.
+
+Passive 2: P-Move on Opp: Attack & Sp. Atk ↓ 9
+Lowers the target’s Attack and Sp. Atk by one stat rank when the user’s Pokémon uses a move targeting that opponent.
+
+Passive 3: Aggravation 1
+Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 98 | Attack : 27 | Defense : 11 | Sp. Atk : 10 | Sp. Def : 12 | Speed : 14
+
+Lv. 140
+HP : 661 | Attack : 434 | Defense : 163 | Sp. Atk : 346 | Sp. Def : 185 | Speed : 314
+
+Lv. 150
+HP : 693 | Attack : 456 | Defense : 171 | Sp. Atk : 364 | Sp. Def : 195 | Speed : 330
+
+Lv. 200
+HP : 853 | Attack : 566 | Defense : 211 | Sp. Atk : 454 | Sp. Def : 245 | Speed : 410
+
+
+📌 Mega Details 📌
+📊🔄 Mega Stats 📊🔄
+
+Lv. 1
+HP : 98 | Attack : 32 | Defense : 13 | Sp. Atk : 10 | Sp. Def : 12 | Speed : 14
+
+Lv. 140
+HP : 661 | Attack : 520 | Defense : 195 | Sp. Atk : 346 | Sp. Def : 185 | Speed : 314
+
+Lv. 150
+HP : 693 | Attack : 547 | Defense : 205 | Sp. Atk : 364 | Sp. Def : 195 | Speed : 330
+
+Lv. 200
+HP : 853 | Attack : 679 | Defense : 253 | Sp. Atk : 454 | Sp. Def : 245 | Speed : 410
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 76 Leaf & Beedrill (Female♀️)
+
+Dialog 5 Stars: My Pokémon grew quickly. I can truly depend on her.
+Descriptions: This cheerful and friendly Trainer has an insatiable sense of adventure and absolute confidence in her battling skills.
+Role: Field | EX Role 🌈: Sprint
+Type: Bug | Weakness: Fire
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Soothing ↑2
+Method: 🌱 Variety Scout
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Bug Field
+2. Kanto Field
+3. Main Character Field
+4. Pallet Town Field
+
+Sync Pair Available: 1/9/2026 06:00:00
+EX Effect Available: 1/9/2026 06:00:00
+EX Role Available: 1/9/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Lunge
+Type: Bug
+Category: Physical
+User: Pokemon
+Description: Lowers the target’s Attack by one stat rank.
+Power: 80 (1)/96 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: X Defense All
+Category: Status
+User: Pokemon
+Description: Raises the Defense of all allied sync pairs by two stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 2
+
+Move 3: Vicious Poison Twineedle
+Type: Bug
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When the user’s Attack is raised. Deactivation Condition: Cannot be deactivated. Attacks twice in a row. Never misses. Leaves the target badly poisoned. Has a chance (50%) of making the target flinch. Has a chance (50%) of leaving the target confused. Has a chance (50%) of leaving the target trapped. Turns the field of play’s zone into an EX Bug Zone the first time this attack move is successful each battle. (An EX Bug Zone powers up Bug-type attacks.)
+Power: 310 (1)/372 (5↑ MAX) | Accuracy: -- | Gauge: 3 | Target: An opponent | Effect Tag: Error ID: 1032 | Max uses: 3
+
+Move 4: Different Ways to Love!
+Category: Status
+User: Trainer
+Description: Reduces an ally’s sync move countdown by one. Raises an ally’s Attack by four stat ranks. Raises an ally’s critical-hit rate by three stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: -- | Max uses: 1
+
+Sync Move: Pals from Viridian Forest Bug Impact
+Type: Bug
+Category: Physical
+User: Pokemon
+Description: Become Mega Beedrill until the end of battle.
+Power: 160 (1)/192 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Megapowerful Poison Stingers
+The power of the user’s Lunge is tripled. When an opponent’s stat is lowered by the additional effects of the user’s Lunge, it is lowered by three times the stat ranks. When the user’s sync move attacks an opponent, the target becomes all opposing sync pairs. The power of sync moves affected by this passive skill is not lowered even if there are multiple targets.
+
+Passive 2: 1st S-Move: Team Speed ↑ 6
+Raises the Speed of all allied sync pairs by six stat ranks the first time the user’s sync move is used each battle.
+
+Passive 3: Ally Moves ↑ as Ally Speed ↑
+The more an ally’s Speed is raised, the more it powers up its moves.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 96 | Attack : 12 | Defense : 10 | Sp. Atk : 13 | Sp. Def : 12 | Speed : 15
+
+Lv. 140
+HP : 650 | Attack : 458 | Defense : 158 | Sp. Atk : 336 | Sp. Def : 185 | Speed : 340
+
+Lv. 150
+HP : 680 | Attack : 482 | Defense : 166 | Sp. Atk : 354 | Sp. Def : 195 | Speed : 358
+
+Lv. 200
+HP : 830 | Attack : 602 | Defense : 206 | Sp. Atk : 444 | Sp. Def : 245 | Speed : 448
+
+
+📌 Mega Details 📌
+📊🔄 Mega Stats 📊🔄
+
+Lv. 1
+HP : 96 | Attack : 14 | Defense : 10 | Sp. Atk : 13 | Sp. Def : 12 | Speed : 17
+
+Lv. 140
+HP : 650 | Attack : 549 | Defense : 158 | Sp. Atk : 336 | Sp. Def : 185 | Speed : 407
+
+Lv. 150
+HP : 680 | Attack : 578 | Defense : 166 | Sp. Atk : 354 | Sp. Def : 195 | Speed : 429
+
+Lv. 200
+HP : 830 | Attack : 722 | Defense : 206 | Sp. Atk : 444 | Sp. Def : 245 | Speed : 537
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 78 Cynthia & Glaceon (Female♀️)
+
+Descriptions: This Champion of Sinnoh is an archeologist who researches the history and mythology of Pokémon. Her deep love for Pokémon sent her on an adventure when she was young.
+Role: Support | EX Role 🌈: Field
+Type: Ice | Weakness: Fire
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Soothing ↓1 Wistful ↑3
+Method: 
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Ice Support
+2. Sinnoh Support
+3. Champion Support
+4. Undella Town Support
+5. Researcher Support
+
+Sync Pair Available: 12/9/2026 06:00:00
+EX Effect Available: 12/9/2026 06:00:00
+EX Role Available: 12/9/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Powder Snow
+Type: Ice
+Category: Special
+User: Pokemon
+Description: Has a chance (10%) of leaving the target frozen.
+Power: 16 (1)/19 (5↑ MAX) | Accuracy: 100 | Gauge: 1 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 2: Hail
+Type: Ice
+Category: Status
+User: Pokemon
+Description: Causes a hailstorm.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 3: Haze
+Type: Ice
+Category: Status
+User: Pokemon
+Description: Returns the target’s raised stats to normal.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: All opponents | Effect Tag: -- | Max uses: 2
+
+Move 4: I Know That!
+Category: Status
+User: Trainer
+Description: Raises the Defense and Sp. Def of all allied sync pairs by four stat ranks. Applies the Gradual Healing effect to all allied sync pairs.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 1
+
+Sync Move: Freezing Beauty Ice Beam
+Type: Ice
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: User Sets Hail: Team Evasiveness ↑2 9
+Raises the evasiveness of all allied sync pairs by two stat ranks when the user causes a hailstorm.
+
+Passive 2: Haily Hit: Team HP Recovery 9
+Restores the HP of all allied sync pairs when the user’s attack move is successful during a hailstorm.
+
+Passive 3: Team Hail Immunity
+Protects all allied sync pairs from damage from a hailstorm.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 90 | Attack : 8 | Defense : 15 | Sp. Atk : 10 | Sp. Def : 11 | Speed : 13
+
+Lv. 140
+HP : 628 | Attack : 156 | Defense : 298 | Sp. Atk : 224 | Sp. Def : 283 | Speed : 312
+
+Lv. 150
+HP : 658 | Attack : 164 | Defense : 314 | Sp. Atk : 236 | Sp. Def : 297 | Speed : 328
+
+Lv. 200
+HP : 808 | Attack : 204 | Defense : 394 | Sp. Atk : 296 | Sp. Def : 367 | Speed : 408
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 94 Dawn (Champion) & Palkia (Genderless)
+Form: Origin Forme
+Dialog 5 Stars: I’ll lead the way, so be sure to keep up!
+Descriptions: Dawn is dressed in an outfit honoring her earned title: Neo Champion of Pasio. She’s showing everyone her new bond with a Palkia in its true form.
+Role: Strike (Special) | EX Role 🌈: Field
+Type: Dragon | Weakness: Fairy
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑2
+Method: 🎈✨🌟 EX Master Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Dragon Strike
+2. Sinnoh Strike
+3. Main Character Strike
+4. Champion Strike
+5. Contest Lover Strike
+
+Sync Pair Available: 12/9/2026 06:00:00
+EX Effect Available: 12/9/2026 06:00:00
+EX Role Available: 12/9/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Shining Pearl Dragon Pulse
+Type: Dragon
+Category: Special
+User: Pokemon
+Description: Activation Condition: When the user’s Sp. Atk is raised. Deactivation Condition: Cannot be deactivated. Never misses. Lowers the target’s Sp. Def by two stat ranks.
+Power: 350 (1)/420 (5↑ MAX) | Accuracy: -- | Gauge: 3 | Target: All opponents | Effect Tag: Sure Hit | Max uses: --
+
+Move 2: Lum Berry
+Category: Status
+User: Pokemon
+Description: Removes all status conditions from an ally.
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: Berry | Max uses: 3
+
+Move 3: Ideal World Spacial Rend
+Type: Dragon
+Category: Special
+User: Pokemon
+Description: Activation Condition: When the user uses a sync move once. Deactivation Condition: When this move is used. Never misses. Except in certain circumstances, successful hits with this attack become critical hits. Reduces the user’s sync move countdown by nine the first time this attack move is successful each battle. Increases the user’s Sync Move ↑ Next effect by 10 ranks.
+Power: 600 (1)/720 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: Quick Move, Sure Hit | Max uses: 1
+
+Move 4: Glorious Control of Space!
+Category: Status
+User: Trainer
+Description: Applies the Supereffective ↑ Next effect to the user. Increases the user’s Special Moves ↑ Next effect by three ranks. Applies the Enduring effect to the user.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Shining Space Creation Spacial Rend
+Type: Dragon
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1(🏅): Sinnoh’s Shining Pearl
+Powers up the moves and sync moves of all allied sync pairs by 20%. Reduces attack move and sync move damage taken by all allied sync pairs by 25%. The more allied sync pairs with the Sinnoh theme you have on your team, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 15% and reduces damage by 3%. The maximum power-up is 50%, and the maximum damage reduction is 31%.) Increases the user’s Special Moves ↑ Next effect by two ranks when an ally applies a circle to the allied field of play.
+
+Passive 2: Total Control of Space
+Grants all of the following effects the first time the user enters a battle each battle: Turns the field of play’s zone into a Dragon Zone. (A Dragon Zone powers up Dragon-type attacks.) Applies Sinnoh Circle (Special) to the allied field of play. Raises the user’s Sp. Atk by six stat ranks.
+
+Passive 3: Stabilized Space
+Extends the duration of the Dragon Zone when the zone turns into a Dragon Zone while the user is on the field. Extends the duration of Sinnoh Circle (Special) when Sinnoh Circle (Special) is applied to the allied field of play. Except in certain circumstances, successful hits with the user’s following attacks become critical hits: Pokémon’s moves or sync move.
+
+Passive 4: Shared Positivity
+Reduces the MP for the user’s Lum Berry by one and powers up its sync move when it uses its sync move.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 104 | Attack : 14 | Defense : 14 | Sp. Atk : 24 | Sp. Def : 16 | Speed : 16
+
+Lv. 140
+HP : 671 | Attack : 244 | Defense : 150 | Sp. Atk : 468 | Sp. Def : 163 | Speed : 339
+
+Lv. 150
+HP : 703 | Attack : 256 | Defense : 158 | Sp. Atk : 492 | Sp. Def : 171 | Speed : 357
+
+Lv. 200
+HP : 863 | Attack : 316 | Defense : 198 | Sp. Atk : 612 | Sp. Def : 211 | Speed : 447
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 96 Serena (Anniversary 2026) & Greninja (Male♂️)
+
+Dialog 5 Stars: Won’t you have a memorable Pokémon battle with me?
+Descriptions: Serena’s wearing a fancy outfit. She strengthened her bond with Greninja until he was able to harness a new power—Mega Evolution.
+Role: Strike (Physical) | EX Role 🌈: Field
+Type: Dark | Weakness: Bug
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑2
+Method: 🎈✨🌟 EX Master Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Dark Strike
+2. Kalos Strike
+3. Main Character Strike
+4. Seasonal Outfit Strike
+5. Passionate Spirit Strike
+
+Sync Pair Available: 28/8/2026 06:00:00
+EX Effect Available: 28/8/2026 06:00:00
+EX Role Available: 28/8/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Moonlit Night Slash
+Type: Dark
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When the user’s Attack is raised. Deactivation Condition: When the user’s Attack is not raised. Never misses. Except in certain circumstances, successful hits with this attack become critical hits. Lowers the target’s Defense by two stat ranks. The power of this move is not lowered even if there are multiple targets. Charges the user’s move gauge by one for each hit.
+Power: 230 (1)/276 (5↑ MAX) | Accuracy: -- | Gauge: 4 | Target: All opponents | Effect Tag: Sure Hit | Max uses: --
+
+Move 2: Air-Cutting Water Shuriken
+Type: Water
+Category: Special
+User: Pokemon
+Description: Activation Condition: When the user uses any move once. Deactivation Condition: When this move is used. Attacks the target two to five times in a row. Never misses. Increases the user’s Physical Moves ↑ Next effect by one rank for each hit.
+Power: 40 (1)/48 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: Error ID: 1036 | Max uses: --
+
+Move 3: Glowing Mist Feint Attack
+Type: Dark
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When your team’s sync pair uses a sync move once. Deactivation Condition: When this move is used. Never misses. The more the user’s sync buff is raised, the greater the power of this attack. (The maximum increase is 10 ranks.) The power of this move is not lowered even if there are multiple targets. Turns the field of play’s zone into a Dark Zone the first time this attack move is successful each battle. (A Dark Zone powers up Dark-type attacks.)
+Power: 320 (1)/384 (5↑ MAX) | Accuracy: -- | Gauge: 1 | Target: All opponents | Effect Tag: Sure Hit | Max uses: --
+
+Move 4: I’m Going to Win!
+Category: Status
+User: Trainer
+Description: Increases the user’s Physical Moves ↑ Next effect and Special Moves ↑ Next effect by five ranks. If the user’s Greninja has Mega Evolved, also increases the user’s Sync Move ↑ Next effect by 10 ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Stylish Ambush Night Slash
+Type: Dark
+Category: Physical
+User: Pokemon
+Description: Become Mega Greninja until the end of battle.
+Power: 160 (1)/192 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1(🏅): Kalos’s Ruler of Shadows
+Powers up the moves and sync moves of all allied sync pairs by 20%. Reduces attack move and sync move damage taken by all allied sync pairs by 25%. The more allied sync pairs with the Kalos theme you have on your team, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 15% and reduces damage by 3%. The maximum power-up is 50%, and the maximum damage reduction is 31%.) Extends the duration of the Dark Zone when the zone turns into a Dark Zone while the user is on the field.
+
+Passive 2: Majestic Ninja
+Reduces the user’s sync move countdown by three when it enters a battle. Raises the user’s Attack and Sp. Atk by six stat ranks when it enters a battle.
+
+Passive 3: Victorious Reflexes
+Protects the user against critical hits. The user’s stats cannot be lowered. Prevents the user from being inflicted with status conditions, flinching, becoming confused, or becoming trapped.
+
+Passive 4: Let the Party Begin!
+Except in certain circumstances, successful hits with the user’s following attacks become critical hits: Pokémon’s moves or sync move. Raises the sync buff of the user’s team by one rank the first time its sync move is used each battle.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 106 | Attack : 13 | Defense : 11 | Sp. Atk : 13 | Sp. Def : 12 | Speed : 18
+
+Lv. 140
+HP : 669 | Attack : 336 | Defense : 147 | Sp. Atk : 336 | Sp. Def : 159 | Speed : 354
+
+Lv. 150
+HP : 701 | Attack : 354 | Defense : 155 | Sp. Atk : 354 | Sp. Def : 167 | Speed : 372
+
+Lv. 200
+HP : 861 | Attack : 444 | Defense : 195 | Sp. Atk : 444 | Sp. Def : 207 | Speed : 462
+
+
+📌 Mega Details 📌
+⚔️ Mega Moves Details ⚔️
+Move 2: Supersonic Water Shuriken
+Type: Water
+Category: Special
+User: Pokemon
+Description: Activation Condition: When the user uses any move once. Deactivation Condition: When this move is used. Never misses. Increases the user’s Physical Moves ↑ Next effect by five ranks.
+Power: 300 (1)/360 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: Quick Move, Sure Hit | Max uses: --
+
+📊🔄 Mega Stats 📊🔄
+
+Lv. 1
+HP : 106 | Attack : 15 | Defense : 11 | Sp. Atk : 15 | Sp. Def : 12 | Speed : 18
+
+Lv. 140
+HP : 669 | Attack : 403 | Defense : 147 | Sp. Atk : 403 | Sp. Def : 159 | Speed : 354
+
+Lv. 150
+HP : 701 | Attack : 424 | Defense : 155 | Sp. Atk : 424 | Sp. Def : 167 | Speed : 372
+
+Lv. 200
+HP : 861 | Attack : 532 | Defense : 195 | Sp. Atk : 532 | Sp. Def : 207 | Speed : 462
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
