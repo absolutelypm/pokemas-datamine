@@ -1,0 +1,147 @@
+All rewards can only collect one time
+8000 Point: 
+    - Item: 🔮Co-op Sync Orb x2000
+
+16000 Point: 
+    - Item: 🎫🤝5★ Scout Ticket x30
+
+24000 Point: 
+    - Item: 🪙🍬Strike Move Candy Coin x1
+
+32000 Point: 
+    - Item: ⚡5★ Power-Up x3
+
+40000 Point: 
+    - Item: 🪙🍬Tech Move Candy Coin x1
+
+48000 Point: 
+    - Item: 🍹Certificate of Excellence x10
+
+56000 Point: 
+    - Item: 🪙🍬Support Move Candy Coin x1
+
+64000 Point: 
+    - Item: Yellow Skill Feather x10
+
+Featured Reward: 1
+72000 Point: 
+    - Item: 🍰🟡Strike Roll Cake Coin x1
+
+80000 Point: 
+    - Item: 🔮Co-op Sync Orb x2000
+
+88000 Point: 
+    - Item: Yellow Skill Feather x10
+
+96000 Point: 
+    - Item: 🎫🤝5★ Scout Ticket x30
+
+104000 Point: 
+    - Item: Yellow Skill Feather x10
+
+Featured Reward: 2
+112000 Point: 
+    - Item: 🍰🟡Tech Roll Cake Coin x1
+
+120000 Point: 
+    - Item: ⚡5★ Power-Up x3
+
+128000 Point: 
+    - Item: 🍹Certificate of Excellence x10
+
+136000 Point: 
+    - Item: Red Skill Feather x6
+
+Featured Reward: 3
+144000 Point: 
+    - Item: 🍰🟡Support Roll Cake Coin x1
+
+152000 Point: 
+    - Item: Pink Skill Feather x6
+
+160000 Point: 
+    - Item: 🪙🍬Field Move Candy Coin x1
+
+Featured Reward: 4
+168000 Point: 
+    - Item: 🍰🟡Field Roll Cake Coin x1
+
+176000 Point: 
+    - Item: 🪙🍬Sprint Move Candy Coin x1
+
+Featured Reward: 5
+184000 Point: 
+    - Item: 🍰🟡Sprint Roll Cake Coin x1
+
+192000 Point: 
+    - Item: Blue Skill Feather x6
+
+Featured Reward: 6
+200000 Point: 
+    - Item: 🪙🍬Move Candy Coin x1
+
+205000 Point: 
+    - Item: Yellow Skill Feather x3
+
+210000 Point: 
+    - Item: 🎫5★ Power-Up Ticket x5
+
+215000 Point: 
+    - Item: Yellow Skill Feather x3
+
+220000 Point: 
+    - Item: 🍹Certificate of Excellence x4
+
+225000 Point: 
+    - Item: Yellow Skill Feather x3
+
+230000 Point: 
+    - Item: 🎫5★ Power-Up Ticket x5
+
+235000 Point: 
+    - Item: Yellow Skill Feather x3
+
+240000 Point: 
+    - Item: 🍹Certificate of Excellence x4
+
+245000 Point: 
+    - Item: Yellow Skill Feather x3
+
+250000 Point: 
+    - Item: 🎫5★ Power-Up Ticket x5
+
+255000 Point: 
+    - Item: Yellow Skill Feather x3
+
+260000 Point: 
+    - Item: 🍹Certificate of Excellence x4
+
+265000 Point: 
+    - Item: Yellow Skill Feather x3
+
+270000 Point: 
+    - Item: 🎫5★ Power-Up Ticket x5
+
+275000 Point: 
+    - Item: Yellow Skill Feather x3
+
+280000 Point: 
+    - Item: 🍹Certificate of Excellence x4
+
+285000 Point: 
+    - Item: Yellow Skill Feather x3
+
+290000 Point: 
+    - Item: 🎫5★ Power-Up Ticket x5
+
+295000 Point: 
+    - Item: Yellow Skill Feather x3
+
+300000 Point: 
+    - Item: 🍹Certificate of Excellence x4
+
+After Clear All Reward
+Every 5000 Point: 
+    - Item: 📦Special Set 1 x1
+
+
