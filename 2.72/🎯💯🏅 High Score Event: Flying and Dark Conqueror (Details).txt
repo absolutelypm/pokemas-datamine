@@ -1,0 +1,90 @@
+Flying and Dark Conqueror
+
+🚩🚩🚩🚩🚩🚩🚩🚩Quest🚩🚩🚩🚩🚩🚩🚩🚩
+
+Challenge Blue (Hard)
+No special rules.
+
+Challenge Skyla (Hard)
+Special Rule: Damage taken by unaffected opponents is significantly reduced
+Detail: Opponents take 80% less damage when they are unaffected by a status condition or interference.
+
+Challenge Falkner (Hard)
+Special Rule: Allies can’t be healed
+Detail: The amount of HP restored for allies is zero.
+
+Challenge Sidney (Hard)
+Special Rule: Five stats of allied tech sync pairs significantly reduced
+Detail: Allied tech sync pairs’ Attack, Defense, Sp. Atk, Sp. Def, and Speed are lowered by 80%.
+
+Challenge Nanu (Hard)
+Special Rule: Ally special attack damage significantly reduced
+Detail: Reduces the damage allies deal with special attack moves by 80%.
+
+
+🤜🤜🤜🤜🤜🤜🤜🤜Battle🤛🤛🤛🤛🤛🤛🤛🤛
+---------------
+🎯 Time trial
+Details: The faster you complete a battle, the higher score you can obtain.
+Greater Than or Equals 10:00 Minute = 600 Second
+Reward: 0 pts 
+
+Less Than or Equals 08:20 Minute = 500 Second
+Reward: ≥ 150 pts
+
+Less Than or Equals 05:00 Minute = 300 Second
+Reward: ≥ 900 pts
+
+Less Than or Equals 01:40 Minute = 100 Second
+Reward: ≥ 2400 pts
+
+Less Than or Equals 01:00 Minute = 60 Second
+Reward: 3000 pts (MAX)
+
+---------------
+🎯 More stat decreases
+Details: The more times all opposing sync pairs' stats have been lowered in total when you complete a battle, the higher score you can obtain. If a sync pair's HP drops to 0 during battle, their number of stat decreases when their HP reaches 0 will be counted.
+Less than or Equals 2 times
+Reward: 0 pts
+
+Less than or Equals 15 times
+Reward: ≤ 225 pts
+
+Less than or Equals 126 times
+Reward: ≤ 3000 pts (MAX)
+
+---------------
+🎯 Remaining HP
+Details: The higher the total percentage of all allied sync pairs’ remaining HP when you complete a battle, the higher score you can obtain.
+Under or Equals 9% HP
+Reward: 0 pts
+
+Less than or Equals 200% HP
+Reward: ≤ 1500 pts
+
+Less than or Equals 300% HP
+Reward: ≤ 3000 pts (MAX)
+
+⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️Challenge⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️
+
+-------------
+🤜 Rival
+ or Seasonal Outfit
+1 or more pairs:
+Details:
+Form a team with 1 or more sync pairs with
+the following theme:
+	• Rival
+	• Seasonal Outfit
+Reward: 1000 pts (MAX) (Use 2 or 3 pairs, Have that theme still at 1000 pts)
+----------------------------
+🤜 Strike (Special):
+1 or more times
+Details:
+Form a team with 1 or more sync pairs with the following role:
+• Strike (Special)
+Reward: 1000 pts (MAX) (One time.)
+----------------------------
+
+
+
