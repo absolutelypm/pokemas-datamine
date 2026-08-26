@@ -1,0 +1,51 @@
+Normal Expert (Normal)
+Fire Expert (Normal)
+Water Expert (Normal)
+Electric Expert (Normal)
+Grass Expert (Normal)
+Ice Expert (Normal)
+Fighting Expert (Normal)
+Poison Expert (Normal)
+Ground Expert (Normal)
+Flying Expert (Normal)
+Psychic Expert (Normal)
+Bug Expert (Normal)
+Rock Expert (Normal)
+Ghost Expert (Normal)
+Dragon Expert (Normal)
+Dark Expert (Normal)
+Steel Expert (Normal)
+Fairy Expert (Normal)
+Pokémon Masters EX Eighth Year (Normal)
+Pasio Towers Pioneer (Normal)
+Pasio Towers Specialist (Normal)
+Pasio Towers Expert (Normal)
+This Match Is Too Fun! (Event)
+7-Year Anniversary High Score Flying and Dark Conqueror (Event)
+7-Year Anniversary Super Sparring (Event)
+Rogue Mega Venusaur Pacifier (Event)
+Rogue Mega Slowbro Pacifier (Event)
+Rogue Mega Tyranitar Pacifier (Event)
+Anniversary Tower Total Triumph (Event)
+Sinnoh Special Stadium Elite Four Tier (Event)
+Sinnoh Special Stadium Champion Tier (Event)
+Sinnoh Special Stadium Strongest Champion Tier (Event)
+Harmony Super Fan
+Brandon Fan
+Brandon Super Fan
+Saturn Fan
+Saturn Super Fan
+Jupiter Fan
+Jupiter Super Fan
+Mars Fan
+Mars Super Fan
+
+#ILovePoipole (Pokémon)
+#ILoveBarraskewda (Pokémon)
+#ILoveMandibuzz (Pokémon)
+#ILoveDustox (Pokémon)
+#ILovePurugly (Pokémon)
+#BrandonFan (Trainer)
+#SaturnFan (Trainer)
+#JupiterFan (Trainer)
+#MarsFan (Trainer)
