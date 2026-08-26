@@ -1628,7 +1628,7 @@ Type: Water
 Category: Special
 User: Pokemon
 Description: Activation Condition: When the user uses any move once. Deactivation Condition: When this move is used. Attacks the target two to five times in a row. Never misses. Increases the user’s Physical Moves ↑ Next effect by one rank for each hit.
-Power: 40 (1)/48 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: Error ID: 1036 | Max uses: --
+Power: 40 (1)/48 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: Quick Move, Sure Hit, Multistrike | Max uses: --
 
 Move 3: Glowing Mist Feint Attack
 Type: Dark
