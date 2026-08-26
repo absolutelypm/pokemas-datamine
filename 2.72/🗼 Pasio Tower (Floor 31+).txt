@@ -32,8 +32,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Bug
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -101,8 +101,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Bug
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -232,8 +232,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Bug
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -339,8 +339,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Bug
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -444,8 +444,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Bug
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -551,8 +551,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Bug
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -653,8 +653,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Bug
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -759,8 +759,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Bug
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -869,8 +869,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Bug
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -997,8 +997,8 @@ Bug Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Bug
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -1115,8 +1115,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dark
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -1184,8 +1184,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dark
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -1315,8 +1315,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dark
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -1422,8 +1422,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dark
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -1527,8 +1527,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dark
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -1636,8 +1636,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dark
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -1744,8 +1744,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dark
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -1851,8 +1851,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dark
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -1961,8 +1961,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dark
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -2066,8 +2066,8 @@ Dark Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dark
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -2184,8 +2184,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dragon
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -2253,8 +2253,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dragon
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -2363,8 +2363,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dragon
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -2471,8 +2471,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dragon
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -2580,8 +2580,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dragon
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -2686,8 +2686,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dragon
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -2793,8 +2793,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dragon
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -2922,8 +2922,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dragon
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -3025,8 +3025,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dragon
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -3129,8 +3129,8 @@ Dragon Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Dragon
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -3247,8 +3247,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Electric
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -3316,8 +3316,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Electric
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -3421,8 +3421,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Electric
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -3528,8 +3528,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Electric
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -3631,8 +3631,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Electric
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -3746,8 +3746,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Electric
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -3853,8 +3853,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Electric
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -3958,8 +3958,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Electric
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -4067,8 +4067,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Electric
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -4168,8 +4168,8 @@ Electric Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Electric
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -4286,8 +4286,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fairy
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -4355,8 +4355,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fairy
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -4463,8 +4463,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fairy
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -4570,8 +4570,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fairy
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -4676,8 +4676,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fairy
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -4782,8 +4782,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fairy
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -4892,8 +4892,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fairy
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -5003,8 +5003,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fairy
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -5108,8 +5108,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fairy
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -5213,8 +5213,8 @@ Fairy Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fairy
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -5331,8 +5331,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fighting
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -5400,8 +5400,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fighting
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -5506,8 +5506,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fighting
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -5614,8 +5614,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fighting
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -5718,8 +5718,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fighting
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -5820,8 +5820,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fighting
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -5926,8 +5926,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fighting
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -6035,8 +6035,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fighting
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -6164,8 +6164,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fighting
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -6270,8 +6270,8 @@ Fighting Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fighting
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -6389,8 +6389,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fire
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -6458,8 +6458,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fire
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -6565,8 +6565,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fire
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -6675,8 +6675,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fire
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -6781,8 +6781,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fire
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -6887,8 +6887,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fire
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -6992,8 +6992,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fire
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -7102,8 +7102,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fire
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -7208,8 +7208,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fire
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -7316,8 +7316,8 @@ Fire Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Fire
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -7434,8 +7434,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Flying
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -7503,8 +7503,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Flying
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -7609,8 +7609,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Flying
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -7738,8 +7738,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Flying
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -7846,8 +7846,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Flying
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -7956,8 +7956,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Flying
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -8066,8 +8066,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Flying
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -8172,8 +8172,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Flying
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -8287,8 +8287,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Flying
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -8397,8 +8397,8 @@ Flying Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Flying
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -8515,8 +8515,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ghost
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -8584,8 +8584,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ghost
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -8691,8 +8691,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ghost
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -8801,8 +8801,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ghost
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -8907,8 +8907,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ghost
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -9015,8 +9015,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ghost
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -9125,8 +9125,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ghost
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -9256,8 +9256,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ghost
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -9363,8 +9363,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ghost
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -9470,8 +9470,8 @@ Ghost Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ghost
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -9589,8 +9589,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Grass
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -9658,8 +9658,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Grass
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -9760,8 +9760,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Grass
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -9866,8 +9866,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Grass
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -9971,8 +9971,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Grass
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -10081,8 +10081,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Grass
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -10187,8 +10187,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Grass
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -10295,8 +10295,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Grass
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -10410,8 +10410,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Grass
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -10513,8 +10513,8 @@ Grass Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Grass
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -10632,8 +10632,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ground
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -10701,8 +10701,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ground
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -10806,8 +10806,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ground
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -10912,8 +10912,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ground
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -11018,8 +11018,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ground
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -11122,8 +11122,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ground
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -11226,8 +11226,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ground
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -11333,8 +11333,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ground
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -11443,8 +11443,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ground
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -11550,8 +11550,8 @@ Ground Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ground
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -11668,8 +11668,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ice
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -11737,8 +11737,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ice
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -11842,8 +11842,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ice
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -11949,8 +11949,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ice
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -12051,8 +12051,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ice
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -12154,8 +12154,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ice
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -12285,8 +12285,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ice
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -12395,8 +12395,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ice
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -12505,8 +12505,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ice
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -12610,8 +12610,8 @@ Ice Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Ice
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -12729,8 +12729,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Normal
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -12798,8 +12798,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Normal
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -12906,8 +12906,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Normal
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -13010,8 +13010,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Normal
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -13112,8 +13112,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Normal
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -13221,8 +13221,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Normal
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -13325,8 +13325,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Normal
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -13431,8 +13431,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Normal
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -13541,8 +13541,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Normal
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -13649,8 +13649,8 @@ Normal Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Normal
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -13768,8 +13768,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Poison
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -13837,8 +13837,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Poison
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -13948,8 +13948,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Poison
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -14079,8 +14079,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Poison
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -14186,8 +14186,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Poison
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -14291,8 +14291,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Poison
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -14398,8 +14398,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Poison
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -14502,8 +14502,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Poison
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -14606,8 +14606,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Poison
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -14713,8 +14713,8 @@ Poison Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Poison
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -14832,8 +14832,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Psychic
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -14901,8 +14901,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Psychic
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -15016,8 +15016,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Psychic
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -15122,8 +15122,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Psychic
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -15232,8 +15232,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Psychic
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -15339,8 +15339,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Psychic
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -15445,8 +15445,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Psychic
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -15554,8 +15554,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Psychic
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -15664,8 +15664,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Psychic
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -15771,8 +15771,8 @@ Psychic Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Psychic
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -15890,8 +15890,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Rock
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -15959,8 +15959,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Rock
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -16067,8 +16067,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Rock
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -16173,8 +16173,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Rock
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -16275,8 +16275,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Rock
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -16384,8 +16384,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Rock
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -16490,8 +16490,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Rock
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -16597,8 +16597,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Rock
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -16703,8 +16703,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Rock
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -16806,8 +16806,8 @@ Rock Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Rock
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -16925,8 +16925,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Steel
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -16994,8 +16994,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Steel
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -17104,8 +17104,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Steel
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -17211,8 +17211,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Steel
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -17326,8 +17326,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Steel
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -17435,8 +17435,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Steel
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -17564,8 +17564,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Steel
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -17673,8 +17673,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Steel
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -17779,8 +17779,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Steel
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -17884,8 +17884,8 @@ Steel Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Steel
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -18002,8 +18002,8 @@ Bonus Floor 31 (Normal)
 Rec.Lv: Lv 10
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Water
 First-Time Rewards:
 	- Item 1: 💎 Gems (x500)
@@ -18071,8 +18071,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Water
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -18173,8 +18173,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Water
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -18279,8 +18279,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Water
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -18389,8 +18389,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; unaffected opponents have super serious sync moves
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Water
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -18497,8 +18497,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Water
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -18601,8 +18601,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves until their stats are lowered by a total of 16 ranks
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Water
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -18710,8 +18710,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from special attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Water
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -18815,8 +18815,8 @@ Rec.Lv: Lv 180
 No Stamina Required
 🗼🚨 Rule Tower: Opponents won’t take damage from physical attacks; opponents have super serious sync moves when their target is unaffected by allied field effects
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Water
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
@@ -18925,8 +18925,8 @@ Water Tower Floor 40 (Ultimate)
 Rec.Lv: Lv 200
 No Stamina Required
 Type Story: Pasio Tower 
-❌ Team Restrictions
-   Theme Not Allowed/Forbidden:
+🔒 Team Restrictions
+   Only sync pairs with these themes allowed:
     - Water
 First-Time Rewards:
 	- Item 1: 💎 Gems (x100)
