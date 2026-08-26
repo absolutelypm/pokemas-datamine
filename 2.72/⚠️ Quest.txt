@@ -4505,7 +4505,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 🚨 Watch out for these!
 	Focus 1: Defense Down
 	Focus 2: Sp. Def Down
-  NPC Center 1-1 Mega Venusaur
+  NPC Center 1-1: Mega Venusaur
  	Weakness: Fire
 		26950 HP
 		960 Attack
@@ -4630,8 +4630,8 @@ Speed Recovery Gauge (Enemy): 68.7%
 🚨 Watch out for these!
 	Focus 1: Defense Down
 	Focus 2: Sp. Def Down
-  NPC Center 1-1 Mega Venusaur
- 	Weakness: Flying
+  NPC Center 1-1: Mega Venusaur
+ 	Weakness: Fire
 		300300 HP
 		1344 Attack
 		83 Defense
@@ -4761,7 +4761,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 🚨 Watch out for these!
 	Focus 1: Defense Down
 	Focus 2: Sp. Def Down
-  NPC Center 1-1 Mega Venusaur
+  NPC Center 1-1: Mega Venusaur
  	Weakness: Flying
 		300300 HP
 		1344 Attack
@@ -4892,8 +4892,8 @@ Speed Recovery Gauge (Enemy): 68.7%
 🚨 Watch out for these!
 	Focus 1: Defense Down
 	Focus 2: Sp. Def Down
-  NPC Center 1-1 Mega Venusaur
- 	Weakness: Flying
+  NPC Center 1-1: Mega Venusaur
+ 	Weakness: Psychic
 		300300 HP
 		1344 Attack
 		83 Defense
@@ -5040,7 +5040,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 ⚠️ Boss Hints
 🚨 Watch out for these!
 	Focus 1: Confusion
-  NPC Center 1-1 Mega Slowbro
+  NPC Center 1-1: Mega Slowbro
  	Weakness: Grass
 		26950 HP
 		960 Attack
@@ -5159,8 +5159,8 @@ Speed Recovery Gauge (Enemy): 68.7%
 ⚠️ Boss Hints
 🚨 Watch out for these!
 	Focus 1: Confusion
-  NPC Center 1-1 Mega Slowbro
- 	Weakness: Dark
+  NPC Center 1-1: Mega Slowbro
+ 	Weakness: Grass
 		300300 HP
 		1344 Attack
 		83 Defense
@@ -5282,7 +5282,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 ⚠️ Boss Hints
 🚨 Watch out for these!
 	Focus 1: Confusion
-  NPC Center 1-1 Mega Slowbro
+  NPC Center 1-1: Mega Slowbro
  	Weakness: Dark
 		300300 HP
 		1344 Attack
@@ -5405,8 +5405,8 @@ Speed Recovery Gauge (Enemy): 68.7%
 ⚠️ Boss Hints
 🚨 Watch out for these!
 	Focus 1: Confusion
-  NPC Center 1-1 Mega Slowbro
- 	Weakness: Dark
+  NPC Center 1-1: Mega Slowbro
+ 	Weakness: Bug
 		300300 HP
 		1344 Attack
 		83 Defense
@@ -5548,7 +5548,7 @@ Enemy Gauge Limit: 4
 Enemy Sync Countdown: 3
 Speed Recovery Gauge (Enemy): 68.7%
 ⚠️ Boss Hints
-  NPC Center 1-1 Mega Tyranitar
+  NPC Center 1-1: Mega Tyranitar
  	Weakness: Water
 		26950 HP
 		960 Attack
@@ -5668,8 +5668,8 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Focus 1: Critical Hit Next
 	Focus 2: Physical Moves
 	Focus 3: Special Moves
-  NPC Center 1-1 Mega Tyranitar
- 	Weakness: Steel
+  NPC Center 1-1: Mega Tyranitar
+ 	Weakness: Water
 		300300 HP
 		1344 Attack
 		83 Defense
@@ -5792,7 +5792,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Focus 1: Critical Hit Next
 	Focus 2: Physical Moves
 	Focus 3: Special Moves
-  NPC Center 1-1 Mega Tyranitar
+  NPC Center 1-1: Mega Tyranitar
  	Weakness: Steel
 		300300 HP
 		1344 Attack
@@ -5916,8 +5916,8 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Focus 1: Critical Hit Next
 	Focus 2: Physical Moves
 	Focus 3: Special Moves
-  NPC Center 1-1 Mega Tyranitar
- 	Weakness: Steel
+  NPC Center 1-1: Mega Tyranitar
+ 	Weakness: Ground
 		300300 HP
 		1344 Attack
 		83 Defense
