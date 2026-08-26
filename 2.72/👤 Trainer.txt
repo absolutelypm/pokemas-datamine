@@ -1430,7 +1430,7 @@ Role: Support | EX Role 🌈: Field
 Type: Ice | Weakness: Fire
 Rarity: ⭐⭐⭐⭐⭐
 Expedition 🤝: Soothing ↓1 Wistful ↑3
-Method: 🎁 Mission Reward - Event "Neo Champions: True Time and Space"
+Method: 🎁 Mission Reward - Event "Post–Marvelous Mega 7 Years: Cynthia & Glaceon Missions"
 EX Color 👕🌈: No❌
 👥 Team Skill
 1. Ice Support
