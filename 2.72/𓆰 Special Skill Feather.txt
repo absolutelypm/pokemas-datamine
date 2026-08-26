@@ -1,0 +1,296 @@
+====𓆰 Special Skill Feather 137====
+🚩🚩🚩🚩Slot Chance Stat/Passive/Theme🚩🚩🚩🚩
+Slot Defaut 2
+Rate: 100.0
+
+
+📊📊📊📊Stats📈📈📈📈
+
+Bracelet
+💪 Stat buffs: Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bracelet
+💪 Stat buffs: Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Pin
+💪 Stat buffs: HP
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 70 - ⬆️ Max 70
+👣 Step: 5
+
+Pin
+💪 Stat buffs: Speed
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+🖼️🖼️🖼️🖼️Themes🖼️🖼️🖼️🖼️
+Dark (33.33%)
+Slot Theme Default (100%): 1
+Kalos (33.33%)
+Slot Theme Default (100%): 2
+Main Character (33.33%)
+Slot Theme Default (100%): 3
+
+🚩🚩🚩🚩Passives🚩🚩🚩🚩
+Physical Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 1
+Details: Powers up the user’s physical attack moves by 2%.
+
+Dark S-Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 2
+Details: Powers up the user’s Dark-type sync move by 2%.
+
+S-Move DR 2% (33.33%)
+Slot Theme Default (100%): 3
+Details: Reduces damage by 2% when the user is hit by a sync move.
+
+
+
+
+====𓆰 Special Skill Feather 138====
+🚩🚩🚩🚩Slot Chance Stat/Passive/Theme🚩🚩🚩🚩
+Slot Defaut 2
+Rate: 100.0
+
+
+📊📊📊📊Stats📈📈📈📈
+
+Bracelet
+💪 Stat buffs: Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bracelet
+💪 Stat buffs: Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Pin
+💪 Stat buffs: HP
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 70 - ⬆️ Max 70
+👣 Step: 5
+
+Pin
+💪 Stat buffs: Speed
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+🖼️🖼️🖼️🖼️Themes🖼️🖼️🖼️🖼️
+Flying (33.33%)
+Slot Theme Default (100%): 1
+Kanto (33.33%)
+Slot Theme Default (100%): 2
+Rival (33.33%)
+Slot Theme Default (100%): 3
+
+🚩🚩🚩🚩Passives🚩🚩🚩🚩
+Flying Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 1
+Details: Powers up the user’s Flying-type moves by 2%.
+
+Physical S-Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 2
+Details: Powers up the user’s physical sync move by 2%.
+
+Flying Zone: P-Move DR & S-Move DR 4% (33.33%)
+Slot Theme Default (100%): 3
+Details: Reduces damage by 4% when the user is hit by an attack move or sync move while the zone is a Flying Zone.
+
+
+
+
+====𓆰 Special Skill Feather 139====
+🚩🚩🚩🚩Slot Chance Stat/Passive/Theme🚩🚩🚩🚩
+Slot Defaut 2
+Rate: 100.0
+
+
+📊📊📊📊Stats📈📈📈📈
+
+Bracelet
+💪 Stat buffs: Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bracelet
+💪 Stat buffs: Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Pin
+💪 Stat buffs: HP
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 70 - ⬆️ Max 70
+👣 Step: 5
+
+Pin
+💪 Stat buffs: Speed
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+🖼️🖼️🖼️🖼️Themes🖼️🖼️🖼️🖼️
+Dragon (33.33%)
+Slot Theme Default (100%): 1
+Sinnoh (33.33%)
+Slot Theme Default (100%): 2
+Main Character (33.33%)
+Slot Theme Default (100%): 3
+
+🚩🚩🚩🚩Passives🚩🚩🚩🚩
+Dragon Zone: Moves ↑ 3% (33.33%)
+Slot Theme Default (100%): 1
+Details: Powers up the user’s moves by 3% when the zone is a Dragon Zone.
+
+Special S-Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 2
+Details: Powers up the user’s special sync move by 2%.
+
+Dragon Zone: P-Move DR & S-Move DR 4% (33.33%)
+Slot Theme Default (100%): 3
+Details: Reduces damage by 4% when the user is hit by an attack move or sync move while the zone is a Dragon Zone.
+
+
+
+
+====𓆰 Special Skill Feather 140====
+🚩🚩🚩🚩Slot Chance Stat/Passive/Theme🚩🚩🚩🚩
+Slot Defaut 2
+Rate: 100.0
+
+
+📊📊📊📊Stats📈📈📈📈
+
+Bracelet
+💪 Stat buffs: Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bracelet
+💪 Stat buffs: Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Pin
+💪 Stat buffs: HP
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 70 - ⬆️ Max 70
+👣 Step: 5
+
+Pin
+💪 Stat buffs: Speed
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+🖼️🖼️🖼️🖼️Themes🖼️🖼️🖼️🖼️
+Dragon (33.33%)
+Slot Theme Default (100%): 1
+Sinnoh (33.33%)
+Slot Theme Default (100%): 2
+Main Character (33.33%)
+Slot Theme Default (100%): 3
+
+🚩🚩🚩🚩Passives🚩🚩🚩🚩
+Special Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 1
+Details: Powers up the user’s special attack moves by 2%.
+
+Dragon S-Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 2
+Details: Powers up the user’s Dragon-type sync move by 2%.
+
+Attack Move DR 2% (33.33%)
+Slot Theme Default (100%): 3
+Details: Reduces damage by 2% when the user is hit by an attack move.
+
+
+
+
