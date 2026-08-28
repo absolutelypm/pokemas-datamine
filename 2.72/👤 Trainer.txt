@@ -1363,7 +1363,7 @@ Type: Bug
 Category: Physical
 User: Pokemon
 Description: Activation Condition: When the user’s Attack is raised. Deactivation Condition: Cannot be deactivated. Attacks twice in a row. Never misses. Leaves the target badly poisoned. Has a chance (50%) of making the target flinch. Has a chance (50%) of leaving the target confused. Has a chance (50%) of leaving the target trapped. Turns the field of play’s zone into an EX Bug Zone the first time this attack move is successful each battle. (An EX Bug Zone powers up Bug-type attacks.)
-Power: 310 (1)/372 (5↑ MAX) | Accuracy: -- | Gauge: 3 | Target: An opponent | Effect Tag: Error ID: 1032 | Max uses: 3
+Power: 310 (1)/372 (5↑ MAX) | Accuracy: -- | Gauge: 3 | Target: An opponent | Effect Tag: Sure Hit, Multistrike | Max uses: 3
 
 Move 4: Different Ways to Love!
 Category: Status
