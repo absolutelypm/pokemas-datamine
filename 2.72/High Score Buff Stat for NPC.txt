@@ -1,0 +1,94 @@
+STRENGTH ADJUSTMENT
+
+* 1 - 100: 50 pts per Str
+* 101 - 200: 40 pts per Str
+* 201 - 2000: 30 pts per Str
+
+Max Str: +2000
+Max base score: +63,000 pts
+
+OPPONENT STATS GAIN (EVERY +1 STR)
+
+Middle (Boss)
+Str 1 - 1000
+Default HP + 70
+Default Atk + 10
+Default Def + 0.5
+Default Sp. Atk + 10
+Default Sp. Def + 0.5
+Default Speed + 0.5
+
+Str 1001 - 2000
+Default HP + 280
+Default Atk + 2
+Default Def + 0.1
+Default Sp. Atk + 2
+Default Sp. Def + 0.1
+Default Speed + 0.1
+
+Left & Right
+Str 1 - 1000
+Default HP + 30
+Default Atk + 10
+Default Def + 0.5
+Default Sp. Atk + 10
+Default Sp. Def + 0.5
+Default Speed + 1
+
+Str 1001 - 2000
+Default HP + 120
+Default Atk + 2
+Default Def + 0.1
+Default Sp. Atk + 2
+Default Sp. Def + 0.1
+Default Speed + 0.2
+
+TOTAL STATS GAIN
+
+Str +0 (Hard)
+Middle (Boss) | HP +0 | Atk/Sp. Atk +0 | Def/Sp. Def +0 | Speed +0
+Left & Right  | HP +0 | Atk/Sp. Atk +0 | Def/Sp. Def +0 | Speed +0
+
+Str +1 (Hard)
+Middle (Boss) | HP +70 | Atk/Sp. Atk +10 | Def/Sp. Def +0 | Speed +0
+Left & Right  | HP +30 | Atk/Sp. Atk +10 | Def/Sp. Def +0 | Speed +1
+
+Str +100 (Very Hard)
+Middle (Boss) | HP +7,000 | Atk/Sp. Atk +1,000 | Def/Sp. Def +50 | Speed +50
+Left & Right  | HP +3,000 | Atk/Sp. Atk +1,000 | Def/Sp. Def +50 | Speed +100
+
+Str +200 (Super Hard)
+Middle (Boss) | HP +14,000 | Atk/Sp. Atk +2,000 | Def/Sp. Def +100 | Speed +100
+Left & Right  | HP +6,000 | Atk/Sp. Atk +2,000 | Def/Sp. Def +100 | Speed +200
+
+Str +300 (Ultra Hard)
+Middle (Boss) | HP +21,000 | Atk/Sp. Atk +3,000 | Def/Sp. Def +150 | Speed +150
+Left & Right  | HP +9,000 | Atk/Sp. Atk +3,000 | Def/Sp. Def +150 | Speed +300
+
+Str +400 (Expert)
+Middle (Boss) | HP +28,000 | Atk/Sp. Atk +4,000 | Def/Sp. Def +200 | Speed +200
+Left & Right  | HP +12,000 | Atk/Sp. Atk +4,000 | Def/Sp. Def +200 | Speed +400
+
+Str +500 (Master)
+Middle (Boss) | HP +35,000 | Atk/Sp. Atk +5,000 | Def/Sp. Def +250 | Speed +250
+Left & Right  | HP +15,000 | Atk/Sp. Atk +5,000 | Def/Sp. Def +250 | Speed +500
+
+Str +1000 (Master)
+Middle (Boss) | HP +70,000 | Atk/Sp. Atk +10,000 | Def/Sp. Def +500 | Speed +500
+Left & Right  | HP +30,000 | Atk/Sp. Atk +10,000 | Def/Sp. Def +500 | Speed +1,000
+
+Str +2000 (Master)
+Middle (Boss) | HP +350,000 | Atk/Sp. Atk +12,000 | Def/Sp. Def +600 | Speed +600
+Left & Right  | HP +150,000 | Atk/Sp. Atk +12,000 | Def/Sp. Def +600 | Speed +1,200
+
+MAX SCORE PER BATTLE
+
+Base score (Str +2000): 63,000 pts
+Battle rules: 3,000 pts x 3 = 9,000 pts
+Challenge rules: 1,000 pts x 2 = 2,000 pts
+Move type multiplier: 300%
+= 222,000 pts
+
+Flying and Dark Conqueror 
+Top tier: 300,000 pts
+30/8/2026 06:00:00 -> 7/9/2026 06:00:00
