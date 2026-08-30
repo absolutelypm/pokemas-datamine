@@ -43,6 +43,9 @@ Default Sp. Atk + 2
 Default Sp. Def + 0.1
 Default Speed + 0.2
 
+ALL STAT ROUNDED DOWN 
+Example: 123,99999 = 123
+
 TOTAL STATS GAIN
 
 Str +0 (Hard)
