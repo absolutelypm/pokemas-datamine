@@ -531,7 +531,7 @@ Require
 	Tier 5
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Paid) | Limit Scout: 1
-			Present no.1  None x1
+			Present no.1  Variety Guaranteed Scout Ticket x1
 		Scout Points get: 30
 🗓️ Start: 01/09/2026 06:00
 🗓️ End: 15/09/2026 06:00
@@ -613,7 +613,7 @@ Require
 	Tier 1
 	Sync Pair Scout ×11
 		x1500 💎 Gems (Paid) | Limit Scout: 1
-			Present no.1  None x1
+			Present no.1  Pasio Towers Expansion Scout Ticket A x1
 	Tier 2
 	Sync Pair Scout ×11
 		x2000 💎 Gems (Paid) | Limit Scout: 1
@@ -621,7 +621,7 @@ Require
 	Tier 3
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Paid) | Limit Scout: 1
-			Present no.3  None x1
+			Present no.3  Pasio Towers Expansion Scout Ticket A x1
 	Tier 4
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Paid) | Limit Scout: 1
@@ -649,7 +649,7 @@ Require
 	Tier 1
 	Sync Pair Scout ×11
 		x1500 💎 Gems (Paid) | Limit Scout: 1
-			Present no.1  None x1
+			Present no.1  Pasio Towers Expansion Scout Ticket B x1
 	Tier 2
 	Sync Pair Scout ×11
 		x2000 💎 Gems (Paid) | Limit Scout: 1
@@ -657,7 +657,7 @@ Require
 	Tier 3
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Paid) | Limit Scout: 1
-			Present no.3  None x1
+			Present no.3  Pasio Towers Expansion Scout Ticket B x1
 	Tier 4
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Paid) | Limit Scout: 1
@@ -685,7 +685,7 @@ Require
 	Tier 1
 	Sync Pair Scout ×11
 		x1500 💎 Gems (Paid) | Limit Scout: 1
-			Present no.1  None x1
+			Present no.1  Pasio Towers Expansion Scout Ticket C x1
 	Tier 2
 	Sync Pair Scout ×11
 		x2000 💎 Gems (Paid) | Limit Scout: 1
@@ -693,7 +693,7 @@ Require
 	Tier 3
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Paid) | Limit Scout: 1
-			Present no.3  None x1
+			Present no.3  Pasio Towers Expansion Scout Ticket C x1
 	Tier 4
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Paid) | Limit Scout: 1
@@ -1143,7 +1143,7 @@ Require
 	Tier 5
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Paid) | Limit Scout: 1
-			Present no.1  None x1
+			Present no.1  5★ Team Galactic Scout Ticket x1
 		Scout Points get: 30
 🗓️ Start: 16/09/2026 06:00
 🗓️ End: 30/09/2026 06:00
