@@ -772,6 +772,7 @@ Role: Support | EX Role 🌈: Sprint
 Type: Water | Weakness: Poison
 Rarity: ⭐⭐⭐⭐⭐
 Expedition 🤝: Wistful ↑2
+Method: 📅🎯 Monthly BP Challenge
 Method: 
 EX Color 👕🌈: No❌
 👥 Team Skill
