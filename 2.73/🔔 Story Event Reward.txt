@@ -59,7 +59,7 @@ Item: 🎫🤝 5★ Scout Ticket (x8)
 
 Feature Reward 1
 20. 🔔 2000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Icerend Stake Replica (x2)
 
 21. 🔔 2100 Event Points
 Item: 📦 5-Pack Ultra Drink + Set (x250)
@@ -74,7 +74,7 @@ Item: ⚡ 4★ Power-Up (x1)
 Item: 📚 4★ Level-Up Manual (x20)
 
 25. 🔔 2500 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 1★ Treasures of Ruin—Ghetsis (x1)
 
 26. 🔔 2600 Event Points
 Item: 📦 5-Pack Drink ++ Set (x250)
@@ -83,7 +83,7 @@ Item: 📦 5-Pack Drink ++ Set (x250)
 Item: 🍹 Ice Codex, Vol. 1 (x400)
 
 28. 🔔 2800 Event Points
-Item: 🔮 None (x100)
+Item: 🔮 Sync Orb - Sygna Suit Ghetsis & Chien-Pao (x100)
 
 29. 🔔 2900 Event Points
 Item: 📦 5-Pack Great Drink ++ Set (x100)
@@ -92,7 +92,7 @@ Item: 📦 5-Pack Great Drink ++ Set (x100)
 Item: 📓 Fire Codex, Vol. 1 (x400)
 
 31. 🔔 3200 Event Points
-Item: 🔮 None (x100)
+Item: 🔮 Sync Orb - Sygna Suit Lysandre (Alt.) & Chi-Yu (x100)
 
 32. 🔔 3400 Event Points
 Item: 🔮 Co-op Sync Orb (x1000)
@@ -105,22 +105,22 @@ Item:  Yellow Skill Feather (x5)
 
 Feature Reward 2
 35. 🔔 4000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Icerend Stake Replica (x2)
 
 36. 🔔 4200 Event Points
 Item:  Skill Bracelet (x1)
 
 37. 🔔 4400 Event Points
-Item:  None (x1)
+Item:  Special Skill Feather 141 (x1)
 
 38. 🔔 4600 Event Points
 Item: 🧣 Skill Bandanna (x1)
 
 39. 🔔 4800 Event Points
-Item:  None (x1)
+Item:  Special Skill Feather 142 (x1)
 
 40. 🔔 5000 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 2★ Treasures of Ruin—Ghetsis (x1)
 
 41. 🔔 5200 Event Points
 Item: 📌 Skill Pin (x1)
@@ -136,32 +136,32 @@ Item:  Yellow Skill Feather (x20)
 
 Feature Reward 3
 45. 🔔 6000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Icerend Stake Replica (x2)
 
 46. 🔔 6250 Event Points
 Item: 🪙🍬 Field Move Candy Coin (x1)
 
 47. 🔔 6500 Event Points
-Item: 🥠 None (x1)
+Item: 🥠 Sygna Suit Ghetsis Lucky Cookie 1 (x1)
 
 48. 🔔 6750 Event Points
 Item:  Purple Skill Feather (x5)
 
 49. 🔔 7000 Event Points
-Item: 🥠 None (x1)
+Item: 🥠 Nemona Lucky Cookie 1 (x1)
 
 50. 🔔 7250 Event Points
 Item: 📚 4★ Level-Up Manual (x5)
 
 51. 🔔 7500 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 3★ Treasures of Ruin—Ghetsis (x1)
 
 52. 🔔 7750 Event Points
 Item:  White Skill Feather (x5)
 
 Feature Reward 4
 53. 🔔 8000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Icerend Stake Replica (x2)
 
 54. 🔔 8500 Event Points
 Item: ⚡ 5★ Power-Up (x1)
@@ -174,7 +174,7 @@ Item: 🔮 Co-op Sync Orb (x1500)
 
 Feature Reward 5
 57. 🔔 10000 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 Ruin of an Ice-Cold Grudge (x1)
 
 58. 🔔 Every 1000 Event Points
 Item: 📚 4★ Level-Up Manual (x10)
@@ -240,7 +240,7 @@ Item: 🎫🤝 5★ Scout Ticket (x8)
 
 Feature Reward 1
 20. 🔔 2000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Firescourge Stake Replica (x2)
 
 21. 🔔 2100 Event Points
 Item: 📦 5-Pack Ultra Drink + Set (x250)
@@ -255,7 +255,7 @@ Item: ⚡ 4★ Power-Up (x1)
 Item: 📚 4★ Level-Up Manual (x20)
 
 25. 🔔 2500 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 1★ Treasures of Ruin—Lysandre (x1)
 
 26. 🔔 2600 Event Points
 Item: 📦 5-Pack Drink ++ Set (x250)
@@ -286,7 +286,7 @@ Item:  Yellow Skill Feather (x5)
 
 Feature Reward 2
 35. 🔔 4000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Firescourge Stake Replica (x2)
 
 36. 🔔 4200 Event Points
 Item:  Skill Bracelet (x1)
@@ -301,7 +301,7 @@ Item: 🧣 Skill Bandanna (x1)
 Item: 📚 4★ Level-Up Manual (x10)
 
 40. 🔔 5000 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 2★ Treasures of Ruin—Lysandre (x1)
 
 41. 🔔 5200 Event Points
 Item: 📌 Skill Pin (x1)
@@ -317,32 +317,32 @@ Item:  Yellow Skill Feather (x20)
 
 Feature Reward 3
 45. 🔔 6000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Firescourge Stake Replica (x2)
 
 46. 🔔 6250 Event Points
 Item: 🪙🍬 Strike Move Candy Coin (x1)
 
 47. 🔔 6500 Event Points
-Item: 🥠 None (x1)
+Item: 🥠 Sygna Suit Lysandre (Alt.) Lucky Cookie 1 (x1)
 
 48. 🔔 6750 Event Points
 Item:  Green Skill Feather (x5)
 
 49. 🔔 7000 Event Points
-Item: 🥠 None (x1)
+Item: 🥠 Rei Lucky Cookie 1 (x1)
 
 50. 🔔 7250 Event Points
 Item: 📚 4★ Level-Up Manual (x5)
 
 51. 🔔 7500 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 3★ Treasures of Ruin—Lysandre (x1)
 
 52. 🔔 7750 Event Points
 Item:  Purple Skill Feather (x5)
 
 Feature Reward 4
 53. 🔔 8000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Firescourge Stake Replica (x2)
 
 54. 🔔 8500 Event Points
 Item: ⚡ 5★ Power-Up (x1)
@@ -355,7 +355,7 @@ Item: 🔮 Co-op Sync Orb (x1500)
 
 Feature Reward 5
 57. 🔔 10000 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 Ruin of Greed and Envy (x1)
 
 58. 🔔 Every 1000 Event Points
 Item: 📚 4★ Level-Up Manual (x10)
@@ -421,7 +421,7 @@ Item: 🎫🤝 5★ Scout Ticket (x8)
 
 Feature Reward 1
 20. 🔔 2000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Grasswither Stake Replica (x2)
 
 21. 🔔 2100 Event Points
 Item: 📦 5-Pack Ultra Drink + Set (x250)
@@ -436,7 +436,7 @@ Item: ⚡ 4★ Power-Up (x1)
 Item: 📚 4★ Level-Up Manual (x20)
 
 25. 🔔 2500 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 1★ Treasures of Ruin—Archie (x1)
 
 26. 🔔 2600 Event Points
 Item: 📦 5-Pack Drink ++ Set (x250)
@@ -445,7 +445,7 @@ Item: 📦 5-Pack Drink ++ Set (x250)
 Item: 🍹 Grass Codex, Vol. 1 (x400)
 
 28. 🔔 2800 Event Points
-Item: 🔮 None (x100)
+Item: 🔮 Sync Orb - Archie (Fall 2026) & Wo-Chien (x100)
 
 29. 🔔 2900 Event Points
 Item: 📦 5-Pack Great Drink ++ Set (x100)
@@ -454,7 +454,7 @@ Item: 📦 5-Pack Great Drink ++ Set (x100)
 Item: 🍹 Ground Codex, Vol. 1 (x400)
 
 31. 🔔 3200 Event Points
-Item: 🔮 None (x100)
+Item: 🔮 Sync Orb - Maxie (Fall 2026) & Ting-Lu (x100)
 
 32. 🔔 3400 Event Points
 Item: 🔮 Co-op Sync Orb (x1000)
@@ -467,22 +467,22 @@ Item:  Yellow Skill Feather (x5)
 
 Feature Reward 2
 35. 🔔 4000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Grasswither Stake Replica (x2)
 
 36. 🔔 4200 Event Points
 Item:  Skill Bracelet (x1)
 
 37. 🔔 4400 Event Points
-Item:  None (x1)
+Item:  Special Skill Feather 143 (x1)
 
 38. 🔔 4600 Event Points
 Item: 🧣 Skill Bandanna (x1)
 
 39. 🔔 4800 Event Points
-Item:  None (x1)
+Item:  Special Skill Feather 144 (x1)
 
 40. 🔔 5000 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 2★ Treasures of Ruin—Archie (x1)
 
 41. 🔔 5200 Event Points
 Item: 📌 Skill Pin (x1)
@@ -498,32 +498,32 @@ Item:  Yellow Skill Feather (x20)
 
 Feature Reward 3
 45. 🔔 6000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Grasswither Stake Replica (x2)
 
 46. 🔔 6250 Event Points
 Item: 🪙🍬 Tech Move Candy Coin (x1)
 
 47. 🔔 6500 Event Points
-Item: 🥠 None (x1)
+Item: 🥠 Archie (Fall 2026) Lucky Cookie 1 (x1)
 
 48. 🔔 6750 Event Points
 Item:  White Skill Feather (x5)
 
 49. 🔔 7000 Event Points
-Item: 🥠 None (x1)
+Item: 🥠 Archie Lucky Cookie 1 (x1)
 
 50. 🔔 7250 Event Points
 Item: 📚 4★ Level-Up Manual (x5)
 
 51. 🔔 7500 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 3★ Treasures of Ruin—Archie (x1)
 
 52. 🔔 7750 Event Points
 Item:  Green Skill Feather (x5)
 
 Feature Reward 4
 53. 🔔 8000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Grasswither Stake Replica (x2)
 
 54. 🔔 8500 Event Points
 Item: ⚡ 5★ Power-Up (x1)
@@ -536,7 +536,7 @@ Item: 🔮 Co-op Sync Orb (x1500)
 
 Feature Reward 5
 57. 🔔 10000 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 Ruin of Withering Spite (x1)
 
 58. 🔔 Every 1000 Event Points
 Item: 📚 4★ Level-Up Manual (x10)
@@ -783,7 +783,7 @@ Item: 🎫🤝 5★ Scout Ticket (x8)
 
 Feature Reward 1
 20. 🔔 2000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Groundblight Stake Replica (x2)
 
 21. 🔔 2100 Event Points
 Item: 📦 5-Pack Ultra Drink + Set (x250)
@@ -798,7 +798,7 @@ Item: ⚡ 4★ Power-Up (x1)
 Item: 📚 4★ Level-Up Manual (x20)
 
 25. 🔔 2500 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 1★ Treasures of Ruin—Maxie (x1)
 
 26. 🔔 2600 Event Points
 Item: 📦 5-Pack Drink ++ Set (x250)
@@ -829,7 +829,7 @@ Item:  Yellow Skill Feather (x5)
 
 Feature Reward 2
 35. 🔔 4000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Groundblight Stake Replica (x2)
 
 36. 🔔 4200 Event Points
 Item: ⚡ 4★ Power-Up (x1)
@@ -844,7 +844,7 @@ Item: ⚡ 4★ Power-Up (x1)
 Item: 📚 4★ Level-Up Manual (x5)
 
 40. 🔔 5000 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 2★ Treasures of Ruin—Maxie (x1)
 
 41. 🔔 5200 Event Points
 Item: ⚡ 4★ Power-Up (x1)
@@ -860,32 +860,32 @@ Item:  Yellow Skill Feather (x20)
 
 Feature Reward 3
 45. 🔔 6000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Groundblight Stake Replica (x2)
 
 46. 🔔 6250 Event Points
 Item: 🪙🍬 Sprint Move Candy Coin (x1)
 
 47. 🔔 6500 Event Points
-Item: 🥠 None (x1)
+Item: 🥠 Maxie (Fall 2026) Lucky Cookie 1 (x1)
 
 48. 🔔 6750 Event Points
 Item:  Green Skill Feather (x5)
 
 49. 🔔 7000 Event Points
-Item: 🥠 None (x1)
+Item: 🥠 Maxie Lucky Cookie 1 (x1)
 
 50. 🔔 7250 Event Points
 Item: 📚 4★ Level-Up Manual (x5)
 
 51. 🔔 7500 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 3★ Treasures of Ruin—Maxie (x1)
 
 52. 🔔 7750 Event Points
 Item:  Purple Skill Feather (x5)
 
 Feature Reward 4
 53. 🔔 8000 Event Points
-Item: 🎟️ None (x2)
+Item: 🎟️ Groundblight Stake Replica (x2)
 
 54. 🔔 8500 Event Points
 Item: ⚡ 5★ Power-Up (x1)
@@ -898,7 +898,7 @@ Item: 🔮 Co-op Sync Orb (x1500)
 
 Feature Reward 5
 57. 🔔 10000 Event Points
-Item: 🏅 None (x1)
+Item: 🏅 Ruin of Inpoured Fear (x1)
 
 58. 🔔 Every 1000 Event Points
 Item: 📚 4★ Level-Up Manual (x10)
