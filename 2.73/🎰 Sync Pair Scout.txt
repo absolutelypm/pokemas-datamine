@@ -261,7 +261,7 @@ Require
 	Tier 1
 	Sync Pair Scout ×10
 		x1500 💎 Gems (Paid) | Limit Scout: 1
-			Present no.1  None x1
+			Present no.1  Fair-Exclusive Guaranteed Ticket x1
 	Tier 2
 	Sync Pair Scout ×10
 		x2000 💎 Gems (Paid) | Limit Scout: 1
@@ -334,7 +334,7 @@ Require
 	Tier 5
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Paid) | Limit Scout: 1
-			Present no.1  None x1
+			Present no.1  5★ Great Scout Ticket J x1
 	Tier 6
 	Sync Pair Scout ×11
 		x2000 💎 Gems (Paid) | Limit Scout: 1
@@ -350,7 +350,7 @@ Require
 	Tier 10
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Paid) | Limit Scout: 1
-			Present no.2  None x1
+			Present no.2  5★ Master Scout Ticket J x1
 🗓️ Start: 14/10/2026 06:00
 🗓️ End: 01/11/2026 06:00
 
@@ -426,7 +426,7 @@ Require
 	Tier 5
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Paid) | Limit Scout: 1
-			Present no.1  None x1
+			Present no.1  5★ Great Scout Ticket K x1
 	Tier 6
 	Sync Pair Scout ×11
 		x2000 💎 Gems (Paid) | Limit Scout: 1
@@ -442,7 +442,7 @@ Require
 	Tier 10
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Paid) | Limit Scout: 1
-			Present no.2  None x1
+			Present no.2  5★ Master Scout Ticket K x1
 🗓️ Start: 16/10/2026 06:00
 🗓️ End: 01/11/2026 06:00
 
@@ -564,7 +564,7 @@ Require
 	Tier 3
 	Sync Pair Scout ×11
 		x2000 💎 Gems (Paid) | Limit Scout: 1
-			Present no.2  None x1
+			Present no.2  5★ Great Scout Ticket L x1
 	Tier 4
 	Sync Pair Scout ×11
 		x2500 💎 Gems (Paid) | Limit Scout: 1
@@ -618,7 +618,7 @@ Require
 	Tier 3
 	Sync Pair Scout ×11
 		x2000 💎 Gems (Paid) | Limit Scout: 1
-			Present no.2  None x1
+			Present no.2  5★ Great Scout Ticket M x1
 	Tier 4
 	Sync Pair Scout ×11
 		x2500 💎 Gems (Paid) | Limit Scout: 1
@@ -692,7 +692,7 @@ Require
 		Scout Points get: 1
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
-			Present no.1  None x1
+			Present no.1  5★ Great Scout Ticket N x1
 		Scout Points get: 33
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
@@ -700,7 +700,7 @@ Require
 		Scout Points get: 33
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
-			Present no.3  None x1
+			Present no.3  5★ Great Scout Ticket N x1
 		Scout Points get: 33
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
@@ -708,7 +708,7 @@ Require
 		Scout Points get: 33
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
-			Present no.5  None x1
+			Present no.5  5★ Great Scout Ticket N x1
 		Scout Points get: 33
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
@@ -716,7 +716,7 @@ Require
 		Scout Points get: 33
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
-			Present no.7  None x1
+			Present no.7  5★ Great Scout Ticket N x1
 		Scout Points get: 33
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
@@ -724,7 +724,7 @@ Require
 		Scout Points get: 33
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
-			Present no.9  None x1
+			Present no.9  5★ Great Scout Ticket N x1
 		Scout Points get: 33
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
@@ -732,7 +732,7 @@ Require
 		Scout Points get: 33
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
-			Present no.11  None x1
+			Present no.11  5★ Great Scout Ticket N x1
 		Scout Points get: 33
 	Sync Pair Scout ×11
 		x3000 💎 Gems (Non-Paid) | Limit Scout: 1
@@ -1397,3 +1397,6 @@ Require
 	Ticket Scout: 5★ Great Scout Ticket N x1 | Limit Scout: 6
 🗓️ Start: 25/10/2026 06:00
 🗓️ End: 02/12/2026 06:00
+
+
+==================================
