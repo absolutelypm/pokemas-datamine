@@ -1,0 +1,23 @@
+Special Team
+Time Drop: 60
+Resource Limit: 30000
+Fiery Level: 1
+Soothing Level: 1
+Wistful Level: 1
+Rare Boost Level: 0
+List Trainer Boost
+Archie (Fall 2026) & Wo-Chien (Genderless) | Rare Boost Level: 1
+Maxie (Fall 2026) & Ting-Lu (Genderless) | Rare Boost Level: 1
+Lacey (Fall 2025) & Whimsicott (Female♀️) | Rare Boost Level: 1
+Acerola (Fall 2020) & Mimikyu (Male♂️) | Rare Boost Level: 1
+Hilbert (Fall 2020) & Mightyena (Male♂️) | Rare Boost Level: 1
+Morty (Fall 2021) & Banette (Male♂️) | Rare Boost Level: 1
+Caitlin (Fall 2021) & Sableye (Female♀️) | Rare Boost Level: 1
+Iris (Fall 2022) & Naganadel (Genderless) | Rare Boost Level: 1
+Allister (Fall 2022) & Gourgeist (Male♂️) | Rare Boost Level: 1
+Phoebe (Fall 2023) & Cofagrigus (Female♀️) | Rare Boost Level: 1
+Roxanne (Fall 2023) & Runerigus (Female♀️) | Rare Boost Level: 1
+Iono (Fall 2024) & Flutter Mane (Genderless) | Rare Boost Level: 1
+Shauntal (Fall 2024) & Froslass (Female♀️) | Rare Boost Level: 1
+Start: 14/10/2026 06:00:00
+End: 1/11/2026 06:00:00
