@@ -1,0 +1,853 @@
+========================================= 
+1. No. 115 Sygna Suit Lysandre (Alt.) & Chi-Yu (Genderless) - Tera Type Fire 
+2. No. 124 Sygna Suit Ghetsis & Chien-Pao (Genderless) - Tera Type Ice 
+3. No. 127 Maxie (Fall 2026) & Ting-Lu (Genderless) - Tera Type Ground 
+4. No. 128 Archie (Fall 2026) & Wo-Chien (Genderless) - Tera Type Grass 
+5. No. 254 Tabitha & Camerupt (Male♂️) 
+6. No. 255 Shelly & Sharpedo (Female♀️) 
+7. No. 256 Matt & Sharpedo (Male♂️) 
+8. No. 49 Korrina & Machoke (Male♂️) 
+9. No. 66 Lyra (Special Costume) & Marill (Female♀️) 
+========================================= 
+ 
+No. 115 Sygna Suit Lysandre (Alt.) & Chi-Yu (Genderless)
+Form: Tera Type: Fire
+Dialog 5 Stars: All humans have embers of envy smoldering in their hearts.
+Descriptions: Lysandre is wearing a sygna suit made using Team Flare’s technology. He’s teamed up with Chi-Yu and is hoping its power won’t cause any conflicts.
+Role: Field | EX Role 🌈: Sprint
+Type: Fire | Weakness: Ground
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Soothing ↑1 Wistful ↑1
+Method: 🎈🌟 EX Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Fire Field
+2. Kalos Field
+3. Villain Field
+4. Sygna Suit Field
+5. Sunglasses Field
+
+Sync Pair Available: 2/10/2026 06:00:00
+EX Effect Available: 2/10/2026 06:00:00
+EX Role Available: 2/10/2026 06:00:00
+Superawakened Available: 2/10/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Fire Spin
+Type: Fire
+Category: Special
+User: Pokemon
+Description: Leaves the target trapped.
+Power: 38 (1)/45 (5↑ MAX) | Accuracy: 85 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Sunny Day
+Type: Fire
+Category: Status
+User: Pokemon
+Description: Makes the weather sunny.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 3: Firescourge Inferno
+Type: Fire
+Category: Special
+User: Pokemon
+Description: Activation Condition: When your team’s sync pair uses a sync move once. Deactivation Condition: When this move is used. Never misses. Lowers one of the target’s following stats by four stat ranks at random: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness. Leaves the target burned. The power of this move is not lowered even if there are multiple targets. If the remaining MP for the user’s Sunny Day is one or more when attacking with this move, reduces those MP by one and grants all of the following effects: Makes the weather sunny. Reduces the user’s sync move countdown by one. Increases the Sync Move ↑ Next effect of all allied sync pairs by 10 ranks.
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: All opponents | Effect Tag: Sure Hit | Max uses: --
+
+Move 4: Testing Potential!
+Category: Status
+User: Trainer
+Description: Makes the weather sunny. Applies the Critical Hit Next effect to an ally. Applies the Supereffective ↑ Next effect to an ally. Increases the Special Moves ↑ Next effect of an ally by three ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: -- | Max uses: 1
+
+Sync Move: Hope for a Strife-Free World Tera Blast
+Type: Fire
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+(🌅🌟) Superawakened Passive: Eternal Beauty of Kalos
+Applies Kalos Circle (Special) to the allied field of play the first time the user enters a battle each battle. Applies Kalos Circle (Special) to the allied field of play the first time the user’s sync move is used each battle. Extends the duration of Kalos Circle (Special) when Kalos Circle (Special) is applied to the allied field of play.
+
+Passive 1(🏅): Kalos Rush
+Reduces the user’s sync move countdown by one the first time it enters a battle each battle. When used in a co-op battle, reduces the user’s sync move countdown by one the first time your team enters a battle each battle instead. The more allied sync pairs with the Kalos theme you have on your team, the greater the reduction is. (Each additional sync pair increases the reduction by one, and the maximum reduction is three.) The effects do not stack if you have more than one sync pair on your team with passive skills of the same name.
+
+Passive 2: Debut: Fire S-Tera
+The user Sync Terastallizes into Fire type the first time it enters a battle each battle.
+
+Passive 3: Qualities of a Chosen One
+Grants all of the following effects the first time the user enters a battle each battle: Applies the Move Gauge Acceleration effect to the allied field of play. Raises the user’s Sp. Atk by six stat ranks. Raises the user’s critical-hit rate by three stat ranks.
+
+Passive 4: Burning Flames of Conviction
+The more the user’s Sync Move ↑ Next effect is increased, the more it powers up its sync move.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 95 | Attack : 14 | Defense : 8 | Sp. Atk : 20 | Sp. Def : 12 | Speed : 16
+
+Lv. 140
+HP : 674 | Attack : 244 | Defense : 172 | Sp. Atk : 448 | Sp. Def : 185 | Speed : 298
+
+Lv. 150
+HP : 706 | Attack : 256 | Defense : 180 | Sp. Atk : 472 | Sp. Def : 195 | Speed : 314
+
+Lv. 200
+HP : 866 | Attack : 316 | Defense : 220 | Sp. Atk : 592 | Sp. Def : 245 | Speed : 394
+
+
+📌 Tera Details 📌
+💎 Tera Moves Details ⚔️
+💎 Tera Move: Red Coral Tera Blast
+Type: Fire
+Category: Special
+User: Pokemon
+Description: Lowers the target’s Attack and Sp. Atk by one stat rank. The power of this move is not lowered even if there are multiple targets.
+Power: 150 (1)/180 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+🛡️ Passives Details 🌟
+Passive 2: Curved Beads of Fiery Envy
+Increases the amount of damage an opponent takes from special attack moves, special sync moves, and special max moves. Lowers the Sp. Def of all opposing sync pairs by four stat ranks when the user Sync Terastallizes.
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 124 Sygna Suit Ghetsis & Chien-Pao (Genderless)
+Form: Tera Type: Ice
+Dialog 5 Stars: Hate will feed more hate! It will amplify and grow into a tremendous power!
+Descriptions: Ghetsis is wearing a chilling white outfit. To bring out Chien-Pao’s power using his sync stone, he is intensifying his own hatred.
+Role: Strike (Physical) | EX Role 🌈: Tech
+Type: Ice | Weakness: Fighting
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Rare ↑2 Soothing ↓2
+Method: 🎈🌟 EX Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Ice Strike
+2. Unova Strike
+3. Villain Strike
+4. Sygna Suit Strike
+5. Cape Strike
+
+Sync Pair Available: 30/9/2026 06:00:00
+EX Effect Available: 30/9/2026 06:00:00
+EX Role Available: 30/9/2026 06:00:00
+Superawakened Available: 30/9/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Protect
+Type: Normal
+Category: Status
+User: Pokemon
+Description: Applies the Damage Guard Next effect to the user.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Self | Effect Tag: -- | Max uses: 1
+
+Move 2: X Evasion
+Category: Status
+User: Pokemon
+Description: Raises the user’s evasiveness by two stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 2
+
+Move 3: Icerend Icicle Crash
+Type: Ice
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When your team’s sync pair uses a sync move once. Deactivation Condition: When this move is used. Never misses. Makes the target flinch. The power of this move is not lowered even if there are multiple targets.
+Power: 270 (1)/324 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: All opponents | Effect Tag: Sure Hit | Max uses: --
+
+Move 4: Exactly as I Expected!
+Category: Status
+User: Trainer
+Description: Reduces the user’s sync move countdown by one. Raises the user’s Attack by six stat ranks. Raises the user’s critical-hit rate by three stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Biting Freeze of Hatred Tera Blast
+Type: Ice
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+(🌅🌟) Superawakened Passive: Freeze the World
+Reduces the user’s sync move countdown by one the first time it enters a battle each battle. Turns the field of play’s zone into an Ice Zone the first time the user’s sync move is used each battle. (An Ice Zone powers up Ice-type attacks.) Extends the duration of the Ice Zone when the zone turns into an Ice Zone while the user is on the field.
+
+Passive 1(🏅): Unova Rush
+Reduces the user’s sync move countdown by one the first time it enters a battle each battle. When used in a co-op battle, reduces the user’s sync move countdown by one the first time your team enters a battle each battle instead. The more allied sync pairs with the Unova theme you have on your team, the greater the reduction is. (Each additional sync pair increases the reduction by one, and the maximum reduction is three.) The effects do not stack if you have more than one sync pair on your team with passive skills of the same name.
+
+Passive 2: Debut: Ice S-Tera
+The user Sync Terastallizes into Ice type the first time it enters a battle each battle.
+
+Passive 3: Vindictiveness of a Coldhearted Loser
+Reduces the MP for the user’s X Evasion by one and grants all of the following effects after your team’s sync pair uses their sync move: Raises the user’s evasiveness by two stat ranks. Increases the user’s Physical Moves ↑ Next effect by two ranks.
+
+Passive 4: 1st S-Move: Team Physical Break
+Applies the Physical Move Break effect to all opposing sync pairs the first time the user’s sync move is used each battle.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 102 | Attack : 12 | Defense : 15 | Sp. Atk : 13 | Sp. Def : 9 | Speed : 18
+
+Lv. 140
+HP : 680 | Attack : 390 | Defense : 162 | Sp. Atk : 268 | Sp. Def : 156 | Speed : 358
+
+Lv. 150
+HP : 712 | Attack : 410 | Defense : 170 | Sp. Atk : 282 | Sp. Def : 164 | Speed : 376
+
+Lv. 200
+HP : 872 | Attack : 510 | Defense : 210 | Sp. Atk : 352 | Sp. Def : 204 | Speed : 466
+
+
+📌 Tera Details 📌
+💎 Tera Moves Details ⚔️
+💎 Tera Move: Chalcedony Tera Blast
+Type: Ice
+Category: Physical
+User: Pokemon
+Description: Lowers the target’s Attack by two stat ranks. The power of this move is not lowered even if there are multiple targets.
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: 100 | Gauge: 4 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+🛡️ Passives Details 🌟
+Passive 2: Sword Clad in Hatred and Snow
+Increases the amount of damage an opponent takes from physical attack moves, physical sync moves, and physical max moves. Lowers the Defense of all opposing sync pairs by four stat ranks when the user Sync Terastallizes.
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 127 Maxie (Fall 2026) & Ting-Lu (Genderless)
+Form: Tera Type: Ground
+Dialog 5 Stars: From now on, I shall allocate a portion of Team Magma’s budget to candy distribution.
+Descriptions: Maxie is ready to enjoy the Midnight Parade. After trying various approaches, he managed to get close to Ting-Lu as its sync pair partner.
+Role: Support | EX Role 🌈: Field
+Type: Ground | Weakness: Water
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Wistful ↑2
+Method: ☀️🍁❄️🌸 Seasonal Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Ground Support
+2. Hoenn Support
+3. Villain Support
+4. Seasonal Outfit Support
+5. Glasses Support
+
+Sync Pair Available: 16/10/2026 06:00:00
+EX Effect Available: 16/10/2026 06:00:00
+EX Role Available: 16/10/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Sand Tomb
+Type: Ground
+Category: Physical
+User: Pokemon
+Description: Leaves the target trapped.
+Power: 38 (1)/45 (5↑ MAX) | Accuracy: 85 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Potion
+Category: Status
+User: Pokemon
+Description: Restores an ally’s HP by approximately 40% of its maximum HP.
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: Heals | Max uses: 2
+
+Move 3: Groundblight Bulldoze
+Type: Ground
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When your team’s sync pair uses a sync move once. Deactivation Condition: When this move is used. Never misses. Lowers the target’s Speed by two stat ranks. Turns the field of play’s zone into a Ground Zone. (A Ground Zone powers up Ground-type attacks.) Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by two ranks.
+Power: 100 (1)/120 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: All opponents | Effect Tag: Sure Hit | Max uses: 2
+
+Move 4: I Won’t Be Lenient!
+Category: Status
+User: Trainer
+Description: Applies the Enduring effect to the user. Raises the Defense and Sp. Def of all allied sync pairs by four stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 1
+
+Sync Move: Deciphering Ancient Mysteries Tera Blast
+Type: Ground
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Debut: Ground S-Tera
+The user Sync Terastallizes into Ground type the first time it enters a battle each battle.
+
+Passive 2: Ground Zone Extension 3
+Extends the duration of the Ground Zone when the zone turns into a Ground Zone while the user is on the field.
+
+Passive 3: Ground Zone: Condition Nullification
+Prevents the user from being inflicted with status conditions, flinching, becoming confused, or becoming trapped when the zone is a Ground Zone.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 101 | Attack : 14 | Defense : 16 | Sp. Atk : 11 | Sp. Def : 15 | Speed : 12
+
+Lv. 140
+HP : 743 | Attack : 244 | Defense : 315 | Sp. Atk : 200 | Sp. Def : 312 | Speed : 284
+
+Lv. 150
+HP : 779 | Attack : 256 | Defense : 331 | Sp. Atk : 210 | Sp. Def : 328 | Speed : 298
+
+Lv. 200
+HP : 959 | Attack : 316 | Defense : 411 | Sp. Atk : 260 | Sp. Def : 408 | Speed : 368
+
+
+📌 Tera Details 📌
+💎 Tera Moves Details ⚔️
+💎 Tera Move: Pyrite Tera Blast
+Type: Ground
+Category: Special
+User: Pokemon
+Description: Lowers the target’s Defense and Sp. Def by one stat rank.
+Power: 150 (1)/180 (5↑ MAX) | Accuracy: 100 | Gauge: 1 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+🛡️ Passives Details 🌟
+Passive 1: Ancient Vessel of Inpoured Fear
+Reduces the damage opponents deal with special attack moves, special sync moves, and special max moves. Lowers the Sp. Atk of all opposing sync pairs by four stat ranks when the user Sync Terastallizes.
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 128 Archie (Fall 2026) & Wo-Chien (Genderless)
+Form: Tera Type: Grass
+Dialog 5 Stars: Little scamps should be scamps! Go play and run wild! Bwahahaha!
+Descriptions: Archie is ready to enjoy the Midnight Parade. He’s livening up the festival in hopes of getting even a little closer to Wo-Chien.
+Role: Support | EX Role 🌈: Field
+Type: Grass | Weakness: Bug
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Wistful ↑2
+Method: ☀️🍁❄️🌸 Seasonal Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Grass Support
+2. Hoenn Support
+3. Villain Support
+4. Seasonal Outfit Support
+5. Body Builder Support
+
+Sync Pair Available: 14/10/2026 06:00:00
+EX Effect Available: 14/10/2026 06:00:00
+EX Role Available: 14/10/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Mud-Slap
+Type: Ground
+Category: Special
+User: Pokemon
+Description: Lowers the target’s accuracy by one stat rank.
+Power: 13 (1)/15 (5↑ MAX) | Accuracy: 90 | Gauge: 1 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Potion
+Category: Status
+User: Pokemon
+Description: Restores an ally’s HP by approximately 40% of its maximum HP.
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: Heals | Max uses: 2
+
+Move 3: Grasswither Power Whip
+Type: Grass
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When the user uses any move once. Deactivation Condition: Cannot be deactivated. Lowers the target’s Defense by one stat rank. The power of this move is not lowered even if there are multiple targets. Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank.
+Power: 120 (1)/144 (5↑ MAX) | Accuracy: 100 | Gauge: 1 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 4: Brilliant!
+Category: Status
+User: Trainer
+Description: Reduces the user’s sync move countdown by one. Raises the Defense and Sp. Def of all allied sync pairs by four stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 1
+
+Sync Move: Letting Grudges Go Tera Blast
+Type: Grass
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Debut: Grass S-Tera
+The user Sync Terastallizes into Grass type the first time it enters a battle each battle.
+
+Passive 2: Debut: EX Grassy Terrain
+Turns the field of play’s terrain into EX Grassy Terrain the first time the user enters a battle each battle.
+
+Passive 3: Vigilance
+Protects the user against critical hits.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 96 | Attack : 11 | Defense : 10 | Sp. Atk : 11 | Sp. Def : 18 | Speed : 13
+
+Lv. 140
+HP : 691 | Attack : 200 | Defense : 307 | Sp. Atk : 200 | Sp. Def : 317 | Speed : 285
+
+Lv. 150
+HP : 723 | Attack : 210 | Defense : 323 | Sp. Atk : 210 | Sp. Def : 333 | Speed : 299
+
+Lv. 200
+HP : 883 | Attack : 260 | Defense : 403 | Sp. Atk : 260 | Sp. Def : 413 | Speed : 369
+
+
+📌 Tera Details 📌
+💎 Tera Moves Details ⚔️
+💎 Tera Move: Titanite Tera Blast
+Type: Grass
+Category: Physical
+User: Pokemon
+Description: Never misses. Increases the Physical Moves ↑ Next effect of all allied sync pairs by two ranks. Increases the Sync Move ↑ Next effect of all allied sync pairs by three ranks.
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: An opponent | Effect Tag: Sure Hit | Max uses: 1
+
+🛡️ Passives Details 🌟
+Passive 1: Wooden Tablets of a Wrongdoer’s Grudge
+Reduces the damage opponents deal with physical attack moves, physical sync moves, and physical max moves. Lowers the Attack of all opposing sync pairs by four stat ranks when the user Sync Terastallizes.
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 254 Tabitha & Camerupt (Male♂️)
+
+Dialog 5 Stars: Capable people are quick to succeed! Ahya! Ahyahyahyahya!
+Descriptions: This Team Magma admin is the organization’s second-in-command. He contributes to the organization greatly, such as by suggesting improvements to the grunt evaluation system.
+Role: Support | EX Role 🌈: Sprint
+Type: Ground | Weakness: Water
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Rare ↑2 Soothing ↓2
+Method: 🔦📣 Spotlight Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Ground Support
+2. Hoenn Support
+3. Villain Support
+4. Battle Partner Support
+
+Sync Pair Available: 21/10/2026 06:00:00
+EX Effect Available: 21/10/2026 06:00:00
+EX Role Available: 21/10/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Mud Shot
+Type: Ground
+Category: Special
+User: Pokemon
+Description: Lowers the target’s Speed by one stat rank.
+Power: 39 (1)/46 (5↑ MAX) | Accuracy: 95 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Hoenn Solidarity
+Category: Status
+User: Pokemon
+Description: Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by one rank. Applies Hoenn Circle (Defensive) to the allied field of play. Hoenn Circle (Defensive) grants all of the following effects: Powers up the moves and sync moves of all allied sync pairs by 5%. Reduces attack move and sync move damage taken by all allied sync pairs by 10%. The more sync pairs with the Hoenn theme that are on the allied field of play, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 5% and reduces damage by 5%. The maximum power-up is 20%, and the maximum damage reduction is 25%.)
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
+
+Move 3: Will-O-Wisp
+Type: Fire
+Category: Status
+User: Pokemon
+Description: Leaves the target burned.
+Power: -- | Accuracy: 90 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 4: Ahyahya!
+Category: Status
+User: Trainer
+Description: Raises the Defense and Sp. Def of all allied sync pairs by two stat ranks. Applies the Gradual Healing effect to all allied sync pairs.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 2
+
+Sync Move: Clever Team Magma Admin Ground Beam
+Type: Ground
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Take SE Hit: Team P-Moves & S-Moves DR 5
+Reduces damage taken by allies from super effective moves and super effective sync moves.
+
+Passive 2: Team Triage Tank 9
+Restores the HP of all allied sync pairs when the user is hit by an attack move.
+
+Passive 3: Hit: Attack ↓ & Sp. Atk ↓ 9
+Lowers the target’s Attack and Sp. Atk by one stat rank when the user’s attack move is successful.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 97 | Attack : 9 | Defense : 16 | Sp. Atk : 7 | Sp. Def : 18 | Speed : 13
+
+Lv. 140
+HP : 675 | Attack : 156 | Defense : 298 | Sp. Atk : 180 | Sp. Def : 300 | Speed : 268
+
+Lv. 150
+HP : 707 | Attack : 164 | Defense : 314 | Sp. Atk : 190 | Sp. Def : 316 | Speed : 282
+
+Lv. 200
+HP : 867 | Attack : 204 | Defense : 394 | Sp. Atk : 240 | Sp. Def : 396 | Speed : 352
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 255 Shelly & Sharpedo (Female♀️)
+
+Dialog 5 Stars: I can’t let you get in the way of someone who’s pushing on toward a perfect world!
+Descriptions: This Team Aqua admin is the organization’s second-in-command. She speaks in an intimidating manner to anyone who is against her, but she also has a kind side. She has been working with Archie, the organization’s leader, for a long time.
+Role: Sprint | EX Role 🌈: Tech
+Type: Water | Weakness: Bug
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑3 Soothing ↓1
+Method: 🔦📣 Spotlight Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Water Sprint
+2. Hoenn Sprint
+3. Villain Sprint
+4. Battle Partner Sprint
+
+Sync Pair Available: 21/10/2026 06:00:00
+EX Effect Available: 21/10/2026 06:00:00
+EX Role Available: 21/10/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Surf
+Type: Water
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 100 (1)/120 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 2: Rain Dance
+Type: Water
+Category: Status
+User: Pokemon
+Description: Makes the weather rainy.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 3: Aqua Jet
+Type: Water
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 75 (1)/90 (5↑ MAX) | Accuracy: 100 | Gauge: -- | Target: An opponent | Effect Tag: Quick Move | Max uses: 3
+
+Move 4: Prepare Yourself!
+Category: Status
+User: Trainer
+Description: Raises the user’s Attack and Sp. Atk by four stat ranks. Raises the user’s critical-hit rate by two stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Brains of Team Aqua Water Impact
+Type: Water
+Category: Physical
+User: Pokemon
+Description: This attack’s power increases when the weather is rainy.
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: “Quick Move”: Sync CD ↓ 9
+Reduces the user’s sync move countdown by one when it uses a move that has the quick move effect tag.
+
+Passive 2: Racing Rain 2
+Quickly charges the move gauge when the weather is rainy.
+
+Passive 3: Unfortuitous 9
+Lowers one of the target’s following stats by one stat rank at random when the user’s attack move against it is successful: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 102 | Attack : 16 | Defense : 4 | Sp. Atk : 16 | Sp. Def : 4 | Speed : 17
+
+Lv. 140
+HP : 655 | Attack : 448 | Defense : 168 | Sp. Atk : 424 | Sp. Def : 168 | Speed : 357
+
+Lv. 150
+HP : 685 | Attack : 472 | Defense : 176 | Sp. Atk : 446 | Sp. Def : 176 | Speed : 375
+
+Lv. 200
+HP : 835 | Attack : 592 | Defense : 216 | Sp. Atk : 556 | Sp. Def : 216 | Speed : 465
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 256 Matt & Sharpedo (Male♂️)
+
+Dialog 5 Stars: Full on! I’m burning up!
+Descriptions: This Team Aqua admin is heavily built and muscular, and as expected from his appearance, he uses his strength to lead the grunts. He respects Archie very much and calls him “bro.”
+Role: Support | EX Role 🌈: Sprint
+Type: Water | Weakness: Grass
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Rare ↑2 Fiery ↓1 Soothing ↓1
+Method: 🔦📣 Spotlight Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Water Support
+2. Hoenn Support
+3. Villain Support
+4. Battle Partner Support
+
+Sync Pair Available: 21/10/2026 06:00:00
+EX Effect Available: 21/10/2026 06:00:00
+EX Role Available: 21/10/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Whirlpool
+Type: Water
+Category: Special
+User: Pokemon
+Description: Leaves the target trapped.
+Power: 38 (1)/45 (5↑ MAX) | Accuracy: 85 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Hoenn Analysis
+Category: Status
+User: Pokemon
+Description: Increases the Special Moves ↑ Next effect of all allied sync pairs by one rank. Applies Hoenn Circle (Special) to the allied field of play. Hoenn Circle (Special) grants all of the following effects: Powers up the special attack moves and special sync moves of all allied sync pairs by 10%. Reduces special attack move and special sync move damage taken by all allied sync pairs by 5%. The more sync pairs with the Hoenn theme that are on the allied field of play, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 10% and reduces damage by 3%. The maximum power-up is 40%, and the maximum damage reduction is 14%.)
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
+
+Move 3: Snarl
+Type: Dark
+Category: Special
+User: Pokemon
+Description: Lowers the target’s Sp. Atk. by one stat rank.
+Power: 39 (1)/46 (5↑ MAX) | Accuracy: 95 | Gauge: 2 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 4: Full-On Burning Up!
+Category: Status
+User: Trainer
+Description: Raises the Sp. Atk and Speed of all allied sync pairs by four stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 1
+
+Sync Move: Tough Team Aqua Admin Water Beam
+Type: Water
+Category: Special
+User: Pokemon
+Description: Become Mega Sharpedo until the end of battle.
+Power: 160 (1)/192 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: User Sets Circle: Team Special Boost ↑1 9
+Increases the Special Moves ↑ Next effect of all allied sync pairs by one rank when the user applies a circle to the allied field of play.
+
+Passive 2: Circle: Team S-Moves ↑ 2
+Powers up the sync moves of all allied sync pairs when a circle applies to the allied field of play.
+
+Passive 3: Hit: HP Recovery 9
+Restores the user’s HP when its attack move is successful.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 106 | Attack : 17 | Defense : 8 | Sp. Atk : 17 | Sp. Def : 6 | Speed : 15
+
+Lv. 140
+HP : 660 | Attack : 190 | Defense : 265 | Sp. Atk : 190 | Sp. Def : 303 | Speed : 314
+
+Lv. 150
+HP : 690 | Attack : 200 | Defense : 279 | Sp. Atk : 200 | Sp. Def : 319 | Speed : 330
+
+Lv. 200
+HP : 840 | Attack : 250 | Defense : 349 | Sp. Atk : 250 | Sp. Def : 399 | Speed : 410
+
+
+📌 Mega Details 📌
+📊🔄 Mega Stats 📊🔄
+
+Lv. 1
+HP : 106 | Attack : 17 | Defense : 9 | Sp. Atk : 17 | Sp. Def : 6 | Speed : 17
+
+Lv. 140
+HP : 660 | Attack : 190 | Defense : 317 | Sp. Atk : 190 | Sp. Def : 303 | Speed : 376
+
+Lv. 150
+HP : 690 | Attack : 200 | Defense : 334 | Sp. Atk : 200 | Sp. Def : 319 | Speed : 395
+
+Lv. 200
+HP : 840 | Attack : 250 | Defense : 418 | Sp. Atk : 250 | Sp. Def : 399 | Speed : 491
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 49 Korrina & Machoke (Male♂️)
+
+Descriptions: A lively Gym Leader who speeds around on roller skates, she is known as the Mega Evolution successor in her native Kalos.
+Role: Tech
+Type: Fighting | Weakness: Flying
+Rarity: ⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑1 Soothing ↑1
+Method: 🏨 Exchange - Friendship Level-Up 100 in Lodge
+Item Exchange: 🗿 Lodge Stone (After Level 100)
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Fighting Tech
+2. Kalos Tech
+3. Gym Leader Tech
+4. Passionate Spirit Tech
+
+Sync Pair Available: 1/10/2026 06:00:00
+EX Effect Available: 1/10/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Thunder Punch
+Type: Electric
+Category: Physical
+User: Pokemon
+Description: Has a chance (10%) of leaving the target paralyzed.
+Power: 47 (1)/56 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: X Attack
+Category: Status
+User: Pokemon
+Description: Raises the user’s Attack by two stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 2
+
+Move 3: Dynamic Punch
+Type: Fighting
+Category: Physical
+User: Pokemon
+Description: Leaves the target confused.
+Power: 198 (1)/237 (5↑ MAX) | Accuracy: 50 | Gauge: 4 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 4: Show Me Your Stuff!
+Category: Status
+User: Trainer
+Description: Raises the user’s accuracy by one stat rank. Raises the user’s critical-hit rate by three stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Always in the Zone Fighting Impact
+Type: Fighting
+Category: Physical
+User: Pokemon
+Description: This attack’s power increases when the target is paralyzed.
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Hostile Environment 9
+Raises the chance of inflicting status conditions with the additional effects of moves.
+
+Passive 2: Endurance
+Applies the Enduring effect to the user if its HP is full when it enters a battle.
+
+Passive 3: Flameproof
+Prevents the user from getting burned.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 91 | Attack : 23 | Defense : 12 | Sp. Atk : 10 | Sp. Def : 11 | Speed : 9
+
+Lv. 140
+HP : 604 | Attack : 414 | Defense : 147 | Sp. Atk : 224 | Sp. Def : 137 | Speed : 250
+
+Lv. 150
+HP : 632 | Attack : 436 | Defense : 155 | Sp. Atk : 236 | Sp. Def : 143 | Speed : 264
+
+Lv. 200
+HP : 772 | Attack : 546 | Defense : 195 | Sp. Atk : 296 | Sp. Def : 173 | Speed : 334
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 66 Lyra (Special Costume) & Marill (Female♀️)
+
+Descriptions: Lyra is wearing a special outfit. The Team Rocket uniform isn’t real—it’s just a costume.
+Role: Support | EX Role 🌈: Sprint
+Type: Water | Weakness: Poison
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Wistful ↑2
+Method: 
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Water Support
+2. Johto Support
+3. Special Costume Support
+4. Pigtails Support
+5. Pokéathlete Support
+
+Sync Pair Available: 27/9/2026 06:00:00
+EX Effect Available: 27/9/2026 06:00:00
+EX Role Available: 27/9/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Water Gun
+Type: Water
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 20 (1)/24 (5↑ MAX) | Accuracy: 100 | Gauge: 1 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Potion
+Category: Status
+User: Pokemon
+Description: Restores an ally’s HP by approximately 40% of its maximum HP.
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: Heals | Max uses: 2
+
+Move 3: Charm
+Type: Fairy
+Category: Status
+User: Pokemon
+Description: Lowers the target’s Attack by two stat ranks.
+Power: -- | Accuracy: 100 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 4: Merrily We Go!
+Category: Status
+User: Trainer
+Description: Raises the Attack and Sp. Atk of all allied sync pairs by two stat ranks. Raises the critical-hit rate of all allied sync pairs by one stat rank.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 2
+
+Sync Move: Super Cute Water Impact
+Type: Water
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1(🏅): Water Teamwork
+Powers up the moves of all allied sync pairs by 10%. Reduces attack move damage taken by all allied sync pairs by 10%. The more allied sync pairs with the Water theme you have on your team, the higher these percentages are. (Each additional sync pair powers up moves by 5% and reduces damage by 2%. The maximum power-up is 20%, and the maximum damage reduction is 14%.)
+
+Passive 2: Team Full-Bracing Infliction 2
+Raises the Defense and Sp. Def of all allied sync pairs by two stat ranks the first time the user’s Pokémon uses a status move each battle.
+
+Passive 3: Endurance
+Applies the Enduring effect to the user if its HP is full when it enters a battle.
+
+Passive 4: Vigilance
+Protects the user against critical hits.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 110 | Attack : 11 | Defense : 10 | Sp. Atk : 11 | Sp. Def : 10 | Speed : 14
+
+Lv. 140
+HP : 705 | Attack : 200 | Defense : 265 | Sp. Atk : 200 | Sp. Def : 265 | Speed : 271
+
+Lv. 150
+HP : 737 | Attack : 210 | Defense : 279 | Sp. Atk : 210 | Sp. Def : 279 | Speed : 285
+
+Lv. 200
+HP : 897 | Attack : 260 | Defense : 349 | Sp. Atk : 260 | Sp. Def : 349 | Speed : 355
+
+
+
+----
+-------------------------------END-------------------------------
+ 
