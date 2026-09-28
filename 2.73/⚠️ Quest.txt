@@ -24,7 +24,7 @@
 ========================================= 
 Region Stadium Challenge Update Reward
 Completion Rewards:
-	- Item 1:  Battle Points (x100) (New)
+	- Item 1: 🤝 Battle Points (x100) (New)
 	- Item 2: ⚡️☄️ Champion Spirit (x5)
 	- Item 3: 🎫 5★ Power-Up Ticket (x8)
 =========================================
