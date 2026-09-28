@@ -3,18 +3,19 @@
 2. Beginners & Returning Players 6★ EX Training Mission 1000 gems
 3. Beginners & Returning Players Champion Challenge 0 gems
 4. Daily Mission 80 gems
-5. Gym General Mission 0 gems
-6. Honor Reward 0 gems
-7. Pasio Gym Battle No. 4 Sinnoh Gym Leaders Assembled 600 gems
-8. Photo Frame and Background Missions 600 gems
-9. Pokémon 30-Year Celebration Special Missions 500 gems
-10. 🕮 Story Event Mischievous Lacey 300 gems
-11. 🕮 Story Event Treasures of Ruin—Archie 200 gems
-12. 🕮 Story Event Treasures of Ruin—Epilogue 400 gems
-13. 🕮 Story Event Treasures of Ruin—Ghetsis 200 gems
-14. 🕮 Story Event Treasures of Ruin—Lysandre 200 gems
-15. 🕮 Story Event Treasures of Ruin—Maxie 200 gems
-========================================= 
+5. General Mission 300 gems
+6. Gym General Mission 0 gems
+7. Honor Reward 0 gems
+8. Pasio Gym Battle No. 4 Sinnoh Gym Leaders Assembled 600 gems
+9. Photo Frame and Background Missions 600 gems
+10. Pokémon 30-Year Celebration Special Missions 500 gems
+11. 🕮 Story Event Mischievous Lacey 300 gems
+12. 🕮 Story Event Treasures of Ruin—Archie 200 gems
+13. 🕮 Story Event Treasures of Ruin—Epilogue 400 gems
+14. 🕮 Story Event Treasures of Ruin—Ghetsis 200 gems
+15. 🕮 Story Event Treasures of Ruin—Lysandre 200 gems
+16. 🕮 Story Event Treasures of Ruin—Maxie 200 gems
+==========================================
 Battle Rally missions updated every month!
 Reward for completing all missions:
   💎 Gems(x500)
@@ -168,7 +169,6 @@ Reward:
 
  
 ==========================================
-Daily Mission
 Reward for completing 3 missions:
   🎁❓ Surprise Box(x1)
 Start: 30/9/2026 06:00:00
@@ -229,6 +229,39 @@ Have 1 interactions in the Trainer Lodge
 Reward: 
     - Item: 🔮 Co-op Sync Orb(x50)
     - Item: 🎫 Skip Ticket(x10)
+
+ 
+==========================================
+General Mission
+Start: 13/10/2026 06:00:00
+End: 1/1/3000 00:00:00
+Total Reward
+💎 Gems x300 
+---------------------
+Mission 356
+Complete Challenge a Super Serious Ingo & Emmet (Ultimate) with 1 or more sync pairs that share the following theme(s) and with 1 or fewer sync pairs falling to 0 HP: x1
+- Steel
+- Fairy
+Start: 13/10/2026 06:00:00
+End: 1/1/3000 00:00:00
+Reward: 
+    - Item: 💎 Gems(x100)
+
+Mission 357
+Complete Challenge a Super Serious Ingo & Emmet (Ultimate) with 2 or more sync pairs that share the following theme(s) and with 1 or fewer sync pairs falling to 0 HP: x1
+- Paldea
+Start: 13/10/2026 06:00:00
+End: 1/1/3000 00:00:00
+Reward: 
+    - Item: 💎 Gems(x100)
+
+Mission 358
+Complete Challenge a Super Serious Ingo & Emmet (Ultimate) with 2 or more sync pairs that share the following theme(s) and with 1 or fewer sync pairs falling to 0 HP: x1
+- Main Character
+Start: 13/10/2026 06:00:00
+End: 1/1/3000 00:00:00
+Reward: 
+    - Item: 💎 Gems(x100)
 
  
 ==========================================
