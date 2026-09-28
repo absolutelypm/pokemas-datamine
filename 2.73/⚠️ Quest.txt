@@ -1,5 +1,5 @@
 ========================================= 
-0. Region Stadium Challenge Update Reward
+0. Region Stadium Challenge + Daily Region Rotation Update Reward
 1. Beginners & Returning Players Champion Challenge 100 gems
 2. Pasio Gym Battle No. 4 Sinnoh Gym Leaders Assembled 0 gems
 3. Pokémon 30-Year Celebration Pokémon Masters Memories Melancholy Wally 50 gems
@@ -27,6 +27,16 @@ Completion Rewards:
 	- Item 1: 🤝 Battle Points (x100) (New)
 	- Item 2: ⚡️☄️ Champion Spirit (x5)
 	- Item 3: 🎫 5★ Power-Up Ticket (x8)
+
+Battle Point Challenge Daily Region Rotation
+Hard
+	- Battle Points (x40) -> (x100)
+Super Hard
+	- Battle Points (x50) -> (x150)
+Ultra Hard
+	- Battle Points (x60) -> (x200)
+Expert 
+	- Battle Points (x60) -> (x200)
 =========================================
 Beginners & Returning Players Champion Challenge
 
