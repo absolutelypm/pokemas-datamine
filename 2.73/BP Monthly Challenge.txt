@@ -1,0 +1,147 @@
+Start: 8/9/2026 06:00:00
+End: 1/11/2026 06:00:00
+
+Total Reward
+🔮 Co-op Sync Orb x1000
+📚 4★ Level-Up Manual x100
+🎟️ Monthly BP Challenge Voucher x60
+⚡️☄️ Champion Spirit x50
+⚡ 4★ Power-Up x40
+🎫🤝 5★ Scout Ticket x30
+⚡ Custom ★ Power-Up - Lyra (Special Costume) & Marill x20
+🍬 5★ Custom Move Candy (Lyra (Special Costume) & Marill) x4
+🎫 BP Sync Pair Voucher x2
+🤝 Lyra (Special Costume) & Marill (Female♀️) x1
+🪙🍬 Strike Move Candy Coin x1
+🪙🍬 Tech Move Candy Coin x1
+🧁✨ Sprint Roll Cake Custom (Lyra (Special Costume) & Marill) x1
+🪙🍬 Support Move Candy Coin x1
+🪙🍬 Sprint Move Candy Coin x1
+🪙🍬 Field Move Candy Coin x1
+🎫 BP Sync Pair Super Voucher x1
+
+---------------------
+
+🔔 200 BP
+Reward:
+    - 📚 4★ Level-Up Manual x100
+
+🔔 400 BP
+Reward:
+    - 🎫🤝 5★ Scout Ticket x30
+
+🔔 600 BP
+Reward:
+    - 🎟️ Monthly BP Challenge Voucher x10
+
+🔔 800 BP
+Reward:
+    - 🔮 Co-op Sync Orb x1000
+
+Feature Reward 1
+🔔 1000 BP
+Start: 8/9/2026 06:00:00
+End: 1/11/2026 06:00:00
+Reward:
+    - 🤝 Lyra (Special Costume) & Marill (Female♀️) x1
+
+🔔 1200 BP
+Reward:
+    - 🎫 BP Sync Pair Voucher x1
+
+🔔 1400 BP
+Reward:
+    - ⚡ 4★ Power-Up x20
+
+🔔 1600 BP
+Reward:
+    - 🎟️ Monthly BP Challenge Voucher x10
+
+🔔 1800 BP
+Start: 8/9/2026 06:00:00
+End: 1/11/2026 06:00:00
+Reward:
+    - 🍬 5★ Custom Move Candy (Lyra (Special Costume) & Marill) x1
+
+Feature Reward 2
+🔔 2000 BP
+Start: 8/9/2026 06:00:00
+End: 1/11/2026 06:00:00
+Reward:
+    - ⚡ Custom ★ Power-Up - Lyra (Special Costume) & Marill x20
+
+🔔 2200 BP
+Reward:
+    - 🎫 BP Sync Pair Voucher x1
+
+🔔 2400 BP
+Reward:
+    - ⚡ 4★ Power-Up x20
+
+🔔 2600 BP
+Reward:
+    - 🎟️ Monthly BP Challenge Voucher x20
+
+🔔 2800 BP
+Start: 8/9/2026 06:00:00
+End: 1/11/2026 06:00:00
+Reward:
+    - 🍬 5★ Custom Move Candy (Lyra (Special Costume) & Marill) x1
+
+Feature Reward 3
+🔔 3000 BP
+Reward:
+    - ⚡️☄️ Champion Spirit x50
+
+🔔 3200 BP
+Reward:
+    - 🪙🍬 Strike Move Candy Coin x1
+
+🔔 3400 BP
+Reward:
+    - 🪙🍬 Tech Move Candy Coin x1
+
+🔔 3600 BP
+Reward:
+    - 🎟️ Monthly BP Challenge Voucher x20
+
+🔔 3800 BP
+Start: 8/9/2026 06:00:00
+End: 1/11/2026 06:00:00
+Reward:
+    - 🍬 5★ Custom Move Candy (Lyra (Special Costume) & Marill) x1
+
+Feature Reward 4
+🔔 4000 BP
+Start: 8/9/2026 06:00:00
+End: 1/11/2026 06:00:00
+Reward:
+    - 🧁✨ Sprint Roll Cake Custom (Lyra (Special Costume) & Marill) x1
+
+🔔 4200 BP
+Reward:
+    - 🪙🍬 Support Move Candy Coin x1
+
+🔔 4400 BP
+Reward:
+    - 🪙🍬 Sprint Move Candy Coin x1
+
+🔔 4600 BP
+Reward:
+    - 🪙🍬 Field Move Candy Coin x1
+
+🔔 4800 BP
+Start: 8/9/2026 06:00:00
+End: 1/11/2026 06:00:00
+Reward:
+    - 🍬 5★ Custom Move Candy (Lyra (Special Costume) & Marill) x1
+
+Feature Reward 5
+🔔 5000 BP
+Reward:
+    - 🎫 BP Sync Pair Super Voucher x1
+
+🔔 Every 50 BP (Repeat Reward)
+Reward:
+    - 🎟️ Monthly BP Challenge Voucher x1
+
