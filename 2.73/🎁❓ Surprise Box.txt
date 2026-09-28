@@ -1,0 +1,122 @@
+🎁❓ Surprise Box Rate Reward
+Start: 30/9/2026 06:00:00
+End: 1/1/3000 00:00:00
+
+Reward 1
+Rate: 23.00%
+    - 🎫 Daily Ticket x1
+    - 🔮 Co-op Sync Orb x500
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 2
+Rate: 23.00%
+    - 🎫 Daily Ticket x1
+    - 📚 4★ Level-Up Manual x20
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 3
+Rate: 15.50%
+    - 🎫 Daily Ticket x1
+    - 🍹 Certificate of Excellence x1
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 4
+Rate: 15.50%
+    - 🎫 Daily Ticket x1
+    - ⚡ 5★ Power-Up x1
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 5
+Rate: 6.00%
+    - 🎫 Daily Ticket x1
+    - 🍹 Certificate of Excellence x3
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 6
+Rate: 6.00%
+    - 🎫 Daily Ticket x1
+    - ⚡ 5★ Power-Up x3
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 7 ⭐
+Rare Drop: 1.00%
+    - 🎫 Daily Ticket x1
+    - 🍰🟡 Strike Roll Cake Coin x1
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 8 ⭐
+Rare Drop: 1.00%
+    - 🎫 Daily Ticket x1
+    - 🍰🟡 Tech Roll Cake Coin x1
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 9 ⭐
+Rare Drop: 1.00%
+    - 🎫 Daily Ticket x1
+    - 🍰🟡 Support Roll Cake Coin x1
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 10 ⭐
+Rare Drop: 1.00%
+    - 🎫 Daily Ticket x1
+    - 🍰🟡 Sprint Roll Cake Coin x1
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 11 ⭐
+Rare Drop: 1.00%
+    - 🎫 Daily Ticket x1
+    - 🍰🟡 Field Roll Cake Coin x1
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 12 ⭐
+Rare Drop: 1.00%
+    - 🎫 Daily Ticket x1
+    - 🪙🍬 Strike Move Candy Coin x1
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 13 ⭐
+Rare Drop: 1.00%
+    - 🎫 Daily Ticket x1
+    - 🪙🍬 Tech Move Candy Coin x1
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 14 ⭐
+Rare Drop: 1.00%
+    - 🎫 Daily Ticket x1
+    - 🪙🍬 Support Move Candy Coin x1
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 15 ⭐
+Rare Drop: 1.00%
+    - 🎫 Daily Ticket x1
+    - 🪙🍬 Sprint Move Candy Coin x1
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 16 ⭐
+Rare Drop: 1.00%
+    - 🎫 Daily Ticket x1
+    - 🪙🍬 Field Move Candy Coin x1
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
+
+Reward 17 ⭐
+Rare Drop: 1.00%
+    - 🎫 Daily Ticket x1
+    - 🎫🤝 Fair-Guaranteed Scout Ticket x1
+    - 💎 Gems x80
+    - 🤝 Battle Points x50
