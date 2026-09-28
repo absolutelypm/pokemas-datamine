@@ -1,0 +1,3446 @@
+========================================= 
+1. No. 115 Sygna Suit Lysandre (Alt.) & Chi-Yu (Genderless) - Tera Type Fire Cell 54 
+2. No. 124 Sygna Suit Ghetsis & Chien-Pao (Genderless) - Tera Type Ice Cell 54 
+3. No. 127 Maxie (Fall 2026) & Ting-Lu (Genderless) - Tera Type Ground Cell 48 
+4. No. 128 Archie (Fall 2026) & Wo-Chien (Genderless) - Tera Type Grass Cell 48 
+5. No. 147 Bertha & Hippowdon (Female♀️) Cell 49 - 54 
+6. No. 254 Tabitha & Camerupt (Male♂️) Cell 48 
+7. No. 255 Shelly & Sharpedo (Female♀️) Cell 48 
+8. No. 256 Matt & Sharpedo (Male♂️) Cell 51 
+9. No. 49 Korrina & Machoke (Male♂️) Cell 48 
+10. No. 66 Lyra (Special Costume) & Marill (Female♀️) Cell 48 
+========================================= 
+ 
+No. 115 Sygna Suit Lysandre (Alt.) & Chi-Yu (Genderless)
+Form: Tera Type: Fire
+Cell 1 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (0,-2,2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Dauntless
+	Sp. Atk cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 8 | 🎯 Cord (0,-4,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 4 or higher
+	Opp Trapped: Team Moves ↑ 2
+	Powers up the moves of all allied sync pairs when attacking a target that is trapped.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 9 | 🎯 Cord (0,-5,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 5 or higher
+	Adrenaline 2
+	Reduces the sync move countdown by two the first time the user’s sync move is used each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 10 | 🎯 Cord (0,2,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Healthy Healing
+	Applies the Gradual Healing effect to the user if its HP is full when it enters a battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 11 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 4 or higher
+	Drought Alert 3
+	Extends the duration of sunny weather when the weather turns sunny while the user is on the field.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 12 | 🎯 Cord (1,3,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 5 or higher
+	Testing Potential!: 1st Move: Restore MP 1
+	Move: Testing Potential!
+	Restores one MP of the user’s move the first time that move is successful each battle.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 13 | 🎯 Cord (2,-1,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 14 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 15 | 🎯 Cord (2,0,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Red Coral Tera Blast: Power 2
+	Red Coral Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 16 | 🎯 Cord (1,1,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Red Coral Tera Blast: Power 2
+	Red Coral Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 17 | 🎯 Cord (1,2,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Red Coral Tera Blast: Power 2
+	Red Coral Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 18 | 🎯 Cord (2,1,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Red Coral Tera Blast: Move Gauge Refresh 3
+	Move: Red Coral Tera Blast
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 19 | 🎯 Cord (3,0,-3) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Sp. Atk 10
+	Sp. Atk 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 20 | 🎯 Cord (2,2,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Befuddle 2
+	Lowers the Sp. Def of all opposing sync pairs by two stat ranks when the user enters a battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 21 | 🎯 Cord (3,1,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Trap and Buff 3
+	Powers up the user’s moves and sync move when the target is trapped.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 22 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 23 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 24 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 25 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 26 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Firescourge Inferno: Power 2
+	Firescourge Inferno: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 27 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Firescourge Inferno: Power 2
+	Firescourge Inferno: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 28 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Firescourge Inferno: Power 2
+	Firescourge Inferno: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 29 | 🎯 Cord (-2,-3,5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Firescourge Inferno: Move Gauge Refresh 3
+	Move: Firescourge Inferno
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 30 | 🎯 Cord (-1,-4,5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Pokey Trap 2
+	Increases the amount of damage an opponent takes from being trapped.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 31 | 🎯 Cord (-3,-3,6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hit Inter Opp: Free Move Next 9
+	Applies the Free Move Next effect to the user when its attack move is successful against a flinching, confused, or trapped opponent.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 32 | 🎯 Cord (-2,-4,6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Danger Damage Guard
+	Applies the Damage Guard Next effect to the user the first time its HP drops to half or below each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 33 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 34 | 🎯 Cord (2,-3,1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Fire Spin: Accuracy 5
+	Fire Spin: Accuracy ↑ 5
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 35 | 🎯 Cord (1,-3,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 36 | 🎯 Cord (3,-4,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 37 | 🎯 Cord (2,-4,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Firescourge Inferno: Power 2
+	Firescourge Inferno: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 38 | 🎯 Cord (1,-4,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Firescourge Inferno: Power 2
+	Firescourge Inferno: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 39 | 🎯 Cord (3,-5,2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Natural Remedy
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 40 | 🎯 Cord (2,-5,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Fire Spin: Move Gauge Refresh 3
+	Move: Fire Spin
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 41 | 🎯 Cord (1,-5,4) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Fire Spin: Accuracy 10
+	Fire Spin: Accuracy ↑ 10
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 42 | 🎯 Cord (3,-6,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Soften Up 1
+	Critical hits land more easily when the user attacks with a sync move.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 43 | 🎯 Cord (2,-6,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Brainpower
+	The more the user’s Sp. Atk is raised, the more it powers up its sync move.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 44 | 🎯 Cord (-2,1,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 45 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Unflappable
+	Prevents the user from flinching.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 46 | 🎯 Cord (-2,2,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Red Coral Tera Blast: Power 2
+	Red Coral Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 47 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Red Coral Tera Blast: Power 2
+	Red Coral Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 48 | 🎯 Cord (-3,3,0) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Quick Cure
+	Removes the confused, flinching, and trapped conditions from the user the first time they are inflicted each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 49 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Testing Potential!: Move on Ally: Sync Move Boost ↑2 9
+	Move: Testing Potential!
+	When the user’s move targeting an allied sync pair (excluding field effects) is successful, increases the Sync Move ↑ Next effect of the allied sync pair affected by the move by two ranks.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 50 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Speed 10
+	Speed 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 51 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Overwhelm 9
+	Lowers the target’s Attack by one stat rank when the user’s attack move against it is successful.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 52 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Satisfied Snicker 9
+	Lowers the target’s Sp. Atk by one stat rank when the user’s attack move against it is successful.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 53 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hope for a Strife-Free World Tera Blast: Power 25
+	Hope for a Strife-Free World Tera Blast: Power ↑ 25
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 54 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hope for a Strife-Free World Tera Blast: Power 25
+	Hope for a Strife-Free World Tera Blast: Power ↑ 25
+	Color Grid: 🟩 Green (Move Boost)
+
+
+================================END================================
+ 
+No. 124 Sygna Suit Ghetsis & Chien-Pao (Genderless)
+Form: Tera Type: Ice
+Cell 1 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (0,2,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Natural Remedy
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 8 | 🎯 Cord (0,4,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 4 or higher
+	Discombobulate 9
+	Lowers the target’s accuracy by one stat rank when the user’s attack move against it is successful.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 9 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 5 or higher
+	P-Moves & S-Moves Crit
+	Except in certain circumstances, successful hits with the user’s following attacks become critical hits: Pokémon’s moves or sync move.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 10 | 🎯 Cord (0,-2,2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Quick Cure
+	Removes the confused, flinching, and trapped conditions from the user the first time they are inflicted each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 11 | 🎯 Cord (0,-4,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 4 or higher
+	Team S-Move: Physical Boost ↑1 9
+	Increases the user’s Physical Moves ↑ Next effect by one rank after your team’s sync pair uses their sync move.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 12 | 🎯 Cord (1,-4,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 5 or higher
+	Adrenaline 2
+	Reduces the sync move countdown by two the first time the user’s sync move is used each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 13 | 🎯 Cord (1,1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 14 | 🎯 Cord (2,1,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 15 | 🎯 Cord (3,1,-4) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 16 | 🎯 Cord (1,2,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 17 | 🎯 Cord (2,2,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Icerend Icicle Crash: Power 2
+	Icerend Icicle Crash: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 18 | 🎯 Cord (3,2,-5) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Icerend Icicle Crash: Power 2
+	Icerend Icicle Crash: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 19 | 🎯 Cord (1,3,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Icerend Icicle Crash: Power 2
+	Icerend Icicle Crash: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 20 | 🎯 Cord (2,3,-5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Icerend Icicle Crash: Move Gauge Refresh 3
+	Move: Icerend Icicle Crash
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 21 | 🎯 Cord (3,3,-6) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Attack Trap 9
+	Leaves the target trapped when the user’s attack move against it is successful.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 22 | 🎯 Cord (1,4,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Enfeeble 2
+	Lowers the Defense of all opposing sync pairs by two stat ranks when the user enters a battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 23 | 🎯 Cord (2,4,-6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Sharpened Body 3
+	Powers up the user’s moves when its Attack is raised.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 24 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 25 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 26 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 27 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 28 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Chalcedony Tera Blast: Power 2
+	Chalcedony Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 29 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Chalcedony Tera Blast: Power 2
+	Chalcedony Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 30 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Chalcedony Tera Blast: Power 2
+	Chalcedony Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 31 | 🎯 Cord (-2,-3,5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Protect: Catalytic Kick 9
+	Move: Protect
+	Applies the Move Gauge Acceleration effect to the allied field of play when the user’s move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 32 | 🎯 Cord (-3,-3,6) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Opp Fail: Physical Boost ↑1 9
+	Increases the user’s Physical Moves ↑ Next effect by one rank when an opponent’s attack move targeting the user misses.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 33 | 🎯 Cord (-1,-4,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Protect: Mighty Physical Boost 9
+	Move: Protect
+	Increases the user’s Physical Moves ↑ Next effect by two ranks when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 34 | 🎯 Cord (-2,-4,6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Endurance
+	Applies the Enduring effect to the user if its HP is full when it enters a battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 35 | 🎯 Cord (2,-1,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 36 | 🎯 Cord (3,-2,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 37 | 🎯 Cord (2,-2,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Chalcedony Tera Blast: Power 2
+	Chalcedony Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 38 | 🎯 Cord (1,-2,1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Chalcedony Tera Blast: Power 2
+	Chalcedony Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 39 | 🎯 Cord (3,-3,0) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Sync Regen
+	Applies the Gradual Healing effect to the user after using its sync move.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 40 | 🎯 Cord (2,-3,1) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Super Syncer
+	Applies the Supereffective ↑ Next effect to the user the first time its sync move is used each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 41 | 🎯 Cord (1,-3,2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Chalcedony Tera Blast: Move Gauge Refresh 3
+	Move: Chalcedony Tera Blast
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 42 | 🎯 Cord (3,-4,1) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Vigilance
+	Protects the user against critical hits.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 43 | 🎯 Cord (2,-4,2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Evasive Sync-Up 9
+	Powers up the user’s sync move when its evasiveness is raised.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 44 | 🎯 Cord (-2,1,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 45 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Headstrong
+	Attack cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 46 | 🎯 Cord (-2,2,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Icerend Icicle Crash: Power 2
+	Icerend Icicle Crash: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 47 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Icerend Icicle Crash: Power 2
+	Icerend Icicle Crash: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 48 | 🎯 Cord (-3,3,0) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Attack 10
+	Attack 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 49 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Exactly as I Expected!: MP Refresh 2
+	Move: Exactly as I Expected!
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 50 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Agile Entry 1
+	Raises the user’s evasiveness by one stat rank when it enters a battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 51 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Move: MG ↑2 9
+	Charges the user’s move gauge by two when its move is successful.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 52 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Piercing Gaze
+	Moves never miss.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 53 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Biting Freeze of Hatred Tera Blast: Power 25
+	Biting Freeze of Hatred Tera Blast: Power ↑ 25
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 54 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Biting Freeze of Hatred Tera Blast: Power 25
+	Biting Freeze of Hatred Tera Blast: Power ↑ 25
+	Color Grid: 🟩 Green (Move Boost)
+
+
+================================END================================
+ 
+No. 127 Maxie (Fall 2026) & Ting-Lu (Genderless)
+Form: Tera Type: Ground
+Cell 1 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (1,1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 8 | 🎯 Cord (2,1,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 9 | 🎯 Cord (1,2,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sand Tomb: Accuracy 5
+	Sand Tomb: Accuracy ↑ 5
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 10 | 🎯 Cord (3,1,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sand Tomb: Power 4
+	Sand Tomb: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 11 | 🎯 Cord (2,2,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sand Tomb: Power 4
+	Sand Tomb: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 12 | 🎯 Cord (1,3,-4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Sand Tomb: Move Gauge Refresh 3
+	Move: Sand Tomb
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 13 | 🎯 Cord (3,2,-5) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sand Tomb: Power 4
+	Sand Tomb: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 14 | 🎯 Cord (2,3,-5) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Sand Tomb: Accuracy 10
+	Sand Tomb: Accuracy ↑ 10
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 15 | 🎯 Cord (1,4,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Discourage 2
+	Lowers the Sp. Atk of all opposing sync pairs by two stat ranks when the user enters a battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 16 | 🎯 Cord (3,3,-6) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 17 | 🎯 Cord (2,4,-6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Defense Crush 9
+	Lowers the target’s Defense by one stat rank when the user’s attack move against it is successful.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 18 | 🎯 Cord (-2,0,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 19 | 🎯 Cord (-3,0,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Pyrite Tera Blast: Power 2
+	Pyrite Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 20 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Pyrite Tera Blast: Power 2
+	Pyrite Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 21 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Pyrite Tera Blast: Power 2
+	Pyrite Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 22 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Pyrite Tera Blast: Move Gauge Refresh 3
+	Move: Pyrite Tera Blast
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 23 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Quick Tempo
+	Applies the Move Gauge Acceleration effect to the allied field of play the first time the user enters a battle each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 24 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Speed 10
+	Speed 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 25 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Opp Trapped: Team Moves ↑ 2
+	Powers up the moves of all allied sync pairs when attacking a target that is trapped.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 26 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Mind Games 9
+	Lowers the target’s Sp. Def by one stat rank when the user’s attack move against it is successful.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 27 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 28 | 🎯 Cord (2,-3,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sand Shelter
+	Protects the user from damage from a sandstorm.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 29 | 🎯 Cord (1,-3,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Pyrite Tera Blast: Power 2
+	Pyrite Tera Blast: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 30 | 🎯 Cord (3,-4,1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Groundblight Bulldoze: Power 2
+	Groundblight Bulldoze: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 31 | 🎯 Cord (2,-4,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 32 | 🎯 Cord (1,-4,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	I Won’t Be Lenient!: Precision Pals 1
+	Move: I Won’t Be Lenient!
+	Raises the accuracy of all allied sync pairs by one stat rank when the user’s move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 33 | 🎯 Cord (3,-5,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 34 | 🎯 Cord (2,-5,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Potion: Master Healer 1
+	Move: Potion
+	Increases the amount of HP restored by the user’s healing moves.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 35 | 🎯 Cord (1,-5,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Potion: Master Healer 1
+	Move: Potion
+	Increases the amount of HP restored by the user’s healing moves.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 36 | 🎯 Cord (3,-6,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Potion: MP Refresh 2
+	Move: Potion
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 37 | 🎯 Cord (2,-6,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Potion: MP Refresh 2
+	Move: Potion
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 38 | 🎯 Cord (-2,2,0) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 39 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Groundblight Bulldoze: Power 2
+	Groundblight Bulldoze: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 40 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Groundblight Bulldoze: Power 2
+	Groundblight Bulldoze: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 41 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Groundblight Bulldoze: Power 2
+	Groundblight Bulldoze: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 42 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Groundblight Bulldoze: Move Gauge Refresh 3
+	Move: Groundblight Bulldoze
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 43 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Ground Zone: MG → 2
+	Quickly charges the move gauge when the zone is a Ground Zone.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 44 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Ground Zone: HP Recovery 1
+	Restores the user’s HP whenever its Pokémon takes an action when the zone is a Ground Zone.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 45 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Full-Bracing Command 9
+	Raises the user’s Defense and Sp. Def by one stat rank when its Trainer uses a move.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 46 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Groundblight Bulldoze: 1st Move: Restore MP 1
+	Move: Groundblight Bulldoze
+	Restores one MP of the user’s move the first time that move is successful each battle.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 47 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Deciphering Ancient Mysteries Tera Blast: Power 25
+	Deciphering Ancient Mysteries Tera Blast: Power ↑ 25
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 48 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Deciphering Ancient Mysteries Tera Blast: Power 25
+	Deciphering Ancient Mysteries Tera Blast: Power ↑ 25
+	Color Grid: 🟩 Green (Move Boost)
+
+
+================================END================================
+ 
+No. 128 Archie (Fall 2026) & Wo-Chien (Genderless)
+Form: Tera Type: Grass
+Cell 1 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (1,1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 8 | 🎯 Cord (2,1,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 9 | 🎯 Cord (1,2,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 10 | 🎯 Cord (3,1,-4) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 11 | 🎯 Cord (2,2,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Grasswither Power Whip: Power 2
+	Grasswither Power Whip: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 12 | 🎯 Cord (1,3,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Grasswither Power Whip: Power 2
+	Grasswither Power Whip: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 13 | 🎯 Cord (3,2,-5) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Grasswither Power Whip: Power 2
+	Grasswither Power Whip: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 14 | 🎯 Cord (2,3,-5) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	1st S-Move: Team Physical Boost 1
+	Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank the first time the user’s sync move is used each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 15 | 🎯 Cord (1,4,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Terrify 2
+	Lowers the Attack of all opposing sync pairs by two stat ranks when the user enters a battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 16 | 🎯 Cord (3,3,-6) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Defense 10
+	Defense 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 17 | 🎯 Cord (2,4,-6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Titanite Tera Blast: 1st Move: Restore MP 1
+	Move: Titanite Tera Blast
+	Restores one MP of the user’s move the first time that move is successful each battle.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 18 | 🎯 Cord (-2,0,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 19 | 🎯 Cord (-3,0,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 20 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Mud-Slap: Power 4
+	Mud-Slap: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 21 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Mud-Slap: Power 4
+	Mud-Slap: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 22 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Mud-Slap: Power 4
+	Mud-Slap: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 23 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Mud-Slap: Accuracy 10
+	Mud-Slap: Accuracy ↑ 10
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 24 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Quick Cure
+	Removes the confused, flinching, and trapped conditions from the user the first time they are inflicted each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 25 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hit: Stat ↓2 9
+	Lowers one of the target’s following stats by two stat ranks at random when the user’s attack move against it is successful: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 26 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Mud-Slap: Discombobulate 9
+	Move: Mud-Slap
+	Lowers the target’s accuracy by one stat rank when the user’s attack move against it is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 27 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 28 | 🎯 Cord (2,-3,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 29 | 🎯 Cord (1,-3,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 30 | 🎯 Cord (3,-4,1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Mud-Slap: Power 4
+	Mud-Slap: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 31 | 🎯 Cord (2,-4,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Mud-Slap: Power 4
+	Mud-Slap: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 32 | 🎯 Cord (1,-4,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Mud-Slap: Move Gauge Refresh 3
+	Move: Mud-Slap
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 33 | 🎯 Cord (3,-5,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 34 | 🎯 Cord (2,-5,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Gobsmack 4
+	Has a chance (50%) of leaving the target confused when the user’s attack move against it is successful.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 35 | 🎯 Cord (1,-5,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	First Aid 4
+	Restores the user’s HP by approximately 40% of its maximum HP the first time it is in a pinch each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 36 | 🎯 Cord (3,-6,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Natural Remedy
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 37 | 🎯 Cord (2,-6,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Grassy Terrain Extension 3
+	Extends the duration of Grassy Terrain when the terrain turns into Grassy Terrain while the user is on the field.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 38 | 🎯 Cord (-2,2,0) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 39 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Unbending
+	Defense cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 40 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Grasswither Power Whip: Power 2
+	Grasswither Power Whip: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 41 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Grasswither Power Whip: Power 2
+	Grasswither Power Whip: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 42 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Grasswither Power Whip: Move Gauge Refresh 3
+	Move: Grasswither Power Whip
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 43 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Potion: Master Healer 1
+	Move: Potion
+	Increases the amount of HP restored by the user’s healing moves.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 44 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Potion: MP Refresh 2
+	Move: Potion
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 45 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Potion: Master Healer 1
+	Move: Potion
+	Increases the amount of HP restored by the user’s healing moves.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 46 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Potion: MP Refresh 2
+	Move: Potion
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 47 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Letting Grudges Go Tera Blast: Power 25
+	Letting Grudges Go Tera Blast: Power ↑ 25
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 48 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Letting Grudges Go Tera Blast: Power 25
+	Letting Grudges Go Tera Blast: Power ↑ 25
+	Color Grid: 🟩 Green (Move Boost)
+
+
+================================END================================
+ 
+No. 147 Bertha & Hippowdon (Female♀️)
+
+Cell 49 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 40
+	HP 40
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 25/10/2026 06:00:00
+
+
+Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	1st Time User Sets Rock DF: Attack ↑ 4
+	Raises the user’s Attack by four stat ranks the first time it applies Rock Damage Field to the opponent's field of play each battle.
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 25/10/2026 06:00:00
+
+
+Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Sand Alert 3
+	Extends the duration of a sandstorm when a sandstorm is caused while the user is on the field.
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 25/10/2026 06:00:00
+
+
+Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 20
+	Attack 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 25/10/2026 06:00:00
+
+
+Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Defense Crush 9
+	Lowers the target’s Defense by one stat rank when the user’s attack move against it is successful.
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 25/10/2026 06:00:00
+
+
+Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Soften Up 1
+	Critical hits land more easily when the user attacks with a sync move.
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 25/10/2026 06:00:00
+
+
+================================END================================
+ 
+No. 254 Tabitha & Camerupt (Male♂️)
+
+Cell 1 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (1,1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 8 | 🎯 Cord (2,1,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 9 | 🎯 Cord (1,2,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 10 | 🎯 Cord (3,1,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Mud Shot: Power 4
+	Mud Shot: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 11 | 🎯 Cord (2,2,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Mud Shot: Power 4
+	Mud Shot: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 12 | 🎯 Cord (1,3,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Mud Shot: Power 4
+	Mud Shot: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 13 | 🎯 Cord (3,2,-5) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Mud Shot: Accuracy 5
+	Mud Shot: Accuracy ↑ 5
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 14 | 🎯 Cord (2,3,-5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Quick Cure
+	Removes the confused, flinching, and trapped conditions from the user the first time they are inflicted each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 15 | 🎯 Cord (1,4,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hit Burned Opp: Stat ↓ 9
+	Lowers one of the target’s following stats by one stat rank at random when the user’s attack move is successful against a burned opponent: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 16 | 🎯 Cord (3,3,-6) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Speed 10
+	Speed 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 17 | 🎯 Cord (2,4,-6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Propelling Strike 9
+	Charges the user’s move gauge by one when its attack move is successful.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 18 | 🎯 Cord (-2,0,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 19 | 🎯 Cord (-3,0,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 20 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 21 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 22 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Will-O-Wisp: Move Gauge Refresh 3
+	Move: Will-O-Wisp
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 23 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Circle: MG → 2
+	Quickly charges the move gauge when a circle applies to the allied field of play.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 24 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Circle: HP Recovery 1
+	Restores the user’s HP whenever its Pokémon takes an action when a circle applies to the allied field of play.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 25 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hoenn C (Defensive) Extension 3
+	Extends the duration of Hoenn Circle (Defensive) when Hoenn Circle (Defensive) is applied to the allied field of play.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 26 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Circle: Attack Move DR 2
+	Reduces damage when the user is hit by an attack move while a circle applies to the allied field of play.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 27 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 28 | 🎯 Cord (2,-3,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 29 | 🎯 Cord (1,-3,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 30 | 🎯 Cord (3,-4,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 31 | 🎯 Cord (2,-4,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 32 | 🎯 Cord (1,-4,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Hoenn Solidarity: MP Refresh 2
+	Move: Hoenn Solidarity
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 33 | 🎯 Cord (3,-5,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 34 | 🎯 Cord (2,-5,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Catalyst
+	Applies the Move Gauge Acceleration effect to the allied field of play the first time the user’s sync move is used each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 35 | 🎯 Cord (1,-5,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	S-Move: Team HP Recovery (M) 1
+	Restores the HP of all allied sync pairs by approximately 20% of their maximum HP after using the user’s sync move.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 36 | 🎯 Cord (3,-6,3) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 37 | 🎯 Cord (2,-6,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Afflicter’s Fervor 1
+	Reduces the user’s sync move countdown by one the first time its Pokémon uses a status move each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 38 | 🎯 Cord (-2,2,0) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 39 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Antifreeze
+	Prevents the user from becoming frozen.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 40 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Mud Shot: Power 4
+	Mud Shot: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 41 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Mud Shot: Power 4
+	Mud Shot: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 42 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Mud Shot: Move Gauge Refresh 3
+	Move: Mud Shot
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 43 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Natural Remedy
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 44 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Ahyahya!: MP Refresh 2
+	Move: Ahyahya!
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 45 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	First Aid 4
+	Restores the user’s HP by approximately 40% of its maximum HP the first time it is in a pinch each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 46 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Ahyahya!: Move: Team Def ↑ & Sp. Def ↑ 9
+	Move: Ahyahya!
+	Raises the Defense and Sp. Def of all allied sync pairs by one stat rank when the user’s move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 47 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Clever Team Magma Admin Ground Beam: Power 25
+	Clever Team Magma Admin Ground Beam: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 48 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Clever Team Magma Admin Ground Beam: Power 25
+	Clever Team Magma Admin Ground Beam: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+================================END================================
+ 
+No. 255 Shelly & Sharpedo (Female♀️)
+
+Cell 1 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (2,-1,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 8 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 9 | 🎯 Cord (2,0,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Surf: Power 2
+	Surf: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 10 | 🎯 Cord (1,1,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Surf: Power 2
+	Surf: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 11 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Surf: Power 2
+	Surf: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 12 | 🎯 Cord (2,1,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Surf: Move Gauge Refresh 3
+	Move: Surf
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 13 | 🎯 Cord (1,2,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Natural Remedy
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 14 | 🎯 Cord (3,1,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Sharp Entry 1
+	Raises the user’s critical-hit rate by one stat rank when it enters a battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 15 | 🎯 Cord (2,2,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Raging Rain 3
+	Powers up the user’s moves when the weather is rainy.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 16 | 🎯 Cord (-2,1,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 17 | 🎯 Cord (-3,1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 18 | 🎯 Cord (-2,0,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Aqua Jet: Power 4
+	Aqua Jet: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 19 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Aqua Jet: Power 4
+	Aqua Jet: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 20 | 🎯 Cord (-3,0,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Aqua Jet: Power 4
+	Aqua Jet: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 21 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Aqua Jet: Move Gauge Refresh 3
+	Move: Aqua Jet
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 22 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Prepare Yourself!: MP Refresh 2
+	Move: Prepare Yourself!
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 23 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	“Quick Move”: Team Physical Boost ↑1 9
+	Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank when the user uses a move that has the Quick Move effect tag.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 24 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	“Quick Move”: Stat ↓2 9
+	Lowers one of the target’s following stats by two stat ranks at random when the user uses a move that has the quick move effect tag: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 25 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 26 | 🎯 Cord (2,-3,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 27 | 🎯 Cord (3,-4,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 28 | 🎯 Cord (1,-3,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 29 | 🎯 Cord (2,-4,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Aqua Jet: Power 4
+	Aqua Jet: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 30 | 🎯 Cord (3,-5,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Aqua Jet: Power 4
+	Aqua Jet: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 31 | 🎯 Cord (1,-4,3) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 32 | 🎯 Cord (2,-5,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Aqua Jet: Fast-Track 9
+	Move: Aqua Jet
+	Raises the user’s Speed by one stat rank when its Pokémon uses a move.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 33 | 🎯 Cord (3,-6,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Quick Cure
+	Removes the confused, flinching, and trapped conditions from the user the first time they are inflicted each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 34 | 🎯 Cord (1,-5,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Haymaker
+	The more the user’s Attack is raised, the more it powers up the user’s sync move.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 35 | 🎯 Cord (2,-6,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Soften Up 1
+	Critical hits land more easily when the user attacks with a sync move.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 36 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 37 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Unflappable
+	Prevents the user from flinching.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 38 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 39 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 40 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Surf: Power 2
+	Surf: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 41 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Surf: Power 2
+	Surf: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 42 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Attack 10
+	Attack 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 43 | 🎯 Cord (-2,5,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Rain Dance: MP Refresh 1
+	Move: Rain Dance
+	Has a chance (20%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 44 | 🎯 Cord (-3,6,-3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Refreshing Rain 1
+	Restores the user’s HP whenever its Pokémon takes an action while the weather is rainy.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 45 | 🎯 Cord (-1,5,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Rainy Hit: Free Move Next 9
+	Applies the Free Move Next effect to the user when its attack move is successful while the weather is rainy.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 46 | 🎯 Cord (-2,6,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Flood Alert 3
+	Extends the duration of rainy weather when the weather turns rainy while the user is on the field.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 47 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Brains of Team Aqua Water Impact: Power 25
+	Brains of Team Aqua Water Impact: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 48 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Brains of Team Aqua Water Impact: Power 25
+	Brains of Team Aqua Water Impact: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+================================END================================
+ 
+No. 256 Matt & Sharpedo (Male♂️)
+
+Cell 1 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (-4,3,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Tough Team Aqua Admin Water Beam: Power 30
+	Tough Team Aqua Admin Water Beam: Power ↑ 30
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 8 | 🎯 Cord (-4,2,2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Tough Team Aqua Admin Water Beam: Power 30
+	Tough Team Aqua Admin Water Beam: Power ↑ 30
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 9 | 🎯 Cord (-4,1,3) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Tough Team Aqua Admin Water Beam: Power 30
+	Tough Team Aqua Admin Water Beam: Power ↑ 30
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 10 | 🎯 Cord (1,1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 11 | 🎯 Cord (2,1,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Unflappable
+	Prevents the user from flinching.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 12 | 🎯 Cord (1,2,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 13 | 🎯 Cord (3,1,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Whirlpool: Power 4
+	Whirlpool: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 14 | 🎯 Cord (2,2,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Whirlpool: Power 4
+	Whirlpool: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 15 | 🎯 Cord (1,3,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Whirlpool: Power 4
+	Whirlpool: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 16 | 🎯 Cord (3,2,-5) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 17 | 🎯 Cord (2,3,-5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Whirlpool: Move Gauge Refresh 3
+	Move: Whirlpool
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 18 | 🎯 Cord (1,4,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hit Trapped Opp: Attack ↓ 9
+	Lowers the target’s Attack by one stat rank when the user’s attack move is successful against targets that are trapped.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 19 | 🎯 Cord (3,3,-6) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Pokey Trap 2
+	Increases the amount of damage an opponent takes from being trapped.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 20 | 🎯 Cord (2,4,-6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Opp Trapped: Team Moves ↑ 2
+	Powers up the moves of all allied sync pairs when attacking a target that is trapped.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 21 | 🎯 Cord (-2,0,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 22 | 🎯 Cord (-3,0,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 23 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Snarl: Power 2
+	Snarl: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 24 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Snarl: Power 2
+	Snarl: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 25 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Snarl: Power 2
+	Snarl: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 26 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Circle: MG → 2
+	Quickly charges the move gauge when a circle applies to the allied field of play.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 27 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Circle: HP Recovery 1
+	Restores the user’s HP whenever its Pokémon takes an action when a circle applies to the allied field of play.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 28 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hoenn C (Spec) Extension 3
+	Extends the duration of Hoenn Circle (Special) when Hoenn Circle (Special) is applied to the allied field of play.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 29 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Propelling Strike 9
+	Charges the user’s move gauge by one when its attack move is successful.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 30 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 31 | 🎯 Cord (2,-3,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 32 | 🎯 Cord (1,-3,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 33 | 🎯 Cord (3,-4,1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Snarl: Power 2
+	Snarl: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 34 | 🎯 Cord (2,-4,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Snarl: Power 2
+	Snarl: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 35 | 🎯 Cord (1,-4,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Snarl: Move Gauge Refresh 3
+	Move: Snarl
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 36 | 🎯 Cord (3,-5,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Snarl: Accuracy 5
+	Snarl: Accuracy ↑ 5
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 37 | 🎯 Cord (2,-5,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Hoenn Analysis: MP Refresh 2
+	Move: Hoenn Analysis
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 38 | 🎯 Cord (1,-5,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	1st S-Move: Team Special Boost 1
+	Increases the Special Moves ↑ Next effect of all allied sync pairs by one rank the first time the user’s sync move is used each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 39 | 🎯 Cord (3,-6,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Natural Remedy
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 40 | 🎯 Cord (2,-6,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Endurance
+	Applies the Enduring effect to the user if its HP is full when it enters a battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 41 | 🎯 Cord (-2,2,0) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 42 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 43 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Whirlpool: Power 4
+	Whirlpool: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 44 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Whirlpool: Power 4
+	Whirlpool: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 45 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Whirlpool: Accuracy 15
+	Whirlpool: Accuracy ↑ 15
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 46 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 47 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Full-On Burning Up!: MP Refresh 2
+	Move: Full-On Burning Up!
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 48 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Full-Bracing Command 9
+	Raises the user’s Defense and Sp. Def by one stat rank when its Trainer uses a move.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 49 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Full-On Burning Up!: Team Brain Gain 9
+	Move: Full-On Burning Up!
+	Increases the Special Moves ↑ Next effect of all allied sync pairs by one rank when the user’s move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 50 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Tough Team Aqua Admin Water Beam: Power 25
+	Tough Team Aqua Admin Water Beam: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 51 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Tough Team Aqua Admin Water Beam: Power 25
+	Tough Team Aqua Admin Water Beam: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+================================END================================
+ 
+No. 49 Korrina & Machoke (Male♂️)
+
+Cell 1 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (1,1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 8 | 🎯 Cord (2,1,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 9 | 🎯 Cord (1,2,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 10 | 🎯 Cord (3,1,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Thunder Punch: Power 4
+	Thunder Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 11 | 🎯 Cord (2,2,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Thunder Punch: Power 4
+	Thunder Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 12 | 🎯 Cord (1,3,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Thunder Punch: Power 4
+	Thunder Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 13 | 🎯 Cord (3,2,-5) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 14 | 🎯 Cord (2,3,-5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Quick Cure
+	Removes the confused, flinching, and trapped conditions from the user the first time they are inflicted each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 15 | 🎯 Cord (1,4,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hit Paralyzed Opp: Defense ↓ & Sp. Def ↓ 9
+	Lowers the target’s Defense and Sp. Def by one stat rank when the user’s attack move is successful against a paralyzed opponent.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 16 | 🎯 Cord (3,3,-6) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Speed 10
+	Speed 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 17 | 🎯 Cord (2,4,-6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Paralysis Synergy 3
+	Powers up the user’s moves when the target is paralyzed.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 18 | 🎯 Cord (-2,1,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 19 | 🎯 Cord (-3,1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 20 | 🎯 Cord (-2,0,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Dynamic Punch: Power 2
+	Dynamic Punch: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 21 | 🎯 Cord (-3,0,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Dynamic Punch: Power 2
+	Dynamic Punch: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 22 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Dynamic Punch: Power 2
+	Dynamic Punch: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 23 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Natural Remedy
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 24 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Attack 10
+	Attack 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 25 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Easy Pickings 9
+	Lowers one of the target’s following stats by one stat rank at random when the user’s attack move is successful against a confused opponent: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 26 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	X Attack: Berserker 1
+	Move: X Attack
+	Raises the user’s Attack by one stat rank when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 27 | 🎯 Cord (2,-1,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 28 | 🎯 Cord (3,-2,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 29 | 🎯 Cord (2,-2,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Dynamic Punch: Power 2
+	Dynamic Punch: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 30 | 🎯 Cord (1,-2,1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Dynamic Punch: Power 2
+	Dynamic Punch: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 31 | 🎯 Cord (3,-3,0) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Dynamic Punch: Move Gauge Refresh 3
+	Move: Dynamic Punch
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 32 | 🎯 Cord (2,-3,1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	X Attack: MP Refresh 2
+	Move: X Attack
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 33 | 🎯 Cord (1,-3,2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	X Attack: Precision 2
+	Move: X Attack
+	Raises the user’s accuracy by two stat ranks when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 34 | 🎯 Cord (3,-4,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Dynamic Punch: Accuracy 10
+	Dynamic Punch: Accuracy ↑ 10
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 35 | 🎯 Cord (2,-4,2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Dynamic Punch: Move Gauge Refresh 3
+	Move: Dynamic Punch
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 36 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 37 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 38 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 39 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 40 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Thunder Punch: Power 4
+	Thunder Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 41 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Thunder Punch: Power 4
+	Thunder Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 42 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Thunder Punch: Move Gauge Refresh 3
+	Move: Thunder Punch
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 43 | 🎯 Cord (-2,5,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Quick Tempo
+	Applies the Move Gauge Acceleration effect to the allied field of play the first time the user enters a battle each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 44 | 🎯 Cord (-3,6,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Show Me Your Stuff!: MP Refresh 2
+	Move: Show Me Your Stuff!
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 45 | 🎯 Cord (-1,5,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Fuzzy Strike 9
+	Powers up the user’s sync move when the target is confused.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 46 | 🎯 Cord (-2,6,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Sync Freebie
+	Applies the Free Move Next effect to the user after using its sync move.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 47 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Always in the Zone Fighting Impact: Power 25
+	Always in the Zone Fighting Impact: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 48 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Always in the Zone Fighting Impact: Power 25
+	Always in the Zone Fighting Impact: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+================================END================================
+ 
+No. 66 Lyra (Special Costume) & Marill (Female♀️)
+
+Cell 1 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (1,1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 8 | 🎯 Cord (2,1,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 9 | 🎯 Cord (1,2,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 10 | 🎯 Cord (3,1,-4) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 11 | 🎯 Cord (2,2,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Water Gun: Power 4
+	Water Gun: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 12 | 🎯 Cord (1,3,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Water Gun: Power 4
+	Water Gun: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 13 | 🎯 Cord (3,2,-5) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Water Gun: Power 4
+	Water Gun: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 14 | 🎯 Cord (2,3,-5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Water Gun: Move Gauge Refresh 3
+	Move: Water Gun
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 15 | 🎯 Cord (1,4,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Defense Crush 9
+	Lowers the target’s Defense by one stat rank when the user’s attack move against it is successful.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 16 | 🎯 Cord (3,3,-6) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Speedy Entry 2
+	Raises the user’s Speed by two stat ranks when it enters a battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 17 | 🎯 Cord (2,4,-6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Gobsmack 9
+	Leaves the target confused when the user’s attack move against it is successful.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 18 | 🎯 Cord (-2,0,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 19 | 🎯 Cord (-3,0,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 20 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 21 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 22 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	On the Run 2
+	Raises the user’s evasiveness by two stat ranks the first time it is in a pinch each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 23 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Catalytic Infliction
+	Applies the Move Gauge Acceleration effect to the allied field of play the first time the user’s Pokémon uses a status move each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 24 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Charm: Move Gauge Refresh 3
+	Move: Charm
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 25 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Team Full-Bracing Infliction 1
+	Raises the Defense and Sp. Def of all allied sync pairs by one stat rank the first time the user’s Pokémon uses a status move each battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 26 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Mind Games 9
+	Lowers the target’s Sp. Def by one stat rank when the user’s attack move against it is successful.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 27 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 28 | 🎯 Cord (2,-3,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Unflappable
+	Prevents the user from flinching.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 29 | 🎯 Cord (1,-3,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 30 | 🎯 Cord (3,-4,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 31 | 🎯 Cord (2,-4,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 32 | 🎯 Cord (1,-4,3) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Sp. Def 10
+	Sp. Def 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 33 | 🎯 Cord (3,-5,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 34 | 🎯 Cord (2,-5,3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Grass Guard
+	Reduces damage when the user is attacked by Grass-type moves.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 35 | 🎯 Cord (1,-5,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Potion: Master Healer 1
+	Move: Potion
+	Increases the amount of HP restored by the user’s healing moves.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 36 | 🎯 Cord (3,-6,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Potion: Master Healer 1
+	Move: Potion
+	Increases the amount of HP restored by the user’s healing moves.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 37 | 🎯 Cord (2,-6,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Potion: MP Refresh 3
+	Move: Potion
+	Has a chance (40%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 38 | 🎯 Cord (-2,2,0) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 39 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 40 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Water Gun: Power 4
+	Water Gun: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 41 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Water Gun: Power 4
+	Water Gun: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 42 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Merrily We Go!: Fleet Feet 1
+	Move: Merrily We Go!
+	Raises the user’s Speed by one stat rank when its move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 43 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Defense 10
+	Defense 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 44 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Merrily We Go!: MP Refresh 2
+	Move: Merrily We Go!
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 45 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Team Healing Entry
+	Applies the Gradual Healing effect to all allied sync pairs when the user enters a battle.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 46 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	S-Move: Team HP Recovery (M) 1
+	Restores the HP of all allied sync pairs by approximately 20% of their maximum HP after using the user’s sync move.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 47 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Super Cute Water Impact: Power 25
+	Super Cute Water Impact: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 48 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Super Cute Water Impact: Power 25
+	Super Cute Water Impact: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+================================END================================
+ 
