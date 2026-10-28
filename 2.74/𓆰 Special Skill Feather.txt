@@ -1,0 +1,148 @@
+====𓆰 Special Skill Feather 145====
+🚩🚩🚩🚩Slot Chance Stat/Passive/Theme🚩🚩🚩🚩
+Slot Defaut 2
+Rate: 100.0
+
+
+📊📊📊📊Stats📈📈📈📈
+
+Bracelet
+💪 Stat buffs: Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bracelet
+💪 Stat buffs: Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Pin
+💪 Stat buffs: HP
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 70 - ⬆️ Max 70
+👣 Step: 5
+
+Pin
+💪 Stat buffs: Speed
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+🖼️🖼️🖼️🖼️Themes🖼️🖼️🖼️🖼️
+Normal (33.33%)
+Slot Theme Default (100%): 1
+Alola (33.33%)
+Slot Theme Default (100%): 2
+Rival (33.33%)
+Slot Theme Default (100%): 3
+
+🚩🚩🚩🚩Passives🚩🚩🚩🚩
+Normal Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 1
+Details: Powers up the user’s Normal-type moves by 2%.
+
+Physical S-Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 2
+Details: Powers up the user’s physical sync move by 2%.
+
+S-Move DR 2% (33.33%)
+Slot Theme Default (100%): 3
+Details: Reduces damage by 2% when the user is hit by a sync move.
+
+
+
+
+====𓆰 Special Skill Feather 146====
+🚩🚩🚩🚩Slot Chance Stat/Passive/Theme🚩🚩🚩🚩
+Slot Defaut 2
+Rate: 100.0
+
+
+📊📊📊📊Stats📈📈📈📈
+
+Bracelet
+💪 Stat buffs: Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bracelet
+💪 Stat buffs: Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Pin
+💪 Stat buffs: HP
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 70 - ⬆️ Max 70
+👣 Step: 5
+
+Pin
+💪 Stat buffs: Speed
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+🖼️🖼️🖼️🖼️Themes🖼️🖼️🖼️🖼️
+Electric (33.33%)
+Slot Theme Default (100%): 1
+Alola (33.33%)
+Slot Theme Default (100%): 2
+Rival (33.33%)
+Slot Theme Default (100%): 3
+
+🚩🚩🚩🚩Passives🚩🚩🚩🚩
+Opp Paralyzed: Moves ↑ 4% (33.33%)
+Slot Theme Default (100%): 1
+Details: Powers up the user’s moves by 4% when the target is paralyzed.
+
+Electric S-Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 2
+Details: Powers up the user’s Electric-type sync move by 2%.
+
+Electric Terrain: P-Move DR & S-Move DR 4% (33.33%)
+Slot Theme Default (100%): 3
+Details: Reduces damage by 4% when the user is hit by an attack move or sync move while the terrain is Electric Terrain.
+
+
+
+
