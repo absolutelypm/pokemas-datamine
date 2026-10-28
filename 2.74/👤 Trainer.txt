@@ -1,0 +1,764 @@
+========================================= 
+1. No. 102 Arc Suit Gladion & Silvally (Genderless) 
+2. No. 121 Selene & Lycanroc (Female♀️) - Midnight Form 
+3. No. 126 Bea (Alt.) & Machamp (Female♀️) 
+4. No. 149 Bede & Hattrem (Female♀️) 
+5. No. 157 Victor (Academy) & Urshifu (Male♂️) - Rapid Strike Style 
+6. No. 157 Victor (Academy) & Urshifu (Male♂️) - Single Strike Style 
+7. No. 257 Dendra & Medicham (Female♀️) - Tera Type Fighting 
+8. No. 54 Arc Suit Hau & Raichu (Male♂️) - Alola Form 
+9. No. 77 Lance & Aerodactyl (Male♂️) 
+========================================= 
+ 
+No. 102 Arc Suit Gladion & Silvally (Genderless)
+
+Dialog 5 Stars: I’ll use the bonds I’ve built to head forward at full power!
+Descriptions: Gladion has drawn out the power of his sync stone ultimate and received the blessing of Arceus. With Silvally by his side, he wished for a serious battle against Hau.
+Role: Multi | EX Role 🌈: Strike (Physical)
+Type: Normal | Weakness: Fighting
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑3 Wistful ↓1
+Method: ✨🌟 Arc Suit Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Normal Multi
+2. Alola Multi
+3. Rival Multi
+4. Arc Suit Multi
+5. Villain Multi
+
+Sync Pair Available: 30/10/2026 06:00:00
+EX Effect Available: 30/10/2026 06:00:00
+EX Role Available: 30/10/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Almighty Multi-Attack
+Type: Normal
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999393" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999479" ]  [Name:MoveDescriptionPartsIdTag Idx="999622" ] [Name:MoveDescriptionPartsIdTag Idx="999360" ] [Name:MoveDescriptionPartsIdTag Idx="999482" ] [Name:MoveDescriptionPartsIdTag Idx="998989" ]
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: 4 | Target: All opponents | Effect Tag: Sure Hit | Max uses: --
+
+Move 2: Alola Passion
+Category: Status
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999281" ] [Name:MoveDescriptionPartsIdTag Idx="999287" ] [Name:MoveDescriptionPartsIdTag Idx="999286" ]
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
+
+Move 3: Almighty Crush Claw
+Type: Normal
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999361" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999479" ]  [Name:MoveDescriptionPartsIdTag Idx="999622" ] [Name:MoveDescriptionPartsIdTag Idx="998856" ] [Name:MoveDescriptionPartsIdTag Idx="999360" ] [Name:MoveDescriptionPartsIdTag Idx="999482" ]
+Power: 450 (1)/540 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: All opponents | Effect Tag: Sure Hit | Max uses: 1
+
+Move 4: My Resolve!
+Category: Status
+User: Trainer
+Description: [Name:MoveDescriptionPartsIdTag Idx="998923" ] [Name:MoveDescriptionPartsIdTag Idx="999922" ] [Name:MoveDescriptionPartsIdTag Idx="998854" ] [Name:MoveDescriptionPartsIdTag Idx="998853" ]
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Unspoken Understanding Divine Multi-Attack
+Type: Normal
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="998851" ] [Name:MoveDescriptionPartsIdTag Idx="999463" ]
+Power: 350 (1)/420 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1(✨): [Name:PassiveSkillNameParts Idx="29011400" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998379" ]
+
+Passive 2(✨): [Name:PassiveSkillNameParts Idx="29021400" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998378" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998377" ]
+
+Passive 3: [Name:PassiveSkillNameParts Idx="99051500" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998419" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998540" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998792" ]
+
+Passive 4: [Name:PassiveSkillNameParts Idx="99051600" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p997308" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998764" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997364" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997555" ]
+
+Passive 5: [Name:PassiveSkillNameParts Idx="99051700" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p997371" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997770" ]
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 100 | Attack : 14 | Defense : 14 | Sp. Atk : 14 | Sp. Def : 14 | Speed : 14
+
+Lv. 140
+HP : 678 | Attack : 472 | Defense : 203 | Sp. Atk : 472 | Sp. Def : 203 | Speed : 333
+
+Lv. 150
+HP : 710 | Attack : 498 | Defense : 213 | Sp. Atk : 498 | Sp. Def : 213 | Speed : 351
+
+Lv. 200
+HP : 870 | Attack : 628 | Defense : 263 | Sp. Atk : 628 | Sp. Def : 263 | Speed : 441
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 121 Selene & Lycanroc (Female♀️)
+Form: Midnight Form
+Descriptions: This highly curious and easygoing Trainer is friendly with everyone and quite easy to get along with. She doesn’t worry about the little things and tends to act on instinct.
+Role: Support | EX Role 🌈: Field
+Type: Rock | Weakness: Steel
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Wistful ↑2
+Method: 📅🎯 Monthly BP Challenge
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Rock Support
+2. Alola Support
+3. Main Character Support
+4. Nature Lover Support
+5. Alola Adventurer Support
+
+Sync Pair Available: 1/11/2026 06:00:00
+EX Effect Available: 1/11/2026 06:00:00
+EX Role Available: 1/11/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Rock Tomb
+Type: Rock
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999876" ]
+Power: 39 (1)/46 (5↑ MAX) | Accuracy: 95 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Potion
+Category: Status
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999818" ]
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: Heals | Max uses: 2
+
+Move 3: Sandstorm
+Type: Rock
+Category: Status
+User: Pokemon
+Description: Causes a sandstorm.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 4: First Move Wins!
+Category: Status
+User: Trainer
+Description: [Name:MoveDescriptionPartsIdTag Idx="999710" ] [Name:MoveDescriptionPartsIdTag Idx="999468" ]
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 1
+
+Sync Move: Moonlight Howl Continental Crush
+Type: Rock
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999999" ]
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1(🏅): Rock Teamwork
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p999504" ]
+
+Passive 2: [Name:PassiveSkillNameParts Idx="18116200" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998426" ]
+
+Passive 3: [Name:PassiveSkillNameParts Idx="18115200" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p999255" ]
+
+Passive 4: [Name:PassiveSkillNameParts Idx="17014100" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998794" ]
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 106 | Attack : 10 | Defense : 11 | Sp. Atk : 5 | Sp. Def : 11 | Speed : 18
+
+Lv. 140
+HP : 660 | Attack : 200 | Defense : 268 | Sp. Atk : 127 | Sp. Def : 268 | Speed : 317
+
+Lv. 150
+HP : 690 | Attack : 210 | Defense : 282 | Sp. Atk : 133 | Sp. Def : 282 | Speed : 333
+
+Lv. 200
+HP : 840 | Attack : 260 | Defense : 352 | Sp. Atk : 163 | Sp. Def : 352 | Speed : 413
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 126 Bea (Alt.) & Machamp (Female♀️)
+
+Dialog 5 Stars: Although I like moving my body, I don’t dislike studying.
+Descriptions: Bea is studying hard as a student, rather than as a Gym Leader. For her, eating sweets after school is true bliss.
+Role: Sprint | EX Role 🌈: Field
+Type: Fighting | Weakness: Fairy
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑1 Wistful ↑1
+Method: 🎈🌟 EX Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Fighting Sprint
+2. Galar Sprint
+3. Gym Leader Sprint
+4. Body Builder Sprint
+5. Sweet Tooth Sprint
+
+Sync Pair Available: 12/11/2026 06:00:00
+EX Effect Available: 12/11/2026 06:00:00
+EX Role Available: 12/11/2026 06:00:00
+Superawakened Available: 12/11/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Dynamic Punch
+Type: Fighting
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999970" ]
+Power: 198 (1)/237 (5↑ MAX) | Accuracy: 50 | Gauge: 4 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Galar Passion
+Category: Status
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999281" ] [Name:MoveDescriptionPartsIdTag Idx="999287" ] [Name:MoveDescriptionPartsIdTag Idx="999286" ]
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
+
+Move 3: Sturdy Cross Chop
+Type: Fighting
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999030" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999476" ]  [Name:MoveDescriptionPartsIdTag Idx="999622" ] [Name:MoveDescriptionPartsIdTag Idx="999998" ] [Name:MoveDescriptionPartsIdTag Idx="999482" ] [Name:MoveDescriptionPartsIdTag Idx="998855" ]
+Power: 400 (1)/480 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: All opponents | Effect Tag: Sure Hit | Max uses: --
+
+Move 4: Worthy of Respect!
+Category: Status
+User: Trainer
+Description: [Name:MoveDescriptionPartsIdTag Idx="999020" ] [Name:MoveDescriptionPartsIdTag Idx="998852" ] [Name:MoveDescriptionPartsIdTag Idx="999900" ]
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Punch Through Any Wall Fighting Impact
+Type: Fighting
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999766" ]
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+(🌅🌟) Superawakened Passive: [Name:PassiveSkillNameParts Idx="32023300" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998508" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998512" ]
+
+Passive 1(🏅): [Name:PassiveSkillNameParts Idx="29030800" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998286" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997623" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997731" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997730" ]
+
+Passive 2: [Name:PassiveSkillNameParts Idx="99051000" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p997313" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997319" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997312" ]
+
+Passive 3: [Name:PassiveSkillNameParts Idx="99051100" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998844" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998130" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998218" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998255" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999130" ]
+
+Passive 4: [Name:PassiveSkillNameParts Idx="17097100" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p997371" ]
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 102 | Attack : 16 | Defense : 17 | Sp. Atk : 14 | Sp. Def : 16 | Speed : 14
+
+Lv. 140
+HP : 656 | Attack : 448 | Defense : 169 | Sp. Atk : 333 | Sp. Def : 180 | Speed : 311
+
+Lv. 150
+HP : 686 | Attack : 472 | Defense : 177 | Sp. Atk : 351 | Sp. Def : 188 | Speed : 327
+
+Lv. 200
+HP : 836 | Attack : 592 | Defense : 217 | Sp. Atk : 441 | Sp. Def : 228 | Speed : 407
+
+
+📌 Dynamax Details 📌
+🔥 Max Moves Details ⚔️
+🔥 Max Move 1: G-Max Chi Strike
+Type: Fighting
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999419" ]
+Power: 400 (1)/480 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🔥 Max Move 3: G-Max Chi Strike
+Type: Fighting
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999419" ]
+Power: 400 (1)/480 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 149 Bede & Hattrem (Female♀️)
+
+Descriptions: Bede is a Gym Leader candidate from Galar with a cynical personality who calls himself one of the elite, but his heart is changing as he spends his days engulfed in pink.
+Role: Field
+Type: Psychic | Weakness: Dark
+Rarity: ⭐⭐⭐⭐
+Expedition 🤝: Rare ↑2 Wistful ↓2
+Method: 🏨 Exchange - Friendship Level-Up 100 in Lodge
+Item Exchange: 🗿 Lodge Stone (After Level 100)
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Psychic Field
+2. Galar Field
+3. Rival Field
+4. Galar Adventurer Field
+
+Sync Pair Available: 1/11/2026 06:00:00
+EX Effect Available: 1/11/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Psybeam
+Type: Psychic
+Category: Special
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999887" ]
+Power: 48 (1)/57 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: X Speed
+Category: Status
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999849" ]
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 2
+
+Move 3: Psychic
+Type: Psychic
+Category: Special
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999883" ]
+Power: 99 (1)/118 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 4: I Should Correct You!
+Category: Status
+User: Trainer
+Description: [Name:MoveDescriptionPartsIdTag Idx="999576" ] [Name:MoveDescriptionPartsIdTag Idx="999434" ]
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: -- | Max uses: 1
+
+Sync Move: Silence the Rabble Psychic Beam
+Type: Psychic
+Category: Special
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999999" ]
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Aggravation 9
+Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+
+Passive 2: [Name:PassiveSkillNameParts Idx="12022200" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998881" ]
+
+Passive 3: [Name:PassiveSkillNameParts Idx="18021300" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p999374" ]
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 89 | Attack : 13 | Defense : 11 | Sp. Atk : 14 | Sp. Def : 12 | Speed : 10
+
+Lv. 140
+HP : 602 | Attack : 336 | Defense : 137 | Sp. Atk : 404 | Sp. Def : 147 | Speed : 265
+
+Lv. 150
+HP : 630 | Attack : 354 | Defense : 143 | Sp. Atk : 426 | Sp. Def : 155 | Speed : 279
+
+Lv. 200
+HP : 770 | Attack : 444 | Defense : 173 | Sp. Atk : 536 | Sp. Def : 195 | Speed : 349
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 157 Victor (Academy) & Urshifu (Male♂️)
+Form: Rapid Strike Style
+Descriptions: Victor is in a Pasio Academy uniform, which he’s wearing exactly as it was given to him. He’s taking in all kinds of knowledge together with his Pokémon.
+Role: Strike (Physical) | EX Role 🌈: Support
+Type: Water | Weakness: Flying
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑3 Wistful ↓1
+Method: 🎓🏫 Academy Event
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Water Strike
+2. Galar Strike
+3. Main Character Strike
+4. Galar Adventurer Strike
+5. Pasio Academy Strike
+
+Sync Pair Available: 12/11/2026 06:00:00
+EX Effect Available: 12/11/2026 06:00:00
+EX Role Available: 12/11/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Surging Strikes
+Type: Water
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999500" ] [Name:MoveDescriptionPartsIdTag Idx="999763" ]
+Power: 40 (1)/48 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: An opponent | Effect Tag: Multistrike | Max uses: --
+
+Sync Move: Path of Rapid Strikes Water Impact
+Type: Water
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999999" ]
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 27 | Attack : 18 | Defense : 13 | Sp. Atk : 18 | Sp. Def : 13 | Speed : 18
+
+Lv. 140
+HP : 200 | Attack : 140 | Defense : 40 | Sp. Atk : 140 | Sp. Def : 40 | Speed : 300
+
+Lv. 150
+HP : 210 | Attack : 146 | Defense : 42 | Sp. Atk : 146 | Sp. Def : 42 | Speed : 316
+
+Lv. 200
+HP : 260 | Attack : 176 | Defense : 52 | Sp. Atk : 176 | Sp. Def : 52 | Speed : 396
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 157 Victor (Academy) & Urshifu (Male♂️)
+Form: Single Strike Style
+Descriptions: Victor is in a Pasio Academy uniform, which he’s wearing exactly as it was given to him. He’s taking in all kinds of knowledge together with his Pokémon.
+Role: Strike (Physical) | EX Role 🌈: Support
+Type: Dark | Weakness: Flying
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑3 Wistful ↓1
+Method: 🎓🏫 Academy Event
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Dark Strike
+2. Galar Strike
+3. Main Character Strike
+4. Galar Adventurer Strike
+5. Pasio Academy Strike
+
+Sync Pair Available: 12/11/2026 06:00:00
+EX Effect Available: 12/11/2026 06:00:00
+EX Role Available: 12/11/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Wicked Blow
+Type: Dark
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999763" ]
+Power: 120 (1)/144 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Sync Move: Path of the Single Strike Dark Impact
+Type: Dark
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999999" ]
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 27 | Attack : 18 | Defense : 13 | Sp. Atk : 18 | Sp. Def : 13 | Speed : 18
+
+Lv. 140
+HP : 200 | Attack : 140 | Defense : 40 | Sp. Atk : 140 | Sp. Def : 40 | Speed : 300
+
+Lv. 150
+HP : 210 | Attack : 146 | Defense : 42 | Sp. Atk : 146 | Sp. Def : 42 | Speed : 316
+
+Lv. 200
+HP : 260 | Attack : 176 | Defense : 52 | Sp. Atk : 176 | Sp. Def : 52 | Speed : 396
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 257 Dendra & Medicham (Female♀️)
+Form: Tera Type: Fighting
+Dialog 5 Stars: Aim to push past your limits day by day! Osu!
+Descriptions: This battle studies teacher from an academy in Paldea has a cheerful, upbeat personality. Her hobby is working out, and she’s also attempting to improve her lackluster cooking skills.
+Role: Strike (Special) | EX Role 🌈: Field
+Type: Fighting | Weakness: Flying
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑3 Soothing ↓1
+Method: 🎈🌟 EX Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Fighting Strike
+2. Paldea Strike
+3. Body Builder Strike
+4. Passionate Spirit Strike
+
+Sync Pair Available: 12/11/2026 06:00:00
+EX Effect Available: 12/11/2026 06:00:00
+EX Role Available: 12/11/2026 06:00:00
+Superawakened Available: 12/11/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Zen Headbutt
+Type: Psychic
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999893" ]
+Power: 51 (1)/61 (5↑ MAX) | Accuracy: 90 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Fighting Wish
+Category: Status
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999464" ] [Name:MoveDescriptionPartsIdTag Idx="999463" ]
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 3: Searing Spirit Focus Blast
+Type: Fighting
+Category: Special
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999104" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999103" ]  [Name:MoveDescriptionPartsIdTag Idx="999622" ] [Name:MoveDescriptionPartsIdTag Idx="999592" ] [Name:MoveDescriptionPartsIdTag Idx="999360" ]
+Power: 280 (1)/336 (5↑ MAX) | Accuracy: -- | Gauge: 4 | Target: An opponent | Effect Tag: Sure Hit | Max uses: 1
+
+Move 4: Osu! Osu!!!
+Category: Status
+User: Trainer
+Description: [Name:MoveDescriptionPartsIdTag Idx="999835" ] [Name:MoveDescriptionPartsIdTag Idx="999420" ]
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Hot-Blooded Muscles Tera Blast
+Type: Fighting
+Category: Special
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999999" ]
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+(🌅🌟) Superawakened Passive: [Name:PassiveSkillNameParts Idx="32023400" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998281" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999232" ]
+
+Passive 1(🏅): [Name:PassiveSkillNameParts Idx="29030900" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998286" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997623" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997731" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997730" ]
+
+Passive 2: [Name:PassiveSkillNameParts Idx="33010700" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p997833" ]
+
+Passive 3: [Name:PassiveSkillNameParts Idx="99051300" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p997310" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997309" ]
+
+Passive 4: [Name:PassiveSkillNameParts Idx="99051400" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p999126" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999283" ]
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 99 | Attack : 17 | Defense : 16 | Sp. Atk : 17 | Sp. Def : 16 | Speed : 16
+
+Lv. 140
+HP : 652 | Attack : 424 | Defense : 142 | Sp. Atk : 424 | Sp. Def : 142 | Speed : 313
+
+Lv. 150
+HP : 682 | Attack : 446 | Defense : 148 | Sp. Atk : 446 | Sp. Def : 148 | Speed : 329
+
+Lv. 200
+HP : 832 | Attack : 556 | Defense : 178 | Sp. Atk : 556 | Sp. Def : 178 | Speed : 409
+
+
+📌 Tera Details 📌
+💎 Tera Moves Details ⚔️
+💎 Tera Move: Amber Tera Blast
+Type: Fighting
+Category: Special
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999592" ] [Name:MoveDescriptionPartsIdTag Idx="999411" ] [Name:MoveDescriptionPartsIdTag Idx="999482" ]
+Power: 120 (1)/144 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+🛡️ Passives Details 🌟
+Passive 2: [Name:PassiveSkillNameParts Idx="99051200" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p997945" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997311" ]
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 54 Arc Suit Hau & Raichu (Male♂️)
+Form: Alola Form
+Dialog 5 Stars: Being so close to my goal sure lights a fire under me!
+Descriptions: Hau has drawn out the power of his sync stone ultimate and received the blessing of Arceus. With Raichu by his side, he accepted a serious battle against Gladion.
+Role: Multi | EX Role 🌈: Strike (Physical)
+Type: Electric | Weakness: Ghost
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑2
+Method: ✨🌟 Arc Suit Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Electric Multi
+2. Alola Multi
+3. Rival Multi
+4. Arc Suit Multi
+5. Free Spirit Multi
+
+Sync Pair Available: 1/11/2026 06:00:00
+EX Effect Available: 1/11/2026 06:00:00
+EX Role Available: 1/11/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Almighty Thunder Punch
+Type: Electric
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999393" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999479" ]  [Name:MoveDescriptionPartsIdTag Idx="999622" ] [Name:MoveDescriptionPartsIdTag Idx="999411" ] [Name:MoveDescriptionPartsIdTag Idx="999284" ]
+Power: 240 (1)/288 (5↑ MAX) | Accuracy: -- | Gauge: 3 | Target: An opponent | Effect Tag: Sure Hit | Max uses: --
+
+Move 2: Electric Terrain
+Type: Electric
+Category: Status
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999578" ]
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 3: Almighty Spark
+Type: Electric
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999361" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999479" ]  [Name:MoveDescriptionPartsIdTag Idx="999622" ] [Name:MoveDescriptionPartsIdTag Idx="999284" ] [Name:MoveDescriptionPartsIdTag Idx="999482" ] [Name:MoveDescriptionPartsIdTag Idx="998945" ]
+Power: 300 (1)/360 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: All opponents | Effect Tag: Sure Hit | Max uses: 1
+
+Move 4: Feel the Alolan Shine!
+Category: Status
+User: Trainer
+Description: [Name:MoveDescriptionPartsIdTag Idx="999578" ] [Name:MoveDescriptionPartsIdTag Idx="999450" ] [Name:MoveDescriptionPartsIdTag Idx="999520" ]
+Power: -- | Accuracy: -- | Gauge: -- | Target: Entire field | Effect Tag: -- | Max uses: 1
+
+Sync Move: Hustle and Bustle Divine Gigavolt Havoc
+Type: Electric
+Category: Physical
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999921" ]
+Power: 300 (1)/360 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1(✨): [Name:PassiveSkillNameParts Idx="29011500" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998379" ]
+
+Passive 2(✨): [Name:PassiveSkillNameParts Idx="29021500" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998378" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998377" ]
+
+Passive 3: [Name:PassiveSkillNameParts Idx="99051800" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998307" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998792" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999137" ]
+
+Passive 4: [Name:PassiveSkillNameParts Idx="99051900" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998614" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997307" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997532" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997535" ]
+
+Passive 5: [Name:PassiveSkillNameParts Idx="99052000" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p997306" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997305" ]
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 98 | Attack : 17 | Defense : 12 | Sp. Atk : 16 | Sp. Def : 17 | Speed : 15
+
+Lv. 140
+HP : 676 | Attack : 424 | Defense : 189 | Sp. Atk : 423 | Sp. Def : 206 | Speed : 355
+
+Lv. 150
+HP : 708 | Attack : 446 | Defense : 199 | Sp. Atk : 445 | Sp. Def : 216 | Speed : 373
+
+Lv. 200
+HP : 868 | Attack : 556 | Defense : 249 | Sp. Atk : 555 | Sp. Def : 266 | Speed : 463
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 77 Lance & Aerodactyl (Male♂️)
+
+Dialog 5 Stars: I never give up, no matter what. You must be the same?
+Descriptions: The Indigo League Champion prefers his battles fair and square, and many find his caring demeanor very endearing.
+Role: Sprint | EX Role 🌈: Field
+Type: Rock | Weakness: Electric
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Rare ↑2 Wistful ↓2
+Method: 🔄 Mix Scout
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Rock Sprint
+2. Kanto Sprint
+3. Champion Sprint
+4. Cape Sprint
+
+Sync Pair Available: 1/11/2026 06:00:00
+EX Effect Available: 1/11/2026 06:00:00
+EX Role Available: 1/11/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Hyper Beam
+Type: Normal
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 223 (1)/267 (5↑ MAX) | Accuracy: 90 | Gauge: 4 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Kanto Analysis
+Category: Status
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999281" ] [Name:MoveDescriptionPartsIdTag Idx="999287" ] [Name:MoveDescriptionPartsIdTag Idx="999269" ]
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
+
+Move 3: Venerable Wings Ancient Power
+Type: Rock
+Category: Special
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999361" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999479" ]  [Name:MoveDescriptionPartsIdTag Idx="999482" ] [Name:MoveDescriptionPartsIdTag Idx="999056" ] [Name:MoveDescriptionPartsIdTag Idx="999055" ] [Name:MoveDescriptionPartsIdTag Idx="999182" ] [Name:MoveDescriptionPartsIdTag Idx="999384" ]
+Power: 300 (1)/360 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: All opponents | Effect Tag: -- | Max uses: 2
+
+Move 4: Good, Good!
+Category: Status
+User: Trainer
+Description: [Name:MoveDescriptionPartsIdTag Idx="999020" ] [Name:MoveDescriptionPartsIdTag Idx="999418" ] [Name:MoveDescriptionPartsIdTag Idx="999403" ] [Name:MoveDescriptionPartsIdTag Idx="999664" ]
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: Recoil | Max uses: 1
+
+Sync Move: Amber-Restored King of the Skies Rock Beam
+Type: Rock
+Category: Special
+User: Pokemon
+Description: [Name:MoveDescriptionPartsIdTag Idx="999328" ]
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: [Name:PassiveSkillNameParts Idx="99053600" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p998419" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998118" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997304" ]
+
+Passive 2: [Name:PassiveSkillNameParts Idx="17099100" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p997889" ]
+
+Passive 3: [Name:PassiveSkillNameParts Idx="13050700" ]
+[Name:PassiveSkillDescriptionPartsIdTag Idx="p999558" ]
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 102 | Attack : 16 | Defense : 14 | Sp. Atk : 16 | Sp. Def : 14 | Speed : 15
+
+Lv. 140
+HP : 655 | Attack : 448 | Defense : 167 | Sp. Atk : 448 | Sp. Def : 167 | Speed : 380
+
+Lv. 150
+HP : 685 | Attack : 472 | Defense : 175 | Sp. Atk : 472 | Sp. Def : 175 | Speed : 400
+
+Lv. 200
+HP : 835 | Attack : 592 | Defense : 215 | Sp. Atk : 592 | Sp. Def : 215 | Speed : 500
+
+
+
+----
+-------------------------------END-------------------------------
+ 
