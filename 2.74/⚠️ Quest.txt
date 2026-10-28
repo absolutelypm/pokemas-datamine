@@ -562,7 +562,7 @@ Speed Recovery Gauge (Enemy): 68.7%
   🛡️ Base Passive Sets
 	Passive 1: Pinpoint Entry 3
 	Passive 2: Debut: Fighting S-Tera
-  🌀 Error: pm0308_72_07_charem
+  🌀 Medicham (Fighting Tera)
  	Weakness: Psychic
 		20000 HP
 		163 Attack
@@ -578,7 +578,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Move 5: X Sp. Atk All (Uses 1)
 	Move 6: X Attack All (Uses 1)
 
-  NPC Right 2-1: Rising Star - Error: pm0982_11_00_nokokocchi
+  NPC Right 2-1: Rising Star - Dudunsparce (Two-Segment Form)
  	Weakness: Fighting
 		8000 HP
 		163 Attack
@@ -654,7 +654,7 @@ Speed Recovery Gauge (Enemy): 68.7%
   🛡️ Base Passive Sets
 	Passive 1: Pinpoint Entry 3
 	Passive 2: Debut: Fighting S-Tera
-  🌀 Error: pm0308_72_07_charem
+  🌀 Medicham (Fighting Tera)
  	Weakness: Psychic
 		27500 HP
 		483 Attack
@@ -670,7 +670,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Move 5: X Sp. Atk All (Uses 1)
 	Move 6: X Attack All (Uses 1)
 
-  NPC Right 2-1: Rising Star - Error: pm0982_11_00_nokokocchi
+  NPC Right 2-1: Rising Star - Dudunsparce (Two-Segment Form)
  	Weakness: Fighting
 		11000 HP
 		483 Attack
@@ -746,7 +746,7 @@ Speed Recovery Gauge (Enemy): 68.7%
   🛡️ Base Passive Sets
 	Passive 1: Pinpoint Entry 3
 	Passive 2: Debut: Fighting S-Tera
-  🌀 Error: pm0308_72_07_charem
+  🌀 Medicham (Fighting Tera)
  	Weakness: Psychic
 		35500 HP
 		1193 Attack
@@ -762,7 +762,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Move 5: X Sp. Atk All (Uses 1)
 	Move 6: X Attack All (Uses 1)
 
-  NPC Right 2-1: Rising Star - Error: pm0982_11_00_nokokocchi
+  NPC Right 2-1: Rising Star - Dudunsparce (Two-Segment Form)
  	Weakness: Fighting
 		14200 HP
 		1193 Attack
@@ -851,7 +851,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Passive 7: Debut: Fighting S-Tera
   🔼 Upgrade/Downgrade Passive Damage Reduction
 	● Trained Mind (Remove)
-  🌀 Error: pm0308_72_07_charem
+  🌀 Medicham (Fighting Tera)
  	Weakness: Psychic
 		38500 HP
 		1497 Attack
@@ -867,7 +867,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Move 5: X Sp. Atk All (Uses 1)
 	Move 6: X Attack All (Uses 1)
 
-  NPC Right 2-1: Rising Star - Error: pm0982_11_00_nokokocchi
+  NPC Right 2-1: Rising Star - Dudunsparce (Two-Segment Form)
  	Weakness: Fighting
 		15400 HP
 		1497 Attack
@@ -1817,7 +1817,7 @@ Speed Recovery Gauge (Enemy): 68.7%
   🛡️ Base Passive Sets
 	Passive 1: Pinpoint Entry 3
 	Passive 2: Debut: Fighting S-Tera
-  🌀 Error: pm0308_72_07_charem
+  🌀 Medicham (Fighting Tera)
  	Weakness: Psychic
 		20000 HP
 		163 Attack
@@ -1833,7 +1833,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Move 5: X Sp. Atk All (Uses 1)
 	Move 6: X Attack All (Uses 1)
 
-  NPC Right 2-1: Rising Star - Error: pm0982_11_00_nokokocchi
+  NPC Right 2-1: Rising Star - Dudunsparce (Two-Segment Form)
  	Weakness: Fighting
 		8000 HP
 		163 Attack
@@ -1909,7 +1909,7 @@ Speed Recovery Gauge (Enemy): 68.7%
   🛡️ Base Passive Sets
 	Passive 1: Pinpoint Entry 3
 	Passive 2: Debut: Fighting S-Tera
-  🌀 Error: pm0308_72_07_charem
+  🌀 Medicham (Fighting Tera)
  	Weakness: Psychic
 		27500 HP
 		483 Attack
@@ -1925,7 +1925,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Move 5: X Sp. Atk All (Uses 1)
 	Move 6: X Attack All (Uses 1)
 
-  NPC Right 2-1: Rising Star - Error: pm0982_11_00_nokokocchi
+  NPC Right 2-1: Rising Star - Dudunsparce (Two-Segment Form)
  	Weakness: Fighting
 		11000 HP
 		483 Attack
@@ -2001,7 +2001,7 @@ Speed Recovery Gauge (Enemy): 68.7%
   🛡️ Base Passive Sets
 	Passive 1: Pinpoint Entry 3
 	Passive 2: Debut: Fighting S-Tera
-  🌀 Error: pm0308_72_07_charem
+  🌀 Medicham (Fighting Tera)
  	Weakness: Psychic
 		35500 HP
 		1193 Attack
@@ -2017,7 +2017,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Move 5: X Sp. Atk All (Uses 1)
 	Move 6: X Attack All (Uses 1)
 
-  NPC Right 2-1: Rising Star - Error: pm0982_11_00_nokokocchi
+  NPC Right 2-1: Rising Star - Dudunsparce (Two-Segment Form)
  	Weakness: Fighting
 		14200 HP
 		1193 Attack
@@ -2106,7 +2106,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Passive 7: Debut: Fighting S-Tera
   🔼 Upgrade/Downgrade Passive Damage Reduction
 	● Trained Mind (Remove)
-  🌀 Error: pm0308_72_07_charem
+  🌀 Medicham (Fighting Tera)
  	Weakness: Psychic
 		38500 HP
 		1497 Attack
@@ -2122,7 +2122,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Move 5: X Sp. Atk All (Uses 1)
 	Move 6: X Attack All (Uses 1)
 
-  NPC Right 2-1: Rising Star - Error: pm0982_11_00_nokokocchi
+  NPC Right 2-1: Rising Star - Dudunsparce (Two-Segment Form)
  	Weakness: Fighting
 		15400 HP
 		1497 Attack
@@ -5809,7 +5809,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Passive 6: Move Gauge Refresh 9
 	Passive 7: Pinpoint Entry 3
 
-  NPC Right 2-1: Juliana - Error: pm1007_11_00_koraidon
+  NPC Right 2-1: Juliana - Koraidon (Apex Build)
  	Weakness: Flying
 		13000 HP
 		690 Attack
@@ -5924,7 +5924,7 @@ Speed Recovery Gauge (Enemy): 68.7%
 	Passive 6: Move Gauge Refresh 9
 	Passive 7: Pinpoint Entry 3
 
-  NPC Right 2-1: Juliana - Error: pm1007_11_00_koraidon
+  NPC Right 2-1: Juliana - Koraidon (Apex Build)
  	Weakness: Flying
 		15400 HP
 		1152 Attack
