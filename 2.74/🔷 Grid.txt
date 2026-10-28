@@ -34,7 +34,7 @@ Cell 2 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Unfortuitous 9
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Lowers one of the target’s following stats by one stat rank at random when the user’s attack move against it is successful: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -43,7 +43,7 @@ Cell 3 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -59,8 +59,8 @@ Cell 4 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 Cell 5 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17100500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	1st Use Status P-Move: Team Physical & Special Boost 2
+	Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by two ranks the first time the user’s Pokémon uses a status move each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -68,8 +68,8 @@ Cell 5 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 6 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="19028000" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998892" ]
+	Debut: Electric Terrain
+	Turns the field of play’s terrain into Electric Terrain the first time the user enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -133,17 +133,17 @@ Cell 8 | 🎯 Cord (0,3,-3) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 Cell 9 | 🎯 Cord (0,4,-4) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 4 or higher
-	Alola Passion: [Name:PassiveSkillNameParts Idx="16021700" ]
+	Alola Passion: 1st MP 0: Restore MP 1
 	Move: Alola Passion
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997302" ]
+	Restores one MP of the user’s move the first time the remaining MP for that move is zero each battle.
 	Color Grid: 🧈 Divine Upgrades (Move Effect)
 
 
 Cell 10 | 🎯 Cord (0,5,-5) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 5 or higher
-	[Name:PassiveSkillNameParts Idx="19073300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997480" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998608" ]
+	Normal Zone & Alola C (Phys) Extension 3
+	Extends the duration of the Normal Zone when the zone turns into a Normal Zone while the user is on the field. Extends the duration of Alola Circle (Physical) when Alola Circle (Physical) is applied to the allied field of play.
 	Color Grid: 🧈 Divine Upgrades (Passive)
 
 
@@ -185,9 +185,9 @@ Cell 15 | 🎯 Cord (3,0,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
 Cell 16 | 🎯 Cord (2,2,-4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Almighty Multi-Attack: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Almighty Multi-Attack: Move Gauge Refresh 2
 	Move: Almighty Multi-Attack
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (30%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -202,24 +202,24 @@ Cell 17 | 🎯 Cord (3,1,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 18 | 🎯 Cord (3,2,-5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="11014400" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998577" ]
+	Circle: HP Recovery 1
+	Restores the user’s HP whenever its Pokémon takes an action when a circle applies to the allied field of play.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 19 | 🎯 Cord (1,3,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="15010300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999886" ]
+	Adrenaline 1
+	Reduces the sync move countdown by one the first time the user’s sync move is used each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 20 | 🎯 Cord (2,3,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="13085301" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997510" ]
+	1st Use S-Move: S-Moves ×2
+	The power of the user’s sync move is doubled the first time its sync move is used each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -277,17 +277,17 @@ Cell 27 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 28 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Almighty Crush Claw: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Almighty Crush Claw: Move Gauge Refresh 2
 	Move: Almighty Crush Claw
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (30%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 29 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="18117200" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998396" ]
+	Move: MG ↑2 9
+	Charges the user’s move gauge by two when its move is successful.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -295,14 +295,14 @@ Cell 30 | 🎯 Cord (-2,-3,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Haymaker
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999587" ]
+	The more the user’s Attack is raised, the more it powers up the user’s sync move.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 31 | 🎯 Cord (2,-2,0) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Unflappable
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999618" ]
+	Prevents the user from flinching.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -353,8 +353,8 @@ Cell 37 | 🎯 Cord (3,-4,1) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
 Cell 38 | 🎯 Cord (2,-4,2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17047400" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999327" ]
+	Gobsmack 4
+	Has a chance (50%) of leaving the target confused when the user’s attack move against it is successful.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -370,7 +370,7 @@ Cell 40 | 🎯 Cord (2,-5,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Furious Brawn
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999579" ]
+	The more the user’s Attack is raised, the more it powers up the user’s moves.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -391,7 +391,7 @@ Cell 42 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
 Cell 43 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Flameproof
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999624" ]
+	Prevents the user from getting burned.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -420,16 +420,16 @@ Cell 46 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
 Cell 47 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17049700" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999148" ]
+	Numbing Blow 4
+	Has a chance (50%) of leaving the target paralyzed when the user’s attack move against it is successful.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 48 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="12012200" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999283" ]
+	Normal Zone: MG → 2
+	Quickly charges the move gauge when the zone is a Normal Zone.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -437,16 +437,16 @@ Cell 49 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 50 | 🎯 Cord (-2,5,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	My Resolve!: [Name:PassiveSkillNameParts Idx="19073100" ]
+	My Resolve!: 1st T-Move: Normal Zone
 	Move: My Resolve!
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997664" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999130" ]
+	Turns the field of play’s zone into a Normal Zone the first time the user’s Trainer uses a move each battle. (A Normal Zone powers up Normal-type attacks.)
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -559,18 +559,18 @@ Cell 13 | 🎯 Cord (3,2,-5) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 14 | 🎯 Cord (2,3,-5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Rock Tomb: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Rock Tomb: Move Gauge Refresh 3
 	Move: Rock Tomb
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 15 | 🎯 Cord (1,4,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	First Move Wins!: [Name:PassiveSkillNameParts Idx="18048700" ]
+	First Move Wins!: Barricade Buddies 2
 	Move: First Move Wins!
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999767" ]
+	Raises the Sp. Def of all allied sync pairs by two stat ranks when the user’s move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -578,7 +578,7 @@ Cell 16 | 🎯 Cord (3,3,-6) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Speedy Entry 2
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999925" ]
+	Raises the user’s Speed by two stat ranks when it enters a battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -586,7 +586,7 @@ Cell 17 | 🎯 Cord (2,4,-6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Defense Crush 9
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999945" ]
+	Lowers the target’s Defense by one stat rank when the user’s attack move against it is successful.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -613,9 +613,9 @@ Cell 20 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
 
 Cell 21 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
-	Sandstorm: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Sandstorm: Move Gauge Refresh 3
 	Move: Sandstorm
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -623,42 +623,42 @@ Cell 22 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Soothing Sand 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999882" ]
+	Restores the user’s HP whenever its Pokémon takes an action during a sandstorm.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 23 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="12010400" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999839" ]
+	Sands of Time 2
+	Quickly charges the move gauge during a sandstorm.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 24 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Sandstorm: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Sandstorm: MP Refresh 2
 	Move: Sandstorm
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 25 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	Sandstorm: [Name:PassiveSkillNameParts Idx="18047300" ]
+	Sandstorm: Slippery Sidekicks 1
 	Move: Sandstorm
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999789" ]
+	Raises the evasiveness of all allied sync pairs by one stat rank when the user’s move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 26 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	Sandstorm: [Name:PassiveSkillNameParts Idx="15012000" ]
+	Sandstorm: Afflicter’s Fervor 1
 	Move: Sandstorm
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999178" ]
+	Reduces the user’s sync move countdown by one the first time its Pokémon uses a status move each battle.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -686,7 +686,7 @@ Cell 29 | 🎯 Cord (1,-3,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
 Cell 30 | 🎯 Cord (3,-4,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Wide Awake
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999620" ]
+	Prevents the user from falling asleep.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -715,35 +715,35 @@ Cell 33 | 🎯 Cord (3,-5,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 34 | 🎯 Cord (2,-5,3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17041600" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999848" ]
+	Healthy Healing
+	Applies the Gradual Healing effect to the user if its HP is full when it enters a battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 35 | 🎯 Cord (1,-5,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	Potion: [Name:PassiveSkillNameParts Idx="11010200" ]
+	Potion: Master Healer 1
 	Move: Potion
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999535" ]
+	Increases the amount of HP restored by the user’s healing moves.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 36 | 🎯 Cord (3,-6,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Potion: [Name:PassiveSkillNameParts Idx="11010200" ]
+	Potion: Master Healer 1
 	Move: Potion
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999535" ]
+	Increases the amount of HP restored by the user’s healing moves.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 37 | 🎯 Cord (2,-6,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	Potion: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Potion: MP Refresh 3
 	Move: Potion
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (40%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -771,7 +771,7 @@ Cell 40 | 🎯 Cord (-3,3,0) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 Cell 41 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Natural Remedy
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -794,26 +794,26 @@ Cell 43 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
 Cell 44 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	First Move Wins!: [Name:PassiveSkillNameParts Idx="13060200" ]
+	First Move Wins!: MP Refresh 2
 	Move: First Move Wins!
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 45 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	First Move Wins!: [Name:PassiveSkillNameParts Idx="18045800" ]
+	First Move Wins!: Shielded 2
 	Move: First Move Wins!
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999823" ]
+	Raises the Defense of all allied sync pairs by two stat ranks when the user’s move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 46 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="11010700" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999810" ]
+	S-Move: Team HP Recovery (M) 1
+	Restores the HP of all allied sync pairs by approximately 20% of their maximum HP after using the user’s sync move.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -849,7 +849,7 @@ Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Unfortuitous 9
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Lowers one of the target’s following stats by one stat rank at random when the user’s attack move against it is successful: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -858,7 +858,7 @@ Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -874,8 +874,8 @@ Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17100500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	1st Use Status P-Move: Team Physical & Special Boost 2
+	Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by two ranks the first time the user’s Pokémon uses a status move each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -883,8 +883,8 @@ Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="19028700" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999141" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999140" ]
+	Debut: Dark Zone
+	Turns the field of play’s zone into a Dark Zone the first time the user enters a battle each battle. (A Dark Zone powers up Dark-type attacks.)
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -905,7 +905,7 @@ Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Unfortuitous 9
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Lowers one of the target’s following stats by one stat rank at random when the user’s attack move against it is successful: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -914,7 +914,7 @@ Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -930,8 +930,8 @@ Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17100500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	1st Use Status P-Move: Team Physical & Special Boost 2
+	Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by two ranks the first time the user’s Pokémon uses a status move each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -939,8 +939,8 @@ Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="19051300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998892" ]
+	Debut: Psychic Terrain
+	Turns the field of play’s terrain into Psychic Terrain the first time the user enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -989,24 +989,24 @@ Cell 7 | 🎯 Cord (0,2,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Natural Remedy
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 8 | 🎯 Cord (0,4,-4) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 4 or higher
-	[Name:PassiveSkillNameParts Idx="17043900" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998868" ]
+	Critical Freebie 9
+	Applies the Free Move Next effect to the user when it lands a critical hit.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 9 | 🎯 Cord (1,3,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 5 or higher
-	Galar Passion: [Name:PassiveSkillNameParts Idx="19073400" ]
+	Galar Passion: 1st T-Move: Fighting Zone
 	Move: Galar Passion
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997664" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999130" ]
+	Turns the field of play’s zone into a Fighting Zone the first time the user’s Trainer uses a move each battle. (A Fighting Zone powers up Fighting-type attacks.)
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -1029,8 +1029,8 @@ Cell 11 | 🎯 Cord (0,-4,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 Cell 12 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 5 or higher
-	[Name:PassiveSkillNameParts Idx="16021600" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997303" ]
+	Max Move: Restore “Galar Passion” MP 1
+	Restores one MP of the user’s Galar Passion after using its max move.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1044,7 +1044,7 @@ Cell 13 | 🎯 Cord (2,-1,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
 Cell 14 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Clearheaded
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999619" ]
+	Prevents the user from becoming confused.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1073,8 +1073,8 @@ Cell 17 | 🎯 Cord (3,0,-3) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
 Cell 18 | 🎯 Cord (2,1,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="13011800" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999920" ]
+	Confusion Synergy 3
+	Powers up the user’s moves when the target is confused.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1090,7 +1090,7 @@ Cell 20 | 🎯 Cord (3,1,-4) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Soften Up 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999510" ]
+	Critical hits land more easily when the user attacks with a sync move.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1098,7 +1098,7 @@ Cell 21 | 🎯 Cord (2,2,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Haymaker
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999587" ]
+	The more the user’s Attack is raised, the more it powers up the user’s sync move.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1141,33 +1141,33 @@ Cell 26 | 🎯 Cord (-3,0,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 27 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Galar Passion: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Galar Passion: Move Gauge Refresh 4
 	Move: Galar Passion
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (50%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 28 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="11014400" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998577" ]
+	Circle: HP Recovery 1
+	Restores the user’s HP whenever its Pokémon takes an action when a circle applies to the allied field of play.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 29 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="17099700" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997319" ]
+	User Sets Circle: Team Physical Boost ↑1 9
+	Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank when the user applies a circle to the allied field of play.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 30 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="15011700" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999545" ]
+	MAX Countdown 1
+	Reduces the user’s sync move countdown by one after using its max move.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1216,25 +1216,25 @@ Cell 36 | 🎯 Cord (3,-5,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 37 | 🎯 Cord (1,-4,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="12012400" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998574" ]
+	Circle: MG → 2
+	Quickly charges the move gauge when a circle applies to the allied field of play.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 38 | 🎯 Cord (2,-5,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Sturdy Cross Chop: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Sturdy Cross Chop: Move Gauge Refresh 3
 	Move: Sturdy Cross Chop
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 39 | 🎯 Cord (3,-6,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="16011100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999846" ]
+	Fuzzy Strike 5
+	Powers up the user’s sync move when the target is confused.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1242,7 +1242,7 @@ Cell 40 | 🎯 Cord (1,-5,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Furious Brawn
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999579" ]
+	The more the user’s Attack is raised, the more it powers up the user’s moves.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1271,7 +1271,7 @@ Cell 43 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
 Cell 44 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Flameproof
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999624" ]
+	Prevents the user from getting burned.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1299,17 +1299,17 @@ Cell 47 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 48 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="18131900" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997966" ]
+	Hit Confused Opp: Attack ↓ 9
+	Lowers the target’s Attack by one stat rank when the user’s attack move is successful against a confused opponent.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 49 | 🎯 Cord (-2,5,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Dynamic Punch: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Dynamic Punch: Move Gauge Refresh 3
 	Move: Dynamic Punch
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -1324,16 +1324,16 @@ Cell 50 | 🎯 Cord (-3,6,-3) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
 Cell 51 | 🎯 Cord (-1,5,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="19056500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999126" ]
+	Fighting Zone Extension 3
+	Extends the duration of the Fighting Zone when the zone turns into a Fighting Zone while the user is on the field.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 52 | 🎯 Cord (-2,6,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="11010100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999960" ]
+	First Aid 4
+	Restores the user’s HP by approximately 40% of its maximum HP the first time it is in a pinch each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1369,7 +1369,7 @@ Cell 2 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Unfortuitous 9
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Lowers one of the target’s following stats by one stat rank at random when the user’s attack move against it is successful: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -1378,7 +1378,7 @@ Cell 3 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -1394,8 +1394,8 @@ Cell 4 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 Cell 5 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17100500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	1st Use Status P-Move: Team Physical & Special Boost 2
+	Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by two ranks the first time the user’s Pokémon uses a status move each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -1404,7 +1404,7 @@ Cell 6 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Sunburst
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999565" ]
+	Makes the weather sunny the first time the user enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -1480,42 +1480,42 @@ Cell 10 | 🎯 Cord (1,1,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 11 | 🎯 Cord (1,2,-3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="11013100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998937" ]
+	Curative Confusion 1
+	Restores the user’s HP when its attack move is successful against a confused opponent.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 12 | 🎯 Cord (2,1,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	X Speed: [Name:PassiveSkillNameParts Idx="13060200" ]
+	X Speed: MP Refresh 2
 	Move: X Speed
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 13 | 🎯 Cord (3,0,-3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17041600" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999848" ]
+	Healthy Healing
+	Applies the Gradual Healing effect to the user if its HP is full when it enters a battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 14 | 🎯 Cord (2,2,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="16011100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999846" ]
+	Fuzzy Strike 9
+	Powers up the user’s sync move when the target is confused.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 15 | 🎯 Cord (3,1,-4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	I Should Correct You!: [Name:PassiveSkillNameParts Idx="13060200" ]
+	I Should Correct You!: MP Refresh 2
 	Move: I Should Correct You!
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -1529,7 +1529,7 @@ Cell 16 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
 Cell 17 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Clearheaded
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999619" ]
+	Prevents the user from becoming confused.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1564,17 +1564,17 @@ Cell 21 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 22 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17030300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999917" ]
+	Quick Cure
+	Removes the confused, flinching, and trapped conditions from the user the first time they are inflicted each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 23 | 🎯 Cord (-2,-3,5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Psychic: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Psychic: Move Gauge Refresh 3
 	Move: Psychic
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -1590,15 +1590,15 @@ Cell 25 | 🎯 Cord (-3,-3,6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Sharp Entry 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999924" ]
+	Raises the user’s critical-hit rate by one stat rank when it enters a battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 26 | 🎯 Cord (-2,-4,6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="18042900" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998839" ]
+	Mind Swell 9
+	Raises the user’s Sp. Atk by one stat rank when its Pokémon uses a move.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1626,7 +1626,7 @@ Cell 29 | 🎯 Cord (1,-3,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
 Cell 30 | 🎯 Cord (3,-4,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Unflappable
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999618" ]
+	Prevents the user from flinching.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1655,8 +1655,8 @@ Cell 33 | 🎯 Cord (3,-5,2) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
 Cell 34 | 🎯 Cord (2,-5,3) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="12010700" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999409" ]
+	Precognition 2
+	Quickly charges the user’s move gauge when the terrain is Psychic Terrain.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1664,15 +1664,15 @@ Cell 35 | 🎯 Cord (1,-5,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Natural Remedy
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 36 | 🎯 Cord (3,-6,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="13016100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999423" ]
+	Weird Vibes 3
+	Powers up the user’s moves when the terrain is Psychic Terrain.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1680,7 +1680,7 @@ Cell 37 | 🎯 Cord (2,-6,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Mind Games 9
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999812" ]
+	Lowers the target’s Sp. Def by one stat rank when the user’s attack move against it is successful.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1723,34 +1723,34 @@ Cell 42 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 43 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Psybeam: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Psybeam: Move Gauge Refresh 3
 	Move: Psybeam
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 44 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="11010100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999960" ]
+	First Aid 2
+	Restores the user’s HP by approximately 20% of its maximum HP the first time it is in a pinch each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 45 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	Psybeam: [Name:PassiveSkillNameParts Idx="18100200" ]
+	Psybeam: Easy Pickings 9
 	Move: Psybeam
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999228" ]
+	Lowers one of the target’s following stats by one stat rank at random when the user’s attack move is successful against a confused opponent: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 46 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="17069100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998567" ]
+	1st S-Move: Team Special Boost 1
+	Increases the Special Moves ↑ Next effect of all allied sync pairs by one rank the first time the user’s sync move is used each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1786,7 +1786,7 @@ Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Fierce Entry 2
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999822" ]
+	Raises the user’s Attack by two stat ranks when it enters a battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 25/11/2026 06:00:00
 
@@ -1794,8 +1794,8 @@ Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="19020800" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999652" ]
+	Drought Alert 3
+	Extends the duration of sunny weather when the weather turns sunny while the user is on the field.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 25/11/2026 06:00:00
 
@@ -1812,7 +1812,7 @@ Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Sharp Entry 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999924" ]
+	Raises the user’s critical-hit rate by one stat rank when it enters a battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 25/11/2026 06:00:00
 
@@ -1820,8 +1820,8 @@ Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="18095500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999546" ]
+	MAX Slip Up 2
+	Lowers the Speed of all opposing sync pairs by two stat ranks after using the user’s max move.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 25/11/2026 06:00:00
 
@@ -1842,7 +1842,7 @@ Cell 2 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x40 
 	Unflappable
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999618" ]
+	Prevents the user from flinching.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -1884,7 +1884,7 @@ Cell 8 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: X Speed
-		[Name:MoveDescriptionPartsIdTag Idx="999849" ]
+		Raises the user’s Speed by two stat ranks.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -1892,9 +1892,9 @@ Cell 9 | 🎯 Cord (2,1,-3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	X Speed: [Name:PassiveSkillNameParts Idx="13060200" ]
+	X Speed: MP Refresh 2
 	Move: X Speed
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -1902,9 +1902,9 @@ Cell 10 | 🎯 Cord (2,2,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
-	X Speed: [Name:PassiveSkillNameParts Idx="18046800" ]
+	X Speed: Slippery 2
 	Move: X Speed
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999798" ]
+	Raises the user’s evasiveness by two stat ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -1913,9 +1913,9 @@ Cell 11 | 🎯 Cord (3,2,-5) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	X Speed: [Name:PassiveSkillNameParts Idx="18046200" ]
+	X Speed: Fleet Feet 2
 	Move: X Speed
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999820" ]
+	Raises the user’s Speed by two stat ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -1924,9 +1924,9 @@ Cell 12 | 🎯 Cord (4,2,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	X Speed: [Name:PassiveSkillNameParts Idx="15012400" ]
+	X Speed: Initial Propulsion 1
 	Move: X Speed
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999012" ]
+	Reduces the user’s sync move countdown by one the first time its move is successful each battle.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -1935,9 +1935,9 @@ Cell 13 | 🎯 Cord (5,2,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
-	X Speed: [Name:PassiveSkillNameParts Idx="15012400" ]
+	X Speed: Initial Propulsion 1
 	Move: X Speed
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999012" ]
+	Reduces the user’s sync move countdown by one the first time its move is successful each battle.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -1946,7 +1946,7 @@ Cell 14 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Rock Smash
-		[Name:MoveDescriptionPartsIdTag Idx="999872" ]
+		Has a chance (50%) of lowering the target’s Defense by one stat rank.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -1954,9 +1954,9 @@ Cell 15 | 🎯 Cord (4,-1,-3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Rock Smash: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Rock Smash: Move Gauge Refresh 3
 	Move: Rock Smash
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -1966,7 +1966,7 @@ Cell 16 | 🎯 Cord (5,-1,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 	Rock Smash: Defense Crush 9
 	Move: Rock Smash
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999945" ]
+	Lowers the target’s Defense by one stat rank when the user’s attack move against it is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -1987,7 +1987,7 @@ Cell 18 | 🎯 Cord (7,-1,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
 	Rock Smash: Defense Crush 9
 	Move: Rock Smash
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999945" ]
+	Lowers the target’s Defense by one stat rank when the user’s attack move against it is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -1998,7 +1998,7 @@ Cell 19 | 🎯 Cord (8,-1,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
 	Rock Smash: Staggering 9
 	Move: Rock Smash
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999530" ]
+	Makes the target flinch when the user’s attack move against it is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2042,7 +2042,7 @@ Cell 25 | 🎯 Cord (3,-2,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Close Combat
-		[Name:MoveDescriptionPartsIdTag Idx="999861" ]
+		Lowers the user’s Defense and Sp. Def by one stat rank.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -2050,9 +2050,9 @@ Cell 26 | 🎯 Cord (4,-3,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Close Combat: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Close Combat: Move Gauge Refresh 3
 	Move: Close Combat
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2062,7 +2062,7 @@ Cell 27 | 🎯 Cord (5,-4,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 	Close Combat: Staggering 3
 	Move: Close Combat
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999836" ]
+	Has a chance (40%) of making the target flinch when the user’s attack move against it is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2081,9 +2081,9 @@ Cell 29 | 🎯 Cord (7,-6,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	Close Combat: [Name:PassiveSkillNameParts Idx="18080100" ]
+	Close Combat: Stat’s Quo 9
 	Move: Close Combat
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997314" ]
+	Returns the user’s lowered stats to normal when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2138,7 +2138,7 @@ Cell 36 | 🎯 Cord (2,-2,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Offense Studies
-		[Name:MoveDescriptionPartsIdTag Idx="999835" ]
+		Raises the user’s Attack and Sp. Atk by two stat ranks.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -2146,9 +2146,9 @@ Cell 37 | 🎯 Cord (2,-3,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Offense Studies: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Offense Studies: MP Refresh 2
 	Move: Offense Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2156,9 +2156,9 @@ Cell 38 | 🎯 Cord (3,-4,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
-	Offense Studies: [Name:PassiveSkillNameParts Idx="18094400" ]
+	Offense Studies: Critical Eye 1
 	Move: Offense Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999641" ]
+	Raises the user’s critical-hit rate by one stat rank when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2167,9 +2167,9 @@ Cell 39 | 🎯 Cord (4,-5,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	Offense Studies: [Name:PassiveSkillNameParts Idx="18113000" ]
+	Offense Studies: Move: Attack ↑2 & Sp. Atk ↑2 9
 	Move: Offense Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999015" ]
+	Raises the user’s Attack and Sp. Atk by two stat ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2178,9 +2178,9 @@ Cell 40 | 🎯 Cord (5,-6,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	Offense Studies: [Name:PassiveSkillNameParts Idx="18094400" ]
+	Offense Studies: Critical Eye 2
 	Move: Offense Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999641" ]
+	Raises the user’s critical-hit rate by two stat ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2189,9 +2189,9 @@ Cell 41 | 🎯 Cord (6,-7,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
-	Offense Studies: [Name:PassiveSkillNameParts Idx="17083000" ]
+	Offense Studies: Move: Physical Boost ↑2 & Special Boost ↑2 9
 	Move: Offense Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999176" ]
+	Increases the user’s Physical Moves ↑ Next effect and Special Moves ↑ Next effect by two ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2207,7 +2207,7 @@ Cell 43 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Super Effective ↑
-		[Name:MoveDescriptionPartsIdTag Idx="999588" ]
+		Applies the Supereffective ↑ Next effect to an ally.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -2215,9 +2215,9 @@ Cell 44 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Super Effective ↑: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Super Effective ↑: MP Refresh 2
 	Move: Super Effective ↑
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2225,9 +2225,9 @@ Cell 45 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
-	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17070400" ]
+	Super Effective ↑: Move on Ally: Physical Boost ↑1 & Special Boost ↑1 9
 	Move: Super Effective ↑
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998503" ]
+	When the user’s move targeting an allied sync pair (excluding field effects) is successful, increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of the ally affected by the move by one rank.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2236,9 +2236,9 @@ Cell 46 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17092400" ]
+	Super Effective ↑: Move on Ally: Free Move Next 9
 	Move: Super Effective ↑
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998101" ]
+	When the user’s move targeting an allied sync pair (excluding field effects) is successful, applies the Free Move Next effect to the allied sync pair affected by the move.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2247,9 +2247,9 @@ Cell 47 | 🎯 Cord (-4,6,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17078500" ]
+	Super Effective ↑: Move on Ally: Sync Move Boost ↑4 9
 	Move: Super Effective ↑
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999050" ]
+	When the user’s move targeting an allied sync pair (excluding field effects) is successful, increases the Sync Move ↑ Next effect of the allied sync pair affected by the move by four ranks.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2258,9 +2258,9 @@ Cell 48 | 🎯 Cord (-5,7,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
-	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17099400" ]
+	Super Effective ↑: Move on Ally: Physical & Special Boost ↑2 9
 	Move: Super Effective ↑
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998503" ]
+	When the user’s move targeting an allied sync pair (excluding field effects) is successful, increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of the ally affected by the move by two ranks.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2269,7 +2269,7 @@ Cell 49 | 🎯 Cord (-3,2,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Protect
-		[Name:MoveDescriptionPartsIdTag Idx="999503" ]
+		Applies the Damage Guard Next effect to the user.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -2277,9 +2277,9 @@ Cell 50 | 🎯 Cord (-4,3,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Protect: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Protect: Move Gauge Refresh 3
 	Move: Protect
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2287,9 +2287,9 @@ Cell 51 | 🎯 Cord (-5,4,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
-	Protect: [Name:PassiveSkillNameParts Idx="18112000" ]
+	Protect: Move: Team Attack ↑ & Sp. Atk ↑ 9
 	Move: Protect
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998646" ]
+	Raises the Attack and Sp. Atk of all allied sync pairs by one stat rank when the user’s move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2298,9 +2298,9 @@ Cell 52 | 🎯 Cord (-6,5,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	Protect: [Name:PassiveSkillNameParts Idx="18112800" ]
+	Protect: Move: Team Def ↑ & Sp. Def ↑ 9
 	Move: Protect
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998587" ]
+	Raises the Defense and Sp. Def of all allied sync pairs by one stat rank when the user’s move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2309,9 +2309,9 @@ Cell 53 | 🎯 Cord (-7,6,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	Protect: [Name:PassiveSkillNameParts Idx="17083000" ]
+	Protect: Move: Physical Boost ↑2 & Special Boost ↑2 9
 	Move: Protect
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999176" ]
+	Increases the user’s Physical Moves ↑ Next effect and Special Moves ↑ Next effect by two ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2320,9 +2320,9 @@ Cell 54 | 🎯 Cord (-8,7,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
-	Protect: [Name:PassiveSkillNameParts Idx="15012400" ]
+	Protect: Initial Propulsion 1
 	Move: Protect
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999012" ]
+	Reduces the user’s sync move countdown by one the first time its move is successful each battle.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2366,7 +2366,7 @@ Cell 60 | 🎯 Cord (-3,1,2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Scald
-		[Name:MoveDescriptionPartsIdTag Idx="999878" ] [Name:MoveDescriptionPartsIdTag Idx="999896" ]
+		Removes the frozen condition from the user. Has a chance (30%) of leaving the target burned.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -2374,9 +2374,9 @@ Cell 61 | 🎯 Cord (-4,1,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Scald: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Scald: Move Gauge Refresh 3
 	Move: Scald
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2384,9 +2384,9 @@ Cell 62 | 🎯 Cord (-5,1,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
-	Scald: [Name:PassiveSkillNameParts Idx="18099200" ]
+	Scald: Stupefy 9
 	Move: Scald
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999269" ]
+	Lowers the target’s Sp. Def by one stat rank when a move targeting that opponent is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2416,9 +2416,9 @@ Cell 65 | 🎯 Cord (-8,1,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
-	Scald: [Name:PassiveSkillNameParts Idx="17044800" ]
+	Scald: Combo Freebie 9
 	Move: Scald
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999487" ]
+	Applies the Free Move Next effect to the user when its attack move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2462,7 +2462,7 @@ Cell 71 | 🎯 Cord (-2,0,2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Defensive Studies
-		[Name:MoveDescriptionPartsIdTag Idx="999806" ]
+		Raises the user’s Defense and Sp. Def by two stat ranks.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -2470,9 +2470,9 @@ Cell 72 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Defensive Studies: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Defensive Studies: MP Refresh 2
 	Move: Defensive Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2480,9 +2480,9 @@ Cell 73 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
-	Defensive Studies: [Name:PassiveSkillNameParts Idx="18046200" ]
+	Defensive Studies: Fleet Feet 2
 	Move: Defensive Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999820" ]
+	Raises the user’s Speed by two stat ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2491,9 +2491,9 @@ Cell 74 | 🎯 Cord (-4,-1,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	Defensive Studies: [Name:PassiveSkillNameParts Idx="18102700" ]
+	Defensive Studies: Full-Bracing Command+ 9
 	Move: Defensive Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999042" ]
+	Raises the user’s Defense and Sp. Def by two stat ranks when its Trainer uses a move.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2502,9 +2502,9 @@ Cell 75 | 🎯 Cord (-5,-1,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	Defensive Studies: [Name:PassiveSkillNameParts Idx="17042600" ]
+	Defensive Studies: Hit and Heal 9
 	Move: Defensive Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999761" ]
+	Applies the Gradual Healing effect to the user when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2513,9 +2513,9 @@ Cell 76 | 🎯 Cord (-6,-1,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
-	Defensive Studies: [Name:PassiveSkillNameParts Idx="17040600" ]
+	Defensive Studies: Durable 9
 	Move: Defensive Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999915" ]
+	Applies the Enduring effect to the user when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2523,9 +2523,9 @@ Cell 77 | 🎯 Cord (0,2,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x40 
-	Surging Strikes: [Name:PassiveSkillNameParts Idx="18117200" ]
+	Surging Strikes: Move: MG ↑2 9
 	Move: Surging Strikes
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998396" ]
+	Charges the user’s move gauge by two when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2534,7 +2534,7 @@ Cell 78 | 🎯 Cord (0,3,-3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
 	Trip Wire 2
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999843" ]
+	Lowers the Speed of all opposing sync pairs by two stat ranks when the user enters a battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2542,9 +2542,9 @@ Cell 79 | 🎯 Cord (0,4,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
-	Surging Strikes: [Name:PassiveSkillNameParts Idx="17047400" ]
+	Surging Strikes: Gobsmack 9
 	Move: Surging Strikes
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999326" ]
+	Leaves the target confused when the user’s attack move against it is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2552,8 +2552,8 @@ Cell 80 | 🎯 Cord (0,5,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
-	[Name:PassiveSkillNameParts Idx="17047300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999296" ]
+	Strong Start 1
+	Increases the user’s Physical Moves ↑ Next effect and Special Moves ↑ Next effect by one rank the first time the user enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2562,7 +2562,7 @@ Cell 81 | 🎯 Cord (0,6,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2572,7 +2572,7 @@ Cell 82 | 🎯 Cord (0,7,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
 	Soften Up 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999510" ]
+	Critical hits land more easily when the user attacks with a sync move.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2581,9 +2581,9 @@ Cell 83 | 🎯 Cord (0,8,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	Surging Strikes: [Name:PassiveSkillNameParts Idx="17099300" ]
+	Surging Strikes: 1st Hit: Water Rebuff ↓
 	Move: Surging Strikes
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998930" ]
+	Lowers the target’s Water Type Rebuff by one rank the first time the user’s attack move is successful each battle.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2592,8 +2592,8 @@ Cell 84 | 🎯 Cord (0,9,-9) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	[Name:PassiveSkillNameParts Idx="13085302" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997509" ]
+	1st Use S-Move: S-Moves ×3
+	The power of the user’s sync move is tripled the first time its sync move is used each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2602,8 +2602,8 @@ Cell 85 | 🎯 Cord (0,10,-10) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x160 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x160 
-	[Name:PassiveSkillNameParts Idx="19064400" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999638" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999651" ]
+	1st S-Move: Rainy & Extension 3
+	Makes the weather rainy the first time the user’s sync move is used each battle. Extends the duration of rainy weather when the weather turns rainy while the user is on the field.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2611,8 +2611,8 @@ Cell 86 | 🎯 Cord (1,4,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
-	[Name:PassiveSkillNameParts Idx="17030300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999917" ]
+	Quick Cure
+	Removes the confused, flinching, and trapped conditions from the user the first time they are inflicted each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2623,7 +2623,7 @@ Cell 87 | 🎯 Cord (2,4,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
 	Surging Strikes: Critical Strike 5
 	Move: Surging Strikes
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999608" ]
+	Powers up the user’s attacks when they become critical hits.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2643,7 +2643,7 @@ Cell 89 | 🎯 Cord (3,5,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
 	Shower Power 5
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999844" ]
+	Powers up the user’s sync move when the weather is rainy.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2652,8 +2652,8 @@ Cell 90 | 🎯 Cord (4,4,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	[Name:PassiveSkillNameParts Idx="12010100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999957" ]
+	Racing Rain 2
+	Quickly charges the move gauge when the weather is rainy.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2662,8 +2662,8 @@ Cell 91 | 🎯 Cord (3,6,-9) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	[Name:PassiveSkillNameParts Idx="15010300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999886" ]
+	Adrenaline 1
+	Reduces the sync move countdown by one the first time the user’s sync move is used each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2672,9 +2672,9 @@ Cell 92 | 🎯 Cord (5,4,-9) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	Surging Strikes: [Name:PassiveSkillNameParts Idx="19052000" ]
+	Surging Strikes: 1st Hit: Rainy
 	Move: Surging Strikes
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998221" ]
+	Makes the weather rainy the first time the user’s attack move is successful each battle.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -2683,7 +2683,7 @@ Cell 93 | 🎯 Cord (-1,5,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
 	Natural Remedy
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2692,8 +2692,8 @@ Cell 94 | 🎯 Cord (-2,6,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	[Name:PassiveSkillNameParts Idx="11010100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999960" ]
+	First Aid 4
+	Restores the user’s HP by approximately 40% of its maximum HP the first time it is in a pinch each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2712,8 +2712,8 @@ Cell 96 | 🎯 Cord (-3,8,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	[Name:PassiveSkillNameParts Idx="16017300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998508" ]
+	Circle: Team S-Moves ↑ 2
+	Powers up the sync moves of all allied sync pairs when a circle applies to the allied field of play.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2722,8 +2722,8 @@ Cell 97 | 🎯 Cord (-4,8,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	[Name:PassiveSkillNameParts Idx="18115500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998461" ]
+	Circle Hit: Attack ↓ & Sp. Atk ↓ 9
+	Lowers the target’s Attack and Sp. Atk by one stat rank when the user’s attack move is successful while a circle applies to the allied field of play.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2732,8 +2732,8 @@ Cell 98 | 🎯 Cord (-3,9,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	[Name:PassiveSkillNameParts Idx="19057000" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998423" ]
+	Galar C (Defensive) Extension 3
+	Extends the duration of Galar Circle (Defensive) when Galar Circle (Defensive) is applied to the allied field of play.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2742,8 +2742,8 @@ Cell 99 | 🎯 Cord (-5,9,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	[Name:PassiveSkillNameParts Idx="19056800" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998118" ]
+	1st S-Move: Galar C (Def) on Field
+	Applies Galar Circle (Defensive) to the allied field of play the first time the user’s sync move is used each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2952,7 +2952,7 @@ Cell 2 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x40 
 	Unflappable
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999618" ]
+	Prevents the user from flinching.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -2994,7 +2994,7 @@ Cell 8 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: X Speed
-		[Name:MoveDescriptionPartsIdTag Idx="999849" ]
+		Raises the user’s Speed by two stat ranks.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -3002,9 +3002,9 @@ Cell 9 | 🎯 Cord (2,1,-3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	X Speed: [Name:PassiveSkillNameParts Idx="13060200" ]
+	X Speed: MP Refresh 2
 	Move: X Speed
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3012,9 +3012,9 @@ Cell 10 | 🎯 Cord (2,2,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
-	X Speed: [Name:PassiveSkillNameParts Idx="18046800" ]
+	X Speed: Slippery 2
 	Move: X Speed
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999798" ]
+	Raises the user’s evasiveness by two stat ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3023,9 +3023,9 @@ Cell 11 | 🎯 Cord (3,2,-5) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	X Speed: [Name:PassiveSkillNameParts Idx="18046200" ]
+	X Speed: Fleet Feet 2
 	Move: X Speed
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999820" ]
+	Raises the user’s Speed by two stat ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3034,9 +3034,9 @@ Cell 12 | 🎯 Cord (4,2,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	X Speed: [Name:PassiveSkillNameParts Idx="15012400" ]
+	X Speed: Initial Propulsion 1
 	Move: X Speed
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999012" ]
+	Reduces the user’s sync move countdown by one the first time its move is successful each battle.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3045,9 +3045,9 @@ Cell 13 | 🎯 Cord (5,2,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
-	X Speed: [Name:PassiveSkillNameParts Idx="15012400" ]
+	X Speed: Initial Propulsion 1
 	Move: X Speed
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999012" ]
+	Reduces the user’s sync move countdown by one the first time its move is successful each battle.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3056,7 +3056,7 @@ Cell 14 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Rock Smash
-		[Name:MoveDescriptionPartsIdTag Idx="999872" ]
+		Has a chance (50%) of lowering the target’s Defense by one stat rank.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -3064,9 +3064,9 @@ Cell 15 | 🎯 Cord (4,-1,-3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Rock Smash: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Rock Smash: Move Gauge Refresh 3
 	Move: Rock Smash
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3076,7 +3076,7 @@ Cell 16 | 🎯 Cord (5,-1,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 	Rock Smash: Defense Crush 9
 	Move: Rock Smash
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999945" ]
+	Lowers the target’s Defense by one stat rank when the user’s attack move against it is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3097,7 +3097,7 @@ Cell 18 | 🎯 Cord (7,-1,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
 	Rock Smash: Defense Crush 9
 	Move: Rock Smash
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999945" ]
+	Lowers the target’s Defense by one stat rank when the user’s attack move against it is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3108,7 +3108,7 @@ Cell 19 | 🎯 Cord (8,-1,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
 	Rock Smash: Staggering 9
 	Move: Rock Smash
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999530" ]
+	Makes the target flinch when the user’s attack move against it is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3152,7 +3152,7 @@ Cell 25 | 🎯 Cord (3,-2,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Close Combat
-		[Name:MoveDescriptionPartsIdTag Idx="999861" ]
+		Lowers the user’s Defense and Sp. Def by one stat rank.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -3160,9 +3160,9 @@ Cell 26 | 🎯 Cord (4,-3,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Close Combat: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Close Combat: Move Gauge Refresh 3
 	Move: Close Combat
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3172,7 +3172,7 @@ Cell 27 | 🎯 Cord (5,-4,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 	Close Combat: Staggering 3
 	Move: Close Combat
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999836" ]
+	Has a chance (40%) of making the target flinch when the user’s attack move against it is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3191,9 +3191,9 @@ Cell 29 | 🎯 Cord (7,-6,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	Close Combat: [Name:PassiveSkillNameParts Idx="18080100" ]
+	Close Combat: Stat’s Quo 9
 	Move: Close Combat
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997314" ]
+	Returns the user’s lowered stats to normal when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3248,7 +3248,7 @@ Cell 36 | 🎯 Cord (2,-2,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Offense Studies
-		[Name:MoveDescriptionPartsIdTag Idx="999835" ]
+		Raises the user’s Attack and Sp. Atk by two stat ranks.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -3256,9 +3256,9 @@ Cell 37 | 🎯 Cord (2,-3,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Offense Studies: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Offense Studies: MP Refresh 2
 	Move: Offense Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3266,9 +3266,9 @@ Cell 38 | 🎯 Cord (3,-4,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
-	Offense Studies: [Name:PassiveSkillNameParts Idx="18094400" ]
+	Offense Studies: Critical Eye 1
 	Move: Offense Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999641" ]
+	Raises the user’s critical-hit rate by one stat rank when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3277,9 +3277,9 @@ Cell 39 | 🎯 Cord (4,-5,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	Offense Studies: [Name:PassiveSkillNameParts Idx="18113000" ]
+	Offense Studies: Move: Attack ↑2 & Sp. Atk ↑2 9
 	Move: Offense Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999015" ]
+	Raises the user’s Attack and Sp. Atk by two stat ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3288,9 +3288,9 @@ Cell 40 | 🎯 Cord (5,-6,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	Offense Studies: [Name:PassiveSkillNameParts Idx="18094400" ]
+	Offense Studies: Critical Eye 2
 	Move: Offense Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999641" ]
+	Raises the user’s critical-hit rate by two stat ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3299,9 +3299,9 @@ Cell 41 | 🎯 Cord (6,-7,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
-	Offense Studies: [Name:PassiveSkillNameParts Idx="17083000" ]
+	Offense Studies: Move: Physical Boost ↑2 & Special Boost ↑2 9
 	Move: Offense Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999176" ]
+	Increases the user’s Physical Moves ↑ Next effect and Special Moves ↑ Next effect by two ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3317,7 +3317,7 @@ Cell 43 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Super Effective ↑
-		[Name:MoveDescriptionPartsIdTag Idx="999588" ]
+		Applies the Supereffective ↑ Next effect to an ally.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -3325,9 +3325,9 @@ Cell 44 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Super Effective ↑: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Super Effective ↑: MP Refresh 2
 	Move: Super Effective ↑
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3335,9 +3335,9 @@ Cell 45 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
-	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17070400" ]
+	Super Effective ↑: Move on Ally: Physical Boost ↑1 & Special Boost ↑1 9
 	Move: Super Effective ↑
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998503" ]
+	When the user’s move targeting an allied sync pair (excluding field effects) is successful, increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of the ally affected by the move by one rank.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3346,9 +3346,9 @@ Cell 46 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17092400" ]
+	Super Effective ↑: Move on Ally: Free Move Next 9
 	Move: Super Effective ↑
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998101" ]
+	When the user’s move targeting an allied sync pair (excluding field effects) is successful, applies the Free Move Next effect to the allied sync pair affected by the move.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3357,9 +3357,9 @@ Cell 47 | 🎯 Cord (-4,6,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17078500" ]
+	Super Effective ↑: Move on Ally: Sync Move Boost ↑4 9
 	Move: Super Effective ↑
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999050" ]
+	When the user’s move targeting an allied sync pair (excluding field effects) is successful, increases the Sync Move ↑ Next effect of the allied sync pair affected by the move by four ranks.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3368,9 +3368,9 @@ Cell 48 | 🎯 Cord (-5,7,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
-	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17099400" ]
+	Super Effective ↑: Move on Ally: Physical & Special Boost ↑2 9
 	Move: Super Effective ↑
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998503" ]
+	When the user’s move targeting an allied sync pair (excluding field effects) is successful, increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of the ally affected by the move by two ranks.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3379,7 +3379,7 @@ Cell 49 | 🎯 Cord (-3,2,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Protect
-		[Name:MoveDescriptionPartsIdTag Idx="999503" ]
+		Applies the Damage Guard Next effect to the user.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -3387,9 +3387,9 @@ Cell 50 | 🎯 Cord (-4,3,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Protect: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Protect: Move Gauge Refresh 3
 	Move: Protect
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3397,9 +3397,9 @@ Cell 51 | 🎯 Cord (-5,4,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
-	Protect: [Name:PassiveSkillNameParts Idx="18112000" ]
+	Protect: Move: Team Attack ↑ & Sp. Atk ↑ 9
 	Move: Protect
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998646" ]
+	Raises the Attack and Sp. Atk of all allied sync pairs by one stat rank when the user’s move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3408,9 +3408,9 @@ Cell 52 | 🎯 Cord (-6,5,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	Protect: [Name:PassiveSkillNameParts Idx="18112800" ]
+	Protect: Move: Team Def ↑ & Sp. Def ↑ 9
 	Move: Protect
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998587" ]
+	Raises the Defense and Sp. Def of all allied sync pairs by one stat rank when the user’s move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3419,9 +3419,9 @@ Cell 53 | 🎯 Cord (-7,6,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	Protect: [Name:PassiveSkillNameParts Idx="17083000" ]
+	Protect: Move: Physical Boost ↑2 & Special Boost ↑2 9
 	Move: Protect
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999176" ]
+	Increases the user’s Physical Moves ↑ Next effect and Special Moves ↑ Next effect by two ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3430,9 +3430,9 @@ Cell 54 | 🎯 Cord (-8,7,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
-	Protect: [Name:PassiveSkillNameParts Idx="15012400" ]
+	Protect: Initial Propulsion 1
 	Move: Protect
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999012" ]
+	Reduces the user’s sync move countdown by one the first time its move is successful each battle.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3476,7 +3476,7 @@ Cell 60 | 🎯 Cord (-3,1,2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Dark Pulse
-		[Name:MoveDescriptionPartsIdTag Idx="999893" ]
+		Has a chance (20%) of making the target flinch.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -3484,9 +3484,9 @@ Cell 61 | 🎯 Cord (-4,1,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Dark Pulse: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Dark Pulse: Move Gauge Refresh 3
 	Move: Dark Pulse
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3494,9 +3494,9 @@ Cell 62 | 🎯 Cord (-5,1,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
-	Dark Pulse: [Name:PassiveSkillNameParts Idx="18099200" ]
+	Dark Pulse: Stupefy 9
 	Move: Dark Pulse
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999269" ]
+	Lowers the target’s Sp. Def by one stat rank when a move targeting that opponent is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3526,9 +3526,9 @@ Cell 65 | 🎯 Cord (-8,1,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
-	Dark Pulse: [Name:PassiveSkillNameParts Idx="17044800" ]
+	Dark Pulse: Combo Freebie 9
 	Move: Dark Pulse
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999487" ]
+	Applies the Free Move Next effect to the user when its attack move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3572,7 +3572,7 @@ Cell 71 | 🎯 Cord (-2,0,2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
 	💿 Learn Move: Defensive Studies
-		[Name:MoveDescriptionPartsIdTag Idx="999806" ]
+		Raises the user’s Defense and Sp. Def by two stat ranks.
 	Color Grid: 💙 Light Blue (Learn Move)
 
 
@@ -3580,9 +3580,9 @@ Cell 72 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
-	Defensive Studies: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Defensive Studies: MP Refresh 2
 	Move: Defensive Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3590,9 +3590,9 @@ Cell 73 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
-	Defensive Studies: [Name:PassiveSkillNameParts Idx="18046200" ]
+	Defensive Studies: Fleet Feet 2
 	Move: Defensive Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999820" ]
+	Raises the user’s Speed by two stat ranks when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3601,9 +3601,9 @@ Cell 74 | 🎯 Cord (-4,-1,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	Defensive Studies: [Name:PassiveSkillNameParts Idx="18102700" ]
+	Defensive Studies: Full-Bracing Command+ 9
 	Move: Defensive Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999042" ]
+	Raises the user’s Defense and Sp. Def by two stat ranks when its Trainer uses a move.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3612,9 +3612,9 @@ Cell 75 | 🎯 Cord (-5,-1,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	Defensive Studies: [Name:PassiveSkillNameParts Idx="17042600" ]
+	Defensive Studies: Hit and Heal 9
 	Move: Defensive Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999761" ]
+	Applies the Gradual Healing effect to the user when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3623,9 +3623,9 @@ Cell 76 | 🎯 Cord (-6,-1,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
-	Defensive Studies: [Name:PassiveSkillNameParts Idx="17040600" ]
+	Defensive Studies: Durable 9
 	Move: Defensive Studies
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999915" ]
+	Applies the Enduring effect to the user when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3633,9 +3633,9 @@ Cell 77 | 🎯 Cord (0,2,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x40 
-	Wicked Blow: [Name:PassiveSkillNameParts Idx="18117200" ]
+	Wicked Blow: Move: MG ↑2 9
 	Move: Wicked Blow
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998396" ]
+	Charges the user’s move gauge by two when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3644,7 +3644,7 @@ Cell 78 | 🎯 Cord (0,3,-3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
 	Trip Wire 2
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999843" ]
+	Lowers the Speed of all opposing sync pairs by two stat ranks when the user enters a battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3652,9 +3652,9 @@ Cell 79 | 🎯 Cord (0,4,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
-	Wicked Blow: [Name:PassiveSkillNameParts Idx="17047400" ]
+	Wicked Blow: Gobsmack 9
 	Move: Wicked Blow
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999326" ]
+	Leaves the target confused when the user’s attack move against it is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3662,8 +3662,8 @@ Cell 80 | 🎯 Cord (0,5,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
-	[Name:PassiveSkillNameParts Idx="17047300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999296" ]
+	Strong Start 1
+	Increases the user’s Physical Moves ↑ Next effect and Special Moves ↑ Next effect by one rank the first time the user enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3672,7 +3672,7 @@ Cell 81 | 🎯 Cord (0,6,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3682,7 +3682,7 @@ Cell 82 | 🎯 Cord (0,7,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
 	Soften Up 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999510" ]
+	Critical hits land more easily when the user attacks with a sync move.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3691,9 +3691,9 @@ Cell 83 | 🎯 Cord (0,8,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	Wicked Blow: [Name:PassiveSkillNameParts Idx="17099500" ]
+	Wicked Blow: 1st Hit: Dark Rebuff ↓
 	Move: Wicked Blow
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998930" ]
+	Lowers the target’s Dark Type Rebuff by one rank the first time the user’s attack move is successful each battle.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3702,8 +3702,8 @@ Cell 84 | 🎯 Cord (0,9,-9) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	[Name:PassiveSkillNameParts Idx="13085302" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997509" ]
+	1st Use S-Move: S-Moves ×3
+	The power of the user’s sync move is tripled the first time its sync move is used each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3712,8 +3712,8 @@ Cell 85 | 🎯 Cord (0,10,-10) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x160 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x160 
-	[Name:PassiveSkillNameParts Idx="19072900" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997806" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999140" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999126" ]
+	1st S-Move: Dark Zone & Extension 3
+	Turns the field of play’s zone into a Dark Zone the first time the user’s sync move is used each battle. (A Dark Zone powers up Dark-type attacks.) Extends the duration of the Dark Zone when the zone turns into a Dark Zone while the user is on the field.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3721,8 +3721,8 @@ Cell 86 | 🎯 Cord (1,4,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
-	[Name:PassiveSkillNameParts Idx="17030300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999917" ]
+	Quick Cure
+	Removes the confused, flinching, and trapped conditions from the user the first time they are inflicted each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3733,7 +3733,7 @@ Cell 87 | 🎯 Cord (2,4,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
 	Wicked Blow: Critical Strike 5
 	Move: Wicked Blow
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999608" ]
+	Powers up the user’s attacks when they become critical hits.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3752,8 +3752,8 @@ Cell 89 | 🎯 Cord (3,5,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	[Name:PassiveSkillNameParts Idx="16016800" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998877" ]
+	Dark Zone: S-Moves ↑ 5
+	Powers up the user’s sync move when the zone is a Dark Zone.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3762,8 +3762,8 @@ Cell 90 | 🎯 Cord (4,4,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	[Name:PassiveSkillNameParts Idx="12011200" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999343" ]
+	Umbral Acceleration 2
+	Quickly charges the move gauge when the zone is a Dark Zone.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3772,8 +3772,8 @@ Cell 91 | 🎯 Cord (3,6,-9) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	[Name:PassiveSkillNameParts Idx="15010300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999886" ]
+	Adrenaline 1
+	Reduces the sync move countdown by one the first time the user’s sync move is used each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3782,9 +3782,9 @@ Cell 92 | 🎯 Cord (5,4,-9) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	Wicked Blow: [Name:PassiveSkillNameParts Idx="19069800" ]
+	Wicked Blow: 1st Hit: Dark Zone
 	Move: Wicked Blow
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997883" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999140" ]
+	Turns the field of play’s zone into a Dark Zone the first time the user’s attack move is successful each battle. (A Dark Zone powers up Dark-type attacks.)
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -3793,7 +3793,7 @@ Cell 93 | 🎯 Cord (-1,5,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
 	Natural Remedy
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3802,8 +3802,8 @@ Cell 94 | 🎯 Cord (-2,6,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	[Name:PassiveSkillNameParts Idx="11010100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999960" ]
+	First Aid 4
+	Restores the user’s HP by approximately 40% of its maximum HP the first time it is in a pinch each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3822,8 +3822,8 @@ Cell 96 | 🎯 Cord (-3,8,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	[Name:PassiveSkillNameParts Idx="16017300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998508" ]
+	Circle: Team S-Moves ↑ 2
+	Powers up the sync moves of all allied sync pairs when a circle applies to the allied field of play.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3832,8 +3832,8 @@ Cell 97 | 🎯 Cord (-4,8,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	[Name:PassiveSkillNameParts Idx="18115500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998461" ]
+	Circle Hit: Attack ↓ & Sp. Atk ↓ 9
+	Lowers the target’s Attack and Sp. Atk by one stat rank when the user’s attack move is successful while a circle applies to the allied field of play.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3842,8 +3842,8 @@ Cell 98 | 🎯 Cord (-3,9,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
-	[Name:PassiveSkillNameParts Idx="19057000" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998423" ]
+	Galar C (Defensive) Extension 3
+	Extends the duration of Galar Circle (Defensive) when Galar Circle (Defensive) is applied to the allied field of play.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -3852,8 +3852,8 @@ Cell 99 | 🎯 Cord (-5,9,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
 	🔮 Other Require Unlock
 		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
 		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
-	[Name:PassiveSkillNameParts Idx="19056800" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998118" ]
+	1st S-Move: Galar C (Def) on Field
+	Applies Galar Circle (Defensive) to the allied field of play the first time the user’s sync move is used each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -4062,7 +4062,7 @@ Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Unfortuitous 9
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Lowers one of the target’s following stats by one stat rank at random when the user’s attack move against it is successful: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -4071,7 +4071,7 @@ Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -4087,8 +4087,8 @@ Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17100500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	1st Use Status P-Move: Team Physical & Special Boost 2
+	Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by two ranks the first time the user’s Pokémon uses a status move each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -4096,8 +4096,8 @@ Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="19053200" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999141" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999130" ]
+	Debut: Normal Zone
+	Turns the field of play’s zone into a Normal Zone the first time the user enters a battle each battle. (A Normal Zone powers up Normal-type attacks.)
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -4146,23 +4146,23 @@ Cell 7 | 🎯 Cord (0,2,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Clearheaded
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999619" ]
+	Prevents the user from becoming confused.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 8 | 🎯 Cord (0,4,-4) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 4 or higher
-	[Name:PassiveSkillNameParts Idx="12020100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999534" ]
+	Move Gauge Refresh 9
+	Charges the user’s move gauge by one when its move is successful.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 9 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 5 or higher
-	[Name:PassiveSkillNameParts Idx="17099200" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997945" ]
+	Ally Sets Fighting Zone: Special Boost ↑2 9
+	Increases the user’s Special Moves ↑ Next effect by two ranks when an ally turns the field of play’s zone into a Fighting Zone.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -4170,24 +4170,24 @@ Cell 10 | 🎯 Cord (0,-2,2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Escape Artist
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999617" ]
+	Prevents the user from becoming trapped.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 11 | 🎯 Cord (0,-4,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 4 or higher
-	[Name:PassiveSkillNameParts Idx="18051500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998792" ]
+	P-Moves & S-Moves Crit
+	Except in certain circumstances, successful hits with the user’s following attacks become critical hits: Pokémon’s moves or sync move.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 12 | 🎯 Cord (1,-4,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 5 or higher
-	Fighting Wish: [Name:PassiveSkillNameParts Idx="16021700" ]
+	Fighting Wish: 1st MP 0: Restore MP 1
 	Move: Fighting Wish
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997302" ]
+	Restores one MP of the user’s move the first time the remaining MP for that move is zero each battle.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -4244,9 +4244,9 @@ Cell 19 | 🎯 Cord (1,3,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 20 | 🎯 Cord (2,3,-5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Searing Spirit Focus Blast: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Searing Spirit Focus Blast: Move Gauge Refresh 2
 	Move: Searing Spirit Focus Blast
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (30%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -4254,23 +4254,23 @@ Cell 21 | 🎯 Cord (3,3,-6) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Grand Entry 2
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999876" ]
+	Raises the user’s Sp. Atk by two stat ranks when it enters a battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 22 | 🎯 Cord (1,4,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="11010100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999960" ]
+	First Aid 4
+	Restores the user’s HP by approximately 40% of its maximum HP the first time it is in a pinch each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 23 | 🎯 Cord (2,4,-6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="16014400" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999297" ]
+	Brainpower
+	The more the user’s Sp. Atk is raised, the more it powers up its sync move.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -4319,18 +4319,18 @@ Cell 29 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 Cell 30 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Zen Headbutt: [Name:PassiveSkillNameParts Idx="17061700" ]
+	Zen Headbutt: Attack Trap 9
 	Move: Zen Headbutt
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999006" ]
+	Leaves the target trapped when the user’s attack move against it is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 31 | 🎯 Cord (-2,-3,5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Zen Headbutt: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Zen Headbutt: Move Gauge Refresh 4
 	Move: Zen Headbutt
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (50%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -4338,7 +4338,7 @@ Cell 32 | 🎯 Cord (-3,-3,6) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Fierce Entry 2
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999822" ]
+	Raises the user’s Attack by two stat ranks when it enters a battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -4355,7 +4355,7 @@ Cell 34 | 🎯 Cord (-2,-4,6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Haymaker
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999587" ]
+	The more the user’s Attack is raised, the more it powers up the user’s sync move.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -4390,41 +4390,41 @@ Cell 38 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
 Cell 39 | 🎯 Cord (3,-3,0) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17030300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999917" ]
+	Quick Cure
+	Removes the confused, flinching, and trapped conditions from the user the first time they are inflicted each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 40 | 🎯 Cord (2,-3,1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Fighting Wish: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Fighting Wish: Move Gauge Refresh 4
 	Move: Fighting Wish
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (50%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 41 | 🎯 Cord (1,-3,2) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="11013000" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999251" ]
+	Brawling Healing 1
+	Restores the user’s HP whenever its Pokémon takes an action when the zone is a Fighting Zone.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 42 | 🎯 Cord (3,-4,1) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="18121400" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998494" ]
+	Hit: Stat ↓2 9
+	Lowers one of the target’s following stats by two stat ranks at random when the user’s attack move against it is successful: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 43 | 🎯 Cord (2,-4,2) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="17049700" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999147" ]
+	Numbing Blow 9
+	Leaves the target paralyzed when the user’s attack move against it is successful.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -4460,16 +4460,16 @@ Cell 48 | 🎯 Cord (-3,3,0) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Natural Remedy
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 49 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Amber Tera Blast: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Amber Tera Blast: Move Gauge Refresh 2
 	Move: Amber Tera Blast
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (30%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -4485,7 +4485,7 @@ Cell 51 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -4493,7 +4493,7 @@ Cell 52 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Furious Brain
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999566" ]
+	The more the user’s Sp. Atk is raised, the more it powers up the user’s moves.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -4572,17 +4572,17 @@ Cell 8 | 🎯 Cord (0,3,-3) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 Cell 9 | 🎯 Cord (0,4,-4) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 4 or higher
-	[Name:PassiveSkillNameParts Idx="17099600" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997301" ]
+	User Sets Electric Terrain: Physical Boost 1
+	Increases the user’s Physical Moves ↑ Next effect by one rank when it turns the field of play’s terrain into Electric Terrain.
 	Color Grid: 🧈 Divine Upgrades (Passive)
 
 
 Cell 10 | 🎯 Cord (0,5,-5) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 5 or higher
-	Electric Terrain: [Name:PassiveSkillNameParts Idx="16021700" ]
+	Electric Terrain: 1st MP 0: Restore MP 1
 	Move: Electric Terrain
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997302" ]
+	Restores one MP of the user’s move the first time the remaining MP for that move is zero each battle.
 	Color Grid: 🧈 Divine Upgrades (Move Effect)
 
 
@@ -4624,7 +4624,7 @@ Cell 15 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 16 | 🎯 Cord (2,2,-4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="12010600" ]
+	Turbo Charge 2
 	Quickly charges the move gauge when the terrain is Electric Terrain.
 	Color Grid: 🟨 Yellow (Passive)
 
@@ -4640,8 +4640,8 @@ Cell 17 | 🎯 Cord (3,1,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 18 | 🎯 Cord (3,2,-5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="18090300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999730" ]
+	Team Speedy Entry 2
+	Raises the Speed of all allied sync pairs by two stat ranks when the user enters a battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -4649,7 +4649,7 @@ Cell 19 | 🎯 Cord (1,3,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -4657,7 +4657,7 @@ Cell 20 | 🎯 Cord (2,3,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Haymaker
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999587" ]
+	The more the user’s Attack is raised, the more it powers up the user’s sync move.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -4692,7 +4692,7 @@ Cell 24 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 25 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Lithe
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999623" ]
+	Prevents the user from getting paralyzed.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -4708,33 +4708,33 @@ Cell 27 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Natural Remedy
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Removes all status conditions from the user the first time it is inflicted by any status condition each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 28 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Almighty Spark: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Almighty Spark: Move Gauge Refresh 2
 	Move: Almighty Spark
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (30%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 29 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="16011000" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999847" ]
+	Static Shock 5
+	Powers up the user’s sync move when the target is paralyzed.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 30 | 🎯 Cord (-2,-3,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	Feel the Alolan Shine!: [Name:PassiveSkillNameParts Idx="13063500" ]
+	Feel the Alolan Shine!: 1st T-Move: Restore MP 1
 	Move: Feel the Alolan Shine!
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997424" ]
+	Restores one MP for the user the first time its Trainer uses a move each battle.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -4784,32 +4784,32 @@ Cell 36 | 🎯 Cord (3,-3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 37 | 🎯 Cord (3,-4,1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17030300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999917" ]
+	Quick Cure
+	Removes the confused, flinching, and trapped conditions from the user the first time they are inflicted each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 38 | 🎯 Cord (2,-4,2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="13020600" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999575" ]
+	Electrorepulsion 3
+	Reduces damage when the user is hit by an attack move while the terrain is Electric Terrain.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 39 | 🎯 Cord (3,-5,2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="18121400" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998494" ]
+	Hit: Stat ↓2 9
+	Lowers one of the target’s following stats by two stat ranks at random when the user’s attack move against it is successful: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 40 | 🎯 Cord (2,-5,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="11010100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999960" ]
+	First Aid 4
+	Restores the user’s HP by approximately 40% of its maximum HP the first time it is in a pinch each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -4852,16 +4852,16 @@ Cell 46 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Agile Entry 2
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999926" ]
+	Raises the user’s evasiveness by two stat ranks when it enters a battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 47 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Almighty Thunder Punch: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Almighty Thunder Punch: Move Gauge Refresh 2
 	Move: Almighty Thunder Punch
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (30%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -4876,9 +4876,9 @@ Cell 48 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
 Cell 49 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	Almighty Thunder Punch: [Name:PassiveSkillNameParts Idx="17066600" ]
+	Almighty Thunder Punch: Hit: Interference (1 Kind) 9
 	Move: Almighty Thunder Punch
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998666" ]
+	Leaves the target either flinching, confused, or trapped when the user’s attack move against it is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -4887,7 +4887,7 @@ Cell 50 | 🎯 Cord (-2,5,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: Move level must be 3 or higher
 	Almighty Thunder Punch: Paralysis Synergy 5
 	Move: Almighty Thunder Punch
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999932" ]
+	Powers up the user’s moves when the target is paralyzed.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -4923,7 +4923,7 @@ Cell 2 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Unfortuitous 9
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Lowers one of the target’s following stats by one stat rank at random when the user’s attack move against it is successful: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -4932,7 +4932,7 @@ Cell 3 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -4948,8 +4948,8 @@ Cell 4 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 Cell 5 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17100500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	1st Use Status P-Move: Team Physical & Special Boost 2
+	Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by two ranks the first time the user’s Pokémon uses a status move each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -4958,7 +4958,7 @@ Cell 6 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Downpour
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999564" ]
+	Makes the weather rainy the first time the user enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -4979,7 +4979,7 @@ Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Unfortuitous 9
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Lowers one of the target’s following stats by one stat rank at random when the user’s attack move against it is successful: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -4988,7 +4988,7 @@ Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -5004,8 +5004,8 @@ Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17100500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	1st Use Status P-Move: Team Physical & Special Boost 2
+	Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by two ranks the first time the user’s Pokémon uses a status move each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -5013,8 +5013,8 @@ Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="19025100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998803" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998802" ]
+	Arctic Arrival
+	Turns the field of play’s zone into an Ice Zone the first time the user enters a battle each battle. (An Ice Zone powers up Ice-type attacks.)
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -5035,7 +5035,7 @@ Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Unfortuitous 9
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Lowers one of the target’s following stats by one stat rank at random when the user’s attack move against it is successful: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -5044,7 +5044,7 @@ Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -5060,8 +5060,8 @@ Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17100500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	1st Use Status P-Move: Team Physical & Special Boost 2
+	Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by two ranks the first time the user’s Pokémon uses a status move each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -5069,8 +5069,8 @@ Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="19029800" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998892" ]
+	Debut: Grassy Terrain
+	Turns the field of play’s terrain into Grassy Terrain the first time the user enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -5091,7 +5091,7 @@ Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Unfortuitous 9
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Lowers one of the target’s following stats by one stat rank at random when the user’s attack move against it is successful: Attack, Defense, Sp. Atk, Sp. Def, Speed, accuracy, or evasiveness.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -5100,7 +5100,7 @@ Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -5116,8 +5116,8 @@ Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17100500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	1st Use Status P-Move: Team Physical & Special Boost 2
+	Increases the Physical Moves ↑ Next effect and Special Moves ↑ Next effect of all allied sync pairs by two ranks the first time the user’s Pokémon uses a status move each battle.
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -5125,8 +5125,8 @@ Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="19023200" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999141" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999130" ]
+	Ethereal Entrance
+	Turns the field of play’s zone into a Fairy Zone the first time the user enters a battle each battle. (A Fairy Zone powers up Fairy-type attacks.)
 	Color Grid: 🟨 Yellow (Passive)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
@@ -5210,24 +5210,24 @@ Cell 11 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 12 | 🎯 Cord (2,1,-3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="11014400" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998577" ]
+	Circle: HP Recovery 1
+	Restores the user’s HP whenever its Pokémon takes an action when a circle applies to the allied field of play.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 13 | 🎯 Cord (1,2,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17047400" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999327" ]
+	Gobsmack 4
+	Has a chance (50%) of leaving the target confused when the user’s attack move against it is successful.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 14 | 🎯 Cord (3,1,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="19027100" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998608" ]
+	Kanto C (Spec) Extension 3
+	Extends the duration of Kanto Circle (Special) when Kanto Circle (Special) is applied to the allied field of play.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -5235,7 +5235,7 @@ Cell 15 | 🎯 Cord (2,2,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Vigilance
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999609" ]
+	Protects the user against critical hits.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -5270,41 +5270,41 @@ Cell 19 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 20 | 🎯 Cord (-3,0,3) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17012700" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999008" ]
+	Rock Zone Status Immunity
+	Status conditions cannot be inflicted on the user when the zone is a Rock Zone.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 21 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="12012000" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999283" ]
+	Lithic Acceleration 2
+	Quickly charges the move gauge when the zone is a Rock Zone.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 22 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	[Name:PassiveSkillNameParts Idx="17030300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999917" ]
+	Quick Cure
+	Removes the confused, flinching, and trapped conditions from the user the first time they are inflicted each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 23 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="16017500" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998877" ]
+	Rock Zone: S-Moves ↑ 9
+	Powers up the user’s sync move when the zone is a Rock Zone.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 24 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	Kanto Analysis: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Kanto Analysis: MP Refresh 2
 	Move: Kanto Analysis
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -5325,7 +5325,7 @@ Cell 26 | 🎯 Cord (2,-3,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
 Cell 27 | 🎯 Cord (3,-4,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Sand Shelter
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999994" ]
+	Protects the user from damage from a sandstorm.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -5361,34 +5361,34 @@ Cell 31 | 🎯 Cord (1,-4,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 32 | 🎯 Cord (2,-5,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Venerable Wings Ancient Power: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Venerable Wings Ancient Power: Move Gauge Refresh 3
 	Move: Venerable Wings Ancient Power
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 33 | 🎯 Cord (3,-6,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Good, Good!: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Good, Good!: MP Refresh 2
 	Move: Good, Good!
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Has a chance (30%) of restoring one MP of the user’s move when that move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
 Cell 34 | 🎯 Cord (1,-5,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="15010300" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999886" ]
+	Adrenaline 1
+	Reduces the sync move countdown by one the first time the user’s sync move is used each battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
 Cell 35 | 🎯 Cord (2,-6,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
-	[Name:PassiveSkillNameParts Idx="17040200" ]
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999965" ]
+	Endurance
+	Applies the Enduring effect to the user if its HP is full when it enters a battle.
 	Color Grid: 🟨 Yellow (Passive)
 
 
@@ -5445,9 +5445,9 @@ Cell 42 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 Cell 43 | 🎯 Cord (-2,5,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
-	Hyper Beam: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Hyper Beam: Move Gauge Refresh 3
 	Move: Hyper Beam
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Has a chance (40%) of charging the user’s move gauge by one when its move is successful.
 	Color Grid: 🟥 Red (Move Effect)
 
 
@@ -5471,7 +5471,7 @@ Cell 46 | 🎯 Cord (-2,6,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Furious Brain
-	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999566" ]
+	The more the user’s Sp. Atk is raised, the more it powers up the user’s moves.
 	Color Grid: 🟨 Yellow (Passive)
 
 
