@@ -1,0 +1,54 @@
+===== A Special Day with Bede: Part 1 =====
+Narration: Player spotted Bede battling Team Break.
+Narration: [EN:Gen Ref="255" M="He" F="She" ] decided to join and help Bede.
+Bede: I don’t know what you’re up to...
+Bede: but you’d better not hold me back!
+Narration: Together, Player and Bede took down Team Break.
+Bede: Not bad for an impromptu performance, I suppose.
+Bede: Although you weren’t nearly as good as me.
+Bede: I may have told you this...
+Bede: but I’ve been using that lot as a stepping stone—to test my skills.
+Bede: By myself, of course.
+Bede: I’m skilled enough to battle them alone.
+Bede: So there was never any need to enlist anyone’s help.
+Player: (Ask about Opal.)
+Bede: Wha—?! Why bring up that old gran?!
+Player: (Ask about Gloria and the others.)
+Bede: Are you insinuating I rely on them?
+Bede: I suppose there may have been a slight change...
+Bede: to how I interact with others.
+Bede: Probably because of that old ha—
+Bede: Ahem! Never mind. I’ve said too much.
+Bede: I’ll be on my way. Excuse me.
+Bede: Hm? You’d like to talk more?
+Bede: You simply can’t leave me alone, can you.
+Bede: Then...since you helped me, how about I return the favor?
+Bede: I’ll train you personally, Player.
+
+===== A Special Day with Bede: Part 2 =====
+Narration: After Bede’s special training...
+Bede: Tired already?
+Bede: If you wish to win consistently, you mustn’t show weakness.
+Bede: You are too considerate of your opponent. It creates openings.
+Bede: Well...
+Bede: I say that, but I suppose I’ve offered you help every now and then.
+Bede: Hm? Helping others isn’t a bad thing?
+Bede: You’re wrong.
+Bede: Think of it this way: What if you were down on your luck...
+Bede: but couldn’t get back on your feet on your own? What would you do?
+Bede: I once had my path ripped out from under me.
+Bede: I lost hope for a while...
+Bede: But in the end, I found new light.
+Bede: Even if others helped me up...
+Bede: who I needed to believe in most was myself.
+Bede: I’ve decided how I’ll live and what paths I’ll follow. That won’t change.
+Bede: I will not compromise or waver. I am focused on my future.
+Bede: Now, was that enough chin-wag?
+Bede: It’s time I headed back.
+Player: (Say you’ll go back with him.)
+Bede: No, thank you. If we headed back together, we’d look chummy.
+Player: (Sadly ask if you’ll be heading back alone.)
+Bede: Spare me your disappointment.
+Bede: I have my path, and you have yours.
+Bede: Soon, with power only I can produce...
+Bede: I will cover the world in the color of Bede. You can look forward to that.
