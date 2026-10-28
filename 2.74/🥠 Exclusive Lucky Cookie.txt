@@ -1,0 +1,34 @@
+🥠 30-Year Celebration Sygna Suit Silver Lucky Cookie
+
+Passive: Debut or 1st S-Move: Sync CD ↓ 1
+Description: Reduces the user’s sync move countdown by one the first time it enters a battle each battle. Reduces the sync move countdown by one the first time the user’s sync move is used each battle.
+
+📋 Trainer List (1):
+  - Sygna Suit Silver
+--------
+
+🥠 Arc Suit Gladion Lucky Cookie 1
+
+Passive: Defense Crush 9
+Description: Lowers the target’s Defense by one stat rank when the user’s attack move against it is successful.
+
+📋 Trainer List (1):
+  - Arc Suit Gladion
+--------
+
+🥠 Arc Suit Hau Lucky Cookie 1
+
+Passive: Static Shock 4
+Description: Powers up the user’s sync move when the target is paralyzed.
+
+📋 Trainer List (1):
+  - Arc Suit Hau
+--------
+
+🥠 Sygna Suit Gladion Lucky Cookie 1
+
+Passive: Demoralizing Sync 4
+Description: Powers up the user’s sync move when the target’s Sp. Atk is lowered.
+
+📋 Trainer List (1):
+  - Sygna Suit Gladion
