@@ -1,11 +1,11 @@
 ========================================= 
-1. No. 10 Kris & Jolteon (Female♀️) Cell 1 - 6 
+1. No. 10 Kris & Jolteon (Female♀️) Cell 49 - 54 
 2. No. 102 Arc Suit Gladion & Silvally (Genderless) Cell 52 
 3. No. 121 Selene & Lycanroc (Female♀️) - Midnight Form Cell 48 
 4. No. 121 Selene & Umbreon (Female♀️) Cell 49 - 54 
 5. No. 122 Elio & Espeon (Male♂️) Cell 49 - 54 
 6. No. 126 Bea (Alt.) & Machamp (Female♀️) Cell 54 
-7. No. 145 Lucas & Flareon (Male♂️) Cell 1 - 6 
+7. No. 145 Lucas & Flareon (Male♂️) Cell 49 - 54 
 8. No. 149 Bede & Hattrem (Female♀️) Cell 48 
 9. No. 155 Gordie & Coalossal (Male♂️) Cell 49 - 54 
 10. No. 157 Victor (Academy) & Urshifu (Male♂️) - Rapid Strike Style Cell 126 
@@ -13,7 +13,7 @@
 12. No. 193 Chase & Eevee (Male♂️) Cell 49 - 54 
 13. No. 257 Dendra & Medicham (Female♀️) - Tera Type Fighting Cell 54 
 14. No. 54 Arc Suit Hau & Raichu (Male♂️) - Alola Form Cell 52 
-15. No. 66 Lyra & Vaporeon (Female♀️) Cell 1 - 6 
+15. No. 66 Lyra & Vaporeon (Female♀️) Cell 49 - 54 
 16. No. 67 Hilbert & Glaceon (Male♂️) Cell 49 - 54 
 17. No. 68 Hilda & Leafeon (Female♀️) Cell 49 - 54 
 18. No. 71 Calem & Sylveon (Male♂️) Cell 49 - 54 
@@ -22,7 +22,7 @@
  
 No. 10 Kris & Jolteon (Female♀️)
 
-Cell 1 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+Cell 49 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Defense 20
 	Defense 20
@@ -30,7 +30,7 @@ Cell 1 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 2 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Unfortuitous 9
@@ -39,7 +39,7 @@ Cell 2 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 3 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
@@ -48,7 +48,7 @@ Cell 3 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 4 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Sp. Def 20
 	Sp. Def 20
@@ -56,7 +56,7 @@ Cell 4 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 5 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	1st Use Status P-Move: Team Physical & Special Boost 2
@@ -65,7 +65,7 @@ Cell 5 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 6 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Debut: Electric Terrain
@@ -1357,7 +1357,7 @@ Cell 54 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
  
 No. 145 Lucas & Flareon (Male♂️)
 
-Cell 1 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+Cell 49 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Defense 20
 	Defense 20
@@ -1365,7 +1365,7 @@ Cell 1 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 2 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Unfortuitous 9
@@ -1374,7 +1374,7 @@ Cell 2 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 3 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
@@ -1383,7 +1383,7 @@ Cell 3 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 4 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Sp. Def 20
 	Sp. Def 20
@@ -1391,7 +1391,7 @@ Cell 4 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 5 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	1st Use Status P-Move: Team Physical & Special Boost 2
@@ -1400,7 +1400,7 @@ Cell 5 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 6 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Sunburst
@@ -4911,7 +4911,7 @@ Cell 52 | 🎯 Cord (-3,1,2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
  
 No. 66 Lyra & Vaporeon (Female♀️)
 
-Cell 1 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+Cell 49 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Defense 20
 	Defense 20
@@ -4919,7 +4919,7 @@ Cell 1 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 2 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	Unfortuitous 9
@@ -4928,7 +4928,7 @@ Cell 2 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 3 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Head Start 1
@@ -4937,7 +4937,7 @@ Cell 3 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 4 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Sp. Def 20
 	Sp. Def 20
@@ -4945,7 +4945,7 @@ Cell 4 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 5 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 2 or higher
 	1st Use Status P-Move: Team Physical & Special Boost 2
@@ -4954,7 +4954,7 @@ Cell 5 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
 	Grid Expand Unlock: 21/11/2026 06:00:00
 
 
-Cell 6 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
 	Requirements: 1 or more adjacent tiles must be activated
 	Requirements: Move level must be 3 or higher
 	Downpour
