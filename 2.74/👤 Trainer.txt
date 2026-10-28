@@ -36,50 +36,50 @@ Move 1: Almighty Multi-Attack
 Type: Normal
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999393" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999479" ]  [Name:MoveDescriptionPartsIdTag Idx="999622" ] [Name:MoveDescriptionPartsIdTag Idx="999360" ] [Name:MoveDescriptionPartsIdTag Idx="999482" ] [Name:MoveDescriptionPartsIdTag Idx="998989" ]
+Description: Activation Condition: When there is at least one Pokémon with a lowered Type Rebuff on the opponent’s field of play. Deactivation Condition: Cannot be deactivated. Never misses. Lowers the target’s Defense by two stat ranks. The power of this move is not lowered even if there are multiple targets. Increases the user’s Sync Move ↑ Next effect by one rank for each hit.
 Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: 4 | Target: All opponents | Effect Tag: Sure Hit | Max uses: --
 
 Move 2: Alola Passion
 Category: Status
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999281" ] [Name:MoveDescriptionPartsIdTag Idx="999287" ] [Name:MoveDescriptionPartsIdTag Idx="999286" ]
+Description: Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank. Applies Alola Circle (Physical) to the allied field of play. Alola Circle (Physical) grants all of the following effects: Powers up the physical attack moves and physical sync moves of all allied sync pairs by 10%. Reduces physical attack move and physical sync move damage taken by all allied sync pairs by 5%. The more sync pairs with the Alola theme that are on the allied field of play, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 10% and reduces damage by 3%. The maximum power-up is 40%, and the maximum damage reduction is 14%.)
 Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
 
 Move 3: Almighty Crush Claw
 Type: Normal
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999361" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999479" ]  [Name:MoveDescriptionPartsIdTag Idx="999622" ] [Name:MoveDescriptionPartsIdTag Idx="998856" ] [Name:MoveDescriptionPartsIdTag Idx="999360" ] [Name:MoveDescriptionPartsIdTag Idx="999482" ]
+Description: Activation Condition: When the user uses any move once. Deactivation Condition: Cannot be deactivated. Never misses. This attack’s power is doubled against targets that are affected by the Physical Move Break effect. Lowers the target’s Defense by two stat ranks. The power of this move is not lowered even if there are multiple targets.
 Power: 450 (1)/540 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: All opponents | Effect Tag: Sure Hit | Max uses: 1
 
 Move 4: My Resolve!
 Category: Status
 User: Trainer
-Description: [Name:MoveDescriptionPartsIdTag Idx="998923" ] [Name:MoveDescriptionPartsIdTag Idx="999922" ] [Name:MoveDescriptionPartsIdTag Idx="998854" ] [Name:MoveDescriptionPartsIdTag Idx="998853" ]
+Description: Removes all status conditions and the flinching, confused, and trapped conditions from the user. Applies the Enduring effect to the user. Increases the user’s Physical Moves ↑ Next effect by two ranks when its remaining HP is at 50% or more. Fully restores the user’s HP when its remaining HP is less than 50%.
 Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
 
 Sync Move: Unspoken Understanding Divine Multi-Attack
 Type: Normal
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="998851" ] [Name:MoveDescriptionPartsIdTag Idx="999463" ]
+Description: Turns the field of play’s zone into a Normal Zone the first time the user’s sync move is used each battle. (A Normal Zone powers up Normal-type attacks.)
 Power: 350 (1)/420 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
 
 🛡️ Passive Details 🌟
-Passive 1(✨): [Name:PassiveSkillNameParts Idx="29011400" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998379" ]
+Passive 1(✨): Blank Myth
+Powers up the moves of all allied sync pairs by 10%. Reduces attack move damage taken by all allied sync pairs by 20%. The more allied sync pairs with the Normal theme you have on your team, the higher these percentages are. (Each additional sync pair powers up moves by 10% and reduces damage by 3%. The maximum power-up is 30%, and the maximum damage reduction is 26%.)
 
-Passive 2(✨): [Name:PassiveSkillNameParts Idx="29021400" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998378" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998377" ]
+Passive 2(✨): Blank Judgment
+Raises the Normal Type Rebuff of all allied sync pairs by one rank the first time the user enters a battle each battle. Lowers the Normal Type Rebuff of all opposing sync pairs by one rank the first time the user enters a battle each battle.
 
-Passive 3: [Name:PassiveSkillNameParts Idx="99051500" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998419" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998540" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998792" ]
+Passive 3: Solitary Claws That Safeguard Alola
+Applies Alola Circle (Physical) to the allied field of play the first time the user enters a battle each battle. Raises the user’s Attack by six stat ranks the first time it enters a battle each battle. Except in certain circumstances, successful hits with the user’s following attacks become critical hits: Pokémon’s moves or sync move.
 
-Passive 4: [Name:PassiveSkillNameParts Idx="99051600" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p997308" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998764" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997364" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997555" ]
+Passive 4: Kindred Bond
+Reduces the MP for the user’s Alola Passion by one and grants all of the following effects after your team’s sync pair uses their sync move: Reduces the user’s sync move countdown by one. Increases the Physical Moves ↑ Next effect of all allied sync pairs by two ranks. Applies Alola Circle (Physical) to the allied field of play.
 
-Passive 5: [Name:PassiveSkillNameParts Idx="99051700" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p997371" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997770" ]
+Passive 5: Beast Killer Break
+Applies the Physical Move Break effect to all opposing sync pairs the first time the user’s sync move is used each battle. Raises the sync buff of the user’s team by one rank the first time its sync move is used each battle.
 
 
 📊 Base Stats 📊
@@ -125,13 +125,13 @@ Move 1: Rock Tomb
 Type: Rock
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999876" ]
+Description: Lowers the target’s Speed by one stat rank.
 Power: 39 (1)/46 (5↑ MAX) | Accuracy: 95 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
 
 Move 2: Potion
 Category: Status
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999818" ]
+Description: Restores an ally’s HP by approximately 40% of its maximum HP.
 Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: Heals | Max uses: 2
 
 Move 3: Sandstorm
@@ -144,28 +144,28 @@ Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Ma
 Move 4: First Move Wins!
 Category: Status
 User: Trainer
-Description: [Name:MoveDescriptionPartsIdTag Idx="999710" ] [Name:MoveDescriptionPartsIdTag Idx="999468" ]
+Description: Raises the Attack and Speed of all allied sync pairs by four stat ranks. Raises the evasiveness of all allied sync pairs by two stat ranks.
 Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 1
 
 Sync Move: Moonlight Howl Continental Crush
 Type: Rock
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999999" ]
+Description: No additional effect.
 Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
 
 🛡️ Passive Details 🌟
 Passive 1(🏅): Rock Teamwork
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p999504" ]
+Powers up the moves of all allied sync pairs by 10%. Reduces attack move damage taken by all allied sync pairs by 10%. The more allied sync pairs with the Rock theme you have on your team, the higher these percentages are. (Each additional sync pair powers up moves by 5% and reduces damage by 2%. The maximum power-up is 20%, and the maximum damage reduction is 14%.)
 
-Passive 2: [Name:PassiveSkillNameParts Idx="18116200" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998426" ]
+Passive 2: Hit: Attack ↓ & Sp. Atk ↓ 9
+Lowers the target’s Attack and Sp. Atk by one stat rank when the user’s attack move is successful.
 
-Passive 3: [Name:PassiveSkillNameParts Idx="18115200" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p999255" ]
+Passive 3: 1st Use Status P-Move: Team Crit Rate ↑ 2
+Raises the critical-hit rate of all allied sync pairs by two stat ranks the first time the user’s Pokémon uses a status move each battle.
 
-Passive 4: [Name:PassiveSkillNameParts Idx="17014100" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998794" ]
+Passive 4: Team Sandstorm Immunity
+Protects all allied sync pairs from damage from a sandstorm.
 
 
 📊 Base Stats 📊
@@ -213,50 +213,50 @@ Move 1: Dynamic Punch
 Type: Fighting
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999970" ]
+Description: Leaves the target confused.
 Power: 198 (1)/237 (5↑ MAX) | Accuracy: 50 | Gauge: 4 | Target: An opponent | Effect Tag: -- | Max uses: --
 
 Move 2: Galar Passion
 Category: Status
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999281" ] [Name:MoveDescriptionPartsIdTag Idx="999287" ] [Name:MoveDescriptionPartsIdTag Idx="999286" ]
+Description: Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank. Applies Galar Circle (Physical) to the allied field of play. Galar Circle (Physical) grants all of the following effects: Powers up the physical attack moves and physical sync moves of all allied sync pairs by 10%. Reduces physical attack move and physical sync move damage taken by all allied sync pairs by 5%. The more sync pairs with the Galar theme that are on the allied field of play, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 10% and reduces damage by 3%. The maximum power-up is 40%, and the maximum damage reduction is 14%.)
 Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
 
 Move 3: Sturdy Cross Chop
 Type: Fighting
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999030" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999476" ]  [Name:MoveDescriptionPartsIdTag Idx="999622" ] [Name:MoveDescriptionPartsIdTag Idx="999998" ] [Name:MoveDescriptionPartsIdTag Idx="999482" ] [Name:MoveDescriptionPartsIdTag Idx="998855" ]
+Description: Activation Condition: When your team’s sync pair uses a sync move once. Deactivation Condition: When this move is used. Never misses. Critical hits land more easily. The power of this move is not lowered even if there are multiple targets. Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank when the user lands a critical hit.
 Power: 400 (1)/480 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: All opponents | Effect Tag: Sure Hit | Max uses: --
 
 Move 4: Worthy of Respect!
 Category: Status
 User: Trainer
-Description: [Name:MoveDescriptionPartsIdTag Idx="999020" ] [Name:MoveDescriptionPartsIdTag Idx="998852" ] [Name:MoveDescriptionPartsIdTag Idx="999900" ]
+Description: Reduces the user’s sync move countdown by two. Raises the user’s Attack and accuracy by six stat ranks. Applies the Critical Hit Next effect to the user.
 Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
 
 Sync Move: Punch Through Any Wall Fighting Impact
 Type: Fighting
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999766" ]
+Description: This attack’s power increases when the target is confused.
 Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
 
 🛡️ Passive Details 🌟
-(🌅🌟) Superawakened Passive: [Name:PassiveSkillNameParts Idx="32023300" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998508" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998512" ]
+(🌅🌟) Superawakened Passive: Galar Karate Prodigy
+Powers up the sync moves of all allied sync pairs when a circle applies to the allied field of play. Increases the user’s Physical Moves ↑ Next effect by two ranks when its Trainer uses a move.
 
-Passive 1(🏅): [Name:PassiveSkillNameParts Idx="29030800" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998286" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997623" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997731" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997730" ]
+Passive 1(🏅): Galar Rush
+Reduces the user’s sync move countdown by one the first time it enters a battle each battle. When used in a co-op battle, reduces the user’s sync move countdown by one the first time your team enters a battle each battle instead. The more allied sync pairs with the Galar theme you have on your team, the greater the reduction is. (Each additional sync pair increases the reduction by one, and the maximum reduction is three.) The effects do not stack if you have more than one sync pair on your team with passive skills of the same name.
 
-Passive 2: [Name:PassiveSkillNameParts Idx="99051000" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p997313" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997319" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997312" ]
+Passive 2: Soul-Shaking Fists
+Reduces the user’s sync move countdown by one when it applies a circle to the allied field of play. Increases the Sync Move ↑ Next effect of all allied sync pairs by five ranks when the user applies a circle to the allied field of play. Extends the duration of Galar Circle (Physical) when Galar Circle (Physical) is applied to the allied field of play.
 
-Passive 3: [Name:PassiveSkillNameParts Idx="99051100" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998844" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998130" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998218" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998255" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999130" ]
+Passive 3: Let’s Just Destroy Everything!
+When the user’s max move attacks an opponent, the target becomes all opposing sync pairs. The power of max moves affected by this passive skill is not lowered even if there are multiple targets. Reduces the user’s sync move countdown by two after using its max move. Turns the field of play’s zone into a Fighting Zone after using the user’s max move. (A Fighting Zone powers up Fighting-type attacks.)
 
-Passive 4: [Name:PassiveSkillNameParts Idx="17097100" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p997371" ]
+Passive 4: 1st S-Move: Team Physical Break
+Applies the Physical Move Break effect to all opposing sync pairs the first time the user’s sync move is used each battle.
 
 
 📊 Base Stats 📊
@@ -279,14 +279,14 @@ HP : 836 | Attack : 592 | Defense : 217 | Sp. Atk : 441 | Sp. Def : 228 | Speed 
 Type: Fighting
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999419" ]
+Description: Raises the critical-hit rate of all allied sync pairs by three stat ranks.
 Power: 400 (1)/480 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
 
 🔥 Max Move 3: G-Max Chi Strike
 Type: Fighting
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999419" ]
+Description: Raises the critical-hit rate of all allied sync pairs by three stat ranks.
 Power: 400 (1)/480 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
 
 -
@@ -318,44 +318,44 @@ Move 1: Psybeam
 Type: Psychic
 Category: Special
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999887" ]
+Description: Has a chance (10%) of leaving the target confused.
 Power: 48 (1)/57 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
 
 Move 2: X Speed
 Category: Status
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999849" ]
+Description: Raises the user’s Speed by two stat ranks.
 Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 2
 
 Move 3: Psychic
 Type: Psychic
 Category: Special
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999883" ]
+Description: Has a chance (10%) of lowering the target’s Sp. Def by one stat rank.
 Power: 99 (1)/118 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: An opponent | Effect Tag: -- | Max uses: --
 
 Move 4: I Should Correct You!
 Category: Status
 User: Trainer
-Description: [Name:MoveDescriptionPartsIdTag Idx="999576" ] [Name:MoveDescriptionPartsIdTag Idx="999434" ]
+Description: Turns the field of play’s terrain into Psychic Terrain. Raises an ally’s Defense and Sp. Def by two stat ranks.
 Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: -- | Max uses: 1
 
 Sync Move: Silence the Rabble Psychic Beam
 Type: Psychic
 Category: Special
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999999" ]
+Description: No additional effect.
 Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
 
 🛡️ Passive Details 🌟
 Passive 1: Aggravation 9
 Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
 
-Passive 2: [Name:PassiveSkillNameParts Idx="12022200" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998881" ]
+Passive 2: Weird Charge 9
+Charges the user’s move gauge by one when it uses a move while the terrain is Psychic Terrain.
 
-Passive 3: [Name:PassiveSkillNameParts Idx="18021300" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p999374" ]
+Passive 3: Psychic Stasis
+The user’s stats cannot be lowered when the terrain is Psychic Terrain.
 
 
 📊 Base Stats 📊
@@ -401,14 +401,14 @@ Move 1: Surging Strikes
 Type: Water
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999500" ] [Name:MoveDescriptionPartsIdTag Idx="999763" ]
+Description: Attacks three times in a row. Except in certain circumstances, successful hits with this attack become critical hits.
 Power: 40 (1)/48 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: An opponent | Effect Tag: Multistrike | Max uses: --
 
 Sync Move: Path of Rapid Strikes Water Impact
 Type: Water
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999999" ]
+Description: No additional effect.
 Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
 
 
@@ -455,14 +455,14 @@ Move 1: Wicked Blow
 Type: Dark
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999763" ]
+Description: Except in certain circumstances, successful hits with this attack become critical hits.
 Power: 120 (1)/144 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: An opponent | Effect Tag: -- | Max uses: --
 
 Sync Move: Path of the Single Strike Dark Impact
 Type: Dark
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999999" ]
+Description: No additional effect.
 Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
 
 
@@ -510,50 +510,50 @@ Move 1: Zen Headbutt
 Type: Psychic
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999893" ]
+Description: Has a chance (20%) of making the target flinch.
 Power: 51 (1)/61 (5↑ MAX) | Accuracy: 90 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
 
 Move 2: Fighting Wish
 Category: Status
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999464" ] [Name:MoveDescriptionPartsIdTag Idx="999463" ]
+Description: Turns the field of play’s zone into a Fighting Zone. (A Fighting Zone powers up Fighting-type attacks.)
 Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
 
 Move 3: Searing Spirit Focus Blast
 Type: Fighting
 Category: Special
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999104" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999103" ]  [Name:MoveDescriptionPartsIdTag Idx="999622" ] [Name:MoveDescriptionPartsIdTag Idx="999592" ] [Name:MoveDescriptionPartsIdTag Idx="999360" ]
+Description: Activation Condition: When the user’s Sp. Atk is raised. Deactivation Condition: When the user’s Sp. Atk is not raised. Never misses. The more the user’s Attack is raised, the greater the power of this attack. Lowers the target’s Sp. Def by two stat ranks.
 Power: 280 (1)/336 (5↑ MAX) | Accuracy: -- | Gauge: 4 | Target: An opponent | Effect Tag: Sure Hit | Max uses: 1
 
 Move 4: Osu! Osu!!!
 Category: Status
 User: Trainer
-Description: [Name:MoveDescriptionPartsIdTag Idx="999835" ] [Name:MoveDescriptionPartsIdTag Idx="999420" ]
+Description: Raises the user’s Attack and Sp. Atk by four stat ranks. Raises the user’s critical-hit rate by three stat ranks.
 Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
 
 Sync Move: Hot-Blooded Muscles Tera Blast
 Type: Fighting
 Category: Special
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999999" ]
+Description: No additional effect.
 Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
 
 🛡️ Passive Details 🌟
-(🌅🌟) Superawakened Passive: [Name:PassiveSkillNameParts Idx="32023400" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998281" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999232" ]
+(🌅🌟) Superawakened Passive: Hot-Blooded Battle Studies
+Reduces the user’s sync move countdown by one the first time its sync move is used each battle. Increases the user’s Special Moves ↑ Next effect by two ranks after using its sync move.
 
-Passive 1(🏅): [Name:PassiveSkillNameParts Idx="29030900" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998286" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997623" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997731" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997730" ]
+Passive 1(🏅): Paldea Rush
+Reduces the user’s sync move countdown by one the first time it enters a battle each battle. When used in a co-op battle, reduces the user’s sync move countdown by one the first time your team enters a battle each battle instead. The more allied sync pairs with the Paldea theme you have on your team, the greater the reduction is. (Each additional sync pair increases the reduction by one, and the maximum reduction is three.) The effects do not stack if you have more than one sync pair on your team with passive skills of the same name.
 
-Passive 2: [Name:PassiveSkillNameParts Idx="33010700" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p997833" ]
+Passive 2: Debut: Fighting S-Tera
+The user Sync Terastallizes into Fighting type the first time it enters a battle each battle.
 
-Passive 3: [Name:PassiveSkillNameParts Idx="99051300" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p997310" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997309" ]
+Passive 3: Osu It Up and Smash Your Limits!
+Reduces the user’s sync move countdown by one when it turns the field of play’s zone into a Fighting Zone. Increases the user’s Special Moves ↑ Next effect by one rank when it turns the field of play’s zone into a Fighting Zone.
 
-Passive 4: [Name:PassiveSkillNameParts Idx="99051400" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p999126" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999283" ]
+Passive 4: Hold Out Against That Lactic Acid!
+Extends the duration of the Fighting Zone when the zone turns into a Fighting Zone while the user is on the field. Quickly charges the move gauge when the zone is a Fighting Zone.
 
 
 📊 Base Stats 📊
@@ -576,12 +576,12 @@ HP : 832 | Attack : 556 | Defense : 178 | Sp. Atk : 556 | Sp. Def : 178 | Speed 
 Type: Fighting
 Category: Special
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999592" ] [Name:MoveDescriptionPartsIdTag Idx="999411" ] [Name:MoveDescriptionPartsIdTag Idx="999482" ]
+Description: The more the user’s Attack is raised, the greater the power of this attack. Lowers the target’s Sp. Def by two stat ranks. The power of this move is not lowered even if there are multiple targets.
 Power: 120 (1)/144 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: All opponents | Effect Tag: -- | Max uses: --
 
 🛡️ Passives Details 🌟
-Passive 2: [Name:PassiveSkillNameParts Idx="99051200" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p997945" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997311" ]
+Passive 2: Let’s Get to It!
+Increases the user’s Special Moves ↑ Next effect by one rank when an ally turns the field of play’s zone into a Fighting Zone. Restores one MP of the user’s buddy move when an ally turns the field of play’s zone into a Fighting Zone.
 
 -
 
@@ -614,51 +614,51 @@ Move 1: Almighty Thunder Punch
 Type: Electric
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999393" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999479" ]  [Name:MoveDescriptionPartsIdTag Idx="999622" ] [Name:MoveDescriptionPartsIdTag Idx="999411" ] [Name:MoveDescriptionPartsIdTag Idx="999284" ]
+Description: Activation Condition: When there is at least one Pokémon with a lowered Type Rebuff on the opponent’s field of play. Deactivation Condition: Cannot be deactivated. Never misses. Lowers the target’s Defense by three stat ranks. Leaves the target paralyzed.
 Power: 240 (1)/288 (5↑ MAX) | Accuracy: -- | Gauge: 3 | Target: An opponent | Effect Tag: Sure Hit | Max uses: --
 
 Move 2: Electric Terrain
 Type: Electric
 Category: Status
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999578" ]
+Description: Turns the field of play’s terrain into Electric Terrain.
 Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
 
 Move 3: Almighty Spark
 Type: Electric
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999361" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999479" ]  [Name:MoveDescriptionPartsIdTag Idx="999622" ] [Name:MoveDescriptionPartsIdTag Idx="999284" ] [Name:MoveDescriptionPartsIdTag Idx="999482" ] [Name:MoveDescriptionPartsIdTag Idx="998945" ]
+Description: Activation Condition: When the user uses any move once. Deactivation Condition: Cannot be deactivated. Never misses. Leaves the target paralyzed. The power of this move is not lowered even if there are multiple targets. The more the user’s Speed is raised, the more it increases its Physical Moves ↑ Next effect (can be increased by up to three ranks maximum).
 Power: 300 (1)/360 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: All opponents | Effect Tag: Sure Hit | Max uses: 1
 
 Move 4: Feel the Alolan Shine!
 Category: Status
 User: Trainer
-Description: [Name:MoveDescriptionPartsIdTag Idx="999578" ] [Name:MoveDescriptionPartsIdTag Idx="999450" ] [Name:MoveDescriptionPartsIdTag Idx="999520" ]
+Description: Turns the field of play’s terrain into Electric Terrain. Increases the user’s Physical Moves ↑ Next effect by two ranks. Increases the user’s Sync Move ↑ Next effect by five ranks.
 Power: -- | Accuracy: -- | Gauge: -- | Target: Entire field | Effect Tag: -- | Max uses: 1
 
 Sync Move: Hustle and Bustle Divine Gigavolt Havoc
 Type: Electric
 Category: Physical
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999921" ]
+Description: The more the user’s Speed is raised, the greater the power of this attack.
 Power: 300 (1)/360 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
 
 🛡️ Passive Details 🌟
-Passive 1(✨): [Name:PassiveSkillNameParts Idx="29011500" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998379" ]
+Passive 1(✨): Zap Myth
+Powers up the moves of all allied sync pairs by 10%. Reduces attack move damage taken by all allied sync pairs by 20%. The more allied sync pairs with the Electric theme you have on your team, the higher these percentages are. (Each additional sync pair powers up moves by 10% and reduces damage by 3%. The maximum power-up is 30%, and the maximum damage reduction is 26%.)
 
-Passive 2(✨): [Name:PassiveSkillNameParts Idx="29021500" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998378" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998377" ]
+Passive 2(✨): Zap Judgment
+Raises the Electric Type Rebuff of all allied sync pairs by one rank the first time the user enters a battle each battle. Lowers the Electric Type Rebuff of all opposing sync pairs by one rank the first time the user enters a battle each battle.
 
-Passive 3: [Name:PassiveSkillNameParts Idx="99051800" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998307" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998792" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999137" ]
+Passive 3: Soothing Breeze of Southern Lands
+Raises the user’s Attack by six stat ranks when it enters a battle. Except in certain circumstances, successful hits with the user’s following attacks become critical hits: Pokémon’s moves or sync move. Extends the duration of Electric Terrain when the terrain turns into Electric Terrain while the user is on the field.
 
-Passive 4: [Name:PassiveSkillNameParts Idx="99051900" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998614" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997307" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997532" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997535" ]
+Passive 4: Sweet Smell of Pancakes
+Restores one MP of the user’s buddy move after your team’s sync pair uses their sync move. Reduces the MP for the user’s Electric Terrain by one and grants all of the following effects after your team’s sync pair uses their sync move: Reduces the user’s sync move countdown by three. Turns the field of play’s terrain into Electric Terrain.
 
-Passive 5: [Name:PassiveSkillNameParts Idx="99052000" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p997306" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997305" ]
+Passive 5: Happy-Go-Lucky Hodad
+Raises the Speed and evasiveness of all allied sync pairs by two stat ranks when the user turns the field of play’s terrain into Electric Terrain. Increases the Physical Moves ↑ Next effect of all allied sync pairs by two ranks when the user turns the field of play’s terrain into Electric Terrain.
 
 
 📊 Base Stats 📊
@@ -710,38 +710,38 @@ Power: 223 (1)/267 (5↑ MAX) | Accuracy: 90 | Gauge: 4 | Target: An opponent | 
 Move 2: Kanto Analysis
 Category: Status
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999281" ] [Name:MoveDescriptionPartsIdTag Idx="999287" ] [Name:MoveDescriptionPartsIdTag Idx="999269" ]
+Description: Increases the Special Moves ↑ Next effect of all allied sync pairs by one rank. Applies Kanto Circle (Special) to the allied field of play. Kanto Circle (Special) grants all of the following effects: Powers up the special attack moves and special sync moves of all allied sync pairs by 10%. Reduces special attack move and special sync move damage taken by all allied sync pairs by 5%. The more sync pairs with the Kanto theme that are on the allied field of play, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 10% and reduces damage by 3%. The maximum power-up is 40%, and the maximum damage reduction is 14%.)
 Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
 
 Move 3: Venerable Wings Ancient Power
 Type: Rock
 Category: Special
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999486" ] [Name:MoveDescriptionPartsIdTag Idx="999361" ] [Name:MoveDescriptionPartsIdTag Idx="999484" ] [Name:MoveDescriptionPartsIdTag Idx="999479" ]  [Name:MoveDescriptionPartsIdTag Idx="999482" ] [Name:MoveDescriptionPartsIdTag Idx="999056" ] [Name:MoveDescriptionPartsIdTag Idx="999055" ] [Name:MoveDescriptionPartsIdTag Idx="999182" ] [Name:MoveDescriptionPartsIdTag Idx="999384" ]
+Description: Activation Condition: When the user uses any move once. Deactivation Condition: Cannot be deactivated. The power of this move is not lowered even if there are multiple targets. Turns the field of play’s zone into a Rock Zone. (A Rock Zone powers up Rock-type attacks.) Raises the Attack, Defense, Sp. Atk, Sp. Def, and Speed of all allied sync pairs by one stat rank. Increases the Special Moves ↑ Next effect of all allied sync pairs by two ranks.
 Power: 300 (1)/360 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: All opponents | Effect Tag: -- | Max uses: 2
 
 Move 4: Good, Good!
 Category: Status
 User: Trainer
-Description: [Name:MoveDescriptionPartsIdTag Idx="999020" ] [Name:MoveDescriptionPartsIdTag Idx="999418" ] [Name:MoveDescriptionPartsIdTag Idx="999403" ] [Name:MoveDescriptionPartsIdTag Idx="999664" ]
+Description: Reduces the user’s sync move countdown by two. Raises the user’s Sp. Atk by six stat ranks. Raises the user’s critical-hit rate by three stat ranks. The user takes damage equal to 20% of its remaining HP.
 Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: Recoil | Max uses: 1
 
 Sync Move: Amber-Restored King of the Skies Rock Beam
 Type: Rock
 Category: Special
 User: Pokemon
-Description: [Name:MoveDescriptionPartsIdTag Idx="999328" ]
+Description: The more the user’s Sp. Atk is raised, the greater the power of this attack.
 Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
 
 🛡️ Passive Details 🌟
-Passive 1: [Name:PassiveSkillNameParts Idx="99053600" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p998419" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998118" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p997304" ]
+Passive 1: Dragon King of Ancient Skies
+Applies Kanto Circle (Special) to the allied field of play the first time the user enters a battle each battle. Applies Kanto Circle (Special) to the allied field of play the first time the user’s sync move is used each battle. Applies the Free Move Next effect to the user when its attack move is successful while a circle applies to the allied field of play.
 
-Passive 2: [Name:PassiveSkillNameParts Idx="17099100" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p997889" ]
+Passive 2: Ally Sets Circle: Team Special Boost ↑1 9
+Increases the Special Moves ↑ Next effect of all allied sync pairs by one rank when an ally applies a circle to the allied field of play.
 
-Passive 3: [Name:PassiveSkillNameParts Idx="13050700" ]
-[Name:PassiveSkillDescriptionPartsIdTag Idx="p999558" ]
+Passive 3: Rock Shift
+Normal-type moves become Rock-type moves.
 
 
 📊 Base Stats 📊
