@@ -1,0 +1,5495 @@
+========================================= 
+1. No. 10 Kris & Jolteon (Female♀️) Cell 1 - 6 
+2. No. 102 Arc Suit Gladion & Silvally (Genderless) Cell 52 
+3. No. 121 Selene & Lycanroc (Female♀️) - Midnight Form Cell 48 
+4. No. 121 Selene & Umbreon (Female♀️) Cell 49 - 54 
+5. No. 122 Elio & Espeon (Male♂️) Cell 49 - 54 
+6. No. 126 Bea (Alt.) & Machamp (Female♀️) Cell 54 
+7. No. 145 Lucas & Flareon (Male♂️) Cell 1 - 6 
+8. No. 149 Bede & Hattrem (Female♀️) Cell 48 
+9. No. 155 Gordie & Coalossal (Male♂️) Cell 49 - 54 
+10. No. 157 Victor (Academy) & Urshifu (Male♂️) - Rapid Strike Style Cell 126 
+11. No. 157 Victor (Academy) & Urshifu (Male♂️) - Single Strike Style Cell 126 
+12. No. 193 Chase & Eevee (Male♂️) Cell 49 - 54 
+13. No. 257 Dendra & Medicham (Female♀️) - Tera Type Fighting Cell 54 
+14. No. 54 Arc Suit Hau & Raichu (Male♂️) - Alola Form Cell 52 
+15. No. 66 Lyra & Vaporeon (Female♀️) Cell 1 - 6 
+16. No. 67 Hilbert & Glaceon (Male♂️) Cell 49 - 54 
+17. No. 68 Hilda & Leafeon (Female♀️) Cell 49 - 54 
+18. No. 71 Calem & Sylveon (Male♂️) Cell 49 - 54 
+19. No. 77 Lance & Aerodactyl (Male♂️) Cell 48 
+========================================= 
+ 
+No. 10 Kris & Jolteon (Female♀️)
+
+Cell 1 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 20
+	Defense 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 2 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Unfortuitous 9
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 3 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 4 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 20
+	Sp. Def 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 5 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17100500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 6 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="19028000" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998892" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+================================END================================
+ 
+No. 102 Arc Suit Gladion & Silvally (Genderless)
+
+Cell 1 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (0,2,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Attack 20
+	Attack 20
+	Color Grid: 🧈 Divine Upgrades (Stat)
+
+
+Cell 8 | 🎯 Cord (0,3,-3) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Unspoken Understanding Divine Multi-Attack: Power 50
+	Unspoken Understanding Divine Multi-Attack: Power ↑ 50
+	Color Grid: 🧈 Divine Upgrades (Sync Move)
+
+
+Cell 9 | 🎯 Cord (0,4,-4) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 4 or higher
+	Alola Passion: [Name:PassiveSkillNameParts Idx="16021700" ]
+	Move: Alola Passion
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997302" ]
+	Color Grid: 🧈 Divine Upgrades (Move Effect)
+
+
+Cell 10 | 🎯 Cord (0,5,-5) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 5 or higher
+	[Name:PassiveSkillNameParts Idx="19073300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997480" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998608" ]
+	Color Grid: 🧈 Divine Upgrades (Passive)
+
+
+Cell 11 | 🎯 Cord (1,1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 12 | 🎯 Cord (2,0,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 13 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 14 | 🎯 Cord (2,1,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Multi-Attack: Power 4
+	Almighty Multi-Attack: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 15 | 🎯 Cord (3,0,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 16 | 🎯 Cord (2,2,-4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Almighty Multi-Attack: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Almighty Multi-Attack
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 17 | 🎯 Cord (3,1,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Almighty Multi-Attack: Power 4
+	Almighty Multi-Attack: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 18 | 🎯 Cord (3,2,-5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="11014400" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998577" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 19 | 🎯 Cord (1,3,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="15010300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999886" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 20 | 🎯 Cord (2,3,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="13085301" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997510" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 21 | 🎯 Cord (-2,0,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 22 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 23 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Crush Claw: Power 4
+	Almighty Crush Claw: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 24 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Crush Claw: Power 4
+	Almighty Crush Claw: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 25 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 26 | 🎯 Cord (-3,0,3) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 27 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Almighty Crush Claw: Power 4
+	Almighty Crush Claw: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 28 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Almighty Crush Claw: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Almighty Crush Claw
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 29 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="18117200" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998396" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 30 | 🎯 Cord (-2,-3,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Haymaker
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999587" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 31 | 🎯 Cord (2,-2,0) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Unflappable
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999618" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 32 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 33 | 🎯 Cord (2,-3,1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Crush Claw: Power 4
+	Almighty Crush Claw: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 34 | 🎯 Cord (1,-3,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Crush Claw: Power 4
+	Almighty Crush Claw: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 35 | 🎯 Cord (1,-4,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 36 | 🎯 Cord (3,-3,0) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Attack 10
+	Attack 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 37 | 🎯 Cord (3,-4,1) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Speed 10
+	Speed 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 38 | 🎯 Cord (2,-4,2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17047400" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999327" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 39 | 🎯 Cord (3,-5,2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Impervious
+	The user’s stats cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 40 | 🎯 Cord (2,-5,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Furious Brawn
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999579" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 41 | 🎯 Cord (-2,2,0) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 42 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 43 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Flameproof
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999624" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 44 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Multi-Attack: Power 4
+	Almighty Multi-Attack: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 45 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Multi-Attack: Power 4
+	Almighty Multi-Attack: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 46 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Attack 10
+	Attack 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 47 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17049700" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999148" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 48 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="12012200" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999283" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 49 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 50 | 🎯 Cord (-2,5,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	My Resolve!: [Name:PassiveSkillNameParts Idx="19073100" ]
+	Move: My Resolve!
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997664" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999130" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 51 | 🎯 Cord (3,-2,-1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Unspoken Understanding Divine Multi-Attack: Power 25
+	Unspoken Understanding Divine Multi-Attack: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 52 | 🎯 Cord (-3,1,2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Unspoken Understanding Divine Multi-Attack: Power 25
+	Unspoken Understanding Divine Multi-Attack: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+================================END================================
+ 
+No. 121 Selene & Lycanroc (Female♀️)
+Form: Midnight Form
+Cell 1 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (1,1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 8 | 🎯 Cord (2,1,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 9 | 🎯 Cord (1,2,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 10 | 🎯 Cord (3,1,-4) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 11 | 🎯 Cord (2,2,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Rock Tomb: Power 4
+	Rock Tomb: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 12 | 🎯 Cord (1,3,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Rock Tomb: Power 4
+	Rock Tomb: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 13 | 🎯 Cord (3,2,-5) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Rock Tomb: Accuracy 5
+	Rock Tomb: Accuracy ↑ 5
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 14 | 🎯 Cord (2,3,-5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Rock Tomb: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Rock Tomb
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 15 | 🎯 Cord (1,4,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	First Move Wins!: [Name:PassiveSkillNameParts Idx="18048700" ]
+	Move: First Move Wins!
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999767" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 16 | 🎯 Cord (3,3,-6) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Speedy Entry 2
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999925" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 17 | 🎯 Cord (2,4,-6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Defense Crush 9
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999945" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 18 | 🎯 Cord (-2,0,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 19 | 🎯 Cord (-3,0,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 20 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 21 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sandstorm: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Sandstorm
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 22 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Soothing Sand 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999882" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 23 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="12010400" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999839" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 24 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Sandstorm: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: Sandstorm
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 25 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Sandstorm: [Name:PassiveSkillNameParts Idx="18047300" ]
+	Move: Sandstorm
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999789" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 26 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Sandstorm: [Name:PassiveSkillNameParts Idx="15012000" ]
+	Move: Sandstorm
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999178" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 27 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 28 | 🎯 Cord (2,-3,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 29 | 🎯 Cord (1,-3,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 30 | 🎯 Cord (3,-4,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Wide Awake
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999620" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 31 | 🎯 Cord (2,-4,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Rock Tomb: Power 4
+	Rock Tomb: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 32 | 🎯 Cord (1,-4,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Rock Tomb: Power 4
+	Rock Tomb: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 33 | 🎯 Cord (3,-5,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Rock Tomb: Power 4
+	Rock Tomb: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 34 | 🎯 Cord (2,-5,3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17041600" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999848" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 35 | 🎯 Cord (1,-5,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Potion: [Name:PassiveSkillNameParts Idx="11010200" ]
+	Move: Potion
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999535" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 36 | 🎯 Cord (3,-6,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Potion: [Name:PassiveSkillNameParts Idx="11010200" ]
+	Move: Potion
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999535" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 37 | 🎯 Cord (2,-6,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Potion: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: Potion
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 38 | 🎯 Cord (-2,2,0) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 39 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 40 | 🎯 Cord (-3,3,0) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Acuity
+	Accuracy cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 41 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Natural Remedy
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 42 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 43 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Speed 10
+	Speed 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 44 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	First Move Wins!: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: First Move Wins!
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 45 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	First Move Wins!: [Name:PassiveSkillNameParts Idx="18045800" ]
+	Move: First Move Wins!
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999823" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 46 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="11010700" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999810" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 47 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Moonlight Howl Continental Crush: Power 25
+	Moonlight Howl Continental Crush: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 48 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Moonlight Howl Continental Crush: Power 25
+	Moonlight Howl Continental Crush: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+================================END================================
+ 
+No. 121 Selene & Umbreon (Female♀️)
+
+Cell 49 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 20
+	Defense 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Unfortuitous 9
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 20
+	Sp. Def 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17100500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="19028700" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999141" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999140" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+================================END================================
+ 
+No. 122 Elio & Espeon (Male♂️)
+
+Cell 49 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 20
+	Defense 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Unfortuitous 9
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 20
+	Sp. Def 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17100500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="19051300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998892" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+================================END================================
+ 
+No. 126 Bea (Alt.) & Machamp (Female♀️)
+
+Cell 1 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (0,2,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Natural Remedy
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 8 | 🎯 Cord (0,4,-4) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 4 or higher
+	[Name:PassiveSkillNameParts Idx="17043900" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998868" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 9 | 🎯 Cord (1,3,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 5 or higher
+	Galar Passion: [Name:PassiveSkillNameParts Idx="19073400" ]
+	Move: Galar Passion
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997664" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999130" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 10 | 🎯 Cord (0,-2,2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Unbending
+	Defense cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 11 | 🎯 Cord (0,-4,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 4 or higher
+	G-Max Chi Strike: Power 200
+	G-Max Chi Strike: Power ↑ 200
+	Color Grid: 🎀 Pink (Passive)
+
+
+Cell 12 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 5 or higher
+	[Name:PassiveSkillNameParts Idx="16021600" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997303" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 13 | 🎯 Cord (2,-1,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 14 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Clearheaded
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999619" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 15 | 🎯 Cord (2,0,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Dynamic Punch: Power 4
+	Dynamic Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 16 | 🎯 Cord (1,1,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Dynamic Punch: Power 4
+	Dynamic Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 17 | 🎯 Cord (3,0,-3) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Speed 10
+	Speed 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 18 | 🎯 Cord (2,1,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="13011800" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999920" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 19 | 🎯 Cord (1,2,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Dynamic Punch: Power 4
+	Dynamic Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 20 | 🎯 Cord (3,1,-4) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Soften Up 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999510" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 21 | 🎯 Cord (2,2,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Haymaker
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999587" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 22 | 🎯 Cord (-2,1,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 23 | 🎯 Cord (-3,1,2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Headstrong
+	Attack cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 24 | 🎯 Cord (-2,0,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 25 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sturdy Cross Chop: Power 4
+	Sturdy Cross Chop: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 26 | 🎯 Cord (-3,0,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Sturdy Cross Chop: Power 4
+	Sturdy Cross Chop: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 27 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Galar Passion: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Galar Passion
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 28 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="11014400" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998577" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 29 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="17099700" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997319" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 30 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="15011700" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999545" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 31 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 32 | 🎯 Cord (2,-3,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 33 | 🎯 Cord (3,-4,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 34 | 🎯 Cord (1,-3,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 35 | 🎯 Cord (2,-4,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sturdy Cross Chop: Power 4
+	Sturdy Cross Chop: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 36 | 🎯 Cord (3,-5,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sturdy Cross Chop: Power 4
+	Sturdy Cross Chop: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 37 | 🎯 Cord (1,-4,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="12012400" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998574" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 38 | 🎯 Cord (2,-5,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Sturdy Cross Chop: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Sturdy Cross Chop
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 39 | 🎯 Cord (3,-6,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="16011100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999846" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 40 | 🎯 Cord (1,-5,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Furious Brawn
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999579" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 41 | 🎯 Cord (2,-6,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Piercing Gaze
+	Moves never miss.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 42 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 43 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 44 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Flameproof
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999624" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 45 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 46 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Dynamic Punch: Power 4
+	Dynamic Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 47 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Dynamic Punch: Power 4
+	Dynamic Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 48 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="18131900" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997966" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 49 | 🎯 Cord (-2,5,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Dynamic Punch: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Dynamic Punch
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 50 | 🎯 Cord (-3,6,-3) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Attack 10
+	Attack 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 51 | 🎯 Cord (-1,5,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="19056500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999126" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 52 | 🎯 Cord (-2,6,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="11010100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999960" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 53 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Punch Through Any Wall Fighting Impact: Power 25
+	Punch Through Any Wall Fighting Impact: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 54 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Punch Through Any Wall Fighting Impact: Power 25
+	Punch Through Any Wall Fighting Impact: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+================================END================================
+ 
+No. 145 Lucas & Flareon (Male♂️)
+
+Cell 1 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 20
+	Defense 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 2 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Unfortuitous 9
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 3 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 4 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 20
+	Sp. Def 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 5 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17100500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 6 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Sunburst
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999565" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+================================END================================
+ 
+No. 149 Bede & Hattrem (Female♀️)
+
+Cell 1 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (2,-1,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 8 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 9 | 🎯 Cord (2,0,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Psybeam: Power 4
+	Psybeam: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 10 | 🎯 Cord (1,1,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Psybeam: Power 4
+	Psybeam: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 11 | 🎯 Cord (1,2,-3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="11013100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998937" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 12 | 🎯 Cord (2,1,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	X Speed: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: X Speed
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 13 | 🎯 Cord (3,0,-3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17041600" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999848" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 14 | 🎯 Cord (2,2,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="16011100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999846" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 15 | 🎯 Cord (3,1,-4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	I Should Correct You!: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: I Should Correct You!
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 16 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 17 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Clearheaded
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999619" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 18 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 19 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Psychic: Power 3
+	Psychic: Power ↑ 3
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 20 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Psychic: Power 3
+	Psychic: Power ↑ 3
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 21 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Psychic: Power 3
+	Psychic: Power ↑ 3
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 22 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17030300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999917" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 23 | 🎯 Cord (-2,-3,5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Psychic: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Psychic
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 24 | 🎯 Cord (-1,-4,5) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Sp. Atk 10
+	Sp. Atk 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 25 | 🎯 Cord (-3,-3,6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Sharp Entry 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999924" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 26 | 🎯 Cord (-2,-4,6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="18042900" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998839" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 27 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 28 | 🎯 Cord (2,-3,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 29 | 🎯 Cord (1,-3,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 30 | 🎯 Cord (3,-4,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Unflappable
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999618" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 31 | 🎯 Cord (2,-4,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Psychic: Power 3
+	Psychic: Power ↑ 3
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 32 | 🎯 Cord (1,-4,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Psychic: Power 3
+	Psychic: Power ↑ 3
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 33 | 🎯 Cord (3,-5,2) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 34 | 🎯 Cord (2,-5,3) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="12010700" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999409" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 35 | 🎯 Cord (1,-5,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Natural Remedy
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 36 | 🎯 Cord (3,-6,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="13016100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999423" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 37 | 🎯 Cord (2,-6,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Mind Games 9
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999812" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 38 | 🎯 Cord (-2,1,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 39 | 🎯 Cord (-3,2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 40 | 🎯 Cord (-2,2,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Psybeam: Power 4
+	Psybeam: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 41 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Psybeam: Power 4
+	Psybeam: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 42 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Psybeam: Power 4
+	Psybeam: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 43 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Psybeam: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Psybeam
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 44 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="11010100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999960" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 45 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Psybeam: [Name:PassiveSkillNameParts Idx="18100200" ]
+	Move: Psybeam
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999228" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 46 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="17069100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998567" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 47 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Silence the Rabble Psychic Beam: Power 25
+	Silence the Rabble Psychic Beam: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 48 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Silence the Rabble Psychic Beam: Power 25
+	Silence the Rabble Psychic Beam: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+================================END================================
+ 
+No. 155 Gordie & Coalossal (Male♂️)
+
+Cell 49 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 40
+	HP 40
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 25/11/2026 06:00:00
+
+
+Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Fierce Entry 2
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999822" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 25/11/2026 06:00:00
+
+
+Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="19020800" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999652" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 25/11/2026 06:00:00
+
+
+Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 20
+	Attack 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 25/11/2026 06:00:00
+
+
+Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Sharp Entry 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999924" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 25/11/2026 06:00:00
+
+
+Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="18095500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999546" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 25/11/2026 06:00:00
+
+
+================================END================================
+ 
+No. 157 Victor (Academy) & Urshifu (Male♂️)
+Form: Rapid Strike Style
+Cell 1 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x40 
+	Dauntless
+	Sp. Atk cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 2 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x40 
+	Unflappable
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999618" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 3 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x40 
+	Headstrong
+	Attack cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 4 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 10
+	Attack 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 10
+	Sp. Atk 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (2,-1,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 10
+	Attack 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 8 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: X Speed
+		[Name:MoveDescriptionPartsIdTag Idx="999849" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 9 | 🎯 Cord (2,1,-3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	X Speed: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: X Speed
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 10 | 🎯 Cord (2,2,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	X Speed: [Name:PassiveSkillNameParts Idx="18046800" ]
+	Move: X Speed
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999798" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 11 | 🎯 Cord (3,2,-5) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	X Speed: [Name:PassiveSkillNameParts Idx="18046200" ]
+	Move: X Speed
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999820" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 12 | 🎯 Cord (4,2,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	X Speed: [Name:PassiveSkillNameParts Idx="15012400" ]
+	Move: X Speed
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999012" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 13 | 🎯 Cord (5,2,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	X Speed: [Name:PassiveSkillNameParts Idx="15012400" ]
+	Move: X Speed
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999012" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 14 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Rock Smash
+		[Name:MoveDescriptionPartsIdTag Idx="999872" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 15 | 🎯 Cord (4,-1,-3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Rock Smash: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Rock Smash
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 16 | 🎯 Cord (5,-1,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Rock Smash: Defense Crush 9
+	Move: Rock Smash
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999945" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 17 | 🎯 Cord (6,-1,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Rock Smash: Power 50
+	Rock Smash: Power ↑ 50
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 18 | 🎯 Cord (7,-1,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Rock Smash: Defense Crush 9
+	Move: Rock Smash
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999945" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 19 | 🎯 Cord (8,-1,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Rock Smash: Staggering 9
+	Move: Rock Smash
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999530" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 20 | 🎯 Cord (4,0,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 20
+	Attack 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 21 | 🎯 Cord (5,0,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 20
+	Attack 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 22 | 🎯 Cord (6,0,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 40
+	Attack 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 23 | 🎯 Cord (7,0,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 40
+	Attack 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 24 | 🎯 Cord (8,0,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 60
+	Attack 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 25 | 🎯 Cord (3,-2,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Close Combat
+		[Name:MoveDescriptionPartsIdTag Idx="999861" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 26 | 🎯 Cord (4,-3,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Close Combat: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Close Combat
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 27 | 🎯 Cord (5,-4,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Close Combat: Staggering 3
+	Move: Close Combat
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999836" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 28 | 🎯 Cord (6,-5,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Close Combat: Power 100
+	Close Combat: Power ↑ 100
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 29 | 🎯 Cord (7,-6,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Close Combat: [Name:PassiveSkillNameParts Idx="18080100" ]
+	Move: Close Combat
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997314" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 30 | 🎯 Cord (8,-7,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Close Combat: Superduper Effective 5
+	Move: Close Combat
+	Powers up moves that are super effective.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 31 | 🎯 Cord (5,-3,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 20
+	Attack 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 32 | 🎯 Cord (6,-4,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 20
+	Attack 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 33 | 🎯 Cord (7,-5,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 40
+	Attack 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 34 | 🎯 Cord (8,-6,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 40
+	Attack 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 35 | 🎯 Cord (9,-7,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 60
+	Attack 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 36 | 🎯 Cord (2,-2,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Offense Studies
+		[Name:MoveDescriptionPartsIdTag Idx="999835" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 37 | 🎯 Cord (2,-3,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Offense Studies: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: Offense Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 38 | 🎯 Cord (3,-4,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Offense Studies: [Name:PassiveSkillNameParts Idx="18094400" ]
+	Move: Offense Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999641" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 39 | 🎯 Cord (4,-5,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Offense Studies: [Name:PassiveSkillNameParts Idx="18113000" ]
+	Move: Offense Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999015" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 40 | 🎯 Cord (5,-6,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Offense Studies: [Name:PassiveSkillNameParts Idx="18094400" ]
+	Move: Offense Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999641" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 41 | 🎯 Cord (6,-7,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Offense Studies: [Name:PassiveSkillNameParts Idx="17083000" ]
+	Move: Offense Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999176" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 42 | 🎯 Cord (-2,1,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 10
+	Sp. Atk 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 43 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Super Effective ↑
+		[Name:MoveDescriptionPartsIdTag Idx="999588" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 44 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Super Effective ↑: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: Super Effective ↑
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 45 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17070400" ]
+	Move: Super Effective ↑
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998503" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 46 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17092400" ]
+	Move: Super Effective ↑
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998101" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 47 | 🎯 Cord (-4,6,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17078500" ]
+	Move: Super Effective ↑
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999050" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 48 | 🎯 Cord (-5,7,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17099400" ]
+	Move: Super Effective ↑
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998503" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 49 | 🎯 Cord (-3,2,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Protect
+		[Name:MoveDescriptionPartsIdTag Idx="999503" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 50 | 🎯 Cord (-4,3,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Protect: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Protect
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 51 | 🎯 Cord (-5,4,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Protect: [Name:PassiveSkillNameParts Idx="18112000" ]
+	Move: Protect
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998646" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 52 | 🎯 Cord (-6,5,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Protect: [Name:PassiveSkillNameParts Idx="18112800" ]
+	Move: Protect
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998587" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 53 | 🎯 Cord (-7,6,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Protect: [Name:PassiveSkillNameParts Idx="17083000" ]
+	Move: Protect
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999176" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 54 | 🎯 Cord (-8,7,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Protect: [Name:PassiveSkillNameParts Idx="15012400" ]
+	Move: Protect
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999012" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 55 | 🎯 Cord (-4,4,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 20
+	Sp. Atk 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 56 | 🎯 Cord (-5,5,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 20
+	Sp. Atk 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 57 | 🎯 Cord (-6,6,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 40
+	Sp. Atk 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 58 | 🎯 Cord (-7,7,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 40
+	Sp. Atk 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 59 | 🎯 Cord (-8,8,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 60
+	Sp. Atk 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 60 | 🎯 Cord (-3,1,2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Scald
+		[Name:MoveDescriptionPartsIdTag Idx="999878" ] [Name:MoveDescriptionPartsIdTag Idx="999896" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 61 | 🎯 Cord (-4,1,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Scald: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Scald
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 62 | 🎯 Cord (-5,1,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Scald: [Name:PassiveSkillNameParts Idx="18099200" ]
+	Move: Scald
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999269" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 63 | 🎯 Cord (-6,1,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Scald: Power 50
+	Scald: Power ↑ 50
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 64 | 🎯 Cord (-7,1,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Scald: Hostile Environment 2
+	Move: Scald
+	Raises the chance of inflicting status conditions with the additional effects of moves.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 65 | 🎯 Cord (-8,1,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Scald: [Name:PassiveSkillNameParts Idx="17044800" ]
+	Move: Scald
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999487" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 66 | 🎯 Cord (-5,2,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 20
+	Sp. Atk 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 67 | 🎯 Cord (-6,2,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 20
+	Sp. Atk 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 68 | 🎯 Cord (-7,2,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 40
+	Sp. Atk 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 69 | 🎯 Cord (-8,2,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 40
+	Sp. Atk 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 70 | 🎯 Cord (-9,2,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 60
+	Sp. Atk 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 71 | 🎯 Cord (-2,0,2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Defensive Studies
+		[Name:MoveDescriptionPartsIdTag Idx="999806" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 72 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Defensive Studies: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: Defensive Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 73 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Defensive Studies: [Name:PassiveSkillNameParts Idx="18046200" ]
+	Move: Defensive Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999820" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 74 | 🎯 Cord (-4,-1,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Defensive Studies: [Name:PassiveSkillNameParts Idx="18102700" ]
+	Move: Defensive Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999042" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 75 | 🎯 Cord (-5,-1,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Defensive Studies: [Name:PassiveSkillNameParts Idx="17042600" ]
+	Move: Defensive Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999761" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 76 | 🎯 Cord (-6,-1,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Defensive Studies: [Name:PassiveSkillNameParts Idx="17040600" ]
+	Move: Defensive Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999915" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 77 | 🎯 Cord (0,2,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x40 
+	Surging Strikes: [Name:PassiveSkillNameParts Idx="18117200" ]
+	Move: Surging Strikes
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998396" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 78 | 🎯 Cord (0,3,-3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+	Trip Wire 2
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999843" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 79 | 🎯 Cord (0,4,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+	Surging Strikes: [Name:PassiveSkillNameParts Idx="17047400" ]
+	Move: Surging Strikes
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999326" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 80 | 🎯 Cord (0,5,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+	[Name:PassiveSkillNameParts Idx="17047300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999296" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 81 | 🎯 Cord (0,6,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 82 | 🎯 Cord (0,7,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Soften Up 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999510" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 83 | 🎯 Cord (0,8,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Surging Strikes: [Name:PassiveSkillNameParts Idx="17099300" ]
+	Move: Surging Strikes
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998930" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 84 | 🎯 Cord (0,9,-9) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	[Name:PassiveSkillNameParts Idx="13085302" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997509" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 85 | 🎯 Cord (0,10,-10) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x160 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x160 
+	[Name:PassiveSkillNameParts Idx="19064400" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999638" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999651" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 86 | 🎯 Cord (1,4,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+	[Name:PassiveSkillNameParts Idx="17030300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999917" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 87 | 🎯 Cord (2,4,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Surging Strikes: Critical Strike 5
+	Move: Surging Strikes
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999608" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 88 | 🎯 Cord (3,4,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Path of Rapid Strikes Water Impact: Power 25
+	Path of Rapid Strikes Water Impact: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 89 | 🎯 Cord (3,5,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Shower Power 5
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999844" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 90 | 🎯 Cord (4,4,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	[Name:PassiveSkillNameParts Idx="12010100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999957" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 91 | 🎯 Cord (3,6,-9) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	[Name:PassiveSkillNameParts Idx="15010300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999886" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 92 | 🎯 Cord (5,4,-9) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Surging Strikes: [Name:PassiveSkillNameParts Idx="19052000" ]
+	Move: Surging Strikes
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998221" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 93 | 🎯 Cord (-1,5,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+	Natural Remedy
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 94 | 🎯 Cord (-2,6,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	[Name:PassiveSkillNameParts Idx="11010100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999960" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 95 | 🎯 Cord (-3,7,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Path of Rapid Strikes Water Impact: Power 25
+	Path of Rapid Strikes Water Impact: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 96 | 🎯 Cord (-3,8,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	[Name:PassiveSkillNameParts Idx="16017300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998508" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 97 | 🎯 Cord (-4,8,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	[Name:PassiveSkillNameParts Idx="18115500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998461" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 98 | 🎯 Cord (-3,9,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	[Name:PassiveSkillNameParts Idx="19057000" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998423" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 99 | 🎯 Cord (-5,9,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	[Name:PassiveSkillNameParts Idx="19056800" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998118" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 100 | 🎯 Cord (0,-2,2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 101 | 🎯 Cord (0,-3,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 102 | 🎯 Cord (0,-4,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 103 | 🎯 Cord (0,-5,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 104 | 🎯 Cord (0,-6,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 40
+	HP 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 105 | 🎯 Cord (-1,-6,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 40
+	HP 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 106 | 🎯 Cord (1,-7,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 40
+	HP 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 107 | 🎯 Cord (0,-7,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 60
+	HP 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 108 | 🎯 Cord (-1,-7,8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 60
+	HP 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 109 | 🎯 Cord (1,-8,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 60
+	HP 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 110 | 🎯 Cord (0,-8,8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 80
+	HP 80
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 111 | 🎯 Cord (1,-4,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 112 | 🎯 Cord (2,-5,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 10
+	Defense 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 113 | 🎯 Cord (3,-6,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 10
+	Defense 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 114 | 🎯 Cord (3,-7,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 15
+	Defense 15
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 115 | 🎯 Cord (4,-7,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 15
+	Defense 15
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 116 | 🎯 Cord (3,-8,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 20
+	Defense 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 117 | 🎯 Cord (4,-8,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 25
+	Defense 25
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 118 | 🎯 Cord (5,-8,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 20
+	Defense 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 119 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 120 | 🎯 Cord (-2,-3,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 10
+	Sp. Def 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 121 | 🎯 Cord (-3,-3,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 10
+	Sp. Def 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 122 | 🎯 Cord (-3,-4,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 15
+	Sp. Def 15
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 123 | 🎯 Cord (-4,-3,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 15
+	Sp. Def 15
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 124 | 🎯 Cord (-3,-5,8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 20
+	Sp. Def 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 125 | 🎯 Cord (-4,-4,8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 25
+	Sp. Def 25
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 126 | 🎯 Cord (-5,-3,8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 20
+	Sp. Def 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+================================END================================
+ 
+No. 157 Victor (Academy) & Urshifu (Male♂️)
+Form: Single Strike Style
+Cell 1 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x40 
+	Dauntless
+	Sp. Atk cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 2 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x40 
+	Unflappable
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999618" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 3 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x40 
+	Headstrong
+	Attack cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 4 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 10
+	Attack 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 10
+	Sp. Atk 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (2,-1,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 10
+	Attack 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 8 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: X Speed
+		[Name:MoveDescriptionPartsIdTag Idx="999849" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 9 | 🎯 Cord (2,1,-3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	X Speed: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: X Speed
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 10 | 🎯 Cord (2,2,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	X Speed: [Name:PassiveSkillNameParts Idx="18046800" ]
+	Move: X Speed
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999798" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 11 | 🎯 Cord (3,2,-5) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	X Speed: [Name:PassiveSkillNameParts Idx="18046200" ]
+	Move: X Speed
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999820" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 12 | 🎯 Cord (4,2,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	X Speed: [Name:PassiveSkillNameParts Idx="15012400" ]
+	Move: X Speed
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999012" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 13 | 🎯 Cord (5,2,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	X Speed: [Name:PassiveSkillNameParts Idx="15012400" ]
+	Move: X Speed
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999012" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 14 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Rock Smash
+		[Name:MoveDescriptionPartsIdTag Idx="999872" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 15 | 🎯 Cord (4,-1,-3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Rock Smash: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Rock Smash
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 16 | 🎯 Cord (5,-1,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Rock Smash: Defense Crush 9
+	Move: Rock Smash
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999945" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 17 | 🎯 Cord (6,-1,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Rock Smash: Power 50
+	Rock Smash: Power ↑ 50
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 18 | 🎯 Cord (7,-1,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Rock Smash: Defense Crush 9
+	Move: Rock Smash
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999945" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 19 | 🎯 Cord (8,-1,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Rock Smash: Staggering 9
+	Move: Rock Smash
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999530" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 20 | 🎯 Cord (4,0,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 20
+	Attack 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 21 | 🎯 Cord (5,0,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 20
+	Attack 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 22 | 🎯 Cord (6,0,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 40
+	Attack 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 23 | 🎯 Cord (7,0,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 40
+	Attack 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 24 | 🎯 Cord (8,0,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 60
+	Attack 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 25 | 🎯 Cord (3,-2,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Close Combat
+		[Name:MoveDescriptionPartsIdTag Idx="999861" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 26 | 🎯 Cord (4,-3,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Close Combat: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Close Combat
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 27 | 🎯 Cord (5,-4,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Close Combat: Staggering 3
+	Move: Close Combat
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999836" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 28 | 🎯 Cord (6,-5,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Close Combat: Power 100
+	Close Combat: Power ↑ 100
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 29 | 🎯 Cord (7,-6,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Close Combat: [Name:PassiveSkillNameParts Idx="18080100" ]
+	Move: Close Combat
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997314" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 30 | 🎯 Cord (8,-7,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Close Combat: Superduper Effective 5
+	Move: Close Combat
+	Powers up moves that are super effective.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 31 | 🎯 Cord (5,-3,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 20
+	Attack 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 32 | 🎯 Cord (6,-4,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 20
+	Attack 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 33 | 🎯 Cord (7,-5,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 40
+	Attack 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 34 | 🎯 Cord (8,-6,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 40
+	Attack 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 35 | 🎯 Cord (9,-7,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 60
+	Attack 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 36 | 🎯 Cord (2,-2,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Offense Studies
+		[Name:MoveDescriptionPartsIdTag Idx="999835" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 37 | 🎯 Cord (2,-3,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Offense Studies: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: Offense Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 38 | 🎯 Cord (3,-4,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Offense Studies: [Name:PassiveSkillNameParts Idx="18094400" ]
+	Move: Offense Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999641" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 39 | 🎯 Cord (4,-5,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Offense Studies: [Name:PassiveSkillNameParts Idx="18113000" ]
+	Move: Offense Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999015" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 40 | 🎯 Cord (5,-6,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Offense Studies: [Name:PassiveSkillNameParts Idx="18094400" ]
+	Move: Offense Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999641" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 41 | 🎯 Cord (6,-7,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Offense Studies: [Name:PassiveSkillNameParts Idx="17083000" ]
+	Move: Offense Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999176" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 42 | 🎯 Cord (-2,1,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 10
+	Sp. Atk 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 43 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Super Effective ↑
+		[Name:MoveDescriptionPartsIdTag Idx="999588" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 44 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Super Effective ↑: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: Super Effective ↑
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 45 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17070400" ]
+	Move: Super Effective ↑
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998503" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 46 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17092400" ]
+	Move: Super Effective ↑
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998101" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 47 | 🎯 Cord (-4,6,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17078500" ]
+	Move: Super Effective ↑
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999050" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 48 | 🎯 Cord (-5,7,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Super Effective ↑: [Name:PassiveSkillNameParts Idx="17099400" ]
+	Move: Super Effective ↑
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998503" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 49 | 🎯 Cord (-3,2,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Protect
+		[Name:MoveDescriptionPartsIdTag Idx="999503" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 50 | 🎯 Cord (-4,3,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Protect: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Protect
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 51 | 🎯 Cord (-5,4,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Protect: [Name:PassiveSkillNameParts Idx="18112000" ]
+	Move: Protect
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998646" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 52 | 🎯 Cord (-6,5,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Protect: [Name:PassiveSkillNameParts Idx="18112800" ]
+	Move: Protect
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998587" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 53 | 🎯 Cord (-7,6,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Protect: [Name:PassiveSkillNameParts Idx="17083000" ]
+	Move: Protect
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999176" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 54 | 🎯 Cord (-8,7,1) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Protect: [Name:PassiveSkillNameParts Idx="15012400" ]
+	Move: Protect
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999012" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 55 | 🎯 Cord (-4,4,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 20
+	Sp. Atk 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 56 | 🎯 Cord (-5,5,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 20
+	Sp. Atk 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 57 | 🎯 Cord (-6,6,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 40
+	Sp. Atk 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 58 | 🎯 Cord (-7,7,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 40
+	Sp. Atk 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 59 | 🎯 Cord (-8,8,0) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 60
+	Sp. Atk 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 60 | 🎯 Cord (-3,1,2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Dark Pulse
+		[Name:MoveDescriptionPartsIdTag Idx="999893" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 61 | 🎯 Cord (-4,1,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Dark Pulse: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Dark Pulse
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 62 | 🎯 Cord (-5,1,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Dark Pulse: [Name:PassiveSkillNameParts Idx="18099200" ]
+	Move: Dark Pulse
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999269" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 63 | 🎯 Cord (-6,1,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Dark Pulse: Power 50
+	Dark Pulse: Power ↑ 50
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 64 | 🎯 Cord (-7,1,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Dark Pulse: Aggravation 1
+	Move: Dark Pulse
+	Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 65 | 🎯 Cord (-8,1,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Dark Pulse: [Name:PassiveSkillNameParts Idx="17044800" ]
+	Move: Dark Pulse
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999487" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 66 | 🎯 Cord (-5,2,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 20
+	Sp. Atk 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 67 | 🎯 Cord (-6,2,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 20
+	Sp. Atk 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 68 | 🎯 Cord (-7,2,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 40
+	Sp. Atk 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 69 | 🎯 Cord (-8,2,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 40
+	Sp. Atk 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 70 | 🎯 Cord (-9,2,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 60
+	Sp. Atk 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 71 | 🎯 Cord (-2,0,2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. TM Orb(s) (Victor (Academy) & Urshifu) x1 
+	💿 Learn Move: Defensive Studies
+		[Name:MoveDescriptionPartsIdTag Idx="999806" ]
+	Color Grid: 💙 Light Blue (Learn Move)
+
+
+Cell 72 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x40 
+	Defensive Studies: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: Defensive Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 73 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+	Defensive Studies: [Name:PassiveSkillNameParts Idx="18046200" ]
+	Move: Defensive Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999820" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 74 | 🎯 Cord (-4,-1,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Defensive Studies: [Name:PassiveSkillNameParts Idx="18102700" ]
+	Move: Defensive Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999042" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 75 | 🎯 Cord (-5,-1,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	Defensive Studies: [Name:PassiveSkillNameParts Idx="17042600" ]
+	Move: Defensive Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999761" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 76 | 🎯 Cord (-6,-1,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Leafy Orb(s) (Victor (Academy) & Urshifu) x100 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x100 
+	Defensive Studies: [Name:PassiveSkillNameParts Idx="17040600" ]
+	Move: Defensive Studies
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999915" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 77 | 🎯 Cord (0,2,-2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x40 
+	Wicked Blow: [Name:PassiveSkillNameParts Idx="18117200" ]
+	Move: Wicked Blow
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998396" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 78 | 🎯 Cord (0,3,-3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+	Trip Wire 2
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999843" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 79 | 🎯 Cord (0,4,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+	Wicked Blow: [Name:PassiveSkillNameParts Idx="17047400" ]
+	Move: Wicked Blow
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999326" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 80 | 🎯 Cord (0,5,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+	[Name:PassiveSkillNameParts Idx="17047300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999296" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 81 | 🎯 Cord (0,6,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 82 | 🎯 Cord (0,7,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Soften Up 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999510" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 83 | 🎯 Cord (0,8,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Wicked Blow: [Name:PassiveSkillNameParts Idx="17099500" ]
+	Move: Wicked Blow
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998930" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 84 | 🎯 Cord (0,9,-9) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	[Name:PassiveSkillNameParts Idx="13085302" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997509" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 85 | 🎯 Cord (0,10,-10) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x160 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x160 
+	[Name:PassiveSkillNameParts Idx="19072900" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997806" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999140" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999126" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 86 | 🎯 Cord (1,4,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+	[Name:PassiveSkillNameParts Idx="17030300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999917" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 87 | 🎯 Cord (2,4,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Wicked Blow: Critical Strike 5
+	Move: Wicked Blow
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999608" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 88 | 🎯 Cord (3,4,-7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Path of the Single Strike Dark Impact: Power 25
+	Path of the Single Strike Dark Impact: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 89 | 🎯 Cord (3,5,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	[Name:PassiveSkillNameParts Idx="16016800" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998877" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 90 | 🎯 Cord (4,4,-8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	[Name:PassiveSkillNameParts Idx="12011200" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999343" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 91 | 🎯 Cord (3,6,-9) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	[Name:PassiveSkillNameParts Idx="15010300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999886" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 92 | 🎯 Cord (5,4,-9) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Wicked Blow: [Name:PassiveSkillNameParts Idx="19069800" ]
+	Move: Wicked Blow
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997883" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999140" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 93 | 🎯 Cord (-1,5,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+	Natural Remedy
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 94 | 🎯 Cord (-2,6,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	[Name:PassiveSkillNameParts Idx="11010100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999960" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 95 | 🎯 Cord (-3,7,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	Path of the Single Strike Dark Impact: Power 25
+	Path of the Single Strike Dark Impact: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 96 | 🎯 Cord (-3,8,-5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	[Name:PassiveSkillNameParts Idx="16017300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998508" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 97 | 🎯 Cord (-4,8,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	[Name:PassiveSkillNameParts Idx="18115500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998461" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 98 | 🎯 Cord (-3,9,-6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x80 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x80 
+	[Name:PassiveSkillNameParts Idx="19057000" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998423" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 99 | 🎯 Cord (-5,9,-4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	🔮 Other Require Unlock
+		1. Fiery Orb(s) (Victor (Academy) & Urshifu) x60 
+		2. Sparky Orb(s) (Victor (Academy) & Urshifu) x60 
+	[Name:PassiveSkillNameParts Idx="19056800" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998118" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 100 | 🎯 Cord (0,-2,2) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 101 | 🎯 Cord (0,-3,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 102 | 🎯 Cord (0,-4,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 103 | 🎯 Cord (0,-5,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 20
+	HP 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 104 | 🎯 Cord (0,-6,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 40
+	HP 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 105 | 🎯 Cord (-1,-6,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 40
+	HP 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 106 | 🎯 Cord (1,-7,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 40
+	HP 40
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 107 | 🎯 Cord (0,-7,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 60
+	HP 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 108 | 🎯 Cord (-1,-7,8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 60
+	HP 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 109 | 🎯 Cord (1,-8,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 60
+	HP 60
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 110 | 🎯 Cord (0,-8,8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 80
+	HP 80
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 111 | 🎯 Cord (1,-4,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 112 | 🎯 Cord (2,-5,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 10
+	Defense 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 113 | 🎯 Cord (3,-6,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 10
+	Defense 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 114 | 🎯 Cord (3,-7,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 15
+	Defense 15
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 115 | 🎯 Cord (4,-7,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 15
+	Defense 15
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 116 | 🎯 Cord (3,-8,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 20
+	Defense 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 117 | 🎯 Cord (4,-8,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 25
+	Defense 25
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 118 | 🎯 Cord (5,-8,3) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 20
+	Defense 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 119 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 120 | 🎯 Cord (-2,-3,5) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 10
+	Sp. Def 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 121 | 🎯 Cord (-3,-3,6) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 10
+	Sp. Def 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 122 | 🎯 Cord (-3,-4,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 15
+	Sp. Def 15
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 123 | 🎯 Cord (-4,-3,7) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 15
+	Sp. Def 15
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 124 | 🎯 Cord (-3,-5,8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 20
+	Sp. Def 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 125 | 🎯 Cord (-4,-4,8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 25
+	Sp. Def 25
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 126 | 🎯 Cord (-5,-3,8) | Cost: ⚡ 0 Energy | 🔮 0 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 20
+	Sp. Def 20
+	Color Grid: 🟦 Blue (Stat)
+
+
+================================END================================
+ 
+No. 193 Chase & Eevee (Male♂️)
+
+Cell 49 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 20
+	Defense 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Unfortuitous 9
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 20
+	Sp. Def 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17100500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="19053200" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999141" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999130" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+================================END================================
+ 
+No. 257 Dendra & Medicham (Female♀️)
+Form: Tera Type: Fighting
+Cell 1 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (0,2,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Clearheaded
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999619" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 8 | 🎯 Cord (0,4,-4) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 4 or higher
+	[Name:PassiveSkillNameParts Idx="12020100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999534" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 9 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 5 or higher
+	[Name:PassiveSkillNameParts Idx="17099200" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997945" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 10 | 🎯 Cord (0,-2,2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Escape Artist
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999617" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 11 | 🎯 Cord (0,-4,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 4 or higher
+	[Name:PassiveSkillNameParts Idx="18051500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998792" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 12 | 🎯 Cord (1,-4,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 5 or higher
+	Fighting Wish: [Name:PassiveSkillNameParts Idx="16021700" ]
+	Move: Fighting Wish
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997302" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 13 | 🎯 Cord (1,1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 14 | 🎯 Cord (2,1,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 15 | 🎯 Cord (3,1,-4) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Dauntless
+	Sp. Atk cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 16 | 🎯 Cord (1,2,-3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 17 | 🎯 Cord (2,2,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Searing Spirit Focus Blast: Power 4
+	Searing Spirit Focus Blast: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 18 | 🎯 Cord (3,2,-5) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Searing Spirit Focus Blast: Power 4
+	Searing Spirit Focus Blast: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 19 | 🎯 Cord (1,3,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Searing Spirit Focus Blast: Power 4
+	Searing Spirit Focus Blast: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 20 | 🎯 Cord (2,3,-5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Searing Spirit Focus Blast: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Searing Spirit Focus Blast
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 21 | 🎯 Cord (3,3,-6) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Grand Entry 2
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999876" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 22 | 🎯 Cord (1,4,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="11010100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999960" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 23 | 🎯 Cord (2,4,-6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="16014400" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999297" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 24 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 25 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 26 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Headstrong
+	Attack cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 27 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Zen Headbutt: Power 5
+	Zen Headbutt: Power ↑ 5
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 28 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Zen Headbutt: Power 5
+	Zen Headbutt: Power ↑ 5
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 29 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Zen Headbutt: Accuracy 10
+	Zen Headbutt: Accuracy ↑ 10
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 30 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Zen Headbutt: [Name:PassiveSkillNameParts Idx="17061700" ]
+	Move: Zen Headbutt
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999006" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 31 | 🎯 Cord (-2,-3,5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Zen Headbutt: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Zen Headbutt
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 32 | 🎯 Cord (-3,-3,6) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Fierce Entry 2
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999822" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 33 | 🎯 Cord (-1,-4,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Zen Headbutt: Aggravation 4
+	Move: Zen Headbutt
+	Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 34 | 🎯 Cord (-2,-4,6) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Haymaker
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999587" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 35 | 🎯 Cord (2,-1,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 36 | 🎯 Cord (3,-2,-1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Searing Spirit Focus Blast: Power 4
+	Searing Spirit Focus Blast: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 37 | 🎯 Cord (2,-2,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Searing Spirit Focus Blast: Power 4
+	Searing Spirit Focus Blast: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 38 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 39 | 🎯 Cord (3,-3,0) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17030300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999917" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 40 | 🎯 Cord (2,-3,1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Fighting Wish: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Fighting Wish
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 41 | 🎯 Cord (1,-3,2) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="11013000" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999251" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 42 | 🎯 Cord (3,-4,1) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="18121400" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998494" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 43 | 🎯 Cord (2,-4,2) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="17049700" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999147" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 44 | 🎯 Cord (-2,1,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 45 | 🎯 Cord (-3,2,1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Amber Tera Blast: Power 5
+	Amber Tera Blast: Power ↑ 5
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 46 | 🎯 Cord (-2,2,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Amber Tera Blast: Power 5
+	Amber Tera Blast: Power ↑ 5
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 47 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 48 | 🎯 Cord (-3,3,0) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Natural Remedy
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 49 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Amber Tera Blast: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Amber Tera Blast
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 50 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Amber Tera Blast: Power 5
+	Amber Tera Blast: Power ↑ 5
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 51 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 52 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Furious Brain
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999566" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 53 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hot-Blooded Muscles Tera Blast: Power 25
+	Hot-Blooded Muscles Tera Blast: Power ↑ 25
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 54 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hot-Blooded Muscles Tera Blast: Power 25
+	Hot-Blooded Muscles Tera Blast: Power ↑ 25
+	Color Grid: 🟩 Green (Move Boost)
+
+
+================================END================================
+ 
+No. 54 Arc Suit Hau & Raichu (Male♂️)
+Form: Alola Form
+Cell 1 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (0,2,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Attack 20
+	Attack 20
+	Color Grid: 🧈 Divine Upgrades (Stat)
+
+
+Cell 8 | 🎯 Cord (0,3,-3) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hustle and Bustle Divine Gigavolt Havoc: Power 50
+	Hustle and Bustle Divine Gigavolt Havoc: Power ↑ 50
+	Color Grid: 🧈 Divine Upgrades (Sync Move)
+
+
+Cell 9 | 🎯 Cord (0,4,-4) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 4 or higher
+	[Name:PassiveSkillNameParts Idx="17099600" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997301" ]
+	Color Grid: 🧈 Divine Upgrades (Passive)
+
+
+Cell 10 | 🎯 Cord (0,5,-5) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 5 or higher
+	Electric Terrain: [Name:PassiveSkillNameParts Idx="16021700" ]
+	Move: Electric Terrain
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997302" ]
+	Color Grid: 🧈 Divine Upgrades (Move Effect)
+
+
+Cell 11 | 🎯 Cord (1,1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 12 | 🎯 Cord (2,0,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 13 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 14 | 🎯 Cord (2,1,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Thunder Punch: Power 4
+	Almighty Thunder Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 15 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Thunder Punch: Power 4
+	Almighty Thunder Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 16 | 🎯 Cord (2,2,-4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="12010600" ]
+	Quickly charges the move gauge when the terrain is Electric Terrain.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 17 | 🎯 Cord (3,1,-4) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Almighty Thunder Punch: Power 4
+	Almighty Thunder Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 18 | 🎯 Cord (3,2,-5) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="18090300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999730" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 19 | 🎯 Cord (1,3,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 20 | 🎯 Cord (2,3,-5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Haymaker
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999587" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 21 | 🎯 Cord (-2,0,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Attack 5
+	Attack 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 22 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 23 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Spark: Power 4
+	Almighty Spark: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 24 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Spark: Power 4
+	Almighty Spark: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 25 | 🎯 Cord (-1,-3,4) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Lithe
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999623" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 26 | 🎯 Cord (-3,0,3) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Speed 10
+	Speed 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 27 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Natural Remedy
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999905" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 28 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Almighty Spark: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Almighty Spark
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 29 | 🎯 Cord (-3,-2,5) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="16011000" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999847" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 30 | 🎯 Cord (-2,-3,5) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Feel the Alolan Shine!: [Name:PassiveSkillNameParts Idx="13063500" ]
+	Move: Feel the Alolan Shine!
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997424" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 31 | 🎯 Cord (2,-2,0) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 32 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 33 | 🎯 Cord (2,-3,1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Spark: Power 4
+	Almighty Spark: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 34 | 🎯 Cord (1,-3,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Spark: Power 4
+	Almighty Spark: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 35 | 🎯 Cord (1,-4,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Haste
+	Speed cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 36 | 🎯 Cord (3,-3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Almighty Spark: Power 4
+	Almighty Spark: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 37 | 🎯 Cord (3,-4,1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17030300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999917" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 38 | 🎯 Cord (2,-4,2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="13020600" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999575" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 39 | 🎯 Cord (3,-5,2) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="18121400" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998494" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 40 | 🎯 Cord (2,-5,3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="11010100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999960" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 41 | 🎯 Cord (-2,2,0) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 42 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Thunder Punch: Power 4
+	Almighty Thunder Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 43 | 🎯 Cord (-3,2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 44 | 🎯 Cord (-3,3,0) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Fast Runner
+	Evasiveness cannot be lowered.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 45 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Almighty Thunder Punch: Power 4
+	Almighty Thunder Punch: Power ↑ 4
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 46 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Agile Entry 2
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999926" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 47 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Almighty Thunder Punch: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Almighty Thunder Punch
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 48 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Attack 10
+	Attack 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 49 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Almighty Thunder Punch: [Name:PassiveSkillNameParts Idx="17066600" ]
+	Move: Almighty Thunder Punch
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998666" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 50 | 🎯 Cord (-2,5,-3) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Almighty Thunder Punch: Paralysis Synergy 5
+	Move: Almighty Thunder Punch
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999932" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 51 | 🎯 Cord (3,-2,-1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hustle and Bustle Divine Gigavolt Havoc: Power 25
+	Hustle and Bustle Divine Gigavolt Havoc: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 52 | 🎯 Cord (-3,1,2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Hustle and Bustle Divine Gigavolt Havoc: Power 25
+	Hustle and Bustle Divine Gigavolt Havoc: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+================================END================================
+ 
+No. 66 Lyra & Vaporeon (Female♀️)
+
+Cell 1 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 20
+	Defense 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 2 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Unfortuitous 9
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 3 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 4 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 20
+	Sp. Def 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 5 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17100500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 6 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Downpour
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999564" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+================================END================================
+ 
+No. 67 Hilbert & Glaceon (Male♂️)
+
+Cell 49 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 20
+	Defense 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Unfortuitous 9
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 20
+	Sp. Def 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17100500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="19025100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998803" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p998802" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+================================END================================
+ 
+No. 68 Hilda & Leafeon (Female♀️)
+
+Cell 49 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 20
+	Defense 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Unfortuitous 9
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 20
+	Sp. Def 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17100500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="19029800" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998892" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+================================END================================
+ 
+No. 71 Calem & Sylveon (Male♂️)
+
+Cell 49 | 🎯 Cord (-2,2,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 20
+	Defense 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 50 | 🎯 Cord (-3,3,0) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Unfortuitous 9
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999904" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 51 | 🎯 Cord (-3,2,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Head Start 1
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999971" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 52 | 🎯 Cord (2,0,-2) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 20
+	Sp. Def 20
+	Color Grid: 🟦 Blue (Stat)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 53 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17100500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p997300" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+Cell 54 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="19023200" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999141" ] [Name:PassiveSkillDescriptionPartsIdTag Idx="p999130" ]
+	Color Grid: 🟨 Yellow (Passive)
+	Grid Expand Unlock: 21/11/2026 06:00:00
+
+
+================================END================================
+ 
+No. 77 Lance & Aerodactyl (Male♂️)
+
+Cell 1 | 🎯 Cord (-1,1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 2 | 🎯 Cord (-1,0,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 3 | 🎯 Cord (0,-1,1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 4 | 🎯 Cord (1,-1,0) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 5 | 🎯 Cord (1,0,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 6 | 🎯 Cord (0,1,-1) | Cost: ⚡ 0 Energy | 🔮 5 Sync Orb(s)
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 7 | 🎯 Cord (2,-1,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 8 | 🎯 Cord (3,-1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 9 | 🎯 Cord (2,0,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Hyper Beam: Power 2
+	Hyper Beam: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 10 | 🎯 Cord (1,1,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 11 | 🎯 Cord (3,0,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Hyper Beam: Power 2
+	Hyper Beam: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 12 | 🎯 Cord (2,1,-3) | Cost: ⚡ 8 Energy | 🔮 96 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="11014400" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998577" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 13 | 🎯 Cord (1,2,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17047400" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999327" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 14 | 🎯 Cord (3,1,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="19027100" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998608" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 15 | 🎯 Cord (2,2,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Vigilance
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999609" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 16 | 🎯 Cord (-2,1,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 17 | 🎯 Cord (-3,1,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 18 | 🎯 Cord (-2,0,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Venerable Wings Ancient Power: Power 3
+	Venerable Wings Ancient Power: Power ↑ 3
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 19 | 🎯 Cord (-1,-1,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Venerable Wings Ancient Power: Power 3
+	Venerable Wings Ancient Power: Power ↑ 3
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 20 | 🎯 Cord (-3,0,3) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17012700" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999008" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 21 | 🎯 Cord (-2,-1,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="12012000" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999283" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 22 | 🎯 Cord (-1,-2,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	[Name:PassiveSkillNameParts Idx="17030300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999917" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 23 | 🎯 Cord (-3,-1,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="16017500" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p998877" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 24 | 🎯 Cord (-2,-2,4) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Kanto Analysis: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: Kanto Analysis
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 25 | 🎯 Cord (1,-2,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Speed 5
+	Speed 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 26 | 🎯 Cord (2,-3,1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 27 | 🎯 Cord (3,-4,1) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sand Shelter
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999994" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 28 | 🎯 Cord (1,-3,2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 29 | 🎯 Cord (2,-4,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Venerable Wings Ancient Power: Power 3
+	Venerable Wings Ancient Power: Power ↑ 3
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 30 | 🎯 Cord (3,-5,2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Venerable Wings Ancient Power: Power 3
+	Venerable Wings Ancient Power: Power ↑ 3
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 31 | 🎯 Cord (1,-4,3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Venerable Wings Ancient Power: Power 3
+	Venerable Wings Ancient Power: Power ↑ 3
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 32 | 🎯 Cord (2,-5,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Venerable Wings Ancient Power: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Venerable Wings Ancient Power
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 33 | 🎯 Cord (3,-6,3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Good, Good!: [Name:PassiveSkillNameParts Idx="13060200" ]
+	Move: Good, Good!
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999933" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 34 | 🎯 Cord (1,-5,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="15010300" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999886" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 35 | 🎯 Cord (2,-6,4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	[Name:PassiveSkillNameParts Idx="17040200" ]
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999965" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 36 | 🎯 Cord (-1,2,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Atk 5
+	Sp. Atk 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 37 | 🎯 Cord (-2,3,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Defense 5
+	Defense 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 38 | 🎯 Cord (-3,4,-1) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	HP 10
+	HP 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 39 | 🎯 Cord (-1,3,-2) | Cost: ⚡ 2 Energy | 🔮 24 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Sp. Def 5
+	Sp. Def 5
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 40 | 🎯 Cord (-2,4,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Hyper Beam: Power 2
+	Hyper Beam: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 41 | 🎯 Cord (-3,5,-2) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Hyper Beam: Power 2
+	Hyper Beam: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 42 | 🎯 Cord (-1,4,-3) | Cost: ⚡ 3 Energy | 🔮 36 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Hyper Beam: Power 2
+	Hyper Beam: Power ↑ 2
+	Color Grid: 🟩 Green (Move Boost)
+
+
+Cell 43 | 🎯 Cord (-2,5,-3) | Cost: ⚡ 7 Energy | 🔮 84 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Hyper Beam: [Name:PassiveSkillNameParts Idx="12020100" ]
+	Move: Hyper Beam
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999934" ]
+	Color Grid: 🟥 Red (Move Effect)
+
+
+Cell 44 | 🎯 Cord (-3,6,-3) | Cost: ⚡ 4 Energy | 🔮 48 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 2 or higher
+	Sp. Atk 10
+	Sp. Atk 10
+	Color Grid: 🟦 Blue (Stat)
+
+
+Cell 45 | 🎯 Cord (-1,5,-4) | Cost: ⚡ 9 Energy | 🔮 108 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Piercing Gaze
+	Moves never miss.
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 46 | 🎯 Cord (-2,6,-4) | Cost: ⚡ 10 Energy | 🔮 120 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Furious Brain
+	[Name:PassiveSkillDescriptionPartsIdTag Idx="p999566" ]
+	Color Grid: 🟨 Yellow (Passive)
+
+
+Cell 47 | 🎯 Cord (0,3,-3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Amber-Restored King of the Skies Rock Beam: Power 25
+	Amber-Restored King of the Skies Rock Beam: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+Cell 48 | 🎯 Cord (0,-3,3) | Cost: ⚡ 5 Energy | 🔮 60 Sync Orb(s)
+	Requirements: 1 or more adjacent tiles must be activated
+	Requirements: Move level must be 3 or higher
+	Amber-Restored King of the Skies Rock Beam: Power 25
+	Amber-Restored King of the Skies Rock Beam: Power ↑ 25
+	Color Grid: 🌈 Rainbow (Sync Move)
+
+
+================================END================================
+ 
