@@ -1,0 +1,724 @@
+---------------
+Story Event: Fiery Fight—Paxton and Calem
+1. 🔔 100 Event Points
+Item: 🍹 Gym Leader Notes (x20)
+
+2. 🔔 200 Event Points
+Item: 📦 5-Pack Great Drink Set (x100)
+
+3. 🔔 300 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x2)
+
+4. 🔔 400 Event Points
+Item: 📦 5-Pack Ultra Drink Set (x200)
+
+5. 🔔 500 Event Points
+Item: 📚 3★ Level-Up Manual (x10)
+
+6. 🔔 600 Event Points
+Item: 🍹 Elite Four Notes (x15)
+
+7. 🔔 700 Event Points
+Item: 📦 5-Pack Drink + Set (x200)
+
+8. 🔔 800 Event Points
+Item: 📚 3★ Level-Up Manual (x20)
+
+9. 🔔 900 Event Points
+Item: 📓 Fire Tome, Vol. 1 (x400)
+
+10. 🔔 1000 Event Points
+Item: 🎫 Skip Ticket (x90)
+
+11. 🔔 1100 Event Points
+Item: 🍹 Psychic Tome, Vol. 1 (x400)
+
+12. 🔔 1200 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x5)
+
+13. 🔔 1300 Event Points
+Item: 📚 3★ Level-Up Manual (x20)
+
+14. 🔔 1400 Event Points
+Item: 📚 3★ Level-Up Manual (x30)
+
+15. 🔔 1500 Event Points
+Item: 📦 5-Pack Great Drink + Set (x250)
+
+16. 🔔 1600 Event Points
+Item: 📚 3★ Level-Up Manual (x30)
+
+17. 🔔 1700 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x5)
+
+18. 🔔 1800 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+19. 🔔 1900 Event Points
+Item: ⚡ 3★ Power-Up (x1)
+
+Feature Reward 1
+20. 🔔 2000 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x8)
+
+21. 🔔 2100 Event Points
+Item: 📦 5-Pack Ultra Drink + Set (x250)
+
+22. 🔔 2200 Event Points
+Item: 🎫 Skip Ticket (x90)
+
+23. 🔔 2300 Event Points
+Item: ⚡ 3★ Power-Up (x1)
+
+24. 🔔 2400 Event Points
+Item: 📚 4★ Level-Up Manual (x20)
+
+25. 🔔 2500 Event Points
+Item: 🏅 1★ Fiery Fight—Paxton and Calem (x1)
+
+26. 🔔 2600 Event Points
+Item: 📦 5-Pack Drink ++ Set (x250)
+
+27. 🔔 2700 Event Points
+Item: 📓 Fire Codex, Vol. 1 (x400)
+
+28. 🔔 2800 Event Points
+Item: 🔮 Sync Orb - Paxton & Emboar (x100)
+
+29. 🔔 2900 Event Points
+Item: 📦 5-Pack Great Drink ++ Set (x100)
+
+30. 🔔 3000 Event Points
+Item: 🍹 Psychic Codex, Vol. 1 (x400)
+
+31. 🔔 3200 Event Points
+Item: 🔮 Sync Orb - Sygna Suit Calem & Delphox (x100)
+
+32. 🔔 3400 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+33. 🔔 3600 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+34. 🔔 3800 Event Points
+Item:  Yellow Skill Feather (x5)
+
+Feature Reward 2
+35. 🔔 4000 Event Points
+Item:  Skill Bracelet (x1)
+
+36. 🔔 4200 Event Points
+Item:  Special Skill Feather 147 (x1)
+
+37. 🔔 4400 Event Points
+Item: 🧣 Skill Bandanna (x1)
+
+38. 🔔 4600 Event Points
+Item:  Special Skill Feather 148 (x1)
+
+39. 🔔 4800 Event Points
+Item: ⚡ 3★ Power-Up (x1)
+
+40. 🔔 5000 Event Points
+Item: 🏅 2★ Fiery Fight—Paxton and Calem (x1)
+
+41. 🔔 5200 Event Points
+Item: 📌 Skill Pin (x1)
+
+42. 🔔 5400 Event Points
+Item: 📚 4★ Level-Up Manual (x5)
+
+43. 🔔 5600 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+44. 🔔 5800 Event Points
+Item:  Yellow Skill Feather (x20)
+
+Feature Reward 3
+45. 🔔 6000 Event Points
+Item: 🪙🍬 Tech Move Candy Coin (x1)
+
+46. 🔔 6250 Event Points
+Item: 🥠 Paxton Lucky Cookie 1 (x1)
+
+47. 🔔 6500 Event Points
+Item:  Green Skill Feather (x5)
+
+48. 🔔 6750 Event Points
+Item: 🥠 Sygna Suit Calem Lucky Cookie 1 (x1)
+
+49. 🔔 7000 Event Points
+Item: ⚡ 4★ Power-Up (x1)
+
+50. 🔔 7250 Event Points
+Item: 🥠 Sygna Suit Red (Thunderbolt) Lucky Cookie 1 (x1)
+
+51. 🔔 7500 Event Points
+Item: 🏅 3★ Fiery Fight—Paxton and Calem (x1)
+
+52. 🔔 7750 Event Points
+Item:  Purple Skill Feather (x5)
+
+Feature Reward 4
+53. 🔔 8000 Event Points
+Item:  Ever Pin (x1)
+
+54. 🔔 8500 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+55. 🔔 9000 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+56. 🔔 9500 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+Feature Reward 5
+57. 🔔 10000 Event Points
+Item: 🏅 Fierce Battle’s Daybreak (x1)
+
+58. 🔔 Every 1000 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+---------------
+Story Event: Penny’s Letter of Thanks
+1. 🔔 100 Event Points
+Item: 🍹 Gym Leader Notes (x20)
+
+2. 🔔 200 Event Points
+Item: 📦 5-Pack Great Drink Set (x100)
+
+3. 🔔 300 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x2)
+
+4. 🔔 400 Event Points
+Item: 📦 5-Pack Ultra Drink Set (x200)
+
+5. 🔔 500 Event Points
+Item: 📚 3★ Level-Up Manual (x10)
+
+6. 🔔 600 Event Points
+Item: 🍹 Elite Four Notes (x15)
+
+7. 🔔 700 Event Points
+Item: 📦 5-Pack Drink + Set (x200)
+
+8. 🔔 800 Event Points
+Item: 📚 3★ Level-Up Manual (x20)
+
+9. 🔔 900 Event Points
+Item: 🍹 Water Tome, Vol. 1 (x400)
+
+10. 🔔 1000 Event Points
+Item: 🎫 Skip Ticket (x90)
+
+11. 🔔 1100 Event Points
+Item: 📚 3★ Level-Up Manual (x20)
+
+12. 🔔 1200 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x5)
+
+13. 🔔 1300 Event Points
+Item: 📚 3★ Level-Up Manual (x20)
+
+14. 🔔 1400 Event Points
+Item: 📚 3★ Level-Up Manual (x30)
+
+15. 🔔 1500 Event Points
+Item: 📦 5-Pack Great Drink + Set (x250)
+
+16. 🔔 1600 Event Points
+Item: 📚 3★ Level-Up Manual (x30)
+
+17. 🔔 1700 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x5)
+
+18. 🔔 1800 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+19. 🔔 1900 Event Points
+Item: ⚡ 3★ Power-Up (x1)
+
+Feature Reward 1
+20. 🔔 2000 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x8)
+
+21. 🔔 2100 Event Points
+Item: 📦 5-Pack Ultra Drink + Set (x250)
+
+22. 🔔 2200 Event Points
+Item: 🎫 Skip Ticket (x90)
+
+23. 🔔 2300 Event Points
+Item: ⚡ 3★ Power-Up (x1)
+
+24. 🔔 2400 Event Points
+Item: 📚 4★ Level-Up Manual (x20)
+
+25. 🔔 2500 Event Points
+Item: 🏅 1★ Penny’s Letter of Thanks (x1)
+
+26. 🔔 2600 Event Points
+Item: 📦 5-Pack Drink ++ Set (x250)
+
+27. 🔔 2700 Event Points
+Item: 🍹 Water Codex, Vol. 1 (x400)
+
+28. 🔔 2800 Event Points
+Item: 🔮 Sync Orb - Penny (Holiday 2026) & Iron Bundle (x100)
+
+29. 🔔 2900 Event Points
+Item: 📦 5-Pack Great Drink ++ Set (x100)
+
+30. 🔔 3000 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+31. 🔔 3200 Event Points
+Item:  Yellow Skill Feather (x5)
+
+32. 🔔 3400 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+33. 🔔 3600 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+34. 🔔 3800 Event Points
+Item:  Yellow Skill Feather (x5)
+
+Feature Reward 2
+35. 🔔 4000 Event Points
+Item:  Skill Bracelet (x1)
+
+36. 🔔 4200 Event Points
+Item:  Special Skill Feather 149 (x1)
+
+37. 🔔 4400 Event Points
+Item: 🧣 Skill Bandanna (x1)
+
+38. 🔔 4600 Event Points
+Item: 📚 4★ Level-Up Manual (x5)
+
+39. 🔔 4800 Event Points
+Item: ⚡ 3★ Power-Up (x1)
+
+40. 🔔 5000 Event Points
+Item: 🏅 2★ Penny’s Letter of Thanks (x1)
+
+41. 🔔 5200 Event Points
+Item: 📌 Skill Pin (x1)
+
+42. 🔔 5400 Event Points
+Item: 📚 4★ Level-Up Manual (x5)
+
+43. 🔔 5600 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+44. 🔔 5800 Event Points
+Item:  Yellow Skill Feather (x20)
+
+Feature Reward 3
+45. 🔔 6000 Event Points
+Item: 🪙🍬 Support Move Candy Coin (x1)
+
+46. 🔔 6250 Event Points
+Item: 🥠 Penny (Holiday 2026) Lucky Cookie 1 (x1)
+
+47. 🔔 6500 Event Points
+Item:  White Skill Feather (x5)
+
+48. 🔔 6750 Event Points
+Item: 🥠 Rosa (Holiday 2019) Lucky Cookie 1 (x1)
+
+49. 🔔 7000 Event Points
+Item: ⚡ 4★ Power-Up (x1)
+
+50. 🔔 7250 Event Points
+Item: 📚 4★ Level-Up Manual (x5)
+
+51. 🔔 7500 Event Points
+Item: 🏅 3★ Penny’s Letter of Thanks (x1)
+
+52. 🔔 7750 Event Points
+Item:  Green Skill Feather (x5)
+
+Feature Reward 4
+53. 🔔 8000 Event Points
+Item: 🎫🤝 December Seasonal Event Ticket (x1)
+
+54. 🔔 8500 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+55. 🔔 9000 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+56. 🔔 9500 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+Feature Reward 5
+57. 🔔 10000 Event Points
+Item: 🏅 Letters Full of Feelings (x1)
+
+58. 🔔 Every 1000 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+---------------
+Story Event: The Hottest Present
+1. 🔔 100 Event Points
+Item: 🍹 Gym Leader Notes (x20)
+
+2. 🔔 200 Event Points
+Item: 📦 5-Pack Great Drink Set (x100)
+
+3. 🔔 300 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x2)
+
+4. 🔔 400 Event Points
+Item: 📦 5-Pack Ultra Drink Set (x200)
+
+5. 🔔 500 Event Points
+Item: 📚 3★ Level-Up Manual (x10)
+
+6. 🔔 600 Event Points
+Item: 🍹 Elite Four Notes (x15)
+
+7. 🔔 700 Event Points
+Item: 📦 5-Pack Drink + Set (x200)
+
+8. 🔔 800 Event Points
+Item: 📚 3★ Level-Up Manual (x20)
+
+9. 🔔 900 Event Points
+Item: 📓 Fire Tome, Vol. 1 (x400)
+
+10. 🔔 1000 Event Points
+Item: 🎫 Skip Ticket (x90)
+
+11. 🔔 1100 Event Points
+Item: 📚 3★ Level-Up Manual (x20)
+
+12. 🔔 1200 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x5)
+
+13. 🔔 1300 Event Points
+Item: 📚 3★ Level-Up Manual (x20)
+
+14. 🔔 1400 Event Points
+Item: 📚 3★ Level-Up Manual (x30)
+
+15. 🔔 1500 Event Points
+Item: 📦 5-Pack Great Drink + Set (x250)
+
+16. 🔔 1600 Event Points
+Item: 📚 3★ Level-Up Manual (x30)
+
+17. 🔔 1700 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x5)
+
+18. 🔔 1800 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+19. 🔔 1900 Event Points
+Item: ⚡ 3★ Power-Up (x1)
+
+Feature Reward 1
+20. 🔔 2000 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x8)
+
+21. 🔔 2100 Event Points
+Item: 📦 5-Pack Ultra Drink + Set (x250)
+
+22. 🔔 2200 Event Points
+Item: 🎫 Skip Ticket (x90)
+
+23. 🔔 2300 Event Points
+Item: ⚡ 3★ Power-Up (x1)
+
+24. 🔔 2400 Event Points
+Item: 📚 4★ Level-Up Manual (x20)
+
+25. 🔔 2500 Event Points
+Item: 🏅 1★ The Hottest Present (x1)
+
+26. 🔔 2600 Event Points
+Item: 📦 5-Pack Drink ++ Set (x250)
+
+27. 🔔 2700 Event Points
+Item: 📓 Fire Codex, Vol. 1 (x400)
+
+28. 🔔 2800 Event Points
+Item:  Yellow Skill Feather (x5)
+
+29. 🔔 2900 Event Points
+Item: 📦 5-Pack Great Drink ++ Set (x100)
+
+30. 🔔 3000 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+31. 🔔 3200 Event Points
+Item:  Yellow Skill Feather (x5)
+
+32. 🔔 3400 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+33. 🔔 3600 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+34. 🔔 3800 Event Points
+Item:  Yellow Skill Feather (x5)
+
+Feature Reward 2
+35. 🔔 4000 Event Points
+Item: ⚡ 4★ Power-Up (x1)
+
+36. 🔔 4200 Event Points
+Item:  Special Skill Feather 109 (x1)
+
+37. 🔔 4400 Event Points
+Item: ⚡ 4★ Power-Up (x1)
+
+38. 🔔 4600 Event Points
+Item: 📚 4★ Level-Up Manual (x5)
+
+39. 🔔 4800 Event Points
+Item: ⚡ 3★ Power-Up (x1)
+
+40. 🔔 5000 Event Points
+Item: 🏅 2★ The Hottest Present (x1)
+
+41. 🔔 5200 Event Points
+Item: ⚡ 4★ Power-Up (x1)
+
+42. 🔔 5400 Event Points
+Item: 📚 4★ Level-Up Manual (x5)
+
+43. 🔔 5600 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+44. 🔔 5800 Event Points
+Item:  Yellow Skill Feather (x20)
+
+Feature Reward 3
+45. 🔔 6000 Event Points
+Item: 🪙🍬 Sprint Move Candy Coin (x1)
+
+46. 🔔 6250 Event Points
+Item: 🥠 Arven (Holiday 2025) Lucky Cookie 1 (x1)
+
+47. 🔔 6500 Event Points
+Item:  Purple Skill Feather (x5)
+
+48. 🔔 6750 Event Points
+Item: 🥠 Siebold (Holiday 2019) Lucky Cookie 1 (x1)
+
+49. 🔔 7000 Event Points
+Item: ⚡ 4★ Power-Up (x1)
+
+50. 🔔 7250 Event Points
+Item: 📚 4★ Level-Up Manual (x5)
+
+51. 🔔 7500 Event Points
+Item: 🏅 3★ The Hottest Present (x1)
+
+52. 🔔 7750 Event Points
+Item:  White Skill Feather (x5)
+
+Feature Reward 4
+53. 🔔 8000 Event Points
+Item: ⚡ 5★ Power-Up (x1)
+
+54. 🔔 8500 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+55. 🔔 9000 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+56. 🔔 9500 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+Feature Reward 5
+57. 🔔 10000 Event Points
+Item: 🏅 Arven’s Spicy New Flavor! (x1)
+
+58. 🔔 Every 1000 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+---------------
+Story Event: Lusamine’s Love and Ideals
+1. 🔔 100 Event Points
+Item: 🍹 Gym Leader Notes (x20)
+
+2. 🔔 200 Event Points
+Item: 📦 5-Pack Great Drink Set (x100)
+
+3. 🔔 300 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x2)
+
+4. 🔔 400 Event Points
+Item: 📦 5-Pack Ultra Drink Set (x200)
+
+5. 🔔 500 Event Points
+Item: 📚 3★ Level-Up Manual (x10)
+
+6. 🔔 600 Event Points
+Item: 🍹 Elite Four Notes (x15)
+
+7. 🔔 700 Event Points
+Item: 📦 5-Pack Drink + Set (x200)
+
+8. 🔔 800 Event Points
+Item: 📚 3★ Level-Up Manual (x20)
+
+9. 🔔 900 Event Points
+Item: 🍹 Rock Tome, Vol. 1 (x400)
+
+10. 🔔 1000 Event Points
+Item: 🎫 Skip Ticket (x90)
+
+11. 🔔 1100 Event Points
+Item: 📚 3★ Level-Up Manual (x20)
+
+12. 🔔 1200 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x5)
+
+13. 🔔 1300 Event Points
+Item: 📚 3★ Level-Up Manual (x20)
+
+14. 🔔 1400 Event Points
+Item: 📚 3★ Level-Up Manual (x30)
+
+15. 🔔 1500 Event Points
+Item: 📦 5-Pack Great Drink + Set (x250)
+
+16. 🔔 1600 Event Points
+Item: 📚 3★ Level-Up Manual (x30)
+
+17. 🔔 1700 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x5)
+
+18. 🔔 1800 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+19. 🔔 1900 Event Points
+Item: ⚡ 3★ Power-Up (x1)
+
+Feature Reward 1
+20. 🔔 2000 Event Points
+Item: 🎫🤝 5★ Scout Ticket (x8)
+
+21. 🔔 2100 Event Points
+Item: 📦 5-Pack Ultra Drink + Set (x250)
+
+22. 🔔 2200 Event Points
+Item: 🎫 Skip Ticket (x90)
+
+23. 🔔 2300 Event Points
+Item: ⚡ 3★ Power-Up (x1)
+
+24. 🔔 2400 Event Points
+Item: 📚 4★ Level-Up Manual (x20)
+
+25. 🔔 2500 Event Points
+Item: 🏅 1★ Lusamine’s Love and Ideals (x1)
+
+26. 🔔 2600 Event Points
+Item: 📦 5-Pack Drink ++ Set (x250)
+
+27. 🔔 2700 Event Points
+Item: 🍹 Rock Codex, Vol. 1 (x400)
+
+28. 🔔 2800 Event Points
+Item: 🔮 Sync Orb - Sygna Suit Lusamine (Alt.) & Nihilego (x100)
+
+29. 🔔 2900 Event Points
+Item: 📦 5-Pack Great Drink ++ Set (x100)
+
+30. 🔔 3000 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+31. 🔔 3200 Event Points
+Item:  Yellow Skill Feather (x5)
+
+32. 🔔 3400 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+33. 🔔 3600 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
+34. 🔔 3800 Event Points
+Item:  Yellow Skill Feather (x5)
+
+Feature Reward 2
+35. 🔔 4000 Event Points
+Item:  Skill Bracelet (x1)
+
+36. 🔔 4200 Event Points
+Item:  Special Skill Feather 150 (x1)
+
+37. 🔔 4400 Event Points
+Item: 🧣 Skill Bandanna (x1)
+
+38. 🔔 4600 Event Points
+Item: 📚 4★ Level-Up Manual (x5)
+
+39. 🔔 4800 Event Points
+Item: ⚡ 3★ Power-Up (x1)
+
+40. 🔔 5000 Event Points
+Item: 🏅 2★ Lusamine’s Love and Ideals (x1)
+
+41. 🔔 5200 Event Points
+Item: 📌 Skill Pin (x1)
+
+42. 🔔 5400 Event Points
+Item: 📚 4★ Level-Up Manual (x5)
+
+43. 🔔 5600 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+44. 🔔 5800 Event Points
+Item:  Yellow Skill Feather (x20)
+
+Feature Reward 3
+45. 🔔 6000 Event Points
+Item: 🪙🍬 Field Move Candy Coin (x1)
+
+46. 🔔 6250 Event Points
+Item: 🥠 Sygna Suit Lusamine (Alt.) Lucky Cookie 1 (x1)
+
+47. 🔔 6500 Event Points
+Item:  Green Skill Feather (x5)
+
+48. 🔔 6750 Event Points
+Item: 🥠 Looker Lucky Cookie 1 (x1)
+
+49. 🔔 7000 Event Points
+Item: ⚡ 4★ Power-Up (x1)
+
+50. 🔔 7250 Event Points
+Item: 📚 4★ Level-Up Manual (x5)
+
+51. 🔔 7500 Event Points
+Item: 🏅 3★ Lusamine’s Love and Ideals (x1)
+
+52. 🔔 7750 Event Points
+Item:  Purple Skill Feather (x5)
+
+Feature Reward 4
+53. 🔔 8000 Event Points
+Item:  Ever Pin (x1)
+
+54. 🔔 8500 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+55. 🔔 9000 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+56. 🔔 9500 Event Points
+Item: 🔮 Co-op Sync Orb (x1000)
+
+Feature Reward 5
+57. 🔔 10000 Event Points
+Item: 🏅 Love That Knows No Bounds (x1)
+
+58. 🔔 Every 1000 Event Points
+Item: 📚 4★ Level-Up Manual (x10)
+
