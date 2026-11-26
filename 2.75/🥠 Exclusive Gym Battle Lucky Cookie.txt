@@ -1,0 +1,44 @@
+🥠 Olivia & Lycanroc (Male♂️) Gym Battle Lucky Cookie 1
+
+Passive: Blood-Boilingly Wild
+Description: The more the user’s sync buff is raised, the more it powers up its moves. (The maximum power-up is 50%.) Powers up the user’s attacks when they become critical hits. Powers up the user’s sync move when its Attack is raised.
+
+📋 Trainer List (1):
+  - Olivia & Lycanroc (Male♂️)
+--------
+
+🥠 Guzma & Golisopod (Male♂️) Gym Battle Lucky Cookie 1
+
+Passive: Cleave and Destroy
+Description: The more the user’s sync buff is raised, the more it powers up its moves. (The maximum power-up is 50%.) Powers up the user’s attacks when they become critical hits. Increases the user’s Sync Move ↑ Next effect by one rank when its attack move hits. If the move has the Multistrike effect tag, increases the user’s Sync Move ↑ Next effect by one rank for each hit.
+
+📋 Trainer List (1):
+  - Guzma & Golisopod (Male♂️)
+--------
+
+🥠 Sygna Suit Acerola & Tapu Bulu (Genderless) Gym Battle Lucky Cookie 1
+
+Passive: Lazy Guardian Deity
+Description: The more the user’s sync buff is raised, the more it powers up its moves. (The maximum power-up is 50%.) Protects the user against critical hits. Raises the Defense and Sp. Def of all allied sync pairs by two stat ranks the first time the user enters a battle each battle.
+
+📋 Trainer List (1):
+  - Sygna Suit Acerola
+--------
+
+🥠 Sygna Suit Gladion & Magearna (Genderless) Gym Battle Lucky Cookie 1
+
+Passive: Ever-Refining Soul-Heart
+Description: The more the user’s sync buff is raised, the more it powers up its moves. (The maximum power-up is 50%.) Powers up the user’s attacks when they become critical hits. Increases the user’s Special Moves ↑ Next effect by two ranks after using its sync move.
+
+📋 Trainer List (1):
+  - Sygna Suit Gladion
+--------
+
+🥠 Elio (Champion) & Necrozma (Genderless) Gym Battle Lucky Cookie 1
+
+Passive: Light-Seeking Fangs
+Description: The more the user’s sync buff is raised, the more it powers up its moves. (The maximum power-up is 50%.) Powers up the user’s attacks when they become critical hits. Reduces the user’s sync move countdown by one the first time it enters a battle each battle.
+
+📋 Trainer List (1):
+  - Elio (Champion)
+--------
