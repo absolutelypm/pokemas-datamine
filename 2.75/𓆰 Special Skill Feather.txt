@@ -1,0 +1,296 @@
+====𓆰 Special Skill Feather 147====
+🚩🚩🚩🚩Slot Chance Stat/Passive/Theme🚩🚩🚩🚩
+Slot Defaut 2
+Rate: 100.0
+
+
+📊📊📊📊Stats📈📈📈📈
+
+Bracelet
+💪 Stat buffs: Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bracelet
+💪 Stat buffs: Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Pin
+💪 Stat buffs: HP
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 70 - ⬆️ Max 70
+👣 Step: 5
+
+Pin
+💪 Stat buffs: Speed
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+🖼️🖼️🖼️🖼️Themes🖼️🖼️🖼️🖼️
+Fire (33.33%)
+Slot Theme Default (100%): 1
+Kalos (33.33%)
+Slot Theme Default (100%): 2
+Main Character (33.33%)
+Slot Theme Default (100%): 3
+
+🚩🚩🚩🚩Passives🚩🚩🚩🚩
+Fire Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 1
+Details: Powers up the user’s Fire-type moves by 2%.
+
+Physical S-Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 2
+Details: Powers up the user’s physical sync move by 2%.
+
+Sunny: P-Move DR & S-Move DR 4% (33.33%)
+Slot Theme Default (100%): 3
+Details: Reduces damage by 4% when the user is hit by an attack move or sync move while the weather is sunny.
+
+
+
+
+====𓆰 Special Skill Feather 148====
+🚩🚩🚩🚩Slot Chance Stat/Passive/Theme🚩🚩🚩🚩
+Slot Defaut 2
+Rate: 100.0
+
+
+📊📊📊📊Stats📈📈📈📈
+
+Bracelet
+💪 Stat buffs: Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bracelet
+💪 Stat buffs: Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Pin
+💪 Stat buffs: HP
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 70 - ⬆️ Max 70
+👣 Step: 5
+
+Pin
+💪 Stat buffs: Speed
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+🖼️🖼️🖼️🖼️Themes🖼️🖼️🖼️🖼️
+Psychic (33.33%)
+Slot Theme Default (100%): 1
+Kalos (33.33%)
+Slot Theme Default (100%): 2
+Main Character (33.33%)
+Slot Theme Default (100%): 3
+
+🚩🚩🚩🚩Passives🚩🚩🚩🚩
+Opp Confused: Moves ↑ 4% (33.33%)
+Slot Theme Default (100%): 1
+Details: Powers up the user’s moves by 4% when the target is confused.
+
+Psychic S-Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 2
+Details: Powers up the user’s Psychic-type sync move by 2%.
+
+Special Move DR 3% (33.33%)
+Slot Theme Default (100%): 3
+Details: Reduces damage by 3% when the user is hit by a special attack move.
+
+
+
+
+====𓆰 Special Skill Feather 149====
+🚩🚩🚩🚩Slot Chance Stat/Passive/Theme🚩🚩🚩🚩
+Slot Defaut 2
+Rate: 100.0
+
+
+📊📊📊📊Stats📈📈📈📈
+
+Bracelet
+💪 Stat buffs: Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bracelet
+💪 Stat buffs: Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Pin
+💪 Stat buffs: HP
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 70 - ⬆️ Max 70
+👣 Step: 5
+
+Pin
+💪 Stat buffs: Speed
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+🖼️🖼️🖼️🖼️Themes🖼️🖼️🖼️🖼️
+Water (33.33%)
+Slot Theme Default (100%): 1
+Ice (33.33%)
+Slot Theme Default (100%): 2
+Paldea (33.33%)
+Slot Theme Default (100%): 3
+
+🚩🚩🚩🚩Passives🚩🚩🚩🚩
+Special Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 1
+Details: Powers up the user’s special attack moves by 2%.
+
+Water S-Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 2
+Details: Powers up the user’s Water-type sync move by 2%.
+
+S-Move DR 2% (33.33%)
+Slot Theme Default (100%): 3
+Details: Reduces damage by 2% when the user is hit by a sync move.
+
+
+
+
+====𓆰 Special Skill Feather 150====
+🚩🚩🚩🚩Slot Chance Stat/Passive/Theme🚩🚩🚩🚩
+Slot Defaut 2
+Rate: 100.0
+
+
+📊📊📊📊Stats📈📈📈📈
+
+Bracelet
+💪 Stat buffs: Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bracelet
+💪 Stat buffs: Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Attack
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 60 - ⬆️ Max 60
+👣 Step: 5
+
+Bandanna
+💪 Stat buffs: Sp. Defense
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+Pin
+💪 Stat buffs: HP
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 1)
+Range: ⬇️ Min 70 - ⬆️ Max 70
+👣 Step: 5
+
+Pin
+💪 Stat buffs: Speed
+Rate: 16.67%
+🍀 Priorities: 100% (Slot 2)
+Range: ⬇️ Min 20 - ⬆️ Max 20
+👣 Step: 5
+
+🖼️🖼️🖼️🖼️Themes🖼️🖼️🖼️🖼️
+Rock (33.33%)
+Slot Theme Default (100%): 1
+Alola (33.33%)
+Slot Theme Default (100%): 2
+Villain (33.33%)
+Slot Theme Default (100%): 3
+
+🚩🚩🚩🚩Passives🚩🚩🚩🚩
+Rock Moves ↑ 2% (33.33%)
+Slot Theme Default (100%): 1
+Details: Powers up the user’s Rock-type moves by 2%.
+
+Rock Zone: S-Moves ↑ 3% (33.33%)
+Slot Theme Default (100%): 2
+Details: Powers up the user’s sync move by 3% when the zone is a Rock Zone.
+
+Attack Move DR 2% (33.33%)
+Slot Theme Default (100%): 3
+Details: Reduces damage by 2% when the user is hit by an attack move.
+
+
+
+
