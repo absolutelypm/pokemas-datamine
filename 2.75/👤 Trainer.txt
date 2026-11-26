@@ -1,0 +1,557 @@
+========================================= 
+1. No. 101 Sygna Suit Lusamine (Alt.) & Nihilego ✨(Genderless) 
+2. No. 116 Professor Sycamore & Charmander (Male♂️) 
+3. No. 187 Penny (Holiday 2026) & Iron Bundle (Genderless) 
+4. No. 241 Miriam & Pincurchin (Male♂️) 
+5. No. 258 Paxton & Emboar (Male♂️) 
+6. No. 71 Sygna Suit Calem & Delphox (Male♂️) 
+========================================= 
+ 
+No. 101 Sygna Suit Lusamine (Alt.) & Nihilego ✨(Genderless)
+
+Dialog 5 Stars: Coexistence with Ultra Beasts... Let’s become a shining example of that for the world!
+Descriptions: Lusamine is wearing a sygna suit. By taking an unusual, differently colored Nihilego under her care, she’s forged a new bond with Pokémon.
+Role: Strike (Special) | EX Role 🌈: Field
+Type: Rock | Weakness: Ground
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Rare ↑2 Soothing ↓2
+Method: 🎈✨🌟 EX Master Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Rock Strike
+2. Alola Strike
+3. Villain Strike
+4. Sygna Suit Strike
+5. Grown Woman Strike
+
+Sync Pair Available: 18/12/2026 06:00:00
+EX Effect Available: 18/12/2026 06:00:00
+EX Role Available: 18/12/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Entrancing Lantern Power Gem
+Type: Rock
+Category: Special
+User: Pokemon
+Description: Activation Condition: When the user’s Sp. Atk is raised. Deactivation Condition: Cannot be deactivated. The more the user’s sync buff is raised, the greater the power of this attack. (The maximum increase is 10 ranks.) Lowers the target’s Sp. Def by two stat ranks. The power of this move is not lowered even if there are multiple targets.
+Power: 150 (1)/180 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 2: Rock Wish
+Category: Status
+User: Pokemon
+Description: Turns the field of play’s zone into a Rock Zone. (A Rock Zone powers up Rock-type attacks.)
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 3: Shimmering Moon Meteor Beam
+Type: Rock
+Category: Special
+User: Pokemon
+Description: Activation Condition: When your team’s sync pair uses a sync move once. Deactivation Condition: When this move is used. The user gets ready to attack. Raises the user’s Sp. Atk by one stat rank when it gets ready to attack. (The user’s Sp. Atk will not rise if it has not gotten ready to attack.) Using this move again will cause the user to leave this posture, then attack. No other actions can be taken while ready to attack. The preparation period is skipped when the user has the Enduring effect applied, and it will attack right away. Never misses. The more the user’s sync buff is raised, the greater the power of this attack. (The maximum increase is 10 ranks.) The power of this move is not lowered even if there are multiple targets. Restores the user’s HP by approximately 20% of its maximum HP. If the remaining MP for the user’s Rock Wish is one or more when attacking with this move, reduces those MP by one and turns the field of play’s zone into a Rock Zone. (A Rock Zone powers up Rock-type attacks.)
+Power: 260 (1)/312 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: All opponents | Effect Tag: Sure Hit | Max uses: --
+
+Move 4: Such a Strange Feeling...
+Category: Status
+User: Trainer
+Description: Applies the Gradual Healing effect to the user. Applies the Damage Guard Next effect to the user. Increases the user’s Sync Move ↑ Next effect by five ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Pouring Limitless Love Meteor Beam
+Type: Rock
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1(🏅): Alola’s Immeasurable Love
+Powers up the moves and sync moves of all allied sync pairs by 20%. Reduces attack move and sync move damage taken by all allied sync pairs by 25%. The more allied sync pairs with the Alola theme you have on your team, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 15% and reduces damage by 3%. The maximum power-up is 50%, and the maximum damage reduction is 31%.) Except in certain circumstances, successful hits with the user’s following attacks become critical hits: Pokémon’s moves or sync move.
+
+Passive 2: Love as Deep as the Sea
+Grants all of the following effects the first time the user enters a battle each battle: Raises the user’s Sp. Atk by six stat ranks. Applies the Enduring effect to the user. Turns the field of play’s zone into a Rock Zone. (A Rock Zone powers up Rock-type attacks.)
+
+Passive 3: Turbulent Toxicity of Love
+Lowers the target’s Rock Type Rebuff by one rank the first time the user’s attack move is successful each battle. Reduces the user’s sync move countdown by three the first time its attack move is successful each battle.
+
+Passive 4: Team S-Move: Special Boost ↑2 9
+Increases the user’s Special Moves ↑ Next effect by two ranks after your team’s sync pair uses their sync move.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 98 | Attack : 10 | Defense : 11 | Sp. Atk : 14 | Sp. Def : 14 | Speed : 12
+
+Lv. 140
+HP : 652 | Attack : 132 | Defense : 146 | Sp. Atk : 404 | Sp. Def : 161 | Speed : 336
+
+Lv. 150
+HP : 682 | Attack : 138 | Defense : 154 | Sp. Atk : 426 | Sp. Def : 169 | Speed : 354
+
+Lv. 200
+HP : 832 | Attack : 168 | Defense : 194 | Sp. Atk : 536 | Sp. Def : 209 | Speed : 444
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 116 Professor Sycamore & Charmander (Male♂️)
+
+Descriptions: This friendly Pokémon Professor from Lumiose City in Kalos is researching the mysteries of Mega Evolution. His hobby is sampling food from cafés while walking around town.
+Role: Field | EX Role 🌈: Support
+Type: Fire | Weakness: Rock
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Soothing ↑2
+Method: 📅🎯 Monthly BP Challenge
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Fire Field
+2. Kalos Field
+3. Knowledgeable Field
+4. Researcher Field
+
+Sync Pair Available: 1/12/2026 06:00:00
+EX Effect Available: 1/12/2026 06:00:00
+EX Role Available: 1/12/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Fire Spin
+Type: Fire
+Category: Special
+User: Pokemon
+Description: Leaves the target trapped.
+Power: 38 (1)/45 (5↑ MAX) | Accuracy: 85 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Super Effective ↑
+Category: Status
+User: Pokemon
+Description: Applies the Supereffective ↑ Next effect to an ally.
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: -- | Max uses: 2
+
+Move 3: Sunny Day
+Type: Fire
+Category: Status
+User: Pokemon
+Description: Makes the weather sunny.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 4: Remember to Have Fun!
+Category: Status
+User: Trainer
+Description: Reduces an ally’s sync move countdown by one. Raises an ally’s Sp. Atk by four stat ranks. Raises an ally’s accuracy by one stat rank. Raises an ally’s critical-hit rate by two stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: An ally | Effect Tag: -- | Max uses: 1
+
+Sync Move: Je Ne Sais Quoi Fire Beam
+Type: Fire
+Category: Special
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1(🏅): Fire Teamwork
+Powers up the moves of all allied sync pairs by 10%. Reduces attack move damage taken by all allied sync pairs by 10%. The more allied sync pairs with the Fire theme you have on your team, the higher these percentages are. (Each additional sync pair powers up moves by 5% and reduces damage by 2%. The maximum power-up is 20%, and the maximum damage reduction is 14%.)
+
+Passive 2: Hit: Sp. Def ↓2 9
+Lowers the target’s Sp. Def by two stat ranks when the user’s attack move against it is successful.
+
+Passive 3: Sunny Hit: Free Move Next 9
+Applies the Free Move Next effect to the user when its attack move is successful while the weather is sunny.
+
+Passive 4: 1st Use Status P-Move: Team Special Boost 1
+Increases the Special Moves ↑ Next effect of all allied sync pairs by one rank the first time the user’s Pokémon uses a status move each battle.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 110 | Attack : 14 | Defense : 13 | Sp. Atk : 16 | Sp. Def : 16 | Speed : 11
+
+Lv. 140
+HP : 663 | Attack : 404 | Defense : 177 | Sp. Atk : 424 | Sp. Def : 180 | Speed : 283
+
+Lv. 150
+HP : 693 | Attack : 426 | Defense : 185 | Sp. Atk : 446 | Sp. Def : 188 | Speed : 297
+
+Lv. 200
+HP : 843 | Attack : 536 | Defense : 225 | Sp. Atk : 556 | Sp. Def : 228 | Speed : 367
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 187 Penny (Holiday 2026) & Iron Bundle (Genderless)
+
+Dialog 5 Stars: Special present delivery! ...Did I do that right?
+Descriptions: Amidst winter party preparations on Pasio, Penny met Iron Bundle and got wrapped up in helping deliver letters.
+Role: Sprint | EX Role 🌈: Tech
+Type: Water | Weakness: Rock
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑2
+Method: ☀️🍁❄️🌸 Seasonal Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Water Sprint
+2. Paldea Sprint
+3. Team Star Sprint
+4. Seasonal Outfit Sprint
+5. Glasses Sprint
+
+Sync Pair Available: 11/12/2026 06:00:00
+EX Effect Available: 11/12/2026 06:00:00
+EX Role Available: 11/12/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Pulsing Hydro Pump
+Type: Water
+Category: Special
+User: Pokemon
+Description: Activation Condition: When the user uses any move once. Deactivation Condition: Cannot be deactivated. Lowers the target’s Sp. Def and Speed by two stat ranks.
+Power: 300 (1)/360 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Booster Energy
+Category: Status
+User: Pokemon
+Description: Increases the user’s Physical Moves ↑ Next effect and Special Moves ↑ Next effect by one rank.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 2
+
+Move 3: Electric Terrain
+Type: Electric
+Category: Status
+User: Pokemon
+Description: Turns the field of play’s terrain into Electric Terrain.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 4: Community... Service!
+Category: Status
+User: Trainer
+Description: Reduces the user’s sync move countdown by one. Raises the user’s Sp. Atk by four stat ranks. Raises the user’s critical-hit rate by three stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Not to Be Underestimated Water Beam
+Type: Water
+Category: Special
+User: Pokemon
+Description: This attack’s power increases when the terrain is Electric Terrain.
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Presents of the Future
+Grants all of the following effects when the user uses Booster Energy or an ally turns the field of play’s terrain into Electric Terrain: Reduces the user’s sync move countdown by one. Increases the Special Moves ↑ Next effect of all allied sync pairs by one rank.
+
+Passive 2: Supply Unit’s Arrival
+Powers up the moves and sync moves of all allied sync pairs when the terrain is Electric Terrain. Extends the duration of Electric Terrain when the terrain turns into Electric Terrain while the user is on the field.
+
+Passive 3: 1st Use S-Move: S-Moves ×4
+The power of the user’s sync move is quadrupled the first time its sync move is used each battle.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 97 | Attack : 13 | Defense : 6 | Sp. Atk : 17 | Sp. Def : 16 | Speed : 15
+
+Lv. 140
+HP : 651 | Attack : 312 | Defense : 170 | Sp. Atk : 424 | Sp. Def : 164 | Speed : 459
+
+Lv. 150
+HP : 681 | Attack : 328 | Defense : 178 | Sp. Atk : 446 | Sp. Def : 172 | Speed : 483
+
+Lv. 200
+HP : 831 | Attack : 408 | Defense : 218 | Sp. Atk : 556 | Sp. Def : 212 | Speed : 603
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 241 Miriam & Pincurchin (Male♂️)
+
+Descriptions: This new teacher used to be a school nurse at an academy in Paldea. She very recently passed the health teacher certification exam. Rumor has it she once worked at a Pokémon Center.
+Role: Support
+Type: Electric | Weakness: Ground
+Rarity: ⭐⭐⭐⭐
+Expedition 🤝: Wistful ↑2
+Method: 🏨 Exchange - Friendship Level-Up 100 in Lodge
+Item Exchange: 🗿 Lodge Stone (After Level 100)
+EX Color 👕🌈: No❌
+👥 Team Skill
+1. Electric Support
+2. Paldea Support
+3. Sweet Tooth Support
+4. Grown Woman Support
+
+Sync Pair Available: 1/12/2026 06:00:00
+EX Effect Available: 1/12/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Spark
+Type: Electric
+Category: Physical
+User: Pokemon
+Description: Has a chance (30%) of leaving the target paralyzed.
+Power: 42 (1)/50 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 2: Mini Potion All
+Category: Status
+User: Pokemon
+Description: Restores the HP of all allied sync pairs by approximately 20% of their maximum HP.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: Heals | Max uses: 2
+
+Move 3: Protect
+Type: Normal
+Category: Status
+User: Pokemon
+Description: Applies the Damage Guard Next effect to the user.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Self | Effect Tag: -- | Max uses: 1
+
+Move 4: I’ll Get Some Medicine!
+Category: Status
+User: Trainer
+Description: Turns the field of play’s terrain into Electric Terrain. Raises the Defense and Sp. Def of all allied sync pairs by four stat ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: All allies | Effect Tag: -- | Max uses: 1
+
+Sync Move: Nurse’s Treatment Electric Impact
+Type: Electric
+Category: Physical
+User: Pokemon
+Description: No additional effect.
+Power: 250 (1)/300 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1: Hostile Environment 1
+Raises the chance of inflicting status conditions with the additional effects of moves.
+
+Passive 2: Team Shout 9
+Raises the Attack or Sp. Atk—or both—of all allied sync pairs by one stat rank when the user is hit by an attack move.
+
+Passive 3: Electric Guard
+Reduces damage when the user is attacked by Electric-type moves.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 102 | Attack : 9 | Defense : 10 | Sp. Atk : 6 | Sp. Def : 10 | Speed : 5
+
+Lv. 140
+HP : 655 | Attack : 156 | Defense : 225 | Sp. Atk : 132 | Sp. Def : 225 | Speed : 235
+
+Lv. 150
+HP : 685 | Attack : 164 | Defense : 237 | Sp. Atk : 138 | Sp. Def : 237 | Speed : 247
+
+Lv. 200
+HP : 835 | Attack : 204 | Defense : 297 | Sp. Atk : 168 | Sp. Def : 297 | Speed : 307
+
+
+
+----
+-------------------------------END-------------------------------
+ 
+No. 258 Paxton & Emboar (Male♂️)
+
+Dialog 5 Stars: I think I’ll stick around and have some fun while I see the sights of Pasio!
+Descriptions: This Trainer traveled to Lumiose City on vacation. He has absolute confidence in his battling skills, having used them to help numerous people and Pokémon.
+Role: Sprint | EX Role 🌈: Support
+Type: Fire | Weakness: Flying
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑2
+Method: 🎈🌟 EX Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Fire Sprint
+2. Kalos Sprint
+3. Main Character Sprint
+4. Knowledgeable Sprint
+
+Sync Pair Available: 28/11/2026 06:00:00
+EX Effect Available: 28/11/2026 06:00:00
+EX Role Available: 28/11/2026 06:00:00
+Superawakened Available: 28/11/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Searing Spear Flare Blitz
+Type: Fire
+Category: Physical
+User: Pokemon
+Description: Activation Condition: When the user uses any move once. Deactivation Condition: Cannot be deactivated. Never misses. Removes the frozen condition from the user. Lowers the target’s Attack and Sp. Atk by one stat rank. Leaves the target burned. The power of this move is not lowered even if there are multiple targets.
+Power: 200 (1)/240 (5↑ MAX) | Accuracy: -- | Gauge: 2 | Target: All opponents | Effect Tag: Sure Hit, OK While Frozen | Max uses: --
+
+Move 2: Kalos Passion
+Category: Status
+User: Pokemon
+Description: Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank. Applies Kalos Circle (Physical) to the allied field of play. Kalos Circle (Physical) grants all of the following effects: Powers up the physical attack moves and physical sync moves of all allied sync pairs by 10%. Reduces physical attack move and physical sync move damage taken by all allied sync pairs by 5%. The more sync pairs with the Kalos theme that are on the allied field of play, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 10% and reduces damage by 3%. The maximum power-up is 40%, and the maximum damage reduction is 14%.)
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Allied side | Effect Tag: -- | Max uses: 2
+
+Move 3: Sunny Day
+Type: Fire
+Category: Status
+User: Pokemon
+Description: Makes the weather sunny.
+Power: -- | Accuracy: -- | Gauge: 2 | Target: Entire field | Effect Tag: -- | Max uses: 2
+
+Move 4: I’ll Come Save You!
+Category: Status
+User: Trainer
+Description: Applies the Take Next "All" Move effect to the user. Applies the Endure and Restore effect to the user.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Self | Effect Tag: -- | Max uses: 1
+
+Sync Move: Team MZ’s Secret Weapon Flare Blitz
+Type: Fire
+Category: Physical
+User: Pokemon
+Description: Become Mega Emboar until the end of battle. This attack’s power increases when the weather is sunny.
+Power: 160 (1)/192 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+(🌅🌟) Superawakened Passive: Z-A Royale Conqueror
+Reduces the user’s sync move countdown by one the first time its Trainer uses a move each battle. Reduces the user’s sync move countdown by one the first time its Pokémon uses a move each battle. Reduces the user’s sync move countdown by one the first time its sync move is used each battle.
+
+Passive 1(🏅): Kalos Rush
+Reduces the user’s sync move countdown by one the first time it enters a battle each battle. When used in a co-op battle, reduces the user’s sync move countdown by one the first time your team enters a battle each battle instead. The more allied sync pairs with the Kalos theme you have on your team, the greater the reduction is. (Each additional sync pair increases the reduction by one, and the maximum reduction is three.) The effects do not stack if you have more than one sync pair on your team with passive skills of the same name.
+
+Passive 2: Ally-Rescuing Spear of Flames
+Reduces the user’s sync move countdown by one when it enters a battle. Raises the user’s Attack by four stat ranks when it enters a battle. Except in certain circumstances, successful hits with the user’s following attacks become critical hits: Pokémon’s moves or sync move.
+
+Passive 3: Cool Blaze of Kindness
+Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank when the user’s Trainer uses a move. Increases the Physical Moves ↑ Next effect of all allied sync pairs by one rank when the user’s Pokémon uses a status move.
+
+Passive 4: 1st S-Move: Team Physical Break
+Applies the Physical Move Break effect to all opposing sync pairs the first time the user’s sync move is used each battle.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 111 | Attack : 17 | Defense : 10 | Sp. Atk : 13 | Sp. Def : 12 | Speed : 8
+
+Lv. 140
+HP : 689 | Attack : 336 | Defense : 174 | Sp. Atk : 336 | Sp. Def : 176 | Speed : 331
+
+Lv. 150
+HP : 721 | Attack : 354 | Defense : 182 | Sp. Atk : 354 | Sp. Def : 184 | Speed : 349
+
+Lv. 200
+HP : 881 | Attack : 444 | Defense : 222 | Sp. Atk : 444 | Sp. Def : 224 | Speed : 439
+
+
+📌 Mega Details 📌
+📊🔄 Mega Stats 📊🔄
+
+Lv. 1
+HP : 111 | Attack : 20 | Defense : 10 | Sp. Atk : 13 | Sp. Def : 12 | Speed : 9
+
+Lv. 140
+HP : 689 | Attack : 403 | Defense : 174 | Sp. Atk : 336 | Sp. Def : 176 | Speed : 397
+
+Lv. 150
+HP : 721 | Attack : 424 | Defense : 182 | Sp. Atk : 354 | Sp. Def : 184 | Speed : 418
+
+Lv. 200
+HP : 881 | Attack : 532 | Defense : 222 | Sp. Atk : 444 | Sp. Def : 224 | Speed : 526
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
+No. 71 Sygna Suit Calem & Delphox (Male♂️)
+
+Dialog 5 Stars: This fire in my heart won’t go out that easily.
+Descriptions: Calem is wearing a sygna suit. Alongside Delphox, who can now Mega Evolve, he’s ready turn up the heat and unleash fiery battles.
+Role: Strike (Special) | EX Role 🌈: Tech
+Type: Psychic | Weakness: Water
+Rarity: ⭐⭐⭐⭐⭐
+Expedition 🤝: Fiery ↑3 Wistful ↓1
+Method: 🎈✨🌟 EX Master Fair Scout
+EX Color 👕🌈: Yes✅
+👥 Team Skill
+1. Psychic Strike
+2. Kalos Strike
+3. Main Character Strike
+4. Sygna Suit Strike
+5. Cape Strike
+
+Sync Pair Available: 30/11/2026 06:00:00
+EX Effect Available: 30/11/2026 06:00:00
+EX Role Available: 30/11/2026 06:00:00
+
+⚔️ Moves Details ⚔️
+Move 1: Phantasmal Fox Psybeam
+Type: Psychic
+Category: Special
+User: Pokemon
+Description: Activation Condition: When the user’s Sp. Atk is raised. Deactivation Condition: Cannot be deactivated. Lowers the target’s Sp. Def by two stat ranks. Leaves the target confused.
+Power: 320 (1)/384 (5↑ MAX) | Accuracy: 100 | Gauge: 3 | Target: All opponents | Effect Tag: -- | Max uses: --
+
+Move 2: Will-O-Wisp
+Type: Fire
+Category: Status
+User: Pokemon
+Description: Leaves the target burned.
+Power: -- | Accuracy: 90 | Gauge: 2 | Target: An opponent | Effect Tag: -- | Max uses: --
+
+Move 3: Bewitching Flames Psychic
+Type: Psychic
+Category: Special
+User: Pokemon
+Description: Activation Condition: When the user uses any move once. Deactivation Condition: Cannot be deactivated. This attack’s power increases when the target is burned. This attack’s power increases when the target is confused. Lowers the target’s Sp. Def by one stat rank. The power of this move is not lowered even if there are multiple targets.
+Power: 350 (1)/420 (5↑ MAX) | Accuracy: 100 | Gauge: 2 | Target: All opponents | Effect Tag: -- | Max uses: 1
+
+Move 4: I Want to Win!
+Category: Status
+User: Trainer
+Description: Turns the field of play’s terrain into Psychic Terrain. Applies the Enduring effect to the user. If the user’s Delphox has Mega Evolved, also increases the user’s Sync Move ↑ Next effect by four ranks.
+Power: -- | Accuracy: -- | Gauge: -- | Target: Entire field | Effect Tag: -- | Max uses: 1
+
+Sync Move: Mastering the Power of Bonds Psychic
+Type: Psychic
+Category: Special
+User: Pokemon
+Description: Become Mega Delphox until the end of battle.
+Power: 160 (1)/192 (5↑ MAX) | Accuracy: -- | Gauge: -- | Target: An opponent | Effect Tag: -- | Max uses: --
+
+🛡️ Passive Details 🌟
+Passive 1(🏅): Kalos’s Parallel Passion
+Powers up the moves and sync moves of all allied sync pairs by 20%. Reduces attack move and sync move damage taken by all allied sync pairs by 25%. The more allied sync pairs with the Kalos theme you have on your team, the higher these percentages are. (Each additional sync pair powers up moves and sync moves by 15% and reduces damage by 3%. The maximum power-up is 50%, and the maximum damage reduction is 31%.) Except in certain circumstances, successful hits with the user’s following attacks become critical hits: Pokémon’s moves or sync move.
+
+Passive 2: Calmly Burning Competitive Spirit
+Grants all of the following effects when the user enters a battle: Reduces the user’s sync move countdown by three. Raises the user’s Sp. Atk by six stat ranks. Applies the Special Move Break effect to all opposing sync pairs.
+
+Passive 3: Mastery of Bewitching Fire
+When the user’s status move is used and inflicted a status condition on an opponent, inflicts the same status condition on all opposing sync pairs. Increases the user’s Special Moves ↑ Next effect by one rank when an ally’s attack move is successful against a burned opponent.
+
+Passive 4: Team S-Move: Restore B-Move MP 9
+Restores one MP of the user’s buddy move after your team’s sync pair uses their sync move.
+
+
+📊 Base Stats 📊
+Lv. 1
+HP : 108 | Attack : 16 | Defense : 15 | Sp. Atk : 13 | Sp. Def : 15 | Speed : 14
+
+Lv. 140
+HP : 661 | Attack : 210 | Defense : 150 | Sp. Atk : 336 | Sp. Def : 150 | Speed : 286
+
+Lv. 150
+HP : 691 | Attack : 220 | Defense : 158 | Sp. Atk : 354 | Sp. Def : 158 | Speed : 300
+
+Lv. 200
+HP : 841 | Attack : 270 | Defense : 198 | Sp. Atk : 444 | Sp. Def : 198 | Speed : 370
+
+
+📌 Mega Details 📌
+📊🔄 Mega Stats 📊🔄
+
+Lv. 1
+HP : 108 | Attack : 16 | Defense : 15 | Sp. Atk : 15 | Sp. Def : 15 | Speed : 16
+
+Lv. 140
+HP : 661 | Attack : 210 | Defense : 150 | Sp. Atk : 403 | Sp. Def : 150 | Speed : 343
+
+Lv. 150
+HP : 691 | Attack : 220 | Defense : 158 | Sp. Atk : 424 | Sp. Def : 158 | Speed : 359
+
+Lv. 200
+HP : 841 | Attack : 270 | Defense : 198 | Sp. Atk : 532 | Sp. Def : 198 | Speed : 443
+
+-
+
+----
+-------------------------------END-------------------------------
+ 
