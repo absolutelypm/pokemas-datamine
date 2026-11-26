@@ -1,0 +1,24 @@
+Special Team
+Time Drop: 60
+Resource Limit: 30000
+Fiery Level: 1
+Soothing Level: 0
+Wistful Level: 0
+Rare Boost Level: 1
+List Trainer Boost
+Jasmine (Holiday 2022) & Ampharos (Female♀️) | Rare Boost Level: 1
+Whitney (Holiday 2022) & Sawsbuck (Female♀️) | Rare Boost Level: 1
+Leon (Holiday 2021) & Calyrex (Genderless) | Rare Boost Level: 1
+Nessa (Holiday 2021) & Eiscue (Male♂️) | Rare Boost Level: 1
+Erika (Holiday 2020) & Comfey (Female♀️) | Rare Boost Level: 1
+Skyla (Holiday 2020) & Togekiss (Male♂️) | Rare Boost Level: 1
+Rosa (Holiday 2019) & Delibird (Female♀️) | Rare Boost Level: 1
+Siebold (Holiday 2019) & Octillery (Male♂️) | Rare Boost Level: 1
+Viola (Holiday 2023) & Vivillon (Female♀️) | Rare Boost Level: 1
+Sycamore (Holiday 2023) & Gogoat (Male♂️) | Rare Boost Level: 1
+Lillie (Holiday 2024) & Primarina (Female♀️) | Rare Boost Level: 1
+Bugsy (Holiday 2024) & Kricketune (Male♂️) | Rare Boost Level: 1
+Arven (Holiday 2025) & Scovillain (Female♀️) | Rare Boost Level: 1
+Penny (Holiday 2026) & Iron Bundle (Genderless) | Rare Boost Level: 1
+Start: 11/12/2026 06:00:00
+End: 31/12/2026 06:00:00
