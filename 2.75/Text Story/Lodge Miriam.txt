@@ -1,0 +1,46 @@
+===== A Special Day with Miriam: Part 1 =====
+Narration: Player and [EN:Gen Ref="255" M="his" F="her" ] partner trained until they were worn out.
+Narration: Player visited Miriam to ask if she could heal [EN:Gen Ref="255" M="his" F="her" ] Pokémon...
+Miriam: Do you need something?
+Miriam: Your Pokémon are tired? Let me take a look!
+Miriam: Wait a minute! You’re hurt!
+Miriam: It’s no big deal? That’s not up to you!
+Miriam: Gosh! Be more careful, won’t you?!
+Miriam: Come with me so I can treat you!
+Narration: Miriam skillfully gave Player first aid...
+Miriam: OK! All done!
+Miriam: It’s fine to get absorbed in training, but what good is it if you—the Trainer—end up all beat up?
+Player: (Say you’re sorry.)
+Miriam: Hm... If you’re genuinely sorry, I guess it’s all right.
+Miriam: If you get hurt, it worries your Pokémon too, you know.
+Player: (Laugh and say you got a little too carried away.)
+Miriam: Don’t try to laugh it off!
+Miriam: What will you do if you get severely injured?!
+Miriam: I’m glad it was nothing serious this time.
+Miriam: I’d tell you to be more careful from now on...but there’s probably no use.
+Miriam: You’re always bouncing around, like a ball of energy.
+Miriam: I wanna check up on you just in case, so come see me again, OK?
+Miriam: Promise me!
+
+===== A Special Day with Miriam: Part 2 =====
+Narration: A few days later...
+Miriam: Oh! You actually came. Impressive!
+Miriam: You remembered our promise, huh?
+Miriam: OK! Come over here so I can see how you’re healing!
+Miriam: Great! Looks like you’re recovering well.
+Miriam: Hm? What is it? Why are you staring at me like that?
+Miriam: Is there something on my face?!
+Player: (Say, “Thanks, Mimi!”)
+Miriam: Huh? Where’d that come from?
+Miriam: Call me Nurse Miriam!
+Miriam: Sheesh. I almost let that slide!
+Player: (Tell her it’s nothing.)
+Miriam: Hmm, really?
+Miriam: You’re hiding something from me, aren’t you. Go on—tell me what it is!
+Miriam: Well, I’ll always be here if you need me.
+Miriam: If something’s troubling you, come talk to me anytime, OK?
+Miriam: Just like how you and everyone on Pasio are working tirelessly toward your dreams...
+Miriam: I’m gonna do my best as school nurse!
+Miriam: I’ll work harder than ever!
+Miriam: Of course, you’re welcome to come hang out with me even when nothing’s wrong.
+Miriam: I look forward to seeing you, Player—looking healthy and full of energy!

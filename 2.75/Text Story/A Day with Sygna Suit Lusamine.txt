@@ -1,0 +1,33 @@
+===== A Day with Sygna Suit Lusamine =====
+Narration: As Player was walking through town, [EN:Gen Ref="255" M="he" F="she" ] ran into Lusamine and her family having a lively conversation.
+Sygna Suit Lusamine (Alt.): Ah, Player. Hello.
+Player: Out on the town?
+Sygna Suit Lusamine (Alt.): Yes, we were all just heading to a café.
+Player: Looks like you’re having a good time!
+Sygna Suit Lusamine (Alt.): Heh heh, you really think so?
+Sygna Suit Lusamine (Alt.): The three of us were about to go to a café.
+Lillie: Hey, Player, did you notice my mother’s outfit? Isn’t it lovely?
+Lillie: It’s like she and Nihilego found a way to be more in sync than usual. I’m mesmerized!
+Sygna Suit Lusamine (Alt.): Heh heh, thank you, Lillie.
+Sygna Suit Lusamine (Alt.): I’ve decided to stand by this little one.
+Sygna Suit Lusamine (Alt.): I wonder if my outfit reflects how I feel.
+Gladion: Yeah...
+Gladion: I can tell you’ve changed from your old self-righteous way of protecting others.
+Gladion: Now you have the strength to face anyone, Mother.
+Sygna Suit Lusamine (Alt.): In the past, I didn’t understand how to properly care for Pokémon or my children.
+Sygna Suit Lusamine (Alt.): But I learned a lot from watching my children grow.
+Sygna Suit Lusamine (Alt.): They showed me the importance of understanding others and watching their growth, too.
+Sygna Suit Lusamine (Alt.): Even if this Pokémon is a dangerous life-form imbued with poison...
+Sygna Suit Lusamine (Alt.): I won’t shy away from it. The first step to coexistence is doing everything we can to understand each other.
+Sygna Suit Lusamine (Alt.): This is the new kind of love I’ve found.
+Player: That’s a beautiful idea!
+Sygna Suit Lusamine (Alt.): I’m happy to hear you say that.
+Player: I’ll be cheering you on!
+Sygna Suit Lusamine (Alt.): Why, thank you! That’s heartening.
+Sygna Suit Lusamine (Alt.): You know, your focused expression reminds me of my children.
+Sygna Suit Lusamine (Alt.): Talking with you makes me feel warm, like my family has grown a little larger today.
+Sygna Suit Lusamine (Alt.): But we can’t stand around talking all day. Would you care to join us for tea?
+Sygna Suit Lusamine (Alt.): I would love to hear what you felt from Nihilego, too.
+Lillie: That’s a great idea! You should come with us, Player!
+Gladion: I agree. I wanna hear what you have to say.
+Sygna Suit Lusamine (Alt.): Heh heh heh, then it’s decided! Let’s go!
