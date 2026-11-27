@@ -36,414 +36,390 @@
   📋 Circuit 1:
     🆔 Brock | 🏷️ Rock | Challenge Brock (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
        [Left/Right] Weakness: Fighting | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
     🆔 Misty | 🏷️ Water | Challenge Misty (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
        [Left/Right] Weakness: Electric | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
     🆔 Lt. Surge | 🏷️ Electric | Challenge Lt. Surge (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
        [Left/Right] Weakness: Ground | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
     🆔 Erika | 🏷️ Grass | Challenge Erika (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
        [Left/Right] Weakness: Fire | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
     🆔 Koga | 🏷️ Poison | Challenge Koga (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
        [Left/Right] Weakness: Psychic | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
        [Left/Right] Weakness: Ghost | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
        [Left/Right] Weakness: Rock | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
     🆔 Blue | 🏷️ Flying | Challenge Blue (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 500,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
        [Left/Right] Weakness: Bug | HP: 250,250 | Attack: 768 | Defense: 83 | Sp.Attack: 768 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
 
   📋 Circuit 2:
     🆔 Brock | 🏷️ Rock | Challenge Brock (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
        [Left/Right] Weakness: Fighting | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
     🆔 Misty | 🏷️ Water | Challenge Misty (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
        [Left/Right] Weakness: Electric | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
     🆔 Lt. Surge | 🏷️ Electric | Challenge Lt. Surge (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
        [Left/Right] Weakness: Ground | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
     🆔 Erika | 🏷️ Grass | Challenge Erika (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
        [Left/Right] Weakness: Fire | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
     🆔 Koga | 🏷️ Poison | Challenge Koga (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
        [Left/Right] Weakness: Psychic | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
        [Left/Right] Weakness: Ghost | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
        [Left/Right] Weakness: Rock | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
     🆔 Blue | 🏷️ Flying | Challenge Blue (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 3,465,000 | Attack: 1,152 | Defense: 83 | Sp.Attack: 1,152 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
        [Left/Right] Weakness: Bug | HP: 1,732,500 | Attack: 960 | Defense: 83 | Sp.Attack: 960 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
 
   📋 Circuit 3:
     🆔 Brock | 🏷️ Rock | Challenge Brock (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
              Passive 3: Chase Down 5
        [Left/Right] Weakness: Fighting | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Chase Down 5
     🆔 Misty | 🏷️ Water | Challenge Misty (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
              Passive 3: Sp. Def ↑: Moves ↑ 3
        [Left/Right] Weakness: Electric | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Sp. Def ↑: Moves ↑ 3
     🆔 Lt. Surge | 🏷️ Electric | Challenge Lt. Surge (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
              Passive 3: Paralyzed Opp Fail ↑ 5
        [Left/Right] Weakness: Ground | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: Paralyzed Opp Fail ↑ 5
     🆔 Erika | 🏷️ Grass | Challenge Erika (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
        [Left/Right] Weakness: Fire | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
     🆔 Koga | 🏷️ Poison | Challenge Koga (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
              Passive 3: Potent Toxin 3
        [Left/Right] Weakness: Psychic | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
              Passive 3: Debut: Continuous Special DR on Field
        [Left/Right] Weakness: Ghost | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
              Passive 3: Sunscreen 5
        [Left/Right] Weakness: Rock | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Sunscreen 5
     🆔 Blue | 🏷️ Flying | Challenge Blue (Ultra Hard)
        Theme: No rules
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 5,544,000 | Attack: 1,536 | Defense: 83 | Sp.Attack: 1,536 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
              Passive 3: Aggravation 1
        [Left/Right] Weakness: Bug | HP: 2,772,000 | Attack: 1,248 | Defense: 83 | Sp.Attack: 1,248 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Aggravation 1
@@ -452,84 +428,80 @@
     🆔 Brock | 🏷️ Rock | Challenge Brock (Ultra Hard)
        Theme: Zero special damage
           Rule: Opponents take zero damage from special attacks.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
              Passive 3: Chase Down 5
        [Left/Right] Weakness: Fighting | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Chase Down 5
     🆔 Misty | 🏷️ Water | Challenge Misty (Ultra Hard)
        Theme: Zero damage when unaffected
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
              Passive 3: Sp. Def ↑: Moves ↑ 3
        [Left/Right] Weakness: Electric | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Sp. Def ↑: Moves ↑ 3
     🆔 Lt. Surge | 🏷️ Electric | Challenge Lt. Surge (Ultra Hard)
        Theme: Ally move gauge max -2
           Rule: Reduces allies’ move gauge maximum by two.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
              Passive 3: Paralyzed Opp Fail ↑ 5
        [Left/Right] Weakness: Ground | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: Paralyzed Opp Fail ↑ 5
     🆔 Erika | 🏷️ Grass | Challenge Erika (Ultra Hard)
        Theme: Zero special damage
           Rule: Opponents take zero damage from special attacks.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
        [Left/Right] Weakness: Fire | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
@@ -537,74 +509,70 @@
     🆔 Koga | 🏷️ Poison | Challenge Koga (Ultra Hard)
        Theme: Zero damage when unaffected
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
              Passive 3: Potent Toxin 3
        [Left/Right] Weakness: Psychic | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
        Theme: Ally move gauge max -2
           Rule: Reduces allies’ move gauge maximum by two.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
              Passive 3: Debut: Continuous Special DR on Field
        [Left/Right] Weakness: Ghost | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
        Theme: Zero special damage
           Rule: Opponents take zero damage from special attacks.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
              Passive 3: Sunscreen 5
        [Left/Right] Weakness: Rock | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Sunscreen 5
     🆔 Blue | 🏷️ Flying | Challenge Blue (Ultra Hard)
        Theme: Zero damage when unaffected
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 7,983,360 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
              Passive 3: Aggravation 1
        [Left/Right] Weakness: Bug | HP: 3,991,680 | Attack: 1,920 | Defense: 83 | Sp.Attack: 1,920 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Aggravation 1
@@ -613,84 +581,80 @@
     🆔 Brock | 🏷️ Rock | Challenge Brock (Ultra Hard)
        Theme: Zero damage when unaffected
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
              Passive 3: Chase Down 5
        [Left/Right] Weakness: Fighting | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Chase Down 5
     🆔 Misty | 🏷️ Water | Challenge Misty (Ultra Hard)
        Theme: Ally move gauge max -2
           Rule: Reduces allies’ move gauge maximum by two.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
              Passive 3: Sp. Def ↑: Moves ↑ 3
        [Left/Right] Weakness: Electric | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Sp. Def ↑: Moves ↑ 3
     🆔 Lt. Surge | 🏷️ Electric | Challenge Lt. Surge (Ultra Hard)
        Theme: Zero special damage
           Rule: Opponents take zero damage from special attacks.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
              Passive 3: Paralyzed Opp Fail ↑ 5
        [Left/Right] Weakness: Ground | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: Paralyzed Opp Fail ↑ 5
     🆔 Erika | 🏷️ Grass | Challenge Erika (Ultra Hard)
        Theme: Zero damage when unaffected
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
        [Left/Right] Weakness: Fire | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
@@ -698,74 +662,70 @@
     🆔 Koga | 🏷️ Poison | Challenge Koga (Ultra Hard)
        Theme: Ally move gauge max -2
           Rule: Reduces allies’ move gauge maximum by two.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
              Passive 3: Potent Toxin 3
        [Left/Right] Weakness: Psychic | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
        Theme: Zero special damage
           Rule: Opponents take zero damage from special attacks.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
              Passive 3: Debut: Continuous Special DR on Field
        [Left/Right] Weakness: Ghost | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
        Theme: Zero damage when unaffected
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
              Passive 3: Sunscreen 5
        [Left/Right] Weakness: Rock | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Sunscreen 5
     🆔 Blue | 🏷️ Flying | Challenge Blue (Ultra Hard)
        Theme: Ally move gauge max -2
           Rule: Reduces allies’ move gauge maximum by two.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 10,866,240 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
              Passive 3: Aggravation 1
        [Left/Right] Weakness: Bug | HP: 5,433,120 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Aggravation 1
@@ -774,84 +734,80 @@
     🆔 Brock | 🏷️ Rock | Challenge Brock (Ultra Hard)
        Theme: Ally move gauge max -2
           Rule: Reduces allies’ move gauge maximum by two.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
              Passive 3: Chase Down 5
        [Left/Right] Weakness: Fighting | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Chase Down 5
     🆔 Misty | 🏷️ Water | Challenge Misty (Ultra Hard)
        Theme: Zero special damage
           Rule: Opponents take zero damage from special attacks.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
              Passive 3: Sp. Def ↑: Moves ↑ 3
        [Left/Right] Weakness: Electric | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Sp. Def ↑: Moves ↑ 3
     🆔 Lt. Surge | 🏷️ Electric | Challenge Lt. Surge (Ultra Hard)
        Theme: Zero damage when unaffected
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
              Passive 3: Paralyzed Opp Fail ↑ 5
        [Left/Right] Weakness: Ground | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: Paralyzed Opp Fail ↑ 5
     🆔 Erika | 🏷️ Grass | Challenge Erika (Ultra Hard)
        Theme: Ally move gauge max -2
           Rule: Reduces allies’ move gauge maximum by two.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
        [Left/Right] Weakness: Fire | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
@@ -859,74 +815,70 @@
     🆔 Koga | 🏷️ Poison | Challenge Koga (Ultra Hard)
        Theme: Zero special damage
           Rule: Opponents take zero damage from special attacks.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
              Passive 3: Potent Toxin 3
        [Left/Right] Weakness: Psychic | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
        Theme: Zero damage when unaffected
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
              Passive 3: Debut: Continuous Special DR on Field
        [Left/Right] Weakness: Ghost | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
        Theme: Ally move gauge max -2
           Rule: Reduces allies’ move gauge maximum by two.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
              Passive 3: Sunscreen 5
        [Left/Right] Weakness: Rock | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Sunscreen 5
     🆔 Blue | 🏷️ Flying | Challenge Blue (Ultra Hard)
        Theme: Zero special damage
           Rule: Opponents take zero damage from special attacks.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 14,192,640 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
              Passive 3: Aggravation 1
        [Left/Right] Weakness: Bug | HP: 7,096,320 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Aggravation 1
@@ -937,22 +889,21 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 22,453,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
              Passive 3: Chase Down 5
        [Left/Right] Weakness: Fighting | HP: 11,226,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Chase Down 5
@@ -961,22 +912,21 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 22,453,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
              Passive 3: Sp. Def ↑: Moves ↑ 3
        [Left/Right] Weakness: Electric | HP: 11,226,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Sp. Def ↑: Moves ↑ 3
@@ -985,20 +935,19 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 22,453,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
              Passive 3: Paralyzed Opp Fail ↑ 5
        [Left/Right] Weakness: Ground | HP: 11,226,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: Paralyzed Opp Fail ↑ 5
@@ -1007,20 +956,19 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 22,453,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
        [Left/Right] Weakness: Fire | HP: 11,226,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
@@ -1030,20 +978,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 22,453,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
              Passive 3: Potent Toxin 3
        [Left/Right] Weakness: Psychic | HP: 11,226,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
@@ -1051,16 +998,15 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 22,453,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
              Passive 3: Debut: Continuous Special DR on Field
        [Left/Right] Weakness: Ghost | HP: 11,226,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
@@ -1068,20 +1014,19 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 22,453,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
              Passive 3: Sunscreen 5
        [Left/Right] Weakness: Rock | HP: 11,226,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Sunscreen 5
@@ -1090,20 +1035,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 22,453,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
              Passive 3: Aggravation 1
        [Left/Right] Weakness: Bug | HP: 11,226,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Aggravation 1
@@ -1114,22 +1058,21 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 27,720,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
              Passive 3: Chase Down 5
        [Left/Right] Weakness: Fighting | HP: 13,860,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Chase Down 5
@@ -1138,22 +1081,21 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 27,720,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
              Passive 3: Sp. Def ↑: Moves ↑ 3
        [Left/Right] Weakness: Electric | HP: 13,860,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Sp. Def ↑: Moves ↑ 3
@@ -1162,20 +1104,19 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 27,720,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
              Passive 3: Paralyzed Opp Fail ↑ 5
        [Left/Right] Weakness: Ground | HP: 13,860,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: Paralyzed Opp Fail ↑ 5
@@ -1184,20 +1125,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 27,720,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
        [Left/Right] Weakness: Fire | HP: 13,860,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
@@ -1207,20 +1147,19 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 27,720,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
              Passive 3: Potent Toxin 3
        [Left/Right] Weakness: Psychic | HP: 13,860,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
@@ -1228,16 +1167,15 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 27,720,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
              Passive 3: Debut: Continuous Special DR on Field
        [Left/Right] Weakness: Ghost | HP: 13,860,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
@@ -1245,20 +1183,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 27,720,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
              Passive 3: Sunscreen 5
        [Left/Right] Weakness: Rock | HP: 13,860,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Sunscreen 5
@@ -1267,20 +1204,19 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 27,720,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
              Passive 3: Aggravation 1
        [Left/Right] Weakness: Bug | HP: 13,860,000 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Aggravation 1
@@ -1291,22 +1227,21 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 33,541,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
              Passive 3: Chase Down 5
        [Left/Right] Weakness: Fighting | HP: 16,770,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Chase Down 5
@@ -1315,22 +1250,21 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 33,541,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
              Passive 3: Sp. Def ↑: Moves ↑ 3
        [Left/Right] Weakness: Electric | HP: 16,770,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Sp. Def ↑: Moves ↑ 3
@@ -1339,20 +1273,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 33,541,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
              Passive 3: Paralyzed Opp Fail ↑ 5
        [Left/Right] Weakness: Ground | HP: 16,770,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: Paralyzed Opp Fail ↑ 5
@@ -1361,20 +1294,19 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 33,541,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
        [Left/Right] Weakness: Fire | HP: 16,770,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
@@ -1384,20 +1316,19 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 33,541,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
              Passive 3: Potent Toxin 3
        [Left/Right] Weakness: Psychic | HP: 16,770,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
@@ -1405,16 +1336,15 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 33,541,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
              Passive 3: Debut: Continuous Special DR on Field
        [Left/Right] Weakness: Ghost | HP: 16,770,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
@@ -1422,20 +1352,19 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 33,541,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
              Passive 3: Sunscreen 5
        [Left/Right] Weakness: Rock | HP: 16,770,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Sunscreen 5
@@ -1444,20 +1373,19 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 33,541,200 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
              Passive 3: Aggravation 1
        [Left/Right] Weakness: Bug | HP: 16,770,600 | Attack: 2,304 | Defense: 83 | Sp.Attack: 2,304 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Aggravation 1
@@ -1468,22 +1396,21 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 39,916,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
              Passive 3: Chase Down 5
        [Left/Right] Weakness: Fighting | HP: 19,958,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Chase Down 5
@@ -1492,22 +1419,21 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 39,916,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
              Passive 3: Sp. Def ↑: Moves ↑ 3
        [Left/Right] Weakness: Electric | HP: 19,958,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Sp. Def ↑: Moves ↑ 3
@@ -1516,20 +1442,19 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 39,916,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
              Passive 3: Paralyzed Opp Fail ↑ 5
        [Left/Right] Weakness: Ground | HP: 19,958,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: Paralyzed Opp Fail ↑ 5
@@ -1538,20 +1463,19 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 39,916,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
        [Left/Right] Weakness: Fire | HP: 19,958,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
@@ -1561,20 +1485,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 39,916,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
              Passive 3: Potent Toxin 3
        [Left/Right] Weakness: Psychic | HP: 19,958,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
@@ -1582,16 +1505,15 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 39,916,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
              Passive 3: Debut: Continuous Special DR on Field
        [Left/Right] Weakness: Ghost | HP: 19,958,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
@@ -1599,20 +1521,19 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 39,916,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
              Passive 3: Sunscreen 5
        [Left/Right] Weakness: Rock | HP: 19,958,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Sunscreen 5
@@ -1621,20 +1542,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 39,916,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
              Passive 3: Aggravation 1
        [Left/Right] Weakness: Bug | HP: 19,958,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Aggravation 1
@@ -1645,22 +1565,21 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 46,846,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
              Passive 3: Chase Down 5
        [Left/Right] Weakness: Fighting | HP: 23,423,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Chase Down 5
@@ -1669,22 +1588,21 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 46,846,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
              Passive 3: Sp. Def ↑: Moves ↑ 3
        [Left/Right] Weakness: Electric | HP: 23,423,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Sp. Def ↑: Moves ↑ 3
@@ -1693,20 +1611,19 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 46,846,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
              Passive 3: Paralyzed Opp Fail ↑ 5
        [Left/Right] Weakness: Ground | HP: 23,423,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: Paralyzed Opp Fail ↑ 5
@@ -1715,20 +1632,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 46,846,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
        [Left/Right] Weakness: Fire | HP: 23,423,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
@@ -1738,20 +1654,19 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 46,846,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
              Passive 3: Potent Toxin 3
        [Left/Right] Weakness: Psychic | HP: 23,423,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
@@ -1759,16 +1674,15 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 46,846,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
              Passive 3: Debut: Continuous Special DR on Field
        [Left/Right] Weakness: Ghost | HP: 23,423,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
@@ -1776,20 +1690,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 46,846,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
              Passive 3: Sunscreen 5
        [Left/Right] Weakness: Rock | HP: 23,423,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Sunscreen 5
@@ -1798,20 +1711,19 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 46,846,800 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
              Passive 3: Aggravation 1
        [Left/Right] Weakness: Bug | HP: 23,423,400 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Aggravation 1
@@ -1822,22 +1734,21 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 54,331,200 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
              Passive 3: Chase Down 5
        [Left/Right] Weakness: Fighting | HP: 27,165,600 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Chase Down 5
@@ -1846,22 +1757,21 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 54,331,200 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
              Passive 3: Sp. Def ↑: Moves ↑ 3
        [Left/Right] Weakness: Electric | HP: 27,165,600 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Sp. Def ↑: Moves ↑ 3
@@ -1870,20 +1780,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 54,331,200 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
              Passive 3: Paralyzed Opp Fail ↑ 5
        [Left/Right] Weakness: Ground | HP: 27,165,600 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: Paralyzed Opp Fail ↑ 5
@@ -1892,20 +1801,19 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 54,331,200 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
        [Left/Right] Weakness: Fire | HP: 27,165,600 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
@@ -1915,20 +1823,19 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 54,331,200 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
              Passive 3: Potent Toxin 3
        [Left/Right] Weakness: Psychic | HP: 27,165,600 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
@@ -1936,16 +1843,15 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 54,331,200 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
              Passive 3: Debut: Continuous Special DR on Field
        [Left/Right] Weakness: Ghost | HP: 27,165,600 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
@@ -1953,20 +1859,19 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 54,331,200 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
              Passive 3: Sunscreen 5
        [Left/Right] Weakness: Rock | HP: 27,165,600 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Sunscreen 5
@@ -1975,20 +1880,19 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 54,331,200 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
              Passive 3: Aggravation 1
        [Left/Right] Weakness: Bug | HP: 27,165,600 | Attack: 2,880 | Defense: 83 | Sp.Attack: 2,880 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Aggravation 1
@@ -1999,22 +1903,21 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 62,370,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
              Passive 3: Chase Down 5
        [Left/Right] Weakness: Fighting | HP: 31,185,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Chase Down 5
@@ -2023,22 +1926,21 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 62,370,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
              Passive 3: Sp. Def ↑: Moves ↑ 3
        [Left/Right] Weakness: Electric | HP: 31,185,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Sp. Def ↑: Moves ↑ 3
@@ -2047,20 +1949,19 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 62,370,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
              Passive 3: Paralyzed Opp Fail ↑ 5
        [Left/Right] Weakness: Ground | HP: 31,185,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: Paralyzed Opp Fail ↑ 5
@@ -2069,20 +1970,19 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 62,370,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
        [Left/Right] Weakness: Fire | HP: 31,185,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
@@ -2092,20 +1992,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 62,370,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
              Passive 3: Potent Toxin 3
        [Left/Right] Weakness: Psychic | HP: 31,185,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
@@ -2113,16 +2012,15 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 62,370,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
              Passive 3: Debut: Continuous Special DR on Field
        [Left/Right] Weakness: Ghost | HP: 31,185,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
@@ -2130,20 +2028,19 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 62,370,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
              Passive 3: Sunscreen 5
        [Left/Right] Weakness: Rock | HP: 31,185,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Sunscreen 5
@@ -2152,20 +2049,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 62,370,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
              Passive 3: Aggravation 1
        [Left/Right] Weakness: Bug | HP: 31,185,000 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Aggravation 1
@@ -2176,22 +2072,21 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 70,963,200 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
              Passive 3: Chase Down 5
        [Left/Right] Weakness: Fighting | HP: 35,481,600 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Chase Down 5
@@ -2200,22 +2095,21 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 70,963,200 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
              Passive 3: Sp. Def ↑: Moves ↑ 3
        [Left/Right] Weakness: Electric | HP: 35,481,600 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Sp. Def ↑: Moves ↑ 3
@@ -2224,20 +2118,19 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 70,963,200 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
              Passive 3: Paralyzed Opp Fail ↑ 5
        [Left/Right] Weakness: Ground | HP: 35,481,600 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: Paralyzed Opp Fail ↑ 5
@@ -2246,20 +2139,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 70,963,200 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
        [Left/Right] Weakness: Fire | HP: 35,481,600 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
@@ -2269,20 +2161,19 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 70,963,200 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
              Passive 3: Potent Toxin 3
        [Left/Right] Weakness: Psychic | HP: 35,481,600 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
@@ -2290,16 +2181,15 @@
           Rule: Opponents take zero damage from special attacks.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 70,963,200 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
              Passive 3: Debut: Continuous Special DR on Field
        [Left/Right] Weakness: Ghost | HP: 35,481,600 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
@@ -2307,20 +2197,19 @@
           Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 70,963,200 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
              Passive 3: Sunscreen 5
        [Left/Right] Weakness: Rock | HP: 35,481,600 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Sunscreen 5
@@ -2329,20 +2218,19 @@
           Rule: Reduces allies’ move gauge maximum by two.
           Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
           Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 70,963,200 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
              Passive 3: Aggravation 1
        [Left/Right] Weakness: Bug | HP: 35,481,600 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Aggravation 1
@@ -2362,22 +2250,21 @@
             Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
             Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
             Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fighting | HP: 80,110,800 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Impeding Strike 9
              Passive 3: Chase Down 5
        [Left/Right] Weakness: Fighting | HP: 40,055,400 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Physical Moves, Speed Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Sand Shelter (Remove)
-              ● Trained Body (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Sandstorm Resistance (Remove)
+             ● Trained Body (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Unbending
              Passive 2: Chase Down 5
@@ -2394,22 +2281,21 @@
             Rule: Reduces allies’ move gauge maximum by two.
             Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
             Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Electric | HP: 80,110,800 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Team Wise Entry 2
              Passive 3: Sp. Def ↑: Moves ↑ 3
        [Left/Right] Weakness: Electric | HP: 40,055,400 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Special Moves, Sp. Def Up, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Flinch (Remove)
-              ● Trained Mind 5
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Flinch (Remove)
+             ● Trained Mind 3
           🔹 Prioritize Passive Skill
              Passive 1: Unflappable
              Passive 2: Sp. Def ↑: Moves ↑ 3
@@ -2426,20 +2312,19 @@
             Rule: Opponents take zero damage from special attacks.
             Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
             Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ground | HP: 80,110,800 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: S-Move on Opp: Paralyze
              Passive 3: Paralyzed Opp Fail ↑ 5
        [Left/Right] Weakness: Ground | HP: 40,055,400 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Paralysis
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Paralysis (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Paralysis (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Lithe
              Passive 2: Paralyzed Opp Fail ↑ 5
@@ -2456,20 +2341,19 @@
             Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
             Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
             Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Fire | HP: 80,110,800 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
              Passive 3: Mind Games 9
        [Left/Right] Weakness: Fire | HP: 40,055,400 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Defense Down, Sp. Def Down
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Trap (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Trap (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Escape Artist
              Passive 2: Defense Crush 9
@@ -2487,20 +2371,19 @@
             Rule: Reduces allies’ move gauge maximum by two.
             Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
             Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Psychic | HP: 80,110,800 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
              Passive 2: Venomous Sync All 9
              Passive 3: Potent Toxin 3
        [Left/Right] Weakness: Psychic | HP: 40,055,400 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Poison
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Poison (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Poison (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Antitoxin
     🆔 Sabrina | 🏷️ Psychic | Challenge Sabrina (Ultra Hard)
@@ -2516,16 +2399,15 @@
             Rule: Opponents take zero damage from special attacks.
             Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
             Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Ghost | HP: 80,110,800 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
              Passive 2: Debut: Continuous Physical DR on Field
              Passive 3: Debut: Continuous Special DR on Field
        [Left/Right] Weakness: Ghost | HP: 40,055,400 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Confusion, Physical Damage Reduction, Special Damage Reduction, Critical-Hit Rate Up
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
           🔹 Prioritize Passive Skill
              Passive 1: Gobsmack 2
     🆔 Blaine | 🏷️ Fire | Challenge Blaine (Ultra Hard)
@@ -2541,20 +2423,19 @@
             Rule: Opponents take zero damage from attacks when they are unaffected by a status condition or interference.
             Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
             Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Rock | HP: 80,110,800 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Debut: Continuous Sun
              Passive 3: Sunscreen 5
        [Left/Right] Weakness: Rock | HP: 40,055,400 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Sunny
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Burn (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Burn (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Flameproof
              Passive 2: Sunscreen 5
@@ -2571,20 +2452,19 @@
             Rule: Reduces allies’ move gauge maximum by two.
             Rule: Opponents only take damage from Normal-type attacks or supereffective attacks.
             Rule: Increases the damage allies deal with supereffective attacks by 50%.
+       ♦️ Passive Damage Reduction (Enemy): All Enemies - Level 4 (GvG)
        📊 [Center] Weakness: Bug | HP: 80,110,800 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 67
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Entry: Team Attack ↑ & Sp. Atk ↑ 1
              Passive 3: Aggravation 1
        [Left/Right] Weakness: Bug | HP: 40,055,400 | Attack: 3,456 | Defense: 83 | Sp.Attack: 3,456 | Sp.Def: 83 | Speed: 204
           🔸 Focus: Flinching, Physical Moves, Special Moves
-          ♦️ Passive Damage Reduction (Enemy): All Enemy - Level 4 (co-op)
-            ♦️ Upgrade/Downgrade Passive Damage Reduction
-              ● Lessen Confusion (Remove)
+          ♦️ Upgrade/Downgrade Passive Damage Reduction
+             ● Lessen Confusion (Remove)
           🔹 Prioritize Passive Skill
              Passive 1: Clearheaded
              Passive 2: Aggravation 1
@@ -2702,3 +2582,4 @@ Top 2001+
   🎫🤝 Fair-Guaranteed Scout Ticket x1
 25. 300.000 pts (Repeatable)
   🍹 Certificate of Excellence x1
+
